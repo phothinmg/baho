@@ -1,0 +1,25 @@
+{
+  "name": "tzcal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "node ./opt/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "array-json": "^0.2.1",
+    "cheerio": "1.0.0-rc.12",
+    "express": "^4.18.3",
+    "got": "^14.2.1",
+    "sort-keys": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.26",
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.2"
+  }
+}

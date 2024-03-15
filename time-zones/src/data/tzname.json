@@ -1,0 +1,4192 @@
+[
+  {
+    "code": "CI",
+    "tzname": "Africa/Abidjan",
+    "offset": {
+      "hour": 0,
+      "minute": 0,
+      "second": 0,
+      "millisecond": 0
+    }
+  },
+  {
+    "code": "GH",
+    "tzname": "Africa/Accra",
+    "offset": {
+      "hour": 0,
+      "minute": 0,
+      "second": 0,
+      "millisecond": 0
+    }
+  },
+  {
+    "code": "ET",
+    "tzname": "Africa/Addis_Ababa",
+    "offset": {
+      "hour": 3,
+      "minute": 180,
+      "second": 10800,
+      "millisecond": 10800000
+    }
+  },
+  {
+    "code": "DZ",
+    "tzname": "Africa/Algiers",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "ER",
+    "tzname": "Africa/Asmara",
+    "offset": {
+      "hour": 3,
+      "minute": 180,
+      "second": 10800,
+      "millisecond": 10800000
+    }
+  },
+  {
+    "code": "ML",
+    "tzname": "Africa/Bamako",
+    "offset": {
+      "hour": 0,
+      "minute": 0,
+      "second": 0,
+      "millisecond": 0
+    }
+  },
+  {
+    "code": "CF",
+    "tzname": "Africa/Bangui",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "GM",
+    "tzname": "Africa/Banjul",
+    "offset": {
+      "hour": 0,
+      "minute": 0,
+      "second": 0,
+      "millisecond": 0
+    }
+  },
+  {
+    "code": "GW",
+    "tzname": "Africa/Bissau",
+    "offset": {
+      "hour": 0,
+      "minute": 0,
+      "second": 0,
+      "millisecond": 0
+    }
+  },
+  {
+    "code": "MW",
+    "tzname": "Africa/Blantyre",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "CG",
+    "tzname": "Africa/Brazzaville",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "BI",
+    "tzname": "Africa/Bujumbura",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "EG",
+    "tzname": "Africa/Cairo",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "MA",
+    "tzname": "Africa/Casablanca",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "ES",
+    "tzname": "Africa/Ceuta",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "GN",
+    "tzname": "Africa/Conakry",
+    "offset": {
+      "hour": 0,
+      "minute": 0,
+      "second": 0,
+      "millisecond": 0
+    }
+  },
+  {
+    "code": "SN",
+    "tzname": "Africa/Dakar",
+    "offset": {
+      "hour": 0,
+      "minute": 0,
+      "second": 0,
+      "millisecond": 0
+    }
+  },
+  {
+    "code": "TZ",
+    "tzname": "Africa/Dar_es_Salaam",
+    "offset": {
+      "hour": 3,
+      "minute": 180,
+      "second": 10800,
+      "millisecond": 10800000
+    }
+  },
+  {
+    "code": "DJ",
+    "tzname": "Africa/Djibouti",
+    "offset": {
+      "hour": 3,
+      "minute": 180,
+      "second": 10800,
+      "millisecond": 10800000
+    }
+  },
+  {
+    "code": "CM",
+    "tzname": "Africa/Douala",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "EH",
+    "tzname": "Africa/El_Aaiun",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "SL",
+    "tzname": "Africa/Freetown",
+    "offset": {
+      "hour": 0,
+      "minute": 0,
+      "second": 0,
+      "millisecond": 0
+    }
+  },
+  {
+    "code": "BW",
+    "tzname": "Africa/Gaborone",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "ZW",
+    "tzname": "Africa/Harare",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "ZA",
+    "tzname": "Africa/Johannesburg",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "SS",
+    "tzname": "Africa/Juba",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "UG",
+    "tzname": "Africa/Kampala",
+    "offset": {
+      "hour": 3,
+      "minute": 180,
+      "second": 10800,
+      "millisecond": 10800000
+    }
+  },
+  {
+    "code": "SD",
+    "tzname": "Africa/Khartoum",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "RW",
+    "tzname": "Africa/Kigali",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "CD",
+    "tzname": "Africa/Kinshasa",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "NG",
+    "tzname": "Africa/Lagos",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "GA",
+    "tzname": "Africa/Libreville",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "TG",
+    "tzname": "Africa/Lome",
+    "offset": {
+      "hour": 0,
+      "minute": 0,
+      "second": 0,
+      "millisecond": 0
+    }
+  },
+  {
+    "code": "AO",
+    "tzname": "Africa/Luanda",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "CD",
+    "tzname": "Africa/Lubumbashi",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "ZM",
+    "tzname": "Africa/Lusaka",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "GQ",
+    "tzname": "Africa/Malabo",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "MZ",
+    "tzname": "Africa/Maputo",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "LS",
+    "tzname": "Africa/Maseru",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "SZ",
+    "tzname": "Africa/Mbabane",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "SO",
+    "tzname": "Africa/Mogadishu",
+    "offset": {
+      "hour": 3,
+      "minute": 180,
+      "second": 10800,
+      "millisecond": 10800000
+    }
+  },
+  {
+    "code": "LR",
+    "tzname": "Africa/Monrovia",
+    "offset": {
+      "hour": 0,
+      "minute": 0,
+      "second": 0,
+      "millisecond": 0
+    }
+  },
+  {
+    "code": "KE",
+    "tzname": "Africa/Nairobi",
+    "offset": {
+      "hour": 3,
+      "minute": 180,
+      "second": 10800,
+      "millisecond": 10800000
+    }
+  },
+  {
+    "code": "TD",
+    "tzname": "Africa/Ndjamena",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "NE",
+    "tzname": "Africa/Niamey",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "MR",
+    "tzname": "Africa/Nouakchott",
+    "offset": {
+      "hour": 0,
+      "minute": 0,
+      "second": 0,
+      "millisecond": 0
+    }
+  },
+  {
+    "code": "BF",
+    "tzname": "Africa/Ouagadougou",
+    "offset": {
+      "hour": 0,
+      "minute": 0,
+      "second": 0,
+      "millisecond": 0
+    }
+  },
+  {
+    "code": "BJ",
+    "tzname": "Africa/Porto-Novo",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "ST",
+    "tzname": "Africa/Sao_Tome",
+    "offset": {
+      "hour": 0,
+      "minute": 0,
+      "second": 0,
+      "millisecond": 0
+    }
+  },
+  {
+    "code": "LY",
+    "tzname": "Africa/Tripoli",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "TN",
+    "tzname": "Africa/Tunis",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "NA",
+    "tzname": "Africa/Windhoek",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "US",
+    "tzname": "America/Adak",
+    "offset": {
+      "hour": -10,
+      "minute": -600,
+      "second": -36000,
+      "millisecond": -36000000
+    }
+  },
+  {
+    "code": "US",
+    "tzname": "America/Anchorage",
+    "offset": {
+      "hour": -9,
+      "minute": -540,
+      "second": -32400,
+      "millisecond": -32400000
+    }
+  },
+  {
+    "code": "AI",
+    "tzname": "America/Anguilla",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "AG",
+    "tzname": "America/Antigua",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "BR",
+    "tzname": "America/Araguaina",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "AR",
+    "tzname": "America/Argentina/Buenos_Aires",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "AR",
+    "tzname": "America/Argentina/Catamarca",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "AR",
+    "tzname": "America/Argentina/Cordoba",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "AR",
+    "tzname": "America/Argentina/Jujuy",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "AR",
+    "tzname": "America/Argentina/La_Rioja",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "AR",
+    "tzname": "America/Argentina/Mendoza",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "AR",
+    "tzname": "America/Argentina/Rio_Gallegos",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "AR",
+    "tzname": "America/Argentina/Salta",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "AR",
+    "tzname": "America/Argentina/San_Juan",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "AR",
+    "tzname": "America/Argentina/San_Luis",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "AR",
+    "tzname": "America/Argentina/Tucuman",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "AR",
+    "tzname": "America/Argentina/Ushuaia",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "AW",
+    "tzname": "America/Aruba",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "PY",
+    "tzname": "America/Asuncion",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "CA",
+    "tzname": "America/Atikokan",
+    "offset": {
+      "hour": -5,
+      "minute": -300,
+      "second": -18000,
+      "millisecond": -18000000
+    }
+  },
+  {
+    "code": "BR",
+    "tzname": "America/Bahia",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "MX",
+    "tzname": "America/Bahia_Banderas",
+    "offset": {
+      "hour": -6,
+      "minute": -360,
+      "second": -21600,
+      "millisecond": -21600000
+    }
+  },
+  {
+    "code": "BB",
+    "tzname": "America/Barbados",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "BR",
+    "tzname": "America/Belem",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "BZ",
+    "tzname": "America/Belize",
+    "offset": {
+      "hour": -6,
+      "minute": -360,
+      "second": -21600,
+      "millisecond": -21600000
+    }
+  },
+  {
+    "code": "CA",
+    "tzname": "America/Blanc-Sablon",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "BR",
+    "tzname": "America/Boa_Vista",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "CO",
+    "tzname": "America/Bogota",
+    "offset": {
+      "hour": -5,
+      "minute": -300,
+      "second": -18000,
+      "millisecond": -18000000
+    }
+  },
+  {
+    "code": "US",
+    "tzname": "America/Boise",
+    "offset": {
+      "hour": -7,
+      "minute": -420,
+      "second": -25200,
+      "millisecond": -25200000
+    }
+  },
+  {
+    "code": "CA",
+    "tzname": "America/Cambridge_Bay",
+    "offset": {
+      "hour": -7,
+      "minute": -420,
+      "second": -25200,
+      "millisecond": -25200000
+    }
+  },
+  {
+    "code": "BR",
+    "tzname": "America/Campo_Grande",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "MX",
+    "tzname": "America/Cancun",
+    "offset": {
+      "hour": -5,
+      "minute": -300,
+      "second": -18000,
+      "millisecond": -18000000
+    }
+  },
+  {
+    "code": "VE",
+    "tzname": "America/Caracas",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "GF",
+    "tzname": "America/Cayenne",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "KY",
+    "tzname": "America/Cayman",
+    "offset": {
+      "hour": -5,
+      "minute": -300,
+      "second": -18000,
+      "millisecond": -18000000
+    }
+  },
+  {
+    "code": "US",
+    "tzname": "America/Chicago",
+    "offset": {
+      "hour": -6,
+      "minute": -360,
+      "second": -21600,
+      "millisecond": -21600000
+    }
+  },
+  {
+    "code": "MX",
+    "tzname": "America/Chihuahua",
+    "offset": {
+      "hour": -6,
+      "minute": -360,
+      "second": -21600,
+      "millisecond": -21600000
+    }
+  },
+  {
+    "code": "MX",
+    "tzname": "America/Ciudad_Juarez",
+    "offset": {
+      "hour": -7,
+      "minute": -420,
+      "second": -25200,
+      "millisecond": -25200000
+    }
+  },
+  {
+    "code": "CR",
+    "tzname": "America/Costa_Rica",
+    "offset": {
+      "hour": -6,
+      "minute": -360,
+      "second": -21600,
+      "millisecond": -21600000
+    }
+  },
+  {
+    "code": "CA",
+    "tzname": "America/Creston",
+    "offset": {
+      "hour": -7,
+      "minute": -420,
+      "second": -25200,
+      "millisecond": -25200000
+    }
+  },
+  {
+    "code": "BR",
+    "tzname": "America/Cuiaba",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "CW",
+    "tzname": "America/Curacao",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "GL",
+    "tzname": "America/Danmarkshavn",
+    "offset": {
+      "hour": 0,
+      "minute": 0,
+      "second": 0,
+      "millisecond": 0
+    }
+  },
+  {
+    "code": "CA",
+    "tzname": "America/Dawson",
+    "offset": {
+      "hour": -7,
+      "minute": -420,
+      "second": -25200,
+      "millisecond": -25200000
+    }
+  },
+  {
+    "code": "CA",
+    "tzname": "America/Dawson_Creek",
+    "offset": {
+      "hour": -7,
+      "minute": -420,
+      "second": -25200,
+      "millisecond": -25200000
+    }
+  },
+  {
+    "code": "US",
+    "tzname": "America/Denver",
+    "offset": {
+      "hour": -7,
+      "minute": -420,
+      "second": -25200,
+      "millisecond": -25200000
+    }
+  },
+  {
+    "code": "US",
+    "tzname": "America/Detroit",
+    "offset": {
+      "hour": -5,
+      "minute": -300,
+      "second": -18000,
+      "millisecond": -18000000
+    }
+  },
+  {
+    "code": "DM",
+    "tzname": "America/Dominica",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "CA",
+    "tzname": "America/Edmonton",
+    "offset": {
+      "hour": -7,
+      "minute": -420,
+      "second": -25200,
+      "millisecond": -25200000
+    }
+  },
+  {
+    "code": "BR",
+    "tzname": "America/Eirunepe",
+    "offset": {
+      "hour": -5,
+      "minute": -300,
+      "second": -18000,
+      "millisecond": -18000000
+    }
+  },
+  {
+    "code": "SV",
+    "tzname": "America/El_Salvador",
+    "offset": {
+      "hour": -6,
+      "minute": -360,
+      "second": -21600,
+      "millisecond": -21600000
+    }
+  },
+  {
+    "code": "CA",
+    "tzname": "America/Fort_Nelson",
+    "offset": {
+      "hour": -7,
+      "minute": -420,
+      "second": -25200,
+      "millisecond": -25200000
+    }
+  },
+  {
+    "code": "BR",
+    "tzname": "America/Fortaleza",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "CA",
+    "tzname": "America/Glace_Bay",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "CA",
+    "tzname": "America/Goose_Bay",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "TC",
+    "tzname": "America/Grand_Turk",
+    "offset": {
+      "hour": -5,
+      "minute": -300,
+      "second": -18000,
+      "millisecond": -18000000
+    }
+  },
+  {
+    "code": "GD",
+    "tzname": "America/Grenada",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "GP",
+    "tzname": "America/Guadeloupe",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "GT",
+    "tzname": "America/Guatemala",
+    "offset": {
+      "hour": -6,
+      "minute": -360,
+      "second": -21600,
+      "millisecond": -21600000
+    }
+  },
+  {
+    "code": "EC",
+    "tzname": "America/Guayaquil",
+    "offset": {
+      "hour": -5,
+      "minute": -300,
+      "second": -18000,
+      "millisecond": -18000000
+    }
+  },
+  {
+    "code": "GY",
+    "tzname": "America/Guyana",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "CA",
+    "tzname": "America/Halifax",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "CU",
+    "tzname": "America/Havana",
+    "offset": {
+      "hour": -5,
+      "minute": -300,
+      "second": -18000,
+      "millisecond": -18000000
+    }
+  },
+  {
+    "code": "MX",
+    "tzname": "America/Hermosillo",
+    "offset": {
+      "hour": -7,
+      "minute": -420,
+      "second": -25200,
+      "millisecond": -25200000
+    }
+  },
+  {
+    "code": "US",
+    "tzname": "America/Indiana/Indianapolis",
+    "offset": {
+      "hour": -5,
+      "minute": -300,
+      "second": -18000,
+      "millisecond": -18000000
+    }
+  },
+  {
+    "code": "US",
+    "tzname": "America/Indiana/Knox",
+    "offset": {
+      "hour": -6,
+      "minute": -360,
+      "second": -21600,
+      "millisecond": -21600000
+    }
+  },
+  {
+    "code": "US",
+    "tzname": "America/Indiana/Marengo",
+    "offset": {
+      "hour": -5,
+      "minute": -300,
+      "second": -18000,
+      "millisecond": -18000000
+    }
+  },
+  {
+    "code": "US",
+    "tzname": "America/Indiana/Petersburg",
+    "offset": {
+      "hour": -5,
+      "minute": -300,
+      "second": -18000,
+      "millisecond": -18000000
+    }
+  },
+  {
+    "code": "US",
+    "tzname": "America/Indiana/Tell_City",
+    "offset": {
+      "hour": -6,
+      "minute": -360,
+      "second": -21600,
+      "millisecond": -21600000
+    }
+  },
+  {
+    "code": "US",
+    "tzname": "America/Indiana/Vevay",
+    "offset": {
+      "hour": -5,
+      "minute": -300,
+      "second": -18000,
+      "millisecond": -18000000
+    }
+  },
+  {
+    "code": "US",
+    "tzname": "America/Indiana/Vincennes",
+    "offset": {
+      "hour": -5,
+      "minute": -300,
+      "second": -18000,
+      "millisecond": -18000000
+    }
+  },
+  {
+    "code": "US",
+    "tzname": "America/Indiana/Winamac",
+    "offset": {
+      "hour": -5,
+      "minute": -300,
+      "second": -18000,
+      "millisecond": -18000000
+    }
+  },
+  {
+    "code": "CA",
+    "tzname": "America/Inuvik",
+    "offset": {
+      "hour": -7,
+      "minute": -420,
+      "second": -25200,
+      "millisecond": -25200000
+    }
+  },
+  {
+    "code": "CA",
+    "tzname": "America/Iqaluit",
+    "offset": {
+      "hour": -5,
+      "minute": -300,
+      "second": -18000,
+      "millisecond": -18000000
+    }
+  },
+  {
+    "code": "JM",
+    "tzname": "America/Jamaica",
+    "offset": {
+      "hour": -5,
+      "minute": -300,
+      "second": -18000,
+      "millisecond": -18000000
+    }
+  },
+  {
+    "code": "US",
+    "tzname": "America/Juneau",
+    "offset": {
+      "hour": -9,
+      "minute": -540,
+      "second": -32400,
+      "millisecond": -32400000
+    }
+  },
+  {
+    "code": "US",
+    "tzname": "America/Kentucky/Louisville",
+    "offset": {
+      "hour": -5,
+      "minute": -300,
+      "second": -18000,
+      "millisecond": -18000000
+    }
+  },
+  {
+    "code": "US",
+    "tzname": "America/Kentucky/Monticello",
+    "offset": {
+      "hour": -5,
+      "minute": -300,
+      "second": -18000,
+      "millisecond": -18000000
+    }
+  },
+  {
+    "code": "BQ",
+    "tzname": "America/Kralendijk",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "BO",
+    "tzname": "America/La_Paz",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "PE",
+    "tzname": "America/Lima",
+    "offset": {
+      "hour": -5,
+      "minute": -300,
+      "second": -18000,
+      "millisecond": -18000000
+    }
+  },
+  {
+    "code": "US",
+    "tzname": "America/Los_Angeles",
+    "offset": {
+      "hour": -8,
+      "minute": -480,
+      "second": -28800,
+      "millisecond": -28800000
+    }
+  },
+  {
+    "code": "SX",
+    "tzname": "America/Lower_Princes",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "BR",
+    "tzname": "America/Maceio",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "NI",
+    "tzname": "America/Managua",
+    "offset": {
+      "hour": -6,
+      "minute": -360,
+      "second": -21600,
+      "millisecond": -21600000
+    }
+  },
+  {
+    "code": "BR",
+    "tzname": "America/Manaus",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "MF",
+    "tzname": "America/Marigot",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "MQ",
+    "tzname": "America/Martinique",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "MX",
+    "tzname": "America/Matamoros",
+    "offset": {
+      "hour": -6,
+      "minute": -360,
+      "second": -21600,
+      "millisecond": -21600000
+    }
+  },
+  {
+    "code": "MX",
+    "tzname": "America/Mazatlan",
+    "offset": {
+      "hour": -7,
+      "minute": -420,
+      "second": -25200,
+      "millisecond": -25200000
+    }
+  },
+  {
+    "code": "US",
+    "tzname": "America/Menominee",
+    "offset": {
+      "hour": -6,
+      "minute": -360,
+      "second": -21600,
+      "millisecond": -21600000
+    }
+  },
+  {
+    "code": "MX",
+    "tzname": "America/Merida",
+    "offset": {
+      "hour": -6,
+      "minute": -360,
+      "second": -21600,
+      "millisecond": -21600000
+    }
+  },
+  {
+    "code": "US",
+    "tzname": "America/Metlakatla",
+    "offset": {
+      "hour": -9,
+      "minute": -540,
+      "second": -32400,
+      "millisecond": -32400000
+    }
+  },
+  {
+    "code": "MX",
+    "tzname": "America/Mexico_City",
+    "offset": {
+      "hour": -6,
+      "minute": -360,
+      "second": -21600,
+      "millisecond": -21600000
+    }
+  },
+  {
+    "code": "PM",
+    "tzname": "America/Miquelon",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "CA",
+    "tzname": "America/Moncton",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "MX",
+    "tzname": "America/Monterrey",
+    "offset": {
+      "hour": -6,
+      "minute": -360,
+      "second": -21600,
+      "millisecond": -21600000
+    }
+  },
+  {
+    "code": "UY",
+    "tzname": "America/Montevideo",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "MS",
+    "tzname": "America/Montserrat",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "BS",
+    "tzname": "America/Nassau",
+    "offset": {
+      "hour": -5,
+      "minute": -300,
+      "second": -18000,
+      "millisecond": -18000000
+    }
+  },
+  {
+    "code": "US",
+    "tzname": "America/New_York",
+    "offset": {
+      "hour": -5,
+      "minute": -300,
+      "second": -18000,
+      "millisecond": -18000000
+    }
+  },
+  {
+    "code": "US",
+    "tzname": "America/Nome",
+    "offset": {
+      "hour": -9,
+      "minute": -540,
+      "second": -32400,
+      "millisecond": -32400000
+    }
+  },
+  {
+    "code": "BR",
+    "tzname": "America/Noronha",
+    "offset": {
+      "hour": -2,
+      "minute": -120,
+      "second": -7200,
+      "millisecond": -7200000
+    }
+  },
+  {
+    "code": "US",
+    "tzname": "America/North_Dakota/Beulah",
+    "offset": {
+      "hour": -6,
+      "minute": -360,
+      "second": -21600,
+      "millisecond": -21600000
+    }
+  },
+  {
+    "code": "US",
+    "tzname": "America/North_Dakota/Center",
+    "offset": {
+      "hour": -6,
+      "minute": -360,
+      "second": -21600,
+      "millisecond": -21600000
+    }
+  },
+  {
+    "code": "US",
+    "tzname": "America/North_Dakota/New_Salem",
+    "offset": {
+      "hour": -6,
+      "minute": -360,
+      "second": -21600,
+      "millisecond": -21600000
+    }
+  },
+  {
+    "code": "GL",
+    "tzname": "America/Nuuk",
+    "offset": {
+      "hour": -2,
+      "minute": -120,
+      "second": -7200,
+      "millisecond": -7200000
+    }
+  },
+  {
+    "code": "MX",
+    "tzname": "America/Ojinaga",
+    "offset": {
+      "hour": -6,
+      "minute": -360,
+      "second": -21600,
+      "millisecond": -21600000
+    }
+  },
+  {
+    "code": "PA",
+    "tzname": "America/Panama",
+    "offset": {
+      "hour": -5,
+      "minute": -300,
+      "second": -18000,
+      "millisecond": -18000000
+    }
+  },
+  {
+    "code": "SR",
+    "tzname": "America/Paramaribo",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "US",
+    "tzname": "America/Phoenix",
+    "offset": {
+      "hour": -7,
+      "minute": -420,
+      "second": -25200,
+      "millisecond": -25200000
+    }
+  },
+  {
+    "code": "HT",
+    "tzname": "America/Port-au-Prince",
+    "offset": {
+      "hour": -5,
+      "minute": -300,
+      "second": -18000,
+      "millisecond": -18000000
+    }
+  },
+  {
+    "code": "TT",
+    "tzname": "America/Port_of_Spain",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "BR",
+    "tzname": "America/Porto_Velho",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "PR",
+    "tzname": "America/Puerto_Rico",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "CL",
+    "tzname": "America/Punta_Arenas",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "CA",
+    "tzname": "America/Rankin_Inlet",
+    "offset": {
+      "hour": -6,
+      "minute": -360,
+      "second": -21600,
+      "millisecond": -21600000
+    }
+  },
+  {
+    "code": "BR",
+    "tzname": "America/Recife",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "CA",
+    "tzname": "America/Regina",
+    "offset": {
+      "hour": -6,
+      "minute": -360,
+      "second": -21600,
+      "millisecond": -21600000
+    }
+  },
+  {
+    "code": "CA",
+    "tzname": "America/Resolute",
+    "offset": {
+      "hour": -6,
+      "minute": -360,
+      "second": -21600,
+      "millisecond": -21600000
+    }
+  },
+  {
+    "code": "BR",
+    "tzname": "America/Rio_Branco",
+    "offset": {
+      "hour": -5,
+      "minute": -300,
+      "second": -18000,
+      "millisecond": -18000000
+    }
+  },
+  {
+    "code": "BR",
+    "tzname": "America/Santarem",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "CL",
+    "tzname": "America/Santiago",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "DO",
+    "tzname": "America/Santo_Domingo",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "BR",
+    "tzname": "America/Sao_Paulo",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "GL",
+    "tzname": "America/Scoresbysund",
+    "offset": {
+      "hour": -1,
+      "minute": -60,
+      "second": -3600,
+      "millisecond": -3600000
+    }
+  },
+  {
+    "code": "US",
+    "tzname": "America/Sitka",
+    "offset": {
+      "hour": -9,
+      "minute": -540,
+      "second": -32400,
+      "millisecond": -32400000
+    }
+  },
+  {
+    "code": "BL",
+    "tzname": "America/St_Barthelemy",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "CA",
+    "tzname": "America/St_Johns",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "KN",
+    "tzname": "America/St_Kitts",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "LC",
+    "tzname": "America/St_Lucia",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "VI",
+    "tzname": "America/St_Thomas",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "VC",
+    "tzname": "America/St_Vincent",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "CA",
+    "tzname": "America/Swift_Current",
+    "offset": {
+      "hour": -6,
+      "minute": -360,
+      "second": -21600,
+      "millisecond": -21600000
+    }
+  },
+  {
+    "code": "HN",
+    "tzname": "America/Tegucigalpa",
+    "offset": {
+      "hour": -6,
+      "minute": -360,
+      "second": -21600,
+      "millisecond": -21600000
+    }
+  },
+  {
+    "code": "GL",
+    "tzname": "America/Thule",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "MX",
+    "tzname": "America/Tijuana",
+    "offset": {
+      "hour": -8,
+      "minute": -480,
+      "second": -28800,
+      "millisecond": -28800000
+    }
+  },
+  {
+    "code": "CA",
+    "tzname": "America/Toronto",
+    "offset": {
+      "hour": -5,
+      "minute": -300,
+      "second": -18000,
+      "millisecond": -18000000
+    }
+  },
+  {
+    "code": "VG",
+    "tzname": "America/Tortola",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "CA",
+    "tzname": "America/Vancouver",
+    "offset": {
+      "hour": -8,
+      "minute": -480,
+      "second": -28800,
+      "millisecond": -28800000
+    }
+  },
+  {
+    "code": "CA",
+    "tzname": "America/Whitehorse",
+    "offset": {
+      "hour": -7,
+      "minute": -420,
+      "second": -25200,
+      "millisecond": -25200000
+    }
+  },
+  {
+    "code": "CA",
+    "tzname": "America/Winnipeg",
+    "offset": {
+      "hour": -6,
+      "minute": -360,
+      "second": -21600,
+      "millisecond": -21600000
+    }
+  },
+  {
+    "code": "US",
+    "tzname": "America/Yakutat",
+    "offset": {
+      "hour": -9,
+      "minute": -540,
+      "second": -32400,
+      "millisecond": -32400000
+    }
+  },
+  {
+    "code": "CA",
+    "tzname": "America/Yellowknife",
+    "offset": {
+      "hour": -7,
+      "minute": -420,
+      "second": -25200,
+      "millisecond": -25200000
+    }
+  },
+  {
+    "code": "AQ",
+    "tzname": "Antarctica/Casey",
+    "offset": {
+      "hour": 8,
+      "minute": 480,
+      "second": 28800,
+      "millisecond": 28800000
+    }
+  },
+  {
+    "code": "AQ",
+    "tzname": "Antarctica/Davis",
+    "offset": {
+      "hour": 7,
+      "minute": 420,
+      "second": 25200,
+      "millisecond": 25200000
+    }
+  },
+  {
+    "code": "AQ",
+    "tzname": "Antarctica/DumontDUrville",
+    "offset": {
+      "hour": 10,
+      "minute": 600,
+      "second": 36000,
+      "millisecond": 36000000
+    }
+  },
+  {
+    "code": "AU",
+    "tzname": "Antarctica/Macquarie",
+    "offset": {
+      "hour": 11,
+      "minute": 660,
+      "second": 39600,
+      "millisecond": 39600000
+    }
+  },
+  {
+    "code": "AQ",
+    "tzname": "Antarctica/Mawson",
+    "offset": {
+      "hour": 5,
+      "minute": 300,
+      "second": 18000,
+      "millisecond": 18000000
+    }
+  },
+  {
+    "code": "AQ",
+    "tzname": "Antarctica/McMurdo",
+    "offset": {
+      "hour": 13,
+      "minute": 780,
+      "second": 46800,
+      "millisecond": 46800000
+    }
+  },
+  {
+    "code": "AQ",
+    "tzname": "Antarctica/Palmer",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "AQ",
+    "tzname": "Antarctica/Rothera",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "AQ",
+    "tzname": "Antarctica/Syowa",
+    "offset": {
+      "hour": 3,
+      "minute": 180,
+      "second": 10800,
+      "millisecond": 10800000
+    }
+  },
+  {
+    "code": "AQ",
+    "tzname": "Antarctica/Troll",
+    "offset": {
+      "hour": 0,
+      "minute": 0,
+      "second": 0,
+      "millisecond": 0
+    }
+  },
+  {
+    "code": "AQ",
+    "tzname": "Antarctica/Vostok",
+    "offset": {
+      "hour": 5,
+      "minute": 300,
+      "second": 18000,
+      "millisecond": 18000000
+    }
+  },
+  {
+    "code": "SJ",
+    "tzname": "Arctic/Longyearbyen",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "YE",
+    "tzname": "Asia/Aden",
+    "offset": {
+      "hour": 3,
+      "minute": 180,
+      "second": 10800,
+      "millisecond": 10800000
+    }
+  },
+  {
+    "code": "KZ",
+    "tzname": "Asia/Almaty",
+    "offset": {
+      "hour": 6,
+      "minute": 360,
+      "second": 21600,
+      "millisecond": 21600000
+    }
+  },
+  {
+    "code": "JO",
+    "tzname": "Asia/Amman",
+    "offset": {
+      "hour": 3,
+      "minute": 180,
+      "second": 10800,
+      "millisecond": 10800000
+    }
+  },
+  {
+    "code": "RU",
+    "tzname": "Asia/Anadyr",
+    "offset": {
+      "hour": 12,
+      "minute": 720,
+      "second": 43200,
+      "millisecond": 43200000
+    }
+  },
+  {
+    "code": "KZ",
+    "tzname": "Asia/Aqtau",
+    "offset": {
+      "hour": 5,
+      "minute": 300,
+      "second": 18000,
+      "millisecond": 18000000
+    }
+  },
+  {
+    "code": "KZ",
+    "tzname": "Asia/Aqtobe",
+    "offset": {
+      "hour": 5,
+      "minute": 300,
+      "second": 18000,
+      "millisecond": 18000000
+    }
+  },
+  {
+    "code": "TM",
+    "tzname": "Asia/Ashgabat",
+    "offset": {
+      "hour": 5,
+      "minute": 300,
+      "second": 18000,
+      "millisecond": 18000000
+    }
+  },
+  {
+    "code": "KZ",
+    "tzname": "Asia/Atyrau",
+    "offset": {
+      "hour": 5,
+      "minute": 300,
+      "second": 18000,
+      "millisecond": 18000000
+    }
+  },
+  {
+    "code": "IQ",
+    "tzname": "Asia/Baghdad",
+    "offset": {
+      "hour": 3,
+      "minute": 180,
+      "second": 10800,
+      "millisecond": 10800000
+    }
+  },
+  {
+    "code": "BH",
+    "tzname": "Asia/Bahrain",
+    "offset": {
+      "hour": 3,
+      "minute": 180,
+      "second": 10800,
+      "millisecond": 10800000
+    }
+  },
+  {
+    "code": "AZ",
+    "tzname": "Asia/Baku",
+    "offset": {
+      "hour": 4,
+      "minute": 240,
+      "second": 14400,
+      "millisecond": 14400000
+    }
+  },
+  {
+    "code": "TH",
+    "tzname": "Asia/Bangkok",
+    "offset": {
+      "hour": 7,
+      "minute": 420,
+      "second": 25200,
+      "millisecond": 25200000
+    }
+  },
+  {
+    "code": "RU",
+    "tzname": "Asia/Barnaul",
+    "offset": {
+      "hour": 7,
+      "minute": 420,
+      "second": 25200,
+      "millisecond": 25200000
+    }
+  },
+  {
+    "code": "LB",
+    "tzname": "Asia/Beirut",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "KG",
+    "tzname": "Asia/Bishkek",
+    "offset": {
+      "hour": 6,
+      "minute": 360,
+      "second": 21600,
+      "millisecond": 21600000
+    }
+  },
+  {
+    "code": "BN",
+    "tzname": "Asia/Brunei",
+    "offset": {
+      "hour": 8,
+      "minute": 480,
+      "second": 28800,
+      "millisecond": 28800000
+    }
+  },
+  {
+    "code": "RU",
+    "tzname": "Asia/Chita",
+    "offset": {
+      "hour": 9,
+      "minute": 540,
+      "second": 32400,
+      "millisecond": 32400000
+    }
+  },
+  {
+    "code": "MN",
+    "tzname": "Asia/Choibalsan",
+    "offset": {
+      "hour": 8,
+      "minute": 480,
+      "second": 28800,
+      "millisecond": 28800000
+    }
+  },
+  {
+    "code": "LK",
+    "tzname": "Asia/Colombo",
+    "offset": {
+      "hour": 5,
+      "minute": 300,
+      "second": 18000,
+      "millisecond": 18000000
+    }
+  },
+  {
+    "code": "SY",
+    "tzname": "Asia/Damascus",
+    "offset": {
+      "hour": 3,
+      "minute": 180,
+      "second": 10800,
+      "millisecond": 10800000
+    }
+  },
+  {
+    "code": "BD",
+    "tzname": "Asia/Dhaka",
+    "offset": {
+      "hour": 6,
+      "minute": 360,
+      "second": 21600,
+      "millisecond": 21600000
+    }
+  },
+  {
+    "code": "TL",
+    "tzname": "Asia/Dili",
+    "offset": {
+      "hour": 9,
+      "minute": 540,
+      "second": 32400,
+      "millisecond": 32400000
+    }
+  },
+  {
+    "code": "AE",
+    "tzname": "Asia/Dubai",
+    "offset": {
+      "hour": 4,
+      "minute": 240,
+      "second": 14400,
+      "millisecond": 14400000
+    }
+  },
+  {
+    "code": "TJ",
+    "tzname": "Asia/Dushanbe",
+    "offset": {
+      "hour": 5,
+      "minute": 300,
+      "second": 18000,
+      "millisecond": 18000000
+    }
+  },
+  {
+    "code": "CY",
+    "tzname": "Asia/Famagusta",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "PS",
+    "tzname": "Asia/Gaza",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "PS",
+    "tzname": "Asia/Hebron",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "VN",
+    "tzname": "Asia/Ho_Chi_Minh",
+    "offset": {
+      "hour": 7,
+      "minute": 420,
+      "second": 25200,
+      "millisecond": 25200000
+    }
+  },
+  {
+    "code": "HK",
+    "tzname": "Asia/Hong_Kong",
+    "offset": {
+      "hour": 8,
+      "minute": 480,
+      "second": 28800,
+      "millisecond": 28800000
+    }
+  },
+  {
+    "code": "MN",
+    "tzname": "Asia/Hovd",
+    "offset": {
+      "hour": 7,
+      "minute": 420,
+      "second": 25200,
+      "millisecond": 25200000
+    }
+  },
+  {
+    "code": "RU",
+    "tzname": "Asia/Irkutsk",
+    "offset": {
+      "hour": 8,
+      "minute": 480,
+      "second": 28800,
+      "millisecond": 28800000
+    }
+  },
+  {
+    "code": "ID",
+    "tzname": "Asia/Jakarta",
+    "offset": {
+      "hour": 7,
+      "minute": 420,
+      "second": 25200,
+      "millisecond": 25200000
+    }
+  },
+  {
+    "code": "ID",
+    "tzname": "Asia/Jayapura",
+    "offset": {
+      "hour": 9,
+      "minute": 540,
+      "second": 32400,
+      "millisecond": 32400000
+    }
+  },
+  {
+    "code": "IL",
+    "tzname": "Asia/Jerusalem",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "AF",
+    "tzname": "Asia/Kabul",
+    "offset": {
+      "hour": 4,
+      "minute": 240,
+      "second": 14400,
+      "millisecond": 14400000
+    }
+  },
+  {
+    "code": "RU",
+    "tzname": "Asia/Kamchatka",
+    "offset": {
+      "hour": 12,
+      "minute": 720,
+      "second": 43200,
+      "millisecond": 43200000
+    }
+  },
+  {
+    "code": "PK",
+    "tzname": "Asia/Karachi",
+    "offset": {
+      "hour": 5,
+      "minute": 300,
+      "second": 18000,
+      "millisecond": 18000000
+    }
+  },
+  {
+    "code": "NP",
+    "tzname": "Asia/Kathmandu",
+    "offset": {
+      "hour": 5,
+      "minute": 300,
+      "second": 18000,
+      "millisecond": 18000000
+    }
+  },
+  {
+    "code": "RU",
+    "tzname": "Asia/Khandyga",
+    "offset": {
+      "hour": 9,
+      "minute": 540,
+      "second": 32400,
+      "millisecond": 32400000
+    }
+  },
+  {
+    "code": "IN",
+    "tzname": "Asia/Kolkata",
+    "offset": {
+      "hour": 5,
+      "minute": 300,
+      "second": 18000,
+      "millisecond": 18000000
+    }
+  },
+  {
+    "code": "RU",
+    "tzname": "Asia/Krasnoyarsk",
+    "offset": {
+      "hour": 7,
+      "minute": 420,
+      "second": 25200,
+      "millisecond": 25200000
+    }
+  },
+  {
+    "code": "MY",
+    "tzname": "Asia/Kuala_Lumpur",
+    "offset": {
+      "hour": 8,
+      "minute": 480,
+      "second": 28800,
+      "millisecond": 28800000
+    }
+  },
+  {
+    "code": "MY",
+    "tzname": "Asia/Kuching",
+    "offset": {
+      "hour": 8,
+      "minute": 480,
+      "second": 28800,
+      "millisecond": 28800000
+    }
+  },
+  {
+    "code": "KW",
+    "tzname": "Asia/Kuwait",
+    "offset": {
+      "hour": 3,
+      "minute": 180,
+      "second": 10800,
+      "millisecond": 10800000
+    }
+  },
+  {
+    "code": "MO",
+    "tzname": "Asia/Macau",
+    "offset": {
+      "hour": 8,
+      "minute": 480,
+      "second": 28800,
+      "millisecond": 28800000
+    }
+  },
+  {
+    "code": "RU",
+    "tzname": "Asia/Magadan",
+    "offset": {
+      "hour": 11,
+      "minute": 660,
+      "second": 39600,
+      "millisecond": 39600000
+    }
+  },
+  {
+    "code": "ID",
+    "tzname": "Asia/Makassar",
+    "offset": {
+      "hour": 8,
+      "minute": 480,
+      "second": 28800,
+      "millisecond": 28800000
+    }
+  },
+  {
+    "code": "PH",
+    "tzname": "Asia/Manila",
+    "offset": {
+      "hour": 8,
+      "minute": 480,
+      "second": 28800,
+      "millisecond": 28800000
+    }
+  },
+  {
+    "code": "OM",
+    "tzname": "Asia/Muscat",
+    "offset": {
+      "hour": 4,
+      "minute": 240,
+      "second": 14400,
+      "millisecond": 14400000
+    }
+  },
+  {
+    "code": "CY",
+    "tzname": "Asia/Nicosia",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "RU",
+    "tzname": "Asia/Novokuznetsk",
+    "offset": {
+      "hour": 7,
+      "minute": 420,
+      "second": 25200,
+      "millisecond": 25200000
+    }
+  },
+  {
+    "code": "RU",
+    "tzname": "Asia/Novosibirsk",
+    "offset": {
+      "hour": 7,
+      "minute": 420,
+      "second": 25200,
+      "millisecond": 25200000
+    }
+  },
+  {
+    "code": "RU",
+    "tzname": "Asia/Omsk",
+    "offset": {
+      "hour": 6,
+      "minute": 360,
+      "second": 21600,
+      "millisecond": 21600000
+    }
+  },
+  {
+    "code": "KZ",
+    "tzname": "Asia/Oral",
+    "offset": {
+      "hour": 5,
+      "minute": 300,
+      "second": 18000,
+      "millisecond": 18000000
+    }
+  },
+  {
+    "code": "KH",
+    "tzname": "Asia/Phnom_Penh",
+    "offset": {
+      "hour": 7,
+      "minute": 420,
+      "second": 25200,
+      "millisecond": 25200000
+    }
+  },
+  {
+    "code": "ID",
+    "tzname": "Asia/Pontianak",
+    "offset": {
+      "hour": 7,
+      "minute": 420,
+      "second": 25200,
+      "millisecond": 25200000
+    }
+  },
+  {
+    "code": "KP",
+    "tzname": "Asia/Pyongyang",
+    "offset": {
+      "hour": 9,
+      "minute": 540,
+      "second": 32400,
+      "millisecond": 32400000
+    }
+  },
+  {
+    "code": "QA",
+    "tzname": "Asia/Qatar",
+    "offset": {
+      "hour": 3,
+      "minute": 180,
+      "second": 10800,
+      "millisecond": 10800000
+    }
+  },
+  {
+    "code": "KZ",
+    "tzname": "Asia/Qostanay",
+    "offset": {
+      "hour": 6,
+      "minute": 360,
+      "second": 21600,
+      "millisecond": 21600000
+    }
+  },
+  {
+    "code": "KZ",
+    "tzname": "Asia/Qyzylorda",
+    "offset": {
+      "hour": 5,
+      "minute": 300,
+      "second": 18000,
+      "millisecond": 18000000
+    }
+  },
+  {
+    "code": "SA",
+    "tzname": "Asia/Riyadh",
+    "offset": {
+      "hour": 3,
+      "minute": 180,
+      "second": 10800,
+      "millisecond": 10800000
+    }
+  },
+  {
+    "code": "RU",
+    "tzname": "Asia/Sakhalin",
+    "offset": {
+      "hour": 11,
+      "minute": 660,
+      "second": 39600,
+      "millisecond": 39600000
+    }
+  },
+  {
+    "code": "UZ",
+    "tzname": "Asia/Samarkand",
+    "offset": {
+      "hour": 5,
+      "minute": 300,
+      "second": 18000,
+      "millisecond": 18000000
+    }
+  },
+  {
+    "code": "KR",
+    "tzname": "Asia/Seoul",
+    "offset": {
+      "hour": 9,
+      "minute": 540,
+      "second": 32400,
+      "millisecond": 32400000
+    }
+  },
+  {
+    "code": "CN",
+    "tzname": "Asia/Shanghai",
+    "offset": {
+      "hour": 8,
+      "minute": 480,
+      "second": 28800,
+      "millisecond": 28800000
+    }
+  },
+  {
+    "code": "SG",
+    "tzname": "Asia/Singapore",
+    "offset": {
+      "hour": 8,
+      "minute": 480,
+      "second": 28800,
+      "millisecond": 28800000
+    }
+  },
+  {
+    "code": "RU",
+    "tzname": "Asia/Srednekolymsk",
+    "offset": {
+      "hour": 11,
+      "minute": 660,
+      "second": 39600,
+      "millisecond": 39600000
+    }
+  },
+  {
+    "code": "TW",
+    "tzname": "Asia/Taipei",
+    "offset": {
+      "hour": 8,
+      "minute": 480,
+      "second": 28800,
+      "millisecond": 28800000
+    }
+  },
+  {
+    "code": "UZ",
+    "tzname": "Asia/Tashkent",
+    "offset": {
+      "hour": 5,
+      "minute": 300,
+      "second": 18000,
+      "millisecond": 18000000
+    }
+  },
+  {
+    "code": "GE",
+    "tzname": "Asia/Tbilisi",
+    "offset": {
+      "hour": 4,
+      "minute": 240,
+      "second": 14400,
+      "millisecond": 14400000
+    }
+  },
+  {
+    "code": "IR",
+    "tzname": "Asia/Tehran",
+    "offset": {
+      "hour": 3,
+      "minute": 180,
+      "second": 10800,
+      "millisecond": 10800000
+    }
+  },
+  {
+    "code": "BT",
+    "tzname": "Asia/Thimphu",
+    "offset": {
+      "hour": 6,
+      "minute": 360,
+      "second": 21600,
+      "millisecond": 21600000
+    }
+  },
+  {
+    "code": "JP",
+    "tzname": "Asia/Tokyo",
+    "offset": {
+      "hour": 9,
+      "minute": 540,
+      "second": 32400,
+      "millisecond": 32400000
+    }
+  },
+  {
+    "code": "RU",
+    "tzname": "Asia/Tomsk",
+    "offset": {
+      "hour": 7,
+      "minute": 420,
+      "second": 25200,
+      "millisecond": 25200000
+    }
+  },
+  {
+    "code": "MN",
+    "tzname": "Asia/Ulaanbaatar",
+    "offset": {
+      "hour": 8,
+      "minute": 480,
+      "second": 28800,
+      "millisecond": 28800000
+    }
+  },
+  {
+    "code": "CN",
+    "tzname": "Asia/Urumqi",
+    "offset": {
+      "hour": 6,
+      "minute": 360,
+      "second": 21600,
+      "millisecond": 21600000
+    }
+  },
+  {
+    "code": "RU",
+    "tzname": "Asia/Ust-Nera",
+    "offset": {
+      "hour": 10,
+      "minute": 600,
+      "second": 36000,
+      "millisecond": 36000000
+    }
+  },
+  {
+    "code": "LA",
+    "tzname": "Asia/Vientiane",
+    "offset": {
+      "hour": 7,
+      "minute": 420,
+      "second": 25200,
+      "millisecond": 25200000
+    }
+  },
+  {
+    "code": "RU",
+    "tzname": "Asia/Vladivostok",
+    "offset": {
+      "hour": 10,
+      "minute": 600,
+      "second": 36000,
+      "millisecond": 36000000
+    }
+  },
+  {
+    "code": "RU",
+    "tzname": "Asia/Yakutsk",
+    "offset": {
+      "hour": 9,
+      "minute": 540,
+      "second": 32400,
+      "millisecond": 32400000
+    }
+  },
+  {
+    "code": "MM",
+    "tzname": "Asia/Yangon",
+    "offset": {
+      "hour": 6,
+      "minute": 360,
+      "second": 21600,
+      "millisecond": 21600000
+    }
+  },
+  {
+    "code": "RU",
+    "tzname": "Asia/Yekaterinburg",
+    "offset": {
+      "hour": 5,
+      "minute": 300,
+      "second": 18000,
+      "millisecond": 18000000
+    }
+  },
+  {
+    "code": "AM",
+    "tzname": "Asia/Yerevan",
+    "offset": {
+      "hour": 4,
+      "minute": 240,
+      "second": 14400,
+      "millisecond": 14400000
+    }
+  },
+  {
+    "code": "PT",
+    "tzname": "Atlantic/Azores",
+    "offset": {
+      "hour": -1,
+      "minute": -60,
+      "second": -3600,
+      "millisecond": -3600000
+    }
+  },
+  {
+    "code": "BM",
+    "tzname": "Atlantic/Bermuda",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "code": "ES",
+    "tzname": "Atlantic/Canary",
+    "offset": {
+      "hour": 0,
+      "minute": 0,
+      "second": 0,
+      "millisecond": 0
+    }
+  },
+  {
+    "code": "CV",
+    "tzname": "Atlantic/Cape_Verde",
+    "offset": {
+      "hour": -1,
+      "minute": -60,
+      "second": -3600,
+      "millisecond": -3600000
+    }
+  },
+  {
+    "code": "FO",
+    "tzname": "Atlantic/Faroe",
+    "offset": {
+      "hour": 0,
+      "minute": 0,
+      "second": 0,
+      "millisecond": 0
+    }
+  },
+  {
+    "code": "PT",
+    "tzname": "Atlantic/Madeira",
+    "offset": {
+      "hour": 0,
+      "minute": 0,
+      "second": 0,
+      "millisecond": 0
+    }
+  },
+  {
+    "code": "IS",
+    "tzname": "Atlantic/Reykjavik",
+    "offset": {
+      "hour": 0,
+      "minute": 0,
+      "second": 0,
+      "millisecond": 0
+    }
+  },
+  {
+    "code": "GS",
+    "tzname": "Atlantic/South_Georgia",
+    "offset": {
+      "hour": -2,
+      "minute": -120,
+      "second": -7200,
+      "millisecond": -7200000
+    }
+  },
+  {
+    "code": "SH",
+    "tzname": "Atlantic/St_Helena",
+    "offset": {
+      "hour": 0,
+      "minute": 0,
+      "second": 0,
+      "millisecond": 0
+    }
+  },
+  {
+    "code": "FK",
+    "tzname": "Atlantic/Stanley",
+    "offset": {
+      "hour": -3,
+      "minute": -180,
+      "second": -10800,
+      "millisecond": -10800000
+    }
+  },
+  {
+    "code": "AU",
+    "tzname": "Australia/Adelaide",
+    "offset": {
+      "hour": 10,
+      "minute": 600,
+      "second": 36000,
+      "millisecond": 36000000
+    }
+  },
+  {
+    "code": "AU",
+    "tzname": "Australia/Brisbane",
+    "offset": {
+      "hour": 10,
+      "minute": 600,
+      "second": 36000,
+      "millisecond": 36000000
+    }
+  },
+  {
+    "code": "AU",
+    "tzname": "Australia/Broken_Hill",
+    "offset": {
+      "hour": 10,
+      "minute": 600,
+      "second": 36000,
+      "millisecond": 36000000
+    }
+  },
+  {
+    "code": "AU",
+    "tzname": "Australia/Darwin",
+    "offset": {
+      "hour": 9,
+      "minute": 540,
+      "second": 32400,
+      "millisecond": 32400000
+    }
+  },
+  {
+    "code": "AU",
+    "tzname": "Australia/Eucla",
+    "offset": {
+      "hour": 8,
+      "minute": 480,
+      "second": 28800,
+      "millisecond": 28800000
+    }
+  },
+  {
+    "code": "AU",
+    "tzname": "Australia/Hobart",
+    "offset": {
+      "hour": 11,
+      "minute": 660,
+      "second": 39600,
+      "millisecond": 39600000
+    }
+  },
+  {
+    "code": "AU",
+    "tzname": "Australia/Lindeman",
+    "offset": {
+      "hour": 10,
+      "minute": 600,
+      "second": 36000,
+      "millisecond": 36000000
+    }
+  },
+  {
+    "code": "AU",
+    "tzname": "Australia/Lord_Howe",
+    "offset": {
+      "hour": 11,
+      "minute": 660,
+      "second": 39600,
+      "millisecond": 39600000
+    }
+  },
+  {
+    "code": "AU",
+    "tzname": "Australia/Melbourne",
+    "offset": {
+      "hour": 11,
+      "minute": 660,
+      "second": 39600,
+      "millisecond": 39600000
+    }
+  },
+  {
+    "code": "AU",
+    "tzname": "Australia/Perth",
+    "offset": {
+      "hour": 8,
+      "minute": 480,
+      "second": 28800,
+      "millisecond": 28800000
+    }
+  },
+  {
+    "code": "AU",
+    "tzname": "Australia/Sydney",
+    "offset": {
+      "hour": 11,
+      "minute": 660,
+      "second": 39600,
+      "millisecond": 39600000
+    }
+  },
+  {
+    "code": "NL",
+    "tzname": "Europe/Amsterdam",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "AD",
+    "tzname": "Europe/Andorra",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "RU",
+    "tzname": "Europe/Astrakhan",
+    "offset": {
+      "hour": 4,
+      "minute": 240,
+      "second": 14400,
+      "millisecond": 14400000
+    }
+  },
+  {
+    "code": "GR",
+    "tzname": "Europe/Athens",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "RS",
+    "tzname": "Europe/Belgrade",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "DE",
+    "tzname": "Europe/Berlin",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "SK",
+    "tzname": "Europe/Bratislava",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "BE",
+    "tzname": "Europe/Brussels",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "RO",
+    "tzname": "Europe/Bucharest",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "HU",
+    "tzname": "Europe/Budapest",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "DE",
+    "tzname": "Europe/Busingen",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "MD",
+    "tzname": "Europe/Chisinau",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "DK",
+    "tzname": "Europe/Copenhagen",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "IE",
+    "tzname": "Europe/Dublin",
+    "offset": {
+      "hour": 0,
+      "minute": 0,
+      "second": 0,
+      "millisecond": 0
+    }
+  },
+  {
+    "code": "GI",
+    "tzname": "Europe/Gibraltar",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "GG",
+    "tzname": "Europe/Guernsey",
+    "offset": {
+      "hour": 0,
+      "minute": 0,
+      "second": 0,
+      "millisecond": 0
+    }
+  },
+  {
+    "code": "FI",
+    "tzname": "Europe/Helsinki",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "IM",
+    "tzname": "Europe/Isle_of_Man",
+    "offset": {
+      "hour": 0,
+      "minute": 0,
+      "second": 0,
+      "millisecond": 0
+    }
+  },
+  {
+    "code": "TR",
+    "tzname": "Europe/Istanbul",
+    "offset": {
+      "hour": 3,
+      "minute": 180,
+      "second": 10800,
+      "millisecond": 10800000
+    }
+  },
+  {
+    "code": "JE",
+    "tzname": "Europe/Jersey",
+    "offset": {
+      "hour": 0,
+      "minute": 0,
+      "second": 0,
+      "millisecond": 0
+    }
+  },
+  {
+    "code": "RU",
+    "tzname": "Europe/Kaliningrad",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "RU",
+    "tzname": "Europe/Kirov",
+    "offset": {
+      "hour": 3,
+      "minute": 180,
+      "second": 10800,
+      "millisecond": 10800000
+    }
+  },
+  {
+    "code": "UA",
+    "tzname": "Europe/Kyiv",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "PT",
+    "tzname": "Europe/Lisbon",
+    "offset": {
+      "hour": 0,
+      "minute": 0,
+      "second": 0,
+      "millisecond": 0
+    }
+  },
+  {
+    "code": "SI",
+    "tzname": "Europe/Ljubljana",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "GB",
+    "tzname": "Europe/London",
+    "offset": {
+      "hour": 0,
+      "minute": 0,
+      "second": 0,
+      "millisecond": 0
+    }
+  },
+  {
+    "code": "LU",
+    "tzname": "Europe/Luxembourg",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "ES",
+    "tzname": "Europe/Madrid",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "MT",
+    "tzname": "Europe/Malta",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "AX",
+    "tzname": "Europe/Mariehamn",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "BY",
+    "tzname": "Europe/Minsk",
+    "offset": {
+      "hour": 3,
+      "minute": 180,
+      "second": 10800,
+      "millisecond": 10800000
+    }
+  },
+  {
+    "code": "MC",
+    "tzname": "Europe/Monaco",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "RU",
+    "tzname": "Europe/Moscow",
+    "offset": {
+      "hour": 3,
+      "minute": 180,
+      "second": 10800,
+      "millisecond": 10800000
+    }
+  },
+  {
+    "code": "NO",
+    "tzname": "Europe/Oslo",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "FR",
+    "tzname": "Europe/Paris",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "ME",
+    "tzname": "Europe/Podgorica",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "CZ",
+    "tzname": "Europe/Prague",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "LV",
+    "tzname": "Europe/Riga",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "IT",
+    "tzname": "Europe/Rome",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "RU",
+    "tzname": "Europe/Samara",
+    "offset": {
+      "hour": 4,
+      "minute": 240,
+      "second": 14400,
+      "millisecond": 14400000
+    }
+  },
+  {
+    "code": "SM",
+    "tzname": "Europe/San_Marino",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "BA",
+    "tzname": "Europe/Sarajevo",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "RU",
+    "tzname": "Europe/Saratov",
+    "offset": {
+      "hour": 4,
+      "minute": 240,
+      "second": 14400,
+      "millisecond": 14400000
+    }
+  },
+  {
+    "code": "UA",
+    "tzname": "Europe/Simferopol",
+    "offset": {
+      "hour": 3,
+      "minute": 180,
+      "second": 10800,
+      "millisecond": 10800000
+    }
+  },
+  {
+    "code": "MK",
+    "tzname": "Europe/Skopje",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "BG",
+    "tzname": "Europe/Sofia",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "SE",
+    "tzname": "Europe/Stockholm",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "EE",
+    "tzname": "Europe/Tallinn",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "AL",
+    "tzname": "Europe/Tirane",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "RU",
+    "tzname": "Europe/Ulyanovsk",
+    "offset": {
+      "hour": 4,
+      "minute": 240,
+      "second": 14400,
+      "millisecond": 14400000
+    }
+  },
+  {
+    "code": "LI",
+    "tzname": "Europe/Vaduz",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "VA",
+    "tzname": "Europe/Vatican",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "AT",
+    "tzname": "Europe/Vienna",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "LT",
+    "tzname": "Europe/Vilnius",
+    "offset": {
+      "hour": 2,
+      "minute": 120,
+      "second": 7200,
+      "millisecond": 7200000
+    }
+  },
+  {
+    "code": "RU",
+    "tzname": "Europe/Volgograd",
+    "offset": {
+      "hour": 3,
+      "minute": 180,
+      "second": 10800,
+      "millisecond": 10800000
+    }
+  },
+  {
+    "code": "PL",
+    "tzname": "Europe/Warsaw",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "HR",
+    "tzname": "Europe/Zagreb",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "CH",
+    "tzname": "Europe/Zurich",
+    "offset": {
+      "hour": 1,
+      "minute": 60,
+      "second": 3600,
+      "millisecond": 3600000
+    }
+  },
+  {
+    "code": "MG",
+    "tzname": "Indian/Antananarivo",
+    "offset": {
+      "hour": 3,
+      "minute": 180,
+      "second": 10800,
+      "millisecond": 10800000
+    }
+  },
+  {
+    "code": "IO",
+    "tzname": "Indian/Chagos",
+    "offset": {
+      "hour": 6,
+      "minute": 360,
+      "second": 21600,
+      "millisecond": 21600000
+    }
+  },
+  {
+    "code": "CX",
+    "tzname": "Indian/Christmas",
+    "offset": {
+      "hour": 7,
+      "minute": 420,
+      "second": 25200,
+      "millisecond": 25200000
+    }
+  },
+  {
+    "code": "CC",
+    "tzname": "Indian/Cocos",
+    "offset": {
+      "hour": 6,
+      "minute": 360,
+      "second": 21600,
+      "millisecond": 21600000
+    }
+  },
+  {
+    "code": "KM",
+    "tzname": "Indian/Comoro",
+    "offset": {
+      "hour": 3,
+      "minute": 180,
+      "second": 10800,
+      "millisecond": 10800000
+    }
+  },
+  {
+    "code": "TF",
+    "tzname": "Indian/Kerguelen",
+    "offset": {
+      "hour": 5,
+      "minute": 300,
+      "second": 18000,
+      "millisecond": 18000000
+    }
+  },
+  {
+    "code": "SC",
+    "tzname": "Indian/Mahe",
+    "offset": {
+      "hour": 4,
+      "minute": 240,
+      "second": 14400,
+      "millisecond": 14400000
+    }
+  },
+  {
+    "code": "MV",
+    "tzname": "Indian/Maldives",
+    "offset": {
+      "hour": 5,
+      "minute": 300,
+      "second": 18000,
+      "millisecond": 18000000
+    }
+  },
+  {
+    "code": "MU",
+    "tzname": "Indian/Mauritius",
+    "offset": {
+      "hour": 4,
+      "minute": 240,
+      "second": 14400,
+      "millisecond": 14400000
+    }
+  },
+  {
+    "code": "YT",
+    "tzname": "Indian/Mayotte",
+    "offset": {
+      "hour": 3,
+      "minute": 180,
+      "second": 10800,
+      "millisecond": 10800000
+    }
+  },
+  {
+    "code": "RE",
+    "tzname": "Indian/Reunion",
+    "offset": {
+      "hour": 4,
+      "minute": 240,
+      "second": 14400,
+      "millisecond": 14400000
+    }
+  },
+  {
+    "code": "WS",
+    "tzname": "Pacific/Apia",
+    "offset": {
+      "hour": 13,
+      "minute": 780,
+      "second": 46800,
+      "millisecond": 46800000
+    }
+  },
+  {
+    "code": "NZ",
+    "tzname": "Pacific/Auckland",
+    "offset": {
+      "hour": 13,
+      "minute": 780,
+      "second": 46800,
+      "millisecond": 46800000
+    }
+  },
+  {
+    "code": "PG",
+    "tzname": "Pacific/Bougainville",
+    "offset": {
+      "hour": 11,
+      "minute": 660,
+      "second": 39600,
+      "millisecond": 39600000
+    }
+  },
+  {
+    "code": "NZ",
+    "tzname": "Pacific/Chatham",
+    "offset": {
+      "hour": 13,
+      "minute": 780,
+      "second": 46800,
+      "millisecond": 46800000
+    }
+  },
+  {
+    "code": "FM",
+    "tzname": "Pacific/Chuuk",
+    "offset": {
+      "hour": 10,
+      "minute": 600,
+      "second": 36000,
+      "millisecond": 36000000
+    }
+  },
+  {
+    "code": "CL",
+    "tzname": "Pacific/Easter",
+    "offset": {
+      "hour": -5,
+      "minute": -300,
+      "second": -18000,
+      "millisecond": -18000000
+    }
+  },
+  {
+    "code": "VU",
+    "tzname": "Pacific/Efate",
+    "offset": {
+      "hour": 11,
+      "minute": 660,
+      "second": 39600,
+      "millisecond": 39600000
+    }
+  },
+  {
+    "code": "TK",
+    "tzname": "Pacific/Fakaofo",
+    "offset": {
+      "hour": 13,
+      "minute": 780,
+      "second": 46800,
+      "millisecond": 46800000
+    }
+  },
+  {
+    "code": "FJ",
+    "tzname": "Pacific/Fiji",
+    "offset": {
+      "hour": 12,
+      "minute": 720,
+      "second": 43200,
+      "millisecond": 43200000
+    }
+  },
+  {
+    "code": "TV",
+    "tzname": "Pacific/Funafuti",
+    "offset": {
+      "hour": 12,
+      "minute": 720,
+      "second": 43200,
+      "millisecond": 43200000
+    }
+  },
+  {
+    "code": "EC",
+    "tzname": "Pacific/Galapagos",
+    "offset": {
+      "hour": -6,
+      "minute": -360,
+      "second": -21600,
+      "millisecond": -21600000
+    }
+  },
+  {
+    "code": "PF",
+    "tzname": "Pacific/Gambier",
+    "offset": {
+      "hour": -9,
+      "minute": -540,
+      "second": -32400,
+      "millisecond": -32400000
+    }
+  },
+  {
+    "code": "SB",
+    "tzname": "Pacific/Guadalcanal",
+    "offset": {
+      "hour": 11,
+      "minute": 660,
+      "second": 39600,
+      "millisecond": 39600000
+    }
+  },
+  {
+    "code": "GU",
+    "tzname": "Pacific/Guam",
+    "offset": {
+      "hour": 10,
+      "minute": 600,
+      "second": 36000,
+      "millisecond": 36000000
+    }
+  },
+  {
+    "code": "US",
+    "tzname": "Pacific/Honolulu",
+    "offset": {
+      "hour": -10,
+      "minute": -600,
+      "second": -36000,
+      "millisecond": -36000000
+    }
+  },
+  {
+    "code": "KI",
+    "tzname": "Pacific/Kanton",
+    "offset": {
+      "hour": 13,
+      "minute": 780,
+      "second": 46800,
+      "millisecond": 46800000
+    }
+  },
+  {
+    "code": "KI",
+    "tzname": "Pacific/Kiritimati",
+    "offset": {
+      "hour": 14,
+      "minute": 840,
+      "second": 50400,
+      "millisecond": 50400000
+    }
+  },
+  {
+    "code": "FM",
+    "tzname": "Pacific/Kosrae",
+    "offset": {
+      "hour": 11,
+      "minute": 660,
+      "second": 39600,
+      "millisecond": 39600000
+    }
+  },
+  {
+    "code": "MH",
+    "tzname": "Pacific/Kwajalein",
+    "offset": {
+      "hour": 12,
+      "minute": 720,
+      "second": 43200,
+      "millisecond": 43200000
+    }
+  },
+  {
+    "code": "MH",
+    "tzname": "Pacific/Majuro",
+    "offset": {
+      "hour": 12,
+      "minute": 720,
+      "second": 43200,
+      "millisecond": 43200000
+    }
+  },
+  {
+    "code": "PF",
+    "tzname": "Pacific/Marquesas",
+    "offset": {
+      "hour": -9,
+      "minute": -540,
+      "second": -32400,
+      "millisecond": -32400000
+    }
+  },
+  {
+    "code": "UM",
+    "tzname": "Pacific/Midway",
+    "offset": {
+      "hour": -11,
+      "minute": -660,
+      "second": -39600,
+      "millisecond": -39600000
+    }
+  },
+  {
+    "code": "NR",
+    "tzname": "Pacific/Nauru",
+    "offset": {
+      "hour": 12,
+      "minute": 720,
+      "second": 43200,
+      "millisecond": 43200000
+    }
+  },
+  {
+    "code": "NU",
+    "tzname": "Pacific/Niue",
+    "offset": {
+      "hour": -11,
+      "minute": -660,
+      "second": -39600,
+      "millisecond": -39600000
+    }
+  },
+  {
+    "code": "NF",
+    "tzname": "Pacific/Norfolk",
+    "offset": {
+      "hour": 12,
+      "minute": 720,
+      "second": 43200,
+      "millisecond": 43200000
+    }
+  },
+  {
+    "code": "NC",
+    "tzname": "Pacific/Noumea",
+    "offset": {
+      "hour": 11,
+      "minute": 660,
+      "second": 39600,
+      "millisecond": 39600000
+    }
+  },
+  {
+    "code": "AS",
+    "tzname": "Pacific/Pago_Pago",
+    "offset": {
+      "hour": -11,
+      "minute": -660,
+      "second": -39600,
+      "millisecond": -39600000
+    }
+  },
+  {
+    "code": "PW",
+    "tzname": "Pacific/Palau",
+    "offset": {
+      "hour": 9,
+      "minute": 540,
+      "second": 32400,
+      "millisecond": 32400000
+    }
+  },
+  {
+    "code": "PN",
+    "tzname": "Pacific/Pitcairn",
+    "offset": {
+      "hour": -8,
+      "minute": -480,
+      "second": -28800,
+      "millisecond": -28800000
+    }
+  },
+  {
+    "code": "FM",
+    "tzname": "Pacific/Pohnpei",
+    "offset": {
+      "hour": 11,
+      "minute": 660,
+      "second": 39600,
+      "millisecond": 39600000
+    }
+  },
+  {
+    "code": "PG",
+    "tzname": "Pacific/Port_Moresby",
+    "offset": {
+      "hour": 10,
+      "minute": 600,
+      "second": 36000,
+      "millisecond": 36000000
+    }
+  },
+  {
+    "code": "CK",
+    "tzname": "Pacific/Rarotonga",
+    "offset": {
+      "hour": -10,
+      "minute": -600,
+      "second": -36000,
+      "millisecond": -36000000
+    }
+  },
+  {
+    "code": "MP",
+    "tzname": "Pacific/Saipan",
+    "offset": {
+      "hour": 10,
+      "minute": 600,
+      "second": 36000,
+      "millisecond": 36000000
+    }
+  },
+  {
+    "code": "PF",
+    "tzname": "Pacific/Tahiti",
+    "offset": {
+      "hour": -10,
+      "minute": -600,
+      "second": -36000,
+      "millisecond": -36000000
+    }
+  },
+  {
+    "code": "KI",
+    "tzname": "Pacific/Tarawa",
+    "offset": {
+      "hour": 12,
+      "minute": 720,
+      "second": 43200,
+      "millisecond": 43200000
+    }
+  },
+  {
+    "code": "TO",
+    "tzname": "Pacific/Tongatapu",
+    "offset": {
+      "hour": 13,
+      "minute": 780,
+      "second": 46800,
+      "millisecond": 46800000
+    }
+  },
+  {
+    "code": "UM",
+    "tzname": "Pacific/Wake",
+    "offset": {
+      "hour": 12,
+      "minute": 720,
+      "second": 43200,
+      "millisecond": 43200000
+    }
+  },
+  {
+    "code": "WF",
+    "tzname": "Pacific/Wallis",
+    "offset": {
+      "hour": 12,
+      "minute": 720,
+      "second": 43200,
+      "millisecond": 43200000
+    }
+  }
+]

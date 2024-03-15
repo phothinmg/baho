@@ -1,0 +1,2097 @@
+[
+  {
+    "countryCode": "CI",
+    "tzName": "Africa/Abidjan",
+    "of": "0.0"
+  },
+  {
+    "countryCode": "GH",
+    "tzName": "Africa/Accra",
+    "of": "0.0"
+  },
+  {
+    "countryCode": "ET",
+    "tzName": "Africa/Addis_Ababa",
+    "of": "3.0"
+  },
+  {
+    "countryCode": "DZ",
+    "tzName": "Africa/Algiers",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "ER",
+    "tzName": "Africa/Asmara",
+    "of": "3.0"
+  },
+  {
+    "countryCode": "ML",
+    "tzName": "Africa/Bamako",
+    "of": "0.0"
+  },
+  {
+    "countryCode": "CF",
+    "tzName": "Africa/Bangui",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "GM",
+    "tzName": "Africa/Banjul",
+    "of": "0.0"
+  },
+  {
+    "countryCode": "GW",
+    "tzName": "Africa/Bissau",
+    "of": "0.0"
+  },
+  {
+    "countryCode": "MW",
+    "tzName": "Africa/Blantyre",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "CG",
+    "tzName": "Africa/Brazzaville",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "BI",
+    "tzName": "Africa/Bujumbura",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "EG",
+    "tzName": "Africa/Cairo",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "MA",
+    "tzName": "Africa/Casablanca",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "ES",
+    "tzName": "Africa/Ceuta",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "GN",
+    "tzName": "Africa/Conakry",
+    "of": "0.0"
+  },
+  {
+    "countryCode": "SN",
+    "tzName": "Africa/Dakar",
+    "of": "0.0"
+  },
+  {
+    "countryCode": "TZ",
+    "tzName": "Africa/Dar_es_Salaam",
+    "of": "3.0"
+  },
+  {
+    "countryCode": "DJ",
+    "tzName": "Africa/Djibouti",
+    "of": "3.0"
+  },
+  {
+    "countryCode": "CM",
+    "tzName": "Africa/Douala",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "EH",
+    "tzName": "Africa/El_Aaiun",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "SL",
+    "tzName": "Africa/Freetown",
+    "of": "0.0"
+  },
+  {
+    "countryCode": "BW",
+    "tzName": "Africa/Gaborone",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "ZW",
+    "tzName": "Africa/Harare",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "ZA",
+    "tzName": "Africa/Johannesburg",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "SS",
+    "tzName": "Africa/Juba",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "UG",
+    "tzName": "Africa/Kampala",
+    "of": "3.0"
+  },
+  {
+    "countryCode": "SD",
+    "tzName": "Africa/Khartoum",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "RW",
+    "tzName": "Africa/Kigali",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "CD",
+    "tzName": "Africa/Kinshasa",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "NG",
+    "tzName": "Africa/Lagos",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "GA",
+    "tzName": "Africa/Libreville",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "TG",
+    "tzName": "Africa/Lome",
+    "of": "0.0"
+  },
+  {
+    "countryCode": "AO",
+    "tzName": "Africa/Luanda",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "CD",
+    "tzName": "Africa/Lubumbashi",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "ZM",
+    "tzName": "Africa/Lusaka",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "GQ",
+    "tzName": "Africa/Malabo",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "MZ",
+    "tzName": "Africa/Maputo",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "LS",
+    "tzName": "Africa/Maseru",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "SZ",
+    "tzName": "Africa/Mbabane",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "SO",
+    "tzName": "Africa/Mogadishu",
+    "of": "3.0"
+  },
+  {
+    "countryCode": "LR",
+    "tzName": "Africa/Monrovia",
+    "of": "0.0"
+  },
+  {
+    "countryCode": "KE",
+    "tzName": "Africa/Nairobi",
+    "of": "3.0"
+  },
+  {
+    "countryCode": "TD",
+    "tzName": "Africa/Ndjamena",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "NE",
+    "tzName": "Africa/Niamey",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "MR",
+    "tzName": "Africa/Nouakchott",
+    "of": "0.0"
+  },
+  {
+    "countryCode": "BF",
+    "tzName": "Africa/Ouagadougou",
+    "of": "0.0"
+  },
+  {
+    "countryCode": "BJ",
+    "tzName": "Africa/Porto-Novo",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "ST",
+    "tzName": "Africa/Sao_Tome",
+    "of": "0.0"
+  },
+  {
+    "countryCode": "LY",
+    "tzName": "Africa/Tripoli",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "TN",
+    "tzName": "Africa/Tunis",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "NA",
+    "tzName": "Africa/Windhoek",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "US",
+    "tzName": "America/Adak",
+    "of": "-10.0"
+  },
+  {
+    "countryCode": "US",
+    "tzName": "America/Anchorage",
+    "of": "-9.0"
+  },
+  {
+    "countryCode": "AI",
+    "tzName": "America/Anguilla",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "AG",
+    "tzName": "America/Antigua",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "BR",
+    "tzName": "America/Araguaina",
+    "of": "-3.0"
+  },
+  {
+    "countryCode": "AR",
+    "tzName": "America/Argentina/Buenos_Aires",
+    "of": "-3.0"
+  },
+  {
+    "countryCode": "AR",
+    "tzName": "America/Argentina/Catamarca",
+    "of": "-3.0"
+  },
+  {
+    "countryCode": "AR",
+    "tzName": "America/Argentina/Cordoba",
+    "of": "-3.0"
+  },
+  {
+    "countryCode": "AR",
+    "tzName": "America/Argentina/Jujuy",
+    "of": "-3.0"
+  },
+  {
+    "countryCode": "AR",
+    "tzName": "America/Argentina/La_Rioja",
+    "of": "-3.0"
+  },
+  {
+    "countryCode": "AR",
+    "tzName": "America/Argentina/Mendoza",
+    "of": "-3.0"
+  },
+  {
+    "countryCode": "AR",
+    "tzName": "America/Argentina/Rio_Gallegos",
+    "of": "-3.0"
+  },
+  {
+    "countryCode": "AR",
+    "tzName": "America/Argentina/Salta",
+    "of": "-3.0"
+  },
+  {
+    "countryCode": "AR",
+    "tzName": "America/Argentina/San_Juan",
+    "of": "-3.0"
+  },
+  {
+    "countryCode": "AR",
+    "tzName": "America/Argentina/San_Luis",
+    "of": "-3.0"
+  },
+  {
+    "countryCode": "AR",
+    "tzName": "America/Argentina/Tucuman",
+    "of": "-3.0"
+  },
+  {
+    "countryCode": "AR",
+    "tzName": "America/Argentina/Ushuaia",
+    "of": "-3.0"
+  },
+  {
+    "countryCode": "AW",
+    "tzName": "America/Aruba",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "PY",
+    "tzName": "America/Asuncion",
+    "of": "-3.0"
+  },
+  {
+    "countryCode": "CA",
+    "tzName": "America/Atikokan",
+    "of": "-5.0"
+  },
+  {
+    "countryCode": "BR",
+    "tzName": "America/Bahia",
+    "of": "-3.0"
+  },
+  {
+    "countryCode": "MX",
+    "tzName": "America/Bahia_Banderas",
+    "of": "-6.0"
+  },
+  {
+    "countryCode": "BB",
+    "tzName": "America/Barbados",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "BR",
+    "tzName": "America/Belem",
+    "of": "-3.0"
+  },
+  {
+    "countryCode": "BZ",
+    "tzName": "America/Belize",
+    "of": "-6.0"
+  },
+  {
+    "countryCode": "CA",
+    "tzName": "America/Blanc-Sablon",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "BR",
+    "tzName": "America/Boa_Vista",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "CO",
+    "tzName": "America/Bogota",
+    "of": "-5.0"
+  },
+  {
+    "countryCode": "US",
+    "tzName": "America/Boise",
+    "of": "-7.0"
+  },
+  {
+    "countryCode": "CA",
+    "tzName": "America/Cambridge_Bay",
+    "of": "-7.0"
+  },
+  {
+    "countryCode": "BR",
+    "tzName": "America/Campo_Grande",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "MX",
+    "tzName": "America/Cancun",
+    "of": "-5.0"
+  },
+  {
+    "countryCode": "VE",
+    "tzName": "America/Caracas",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "GF",
+    "tzName": "America/Cayenne",
+    "of": "-3.0"
+  },
+  {
+    "countryCode": "KY",
+    "tzName": "America/Cayman",
+    "of": "-5.0"
+  },
+  {
+    "countryCode": "US",
+    "tzName": "America/Chicago",
+    "of": "-6.0"
+  },
+  {
+    "countryCode": "MX",
+    "tzName": "America/Chihuahua",
+    "of": "-6.0"
+  },
+  {
+    "countryCode": "MX",
+    "tzName": "America/Ciudad_Juarez",
+    "of": "-7.0"
+  },
+  {
+    "countryCode": "CR",
+    "tzName": "America/Costa_Rica",
+    "of": "-6.0"
+  },
+  {
+    "countryCode": "CA",
+    "tzName": "America/Creston",
+    "of": "-7.0"
+  },
+  {
+    "countryCode": "BR",
+    "tzName": "America/Cuiaba",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "CW",
+    "tzName": "America/Curacao",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "GL",
+    "tzName": "America/Danmarkshavn",
+    "of": "0.0"
+  },
+  {
+    "countryCode": "CA",
+    "tzName": "America/Dawson",
+    "of": "-7.0"
+  },
+  {
+    "countryCode": "CA",
+    "tzName": "America/Dawson_Creek",
+    "of": "-7.0"
+  },
+  {
+    "countryCode": "US",
+    "tzName": "America/Denver",
+    "of": "-7.0"
+  },
+  {
+    "countryCode": "US",
+    "tzName": "America/Detroit",
+    "of": "-5.0"
+  },
+  {
+    "countryCode": "DM",
+    "tzName": "America/Dominica",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "CA",
+    "tzName": "America/Edmonton",
+    "of": "-7.0"
+  },
+  {
+    "countryCode": "BR",
+    "tzName": "America/Eirunepe",
+    "of": "-5.0"
+  },
+  {
+    "countryCode": "SV",
+    "tzName": "America/El_Salvador",
+    "of": "-6.0"
+  },
+  {
+    "countryCode": "CA",
+    "tzName": "America/Fort_Nelson",
+    "of": "-7.0"
+  },
+  {
+    "countryCode": "BR",
+    "tzName": "America/Fortaleza",
+    "of": "-3.0"
+  },
+  {
+    "countryCode": "CA",
+    "tzName": "America/Glace_Bay",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "CA",
+    "tzName": "America/Goose_Bay",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "TC",
+    "tzName": "America/Grand_Turk",
+    "of": "-5.0"
+  },
+  {
+    "countryCode": "GD",
+    "tzName": "America/Grenada",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "GP",
+    "tzName": "America/Guadeloupe",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "GT",
+    "tzName": "America/Guatemala",
+    "of": "-6.0"
+  },
+  {
+    "countryCode": "EC",
+    "tzName": "America/Guayaquil",
+    "of": "-5.0"
+  },
+  {
+    "countryCode": "GY",
+    "tzName": "America/Guyana",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "CA",
+    "tzName": "America/Halifax",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "CU",
+    "tzName": "America/Havana",
+    "of": "-5.0"
+  },
+  {
+    "countryCode": "MX",
+    "tzName": "America/Hermosillo",
+    "of": "-7.0"
+  },
+  {
+    "countryCode": "US",
+    "tzName": "America/Indiana/Indianapolis",
+    "of": "-5.0"
+  },
+  {
+    "countryCode": "US",
+    "tzName": "America/Indiana/Knox",
+    "of": "-6.0"
+  },
+  {
+    "countryCode": "US",
+    "tzName": "America/Indiana/Marengo",
+    "of": "-5.0"
+  },
+  {
+    "countryCode": "US",
+    "tzName": "America/Indiana/Petersburg",
+    "of": "-5.0"
+  },
+  {
+    "countryCode": "US",
+    "tzName": "America/Indiana/Tell_City",
+    "of": "-6.0"
+  },
+  {
+    "countryCode": "US",
+    "tzName": "America/Indiana/Vevay",
+    "of": "-5.0"
+  },
+  {
+    "countryCode": "US",
+    "tzName": "America/Indiana/Vincennes",
+    "of": "-5.0"
+  },
+  {
+    "countryCode": "US",
+    "tzName": "America/Indiana/Winamac",
+    "of": "-5.0"
+  },
+  {
+    "countryCode": "CA",
+    "tzName": "America/Inuvik",
+    "of": "-7.0"
+  },
+  {
+    "countryCode": "CA",
+    "tzName": "America/Iqaluit",
+    "of": "-5.0"
+  },
+  {
+    "countryCode": "JM",
+    "tzName": "America/Jamaica",
+    "of": "-5.0"
+  },
+  {
+    "countryCode": "US",
+    "tzName": "America/Juneau",
+    "of": "-9.0"
+  },
+  {
+    "countryCode": "US",
+    "tzName": "America/Kentucky/Louisville",
+    "of": "-5.0"
+  },
+  {
+    "countryCode": "US",
+    "tzName": "America/Kentucky/Monticello",
+    "of": "-5.0"
+  },
+  {
+    "countryCode": "BQ",
+    "tzName": "America/Kralendijk",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "BO",
+    "tzName": "America/La_Paz",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "PE",
+    "tzName": "America/Lima",
+    "of": "-5.0"
+  },
+  {
+    "countryCode": "US",
+    "tzName": "America/Los_Angeles",
+    "of": "-8.0"
+  },
+  {
+    "countryCode": "SX",
+    "tzName": "America/Lower_Princes",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "BR",
+    "tzName": "America/Maceio",
+    "of": "-3.0"
+  },
+  {
+    "countryCode": "NI",
+    "tzName": "America/Managua",
+    "of": "-6.0"
+  },
+  {
+    "countryCode": "BR",
+    "tzName": "America/Manaus",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "MF",
+    "tzName": "America/Marigot",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "MQ",
+    "tzName": "America/Martinique",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "MX",
+    "tzName": "America/Matamoros",
+    "of": "-6.0"
+  },
+  {
+    "countryCode": "MX",
+    "tzName": "America/Mazatlan",
+    "of": "-7.0"
+  },
+  {
+    "countryCode": "US",
+    "tzName": "America/Menominee",
+    "of": "-6.0"
+  },
+  {
+    "countryCode": "MX",
+    "tzName": "America/Merida",
+    "of": "-6.0"
+  },
+  {
+    "countryCode": "US",
+    "tzName": "America/Metlakatla",
+    "of": "-9.0"
+  },
+  {
+    "countryCode": "MX",
+    "tzName": "America/Mexico_City",
+    "of": "-6.0"
+  },
+  {
+    "countryCode": "PM",
+    "tzName": "America/Miquelon",
+    "of": "-3.0"
+  },
+  {
+    "countryCode": "CA",
+    "tzName": "America/Moncton",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "MX",
+    "tzName": "America/Monterrey",
+    "of": "-6.0"
+  },
+  {
+    "countryCode": "UY",
+    "tzName": "America/Montevideo",
+    "of": "-3.0"
+  },
+  {
+    "countryCode": "MS",
+    "tzName": "America/Montserrat",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "BS",
+    "tzName": "America/Nassau",
+    "of": "-5.0"
+  },
+  {
+    "countryCode": "US",
+    "tzName": "America/New_York",
+    "of": "-5.0"
+  },
+  {
+    "countryCode": "US",
+    "tzName": "America/Nome",
+    "of": "-9.0"
+  },
+  {
+    "countryCode": "BR",
+    "tzName": "America/Noronha",
+    "of": "-2.0"
+  },
+  {
+    "countryCode": "US",
+    "tzName": "America/North_Dakota/Beulah",
+    "of": "-6.0"
+  },
+  {
+    "countryCode": "US",
+    "tzName": "America/North_Dakota/Center",
+    "of": "-6.0"
+  },
+  {
+    "countryCode": "US",
+    "tzName": "America/North_Dakota/New_Salem",
+    "of": "-6.0"
+  },
+  {
+    "countryCode": "GL",
+    "tzName": "America/Nuuk",
+    "of": "-2.0"
+  },
+  {
+    "countryCode": "MX",
+    "tzName": "America/Ojinaga",
+    "of": "-6.0"
+  },
+  {
+    "countryCode": "PA",
+    "tzName": "America/Panama",
+    "of": "-5.0"
+  },
+  {
+    "countryCode": "SR",
+    "tzName": "America/Paramaribo",
+    "of": "-3.0"
+  },
+  {
+    "countryCode": "US",
+    "tzName": "America/Phoenix",
+    "of": "-7.0"
+  },
+  {
+    "countryCode": "HT",
+    "tzName": "America/Port-au-Prince",
+    "of": "-5.0"
+  },
+  {
+    "countryCode": "TT",
+    "tzName": "America/Port_of_Spain",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "BR",
+    "tzName": "America/Porto_Velho",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "PR",
+    "tzName": "America/Puerto_Rico",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "CL",
+    "tzName": "America/Punta_Arenas",
+    "of": "-3.0"
+  },
+  {
+    "countryCode": "CA",
+    "tzName": "America/Rankin_Inlet",
+    "of": "-6.0"
+  },
+  {
+    "countryCode": "BR",
+    "tzName": "America/Recife",
+    "of": "-3.0"
+  },
+  {
+    "countryCode": "CA",
+    "tzName": "America/Regina",
+    "of": "-6.0"
+  },
+  {
+    "countryCode": "CA",
+    "tzName": "America/Resolute",
+    "of": "-6.0"
+  },
+  {
+    "countryCode": "BR",
+    "tzName": "America/Rio_Branco",
+    "of": "-5.0"
+  },
+  {
+    "countryCode": "BR",
+    "tzName": "America/Santarem",
+    "of": "-3.0"
+  },
+  {
+    "countryCode": "CL",
+    "tzName": "America/Santiago",
+    "of": "-3.0"
+  },
+  {
+    "countryCode": "DO",
+    "tzName": "America/Santo_Domingo",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "BR",
+    "tzName": "America/Sao_Paulo",
+    "of": "-3.0"
+  },
+  {
+    "countryCode": "GL",
+    "tzName": "America/Scoresbysund",
+    "of": "-1.0"
+  },
+  {
+    "countryCode": "US",
+    "tzName": "America/Sitka",
+    "of": "-9.0"
+  },
+  {
+    "countryCode": "BL",
+    "tzName": "America/St_Barthelemy",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "CA",
+    "tzName": "America/St_Johns",
+    "of": "-3.5"
+  },
+  {
+    "countryCode": "KN",
+    "tzName": "America/St_Kitts",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "LC",
+    "tzName": "America/St_Lucia",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "VI",
+    "tzName": "America/St_Thomas",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "VC",
+    "tzName": "America/St_Vincent",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "CA",
+    "tzName": "America/Swift_Current",
+    "of": "-6.0"
+  },
+  {
+    "countryCode": "HN",
+    "tzName": "America/Tegucigalpa",
+    "of": "-6.0"
+  },
+  {
+    "countryCode": "GL",
+    "tzName": "America/Thule",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "MX",
+    "tzName": "America/Tijuana",
+    "of": "-8.0"
+  },
+  {
+    "countryCode": "CA",
+    "tzName": "America/Toronto",
+    "of": "-5.0"
+  },
+  {
+    "countryCode": "VG",
+    "tzName": "America/Tortola",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "CA",
+    "tzName": "America/Vancouver",
+    "of": "-8.0"
+  },
+  {
+    "countryCode": "CA",
+    "tzName": "America/Whitehorse",
+    "of": "-7.0"
+  },
+  {
+    "countryCode": "CA",
+    "tzName": "America/Winnipeg",
+    "of": "-6.0"
+  },
+  {
+    "countryCode": "US",
+    "tzName": "America/Yakutat",
+    "of": "-9.0"
+  },
+  {
+    "countryCode": "CA",
+    "tzName": "America/Yellowknife",
+    "of": "-7.0"
+  },
+  {
+    "countryCode": "AQ",
+    "tzName": "Antarctica/Casey",
+    "of": "8.0"
+  },
+  {
+    "countryCode": "AQ",
+    "tzName": "Antarctica/Davis",
+    "of": "7.0"
+  },
+  {
+    "countryCode": "AQ",
+    "tzName": "Antarctica/DumontDUrville",
+    "of": "10.0"
+  },
+  {
+    "countryCode": "AU",
+    "tzName": "Antarctica/Macquarie",
+    "of": "11.0"
+  },
+  {
+    "countryCode": "AQ",
+    "tzName": "Antarctica/Mawson",
+    "of": "5.0"
+  },
+  {
+    "countryCode": "AQ",
+    "tzName": "Antarctica/McMurdo",
+    "of": "13.0"
+  },
+  {
+    "countryCode": "AQ",
+    "tzName": "Antarctica/Palmer",
+    "of": "-3.0"
+  },
+  {
+    "countryCode": "AQ",
+    "tzName": "Antarctica/Rothera",
+    "of": "-3.0"
+  },
+  {
+    "countryCode": "AQ",
+    "tzName": "Antarctica/Syowa",
+    "of": "3.0"
+  },
+  {
+    "countryCode": "AQ",
+    "tzName": "Antarctica/Troll",
+    "of": "0.0"
+  },
+  {
+    "countryCode": "AQ",
+    "tzName": "Antarctica/Vostok",
+    "of": "5.0"
+  },
+  {
+    "countryCode": "SJ",
+    "tzName": "Arctic/Longyearbyen",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "YE",
+    "tzName": "Asia/Aden",
+    "of": "3.0"
+  },
+  {
+    "countryCode": "KZ",
+    "tzName": "Asia/Almaty",
+    "of": "6.0"
+  },
+  {
+    "countryCode": "JO",
+    "tzName": "Asia/Amman",
+    "of": "3.0"
+  },
+  {
+    "countryCode": "RU",
+    "tzName": "Asia/Anadyr",
+    "of": "12.0"
+  },
+  {
+    "countryCode": "KZ",
+    "tzName": "Asia/Aqtau",
+    "of": "5.0"
+  },
+  {
+    "countryCode": "KZ",
+    "tzName": "Asia/Aqtobe",
+    "of": "5.0"
+  },
+  {
+    "countryCode": "TM",
+    "tzName": "Asia/Ashgabat",
+    "of": "5.0"
+  },
+  {
+    "countryCode": "KZ",
+    "tzName": "Asia/Atyrau",
+    "of": "5.0"
+  },
+  {
+    "countryCode": "IQ",
+    "tzName": "Asia/Baghdad",
+    "of": "3.0"
+  },
+  {
+    "countryCode": "BH",
+    "tzName": "Asia/Bahrain",
+    "of": "3.0"
+  },
+  {
+    "countryCode": "AZ",
+    "tzName": "Asia/Baku",
+    "of": "4.0"
+  },
+  {
+    "countryCode": "TH",
+    "tzName": "Asia/Bangkok",
+    "of": "7.0"
+  },
+  {
+    "countryCode": "RU",
+    "tzName": "Asia/Barnaul",
+    "of": "7.0"
+  },
+  {
+    "countryCode": "LB",
+    "tzName": "Asia/Beirut",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "KG",
+    "tzName": "Asia/Bishkek",
+    "of": "6.0"
+  },
+  {
+    "countryCode": "BN",
+    "tzName": "Asia/Brunei",
+    "of": "8.0"
+  },
+  {
+    "countryCode": "RU",
+    "tzName": "Asia/Chita",
+    "of": "9.0"
+  },
+  {
+    "countryCode": "MN",
+    "tzName": "Asia/Choibalsan",
+    "of": "8.0"
+  },
+  {
+    "countryCode": "LK",
+    "tzName": "Asia/Colombo",
+    "of": "5.5"
+  },
+  {
+    "countryCode": "SY",
+    "tzName": "Asia/Damascus",
+    "of": "3.0"
+  },
+  {
+    "countryCode": "BD",
+    "tzName": "Asia/Dhaka",
+    "of": "6.0"
+  },
+  {
+    "countryCode": "TL",
+    "tzName": "Asia/Dili",
+    "of": "9.0"
+  },
+  {
+    "countryCode": "AE",
+    "tzName": "Asia/Dubai",
+    "of": "4.0"
+  },
+  {
+    "countryCode": "TJ",
+    "tzName": "Asia/Dushanbe",
+    "of": "5.0"
+  },
+  {
+    "countryCode": "CY",
+    "tzName": "Asia/Famagusta",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "PS",
+    "tzName": "Asia/Gaza",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "PS",
+    "tzName": "Asia/Hebron",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "VN",
+    "tzName": "Asia/Ho_Chi_Minh",
+    "of": "7.0"
+  },
+  {
+    "countryCode": "HK",
+    "tzName": "Asia/Hong_Kong",
+    "of": "8.0"
+  },
+  {
+    "countryCode": "MN",
+    "tzName": "Asia/Hovd",
+    "of": "7.0"
+  },
+  {
+    "countryCode": "RU",
+    "tzName": "Asia/Irkutsk",
+    "of": "8.0"
+  },
+  {
+    "countryCode": "ID",
+    "tzName": "Asia/Jakarta",
+    "of": "7.0"
+  },
+  {
+    "countryCode": "ID",
+    "tzName": "Asia/Jayapura",
+    "of": "9.0"
+  },
+  {
+    "countryCode": "IL",
+    "tzName": "Asia/Jerusalem",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "AF",
+    "tzName": "Asia/Kabul",
+    "of": "4.5"
+  },
+  {
+    "countryCode": "RU",
+    "tzName": "Asia/Kamchatka",
+    "of": "12.0"
+  },
+  {
+    "countryCode": "PK",
+    "tzName": "Asia/Karachi",
+    "of": "5.0"
+  },
+  {
+    "countryCode": "NP",
+    "tzName": "Asia/Kathmandu",
+    "of": "5.75"
+  },
+  {
+    "countryCode": "RU",
+    "tzName": "Asia/Khandyga",
+    "of": "9.0"
+  },
+  {
+    "countryCode": "IN",
+    "tzName": "Asia/Kolkata",
+    "of": "5.5"
+  },
+  {
+    "countryCode": "RU",
+    "tzName": "Asia/Krasnoyarsk",
+    "of": "7.0"
+  },
+  {
+    "countryCode": "MY",
+    "tzName": "Asia/Kuala_Lumpur",
+    "of": "8.0"
+  },
+  {
+    "countryCode": "MY",
+    "tzName": "Asia/Kuching",
+    "of": "8.0"
+  },
+  {
+    "countryCode": "KW",
+    "tzName": "Asia/Kuwait",
+    "of": "3.0"
+  },
+  {
+    "countryCode": "MO",
+    "tzName": "Asia/Macau",
+    "of": "8.0"
+  },
+  {
+    "countryCode": "RU",
+    "tzName": "Asia/Magadan",
+    "of": "11.0"
+  },
+  {
+    "countryCode": "ID",
+    "tzName": "Asia/Makassar",
+    "of": "8.0"
+  },
+  {
+    "countryCode": "PH",
+    "tzName": "Asia/Manila",
+    "of": "8.0"
+  },
+  {
+    "countryCode": "OM",
+    "tzName": "Asia/Muscat",
+    "of": "4.0"
+  },
+  {
+    "countryCode": "CY",
+    "tzName": "Asia/Nicosia",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "RU",
+    "tzName": "Asia/Novokuznetsk",
+    "of": "7.0"
+  },
+  {
+    "countryCode": "RU",
+    "tzName": "Asia/Novosibirsk",
+    "of": "7.0"
+  },
+  {
+    "countryCode": "RU",
+    "tzName": "Asia/Omsk",
+    "of": "6.0"
+  },
+  {
+    "countryCode": "KZ",
+    "tzName": "Asia/Oral",
+    "of": "5.0"
+  },
+  {
+    "countryCode": "KH",
+    "tzName": "Asia/Phnom_Penh",
+    "of": "7.0"
+  },
+  {
+    "countryCode": "ID",
+    "tzName": "Asia/Pontianak",
+    "of": "7.0"
+  },
+  {
+    "countryCode": "KP",
+    "tzName": "Asia/Pyongyang",
+    "of": "9.0"
+  },
+  {
+    "countryCode": "QA",
+    "tzName": "Asia/Qatar",
+    "of": "3.0"
+  },
+  {
+    "countryCode": "KZ",
+    "tzName": "Asia/Qostanay",
+    "of": "6.0"
+  },
+  {
+    "countryCode": "KZ",
+    "tzName": "Asia/Qyzylorda",
+    "of": "5.0"
+  },
+  {
+    "countryCode": "SA",
+    "tzName": "Asia/Riyadh",
+    "of": "3.0"
+  },
+  {
+    "countryCode": "RU",
+    "tzName": "Asia/Sakhalin",
+    "of": "11.0"
+  },
+  {
+    "countryCode": "UZ",
+    "tzName": "Asia/Samarkand",
+    "of": "5.0"
+  },
+  {
+    "countryCode": "KR",
+    "tzName": "Asia/Seoul",
+    "of": "9.0"
+  },
+  {
+    "countryCode": "CN",
+    "tzName": "Asia/Shanghai",
+    "of": "8.0"
+  },
+  {
+    "countryCode": "SG",
+    "tzName": "Asia/Singapore",
+    "of": "8.0"
+  },
+  {
+    "countryCode": "RU",
+    "tzName": "Asia/Srednekolymsk",
+    "of": "11.0"
+  },
+  {
+    "countryCode": "TW",
+    "tzName": "Asia/Taipei",
+    "of": "8.0"
+  },
+  {
+    "countryCode": "UZ",
+    "tzName": "Asia/Tashkent",
+    "of": "5.0"
+  },
+  {
+    "countryCode": "GE",
+    "tzName": "Asia/Tbilisi",
+    "of": "4.0"
+  },
+  {
+    "countryCode": "IR",
+    "tzName": "Asia/Tehran",
+    "of": "3.5"
+  },
+  {
+    "countryCode": "BT",
+    "tzName": "Asia/Thimphu",
+    "of": "6.0"
+  },
+  {
+    "countryCode": "JP",
+    "tzName": "Asia/Tokyo",
+    "of": "9.0"
+  },
+  {
+    "countryCode": "RU",
+    "tzName": "Asia/Tomsk",
+    "of": "7.0"
+  },
+  {
+    "countryCode": "MN",
+    "tzName": "Asia/Ulaanbaatar",
+    "of": "8.0"
+  },
+  {
+    "countryCode": "CN",
+    "tzName": "Asia/Urumqi",
+    "of": "6.0"
+  },
+  {
+    "countryCode": "RU",
+    "tzName": "Asia/Ust-Nera",
+    "of": "10.0"
+  },
+  {
+    "countryCode": "LA",
+    "tzName": "Asia/Vientiane",
+    "of": "7.0"
+  },
+  {
+    "countryCode": "RU",
+    "tzName": "Asia/Vladivostok",
+    "of": "10.0"
+  },
+  {
+    "countryCode": "RU",
+    "tzName": "Asia/Yakutsk",
+    "of": "9.0"
+  },
+  {
+    "countryCode": "MM",
+    "tzName": "Asia/Yangon",
+    "of": "6.5"
+  },
+  {
+    "countryCode": "RU",
+    "tzName": "Asia/Yekaterinburg",
+    "of": "5.0"
+  },
+  {
+    "countryCode": "AM",
+    "tzName": "Asia/Yerevan",
+    "of": "4.0"
+  },
+  {
+    "countryCode": "PT",
+    "tzName": "Atlantic/Azores",
+    "of": "-1.0"
+  },
+  {
+    "countryCode": "BM",
+    "tzName": "Atlantic/Bermuda",
+    "of": "-4.0"
+  },
+  {
+    "countryCode": "ES",
+    "tzName": "Atlantic/Canary",
+    "of": "0.0"
+  },
+  {
+    "countryCode": "CV",
+    "tzName": "Atlantic/Cape_Verde",
+    "of": "-1.0"
+  },
+  {
+    "countryCode": "FO",
+    "tzName": "Atlantic/Faroe",
+    "of": "0.0"
+  },
+  {
+    "countryCode": "PT",
+    "tzName": "Atlantic/Madeira",
+    "of": "0.0"
+  },
+  {
+    "countryCode": "IS",
+    "tzName": "Atlantic/Reykjavik",
+    "of": "0.0"
+  },
+  {
+    "countryCode": "GS",
+    "tzName": "Atlantic/South_Georgia",
+    "of": "-2.0"
+  },
+  {
+    "countryCode": "SH",
+    "tzName": "Atlantic/St_Helena",
+    "of": "0.0"
+  },
+  {
+    "countryCode": "FK",
+    "tzName": "Atlantic/Stanley",
+    "of": "-3.0"
+  },
+  {
+    "countryCode": "AU",
+    "tzName": "Australia/Adelaide",
+    "of": "10.5"
+  },
+  {
+    "countryCode": "AU",
+    "tzName": "Australia/Brisbane",
+    "of": "10.0"
+  },
+  {
+    "countryCode": "AU",
+    "tzName": "Australia/Broken_Hill",
+    "of": "10.5"
+  },
+  {
+    "countryCode": "AU",
+    "tzName": "Australia/Darwin",
+    "of": "9.5"
+  },
+  {
+    "countryCode": "AU",
+    "tzName": "Australia/Eucla",
+    "of": "8.75"
+  },
+  {
+    "countryCode": "AU",
+    "tzName": "Australia/Hobart",
+    "of": "11.0"
+  },
+  {
+    "countryCode": "AU",
+    "tzName": "Australia/Lindeman",
+    "of": "10.0"
+  },
+  {
+    "countryCode": "AU",
+    "tzName": "Australia/Lord_Howe",
+    "of": "11.0"
+  },
+  {
+    "countryCode": "AU",
+    "tzName": "Australia/Melbourne",
+    "of": "11.0"
+  },
+  {
+    "countryCode": "AU",
+    "tzName": "Australia/Perth",
+    "of": "8.0"
+  },
+  {
+    "countryCode": "AU",
+    "tzName": "Australia/Sydney",
+    "of": "11.0"
+  },
+  {
+    "countryCode": "NL",
+    "tzName": "Europe/Amsterdam",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "AD",
+    "tzName": "Europe/Andorra",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "RU",
+    "tzName": "Europe/Astrakhan",
+    "of": "4.0"
+  },
+  {
+    "countryCode": "GR",
+    "tzName": "Europe/Athens",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "RS",
+    "tzName": "Europe/Belgrade",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "DE",
+    "tzName": "Europe/Berlin",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "SK",
+    "tzName": "Europe/Bratislava",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "BE",
+    "tzName": "Europe/Brussels",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "RO",
+    "tzName": "Europe/Bucharest",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "HU",
+    "tzName": "Europe/Budapest",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "DE",
+    "tzName": "Europe/Busingen",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "MD",
+    "tzName": "Europe/Chisinau",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "DK",
+    "tzName": "Europe/Copenhagen",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "IE",
+    "tzName": "Europe/Dublin",
+    "of": "0.0"
+  },
+  {
+    "countryCode": "GI",
+    "tzName": "Europe/Gibraltar",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "GG",
+    "tzName": "Europe/Guernsey",
+    "of": "0.0"
+  },
+  {
+    "countryCode": "FI",
+    "tzName": "Europe/Helsinki",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "IM",
+    "tzName": "Europe/Isle_of_Man",
+    "of": "0.0"
+  },
+  {
+    "countryCode": "TR",
+    "tzName": "Europe/Istanbul",
+    "of": "3.0"
+  },
+  {
+    "countryCode": "JE",
+    "tzName": "Europe/Jersey",
+    "of": "0.0"
+  },
+  {
+    "countryCode": "RU",
+    "tzName": "Europe/Kaliningrad",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "RU",
+    "tzName": "Europe/Kirov",
+    "of": "3.0"
+  },
+  {
+    "countryCode": "UA",
+    "tzName": "Europe/Kyiv",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "PT",
+    "tzName": "Europe/Lisbon",
+    "of": "0.0"
+  },
+  {
+    "countryCode": "SI",
+    "tzName": "Europe/Ljubljana",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "GB",
+    "tzName": "Europe/London",
+    "of": "0.0"
+  },
+  {
+    "countryCode": "LU",
+    "tzName": "Europe/Luxembourg",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "ES",
+    "tzName": "Europe/Madrid",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "MT",
+    "tzName": "Europe/Malta",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "AX",
+    "tzName": "Europe/Mariehamn",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "BY",
+    "tzName": "Europe/Minsk",
+    "of": "3.0"
+  },
+  {
+    "countryCode": "MC",
+    "tzName": "Europe/Monaco",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "RU",
+    "tzName": "Europe/Moscow",
+    "of": "3.0"
+  },
+  {
+    "countryCode": "NO",
+    "tzName": "Europe/Oslo",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "FR",
+    "tzName": "Europe/Paris",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "ME",
+    "tzName": "Europe/Podgorica",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "CZ",
+    "tzName": "Europe/Prague",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "LV",
+    "tzName": "Europe/Riga",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "IT",
+    "tzName": "Europe/Rome",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "RU",
+    "tzName": "Europe/Samara",
+    "of": "4.0"
+  },
+  {
+    "countryCode": "SM",
+    "tzName": "Europe/San_Marino",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "BA",
+    "tzName": "Europe/Sarajevo",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "RU",
+    "tzName": "Europe/Saratov",
+    "of": "4.0"
+  },
+  {
+    "countryCode": "UA",
+    "tzName": "Europe/Simferopol",
+    "of": "3.0"
+  },
+  {
+    "countryCode": "MK",
+    "tzName": "Europe/Skopje",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "BG",
+    "tzName": "Europe/Sofia",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "SE",
+    "tzName": "Europe/Stockholm",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "EE",
+    "tzName": "Europe/Tallinn",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "AL",
+    "tzName": "Europe/Tirane",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "RU",
+    "tzName": "Europe/Ulyanovsk",
+    "of": "4.0"
+  },
+  {
+    "countryCode": "LI",
+    "tzName": "Europe/Vaduz",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "VA",
+    "tzName": "Europe/Vatican",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "AT",
+    "tzName": "Europe/Vienna",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "LT",
+    "tzName": "Europe/Vilnius",
+    "of": "2.0"
+  },
+  {
+    "countryCode": "RU",
+    "tzName": "Europe/Volgograd",
+    "of": "3.0"
+  },
+  {
+    "countryCode": "PL",
+    "tzName": "Europe/Warsaw",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "HR",
+    "tzName": "Europe/Zagreb",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "CH",
+    "tzName": "Europe/Zurich",
+    "of": "1.0"
+  },
+  {
+    "countryCode": "MG",
+    "tzName": "Indian/Antananarivo",
+    "of": "3.0"
+  },
+  {
+    "countryCode": "IO",
+    "tzName": "Indian/Chagos",
+    "of": "6.0"
+  },
+  {
+    "countryCode": "CX",
+    "tzName": "Indian/Christmas",
+    "of": "7.0"
+  },
+  {
+    "countryCode": "CC",
+    "tzName": "Indian/Cocos",
+    "of": "6.5"
+  },
+  {
+    "countryCode": "KM",
+    "tzName": "Indian/Comoro",
+    "of": "3.0"
+  },
+  {
+    "countryCode": "TF",
+    "tzName": "Indian/Kerguelen",
+    "of": "5.0"
+  },
+  {
+    "countryCode": "SC",
+    "tzName": "Indian/Mahe",
+    "of": "4.0"
+  },
+  {
+    "countryCode": "MV",
+    "tzName": "Indian/Maldives",
+    "of": "5.0"
+  },
+  {
+    "countryCode": "MU",
+    "tzName": "Indian/Mauritius",
+    "of": "4.0"
+  },
+  {
+    "countryCode": "YT",
+    "tzName": "Indian/Mayotte",
+    "of": "3.0"
+  },
+  {
+    "countryCode": "RE",
+    "tzName": "Indian/Reunion",
+    "of": "4.0"
+  },
+  {
+    "countryCode": "WS",
+    "tzName": "Pacific/Apia",
+    "of": "13.0"
+  },
+  {
+    "countryCode": "NZ",
+    "tzName": "Pacific/Auckland",
+    "of": "13.0"
+  },
+  {
+    "countryCode": "PG",
+    "tzName": "Pacific/Bougainville",
+    "of": "11.0"
+  },
+  {
+    "countryCode": "NZ",
+    "tzName": "Pacific/Chatham",
+    "of": "13.75"
+  },
+  {
+    "countryCode": "FM",
+    "tzName": "Pacific/Chuuk",
+    "of": "10.0"
+  },
+  {
+    "countryCode": "CL",
+    "tzName": "Pacific/Easter",
+    "of": "-5.0"
+  },
+  {
+    "countryCode": "VU",
+    "tzName": "Pacific/Efate",
+    "of": "11.0"
+  },
+  {
+    "countryCode": "TK",
+    "tzName": "Pacific/Fakaofo",
+    "of": "13.0"
+  },
+  {
+    "countryCode": "FJ",
+    "tzName": "Pacific/Fiji",
+    "of": "12.0"
+  },
+  {
+    "countryCode": "TV",
+    "tzName": "Pacific/Funafuti",
+    "of": "12.0"
+  },
+  {
+    "countryCode": "EC",
+    "tzName": "Pacific/Galapagos",
+    "of": "-6.0"
+  },
+  {
+    "countryCode": "PF",
+    "tzName": "Pacific/Gambier",
+    "of": "-9.0"
+  },
+  {
+    "countryCode": "SB",
+    "tzName": "Pacific/Guadalcanal",
+    "of": "11.0"
+  },
+  {
+    "countryCode": "GU",
+    "tzName": "Pacific/Guam",
+    "of": "10.0"
+  },
+  {
+    "countryCode": "US",
+    "tzName": "Pacific/Honolulu",
+    "of": "-10.0"
+  },
+  {
+    "countryCode": "KI",
+    "tzName": "Pacific/Kanton",
+    "of": "13.0"
+  },
+  {
+    "countryCode": "KI",
+    "tzName": "Pacific/Kiritimati",
+    "of": "14.0"
+  },
+  {
+    "countryCode": "FM",
+    "tzName": "Pacific/Kosrae",
+    "of": "11.0"
+  },
+  {
+    "countryCode": "MH",
+    "tzName": "Pacific/Kwajalein",
+    "of": "12.0"
+  },
+  {
+    "countryCode": "MH",
+    "tzName": "Pacific/Majuro",
+    "of": "12.0"
+  },
+  {
+    "countryCode": "PF",
+    "tzName": "Pacific/Marquesas",
+    "of": "-9.5"
+  },
+  {
+    "countryCode": "UM",
+    "tzName": "Pacific/Midway",
+    "of": "-11.0"
+  },
+  {
+    "countryCode": "NR",
+    "tzName": "Pacific/Nauru",
+    "of": "12.0"
+  },
+  {
+    "countryCode": "NU",
+    "tzName": "Pacific/Niue",
+    "of": "-11.0"
+  },
+  {
+    "countryCode": "NF",
+    "tzName": "Pacific/Norfolk",
+    "of": "12.0"
+  },
+  {
+    "countryCode": "NC",
+    "tzName": "Pacific/Noumea",
+    "of": "11.0"
+  },
+  {
+    "countryCode": "AS",
+    "tzName": "Pacific/Pago_Pago",
+    "of": "-11.0"
+  },
+  {
+    "countryCode": "PW",
+    "tzName": "Pacific/Palau",
+    "of": "9.0"
+  },
+  {
+    "countryCode": "PN",
+    "tzName": "Pacific/Pitcairn",
+    "of": "-8.0"
+  },
+  {
+    "countryCode": "FM",
+    "tzName": "Pacific/Pohnpei",
+    "of": "11.0"
+  },
+  {
+    "countryCode": "PG",
+    "tzName": "Pacific/Port_Moresby",
+    "of": "10.0"
+  },
+  {
+    "countryCode": "CK",
+    "tzName": "Pacific/Rarotonga",
+    "of": "-10.0"
+  },
+  {
+    "countryCode": "MP",
+    "tzName": "Pacific/Saipan",
+    "of": "10.0"
+  },
+  {
+    "countryCode": "PF",
+    "tzName": "Pacific/Tahiti",
+    "of": "-10.0"
+  },
+  {
+    "countryCode": "KI",
+    "tzName": "Pacific/Tarawa",
+    "of": "12.0"
+  },
+  {
+    "countryCode": "TO",
+    "tzName": "Pacific/Tongatapu",
+    "of": "13.0"
+  },
+  {
+    "countryCode": "UM",
+    "tzName": "Pacific/Wake",
+    "of": "12.0"
+  },
+  {
+    "countryCode": "WF",
+    "tzName": "Pacific/Wallis",
+    "of": "12.0"
+  }
+]
