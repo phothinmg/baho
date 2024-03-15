@@ -1,7 +1,7 @@
 [
   {
-    "code": "CI",
-    "tzname": "Africa/Abidjan",
+    "countryCode": "CI",
+    "tzName": "Africa/Abidjan",
     "offset": {
       "hour": 0,
       "minute": 0,
@@ -10,8 +10,8 @@
     }
   },
   {
-    "code": "GH",
-    "tzname": "Africa/Accra",
+    "countryCode": "GH",
+    "tzName": "Africa/Accra",
     "offset": {
       "hour": 0,
       "minute": 0,
@@ -20,8 +20,8 @@
     }
   },
   {
-    "code": "ET",
-    "tzname": "Africa/Addis_Ababa",
+    "countryCode": "ET",
+    "tzName": "Africa/Addis_Ababa",
     "offset": {
       "hour": 3,
       "minute": 180,
@@ -30,8 +30,8 @@
     }
   },
   {
-    "code": "DZ",
-    "tzname": "Africa/Algiers",
+    "countryCode": "DZ",
+    "tzName": "Africa/Algiers",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -40,8 +40,8 @@
     }
   },
   {
-    "code": "ER",
-    "tzname": "Africa/Asmara",
+    "countryCode": "ER",
+    "tzName": "Africa/Asmara",
     "offset": {
       "hour": 3,
       "minute": 180,
@@ -50,8 +50,8 @@
     }
   },
   {
-    "code": "ML",
-    "tzname": "Africa/Bamako",
+    "countryCode": "ML",
+    "tzName": "Africa/Bamako",
     "offset": {
       "hour": 0,
       "minute": 0,
@@ -60,8 +60,8 @@
     }
   },
   {
-    "code": "CF",
-    "tzname": "Africa/Bangui",
+    "countryCode": "CF",
+    "tzName": "Africa/Bangui",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -70,8 +70,8 @@
     }
   },
   {
-    "code": "GM",
-    "tzname": "Africa/Banjul",
+    "countryCode": "GM",
+    "tzName": "Africa/Banjul",
     "offset": {
       "hour": 0,
       "minute": 0,
@@ -80,8 +80,8 @@
     }
   },
   {
-    "code": "GW",
-    "tzname": "Africa/Bissau",
+    "countryCode": "GW",
+    "tzName": "Africa/Bissau",
     "offset": {
       "hour": 0,
       "minute": 0,
@@ -90,8 +90,8 @@
     }
   },
   {
-    "code": "MW",
-    "tzname": "Africa/Blantyre",
+    "countryCode": "MW",
+    "tzName": "Africa/Blantyre",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -100,8 +100,8 @@
     }
   },
   {
-    "code": "CG",
-    "tzname": "Africa/Brazzaville",
+    "countryCode": "CG",
+    "tzName": "Africa/Brazzaville",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -110,8 +110,8 @@
     }
   },
   {
-    "code": "BI",
-    "tzname": "Africa/Bujumbura",
+    "countryCode": "BI",
+    "tzName": "Africa/Bujumbura",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -120,8 +120,8 @@
     }
   },
   {
-    "code": "EG",
-    "tzname": "Africa/Cairo",
+    "countryCode": "EG",
+    "tzName": "Africa/Cairo",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -130,8 +130,8 @@
     }
   },
   {
-    "code": "MA",
-    "tzname": "Africa/Casablanca",
+    "countryCode": "MA",
+    "tzName": "Africa/Casablanca",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -140,8 +140,8 @@
     }
   },
   {
-    "code": "ES",
-    "tzname": "Africa/Ceuta",
+    "countryCode": "ES",
+    "tzName": "Africa/Ceuta",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -150,8 +150,8 @@
     }
   },
   {
-    "code": "GN",
-    "tzname": "Africa/Conakry",
+    "countryCode": "GN",
+    "tzName": "Africa/Conakry",
     "offset": {
       "hour": 0,
       "minute": 0,
@@ -160,8 +160,8 @@
     }
   },
   {
-    "code": "SN",
-    "tzname": "Africa/Dakar",
+    "countryCode": "SN",
+    "tzName": "Africa/Dakar",
     "offset": {
       "hour": 0,
       "minute": 0,
@@ -170,8 +170,8 @@
     }
   },
   {
-    "code": "TZ",
-    "tzname": "Africa/Dar_es_Salaam",
+    "countryCode": "TZ",
+    "tzName": "Africa/Dar_es_Salaam",
     "offset": {
       "hour": 3,
       "minute": 180,
@@ -180,8 +180,8 @@
     }
   },
   {
-    "code": "DJ",
-    "tzname": "Africa/Djibouti",
+    "countryCode": "DJ",
+    "tzName": "Africa/Djibouti",
     "offset": {
       "hour": 3,
       "minute": 180,
@@ -190,8 +190,8 @@
     }
   },
   {
-    "code": "CM",
-    "tzname": "Africa/Douala",
+    "countryCode": "CM",
+    "tzName": "Africa/Douala",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -200,8 +200,8 @@
     }
   },
   {
-    "code": "EH",
-    "tzname": "Africa/El_Aaiun",
+    "countryCode": "EH",
+    "tzName": "Africa/El_Aaiun",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -210,8 +210,8 @@
     }
   },
   {
-    "code": "SL",
-    "tzname": "Africa/Freetown",
+    "countryCode": "SL",
+    "tzName": "Africa/Freetown",
     "offset": {
       "hour": 0,
       "minute": 0,
@@ -220,8 +220,8 @@
     }
   },
   {
-    "code": "BW",
-    "tzname": "Africa/Gaborone",
+    "countryCode": "BW",
+    "tzName": "Africa/Gaborone",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -230,8 +230,8 @@
     }
   },
   {
-    "code": "ZW",
-    "tzname": "Africa/Harare",
+    "countryCode": "ZW",
+    "tzName": "Africa/Harare",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -240,8 +240,8 @@
     }
   },
   {
-    "code": "ZA",
-    "tzname": "Africa/Johannesburg",
+    "countryCode": "ZA",
+    "tzName": "Africa/Johannesburg",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -250,8 +250,8 @@
     }
   },
   {
-    "code": "SS",
-    "tzname": "Africa/Juba",
+    "countryCode": "SS",
+    "tzName": "Africa/Juba",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -260,8 +260,8 @@
     }
   },
   {
-    "code": "UG",
-    "tzname": "Africa/Kampala",
+    "countryCode": "UG",
+    "tzName": "Africa/Kampala",
     "offset": {
       "hour": 3,
       "minute": 180,
@@ -270,8 +270,8 @@
     }
   },
   {
-    "code": "SD",
-    "tzname": "Africa/Khartoum",
+    "countryCode": "SD",
+    "tzName": "Africa/Khartoum",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -280,8 +280,8 @@
     }
   },
   {
-    "code": "RW",
-    "tzname": "Africa/Kigali",
+    "countryCode": "RW",
+    "tzName": "Africa/Kigali",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -290,8 +290,8 @@
     }
   },
   {
-    "code": "CD",
-    "tzname": "Africa/Kinshasa",
+    "countryCode": "CD",
+    "tzName": "Africa/Kinshasa",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -300,8 +300,8 @@
     }
   },
   {
-    "code": "NG",
-    "tzname": "Africa/Lagos",
+    "countryCode": "NG",
+    "tzName": "Africa/Lagos",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -310,8 +310,8 @@
     }
   },
   {
-    "code": "GA",
-    "tzname": "Africa/Libreville",
+    "countryCode": "GA",
+    "tzName": "Africa/Libreville",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -320,8 +320,8 @@
     }
   },
   {
-    "code": "TG",
-    "tzname": "Africa/Lome",
+    "countryCode": "TG",
+    "tzName": "Africa/Lome",
     "offset": {
       "hour": 0,
       "minute": 0,
@@ -330,8 +330,8 @@
     }
   },
   {
-    "code": "AO",
-    "tzname": "Africa/Luanda",
+    "countryCode": "AO",
+    "tzName": "Africa/Luanda",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -340,8 +340,8 @@
     }
   },
   {
-    "code": "CD",
-    "tzname": "Africa/Lubumbashi",
+    "countryCode": "CD",
+    "tzName": "Africa/Lubumbashi",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -350,8 +350,8 @@
     }
   },
   {
-    "code": "ZM",
-    "tzname": "Africa/Lusaka",
+    "countryCode": "ZM",
+    "tzName": "Africa/Lusaka",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -360,8 +360,8 @@
     }
   },
   {
-    "code": "GQ",
-    "tzname": "Africa/Malabo",
+    "countryCode": "GQ",
+    "tzName": "Africa/Malabo",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -370,8 +370,8 @@
     }
   },
   {
-    "code": "MZ",
-    "tzname": "Africa/Maputo",
+    "countryCode": "MZ",
+    "tzName": "Africa/Maputo",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -380,8 +380,8 @@
     }
   },
   {
-    "code": "LS",
-    "tzname": "Africa/Maseru",
+    "countryCode": "LS",
+    "tzName": "Africa/Maseru",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -390,8 +390,8 @@
     }
   },
   {
-    "code": "SZ",
-    "tzname": "Africa/Mbabane",
+    "countryCode": "SZ",
+    "tzName": "Africa/Mbabane",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -400,8 +400,8 @@
     }
   },
   {
-    "code": "SO",
-    "tzname": "Africa/Mogadishu",
+    "countryCode": "SO",
+    "tzName": "Africa/Mogadishu",
     "offset": {
       "hour": 3,
       "minute": 180,
@@ -410,8 +410,8 @@
     }
   },
   {
-    "code": "LR",
-    "tzname": "Africa/Monrovia",
+    "countryCode": "LR",
+    "tzName": "Africa/Monrovia",
     "offset": {
       "hour": 0,
       "minute": 0,
@@ -420,8 +420,8 @@
     }
   },
   {
-    "code": "KE",
-    "tzname": "Africa/Nairobi",
+    "countryCode": "KE",
+    "tzName": "Africa/Nairobi",
     "offset": {
       "hour": 3,
       "minute": 180,
@@ -430,8 +430,8 @@
     }
   },
   {
-    "code": "TD",
-    "tzname": "Africa/Ndjamena",
+    "countryCode": "TD",
+    "tzName": "Africa/Ndjamena",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -440,8 +440,8 @@
     }
   },
   {
-    "code": "NE",
-    "tzname": "Africa/Niamey",
+    "countryCode": "NE",
+    "tzName": "Africa/Niamey",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -450,8 +450,8 @@
     }
   },
   {
-    "code": "MR",
-    "tzname": "Africa/Nouakchott",
+    "countryCode": "MR",
+    "tzName": "Africa/Nouakchott",
     "offset": {
       "hour": 0,
       "minute": 0,
@@ -460,8 +460,8 @@
     }
   },
   {
-    "code": "BF",
-    "tzname": "Africa/Ouagadougou",
+    "countryCode": "BF",
+    "tzName": "Africa/Ouagadougou",
     "offset": {
       "hour": 0,
       "minute": 0,
@@ -470,8 +470,8 @@
     }
   },
   {
-    "code": "BJ",
-    "tzname": "Africa/Porto-Novo",
+    "countryCode": "BJ",
+    "tzName": "Africa/Porto-Novo",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -480,8 +480,8 @@
     }
   },
   {
-    "code": "ST",
-    "tzname": "Africa/Sao_Tome",
+    "countryCode": "ST",
+    "tzName": "Africa/Sao_Tome",
     "offset": {
       "hour": 0,
       "minute": 0,
@@ -490,8 +490,8 @@
     }
   },
   {
-    "code": "LY",
-    "tzname": "Africa/Tripoli",
+    "countryCode": "LY",
+    "tzName": "Africa/Tripoli",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -500,8 +500,8 @@
     }
   },
   {
-    "code": "TN",
-    "tzname": "Africa/Tunis",
+    "countryCode": "TN",
+    "tzName": "Africa/Tunis",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -510,8 +510,8 @@
     }
   },
   {
-    "code": "NA",
-    "tzname": "Africa/Windhoek",
+    "countryCode": "NA",
+    "tzName": "Africa/Windhoek",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -520,8 +520,8 @@
     }
   },
   {
-    "code": "US",
-    "tzname": "America/Adak",
+    "countryCode": "US",
+    "tzName": "America/Adak",
     "offset": {
       "hour": -10,
       "minute": -600,
@@ -530,8 +530,8 @@
     }
   },
   {
-    "code": "US",
-    "tzname": "America/Anchorage",
+    "countryCode": "US",
+    "tzName": "America/Anchorage",
     "offset": {
       "hour": -9,
       "minute": -540,
@@ -540,8 +540,8 @@
     }
   },
   {
-    "code": "AI",
-    "tzname": "America/Anguilla",
+    "countryCode": "AI",
+    "tzName": "America/Anguilla",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -550,8 +550,8 @@
     }
   },
   {
-    "code": "AG",
-    "tzname": "America/Antigua",
+    "countryCode": "AG",
+    "tzName": "America/Antigua",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -560,8 +560,8 @@
     }
   },
   {
-    "code": "BR",
-    "tzname": "America/Araguaina",
+    "countryCode": "BR",
+    "tzName": "America/Araguaina",
     "offset": {
       "hour": -3,
       "minute": -180,
@@ -570,8 +570,8 @@
     }
   },
   {
-    "code": "AR",
-    "tzname": "America/Argentina/Buenos_Aires",
+    "countryCode": "AR",
+    "tzName": "America/Argentina/Buenos_Aires",
     "offset": {
       "hour": -3,
       "minute": -180,
@@ -580,8 +580,8 @@
     }
   },
   {
-    "code": "AR",
-    "tzname": "America/Argentina/Catamarca",
+    "countryCode": "AR",
+    "tzName": "America/Argentina/Catamarca",
     "offset": {
       "hour": -3,
       "minute": -180,
@@ -590,8 +590,8 @@
     }
   },
   {
-    "code": "AR",
-    "tzname": "America/Argentina/Cordoba",
+    "countryCode": "AR",
+    "tzName": "America/Argentina/Cordoba",
     "offset": {
       "hour": -3,
       "minute": -180,
@@ -600,8 +600,8 @@
     }
   },
   {
-    "code": "AR",
-    "tzname": "America/Argentina/Jujuy",
+    "countryCode": "AR",
+    "tzName": "America/Argentina/Jujuy",
     "offset": {
       "hour": -3,
       "minute": -180,
@@ -610,8 +610,8 @@
     }
   },
   {
-    "code": "AR",
-    "tzname": "America/Argentina/La_Rioja",
+    "countryCode": "AR",
+    "tzName": "America/Argentina/La_Rioja",
     "offset": {
       "hour": -3,
       "minute": -180,
@@ -620,8 +620,8 @@
     }
   },
   {
-    "code": "AR",
-    "tzname": "America/Argentina/Mendoza",
+    "countryCode": "AR",
+    "tzName": "America/Argentina/Mendoza",
     "offset": {
       "hour": -3,
       "minute": -180,
@@ -630,8 +630,8 @@
     }
   },
   {
-    "code": "AR",
-    "tzname": "America/Argentina/Rio_Gallegos",
+    "countryCode": "AR",
+    "tzName": "America/Argentina/Rio_Gallegos",
     "offset": {
       "hour": -3,
       "minute": -180,
@@ -640,8 +640,8 @@
     }
   },
   {
-    "code": "AR",
-    "tzname": "America/Argentina/Salta",
+    "countryCode": "AR",
+    "tzName": "America/Argentina/Salta",
     "offset": {
       "hour": -3,
       "minute": -180,
@@ -650,8 +650,8 @@
     }
   },
   {
-    "code": "AR",
-    "tzname": "America/Argentina/San_Juan",
+    "countryCode": "AR",
+    "tzName": "America/Argentina/San_Juan",
     "offset": {
       "hour": -3,
       "minute": -180,
@@ -660,8 +660,8 @@
     }
   },
   {
-    "code": "AR",
-    "tzname": "America/Argentina/San_Luis",
+    "countryCode": "AR",
+    "tzName": "America/Argentina/San_Luis",
     "offset": {
       "hour": -3,
       "minute": -180,
@@ -670,8 +670,8 @@
     }
   },
   {
-    "code": "AR",
-    "tzname": "America/Argentina/Tucuman",
+    "countryCode": "AR",
+    "tzName": "America/Argentina/Tucuman",
     "offset": {
       "hour": -3,
       "minute": -180,
@@ -680,8 +680,8 @@
     }
   },
   {
-    "code": "AR",
-    "tzname": "America/Argentina/Ushuaia",
+    "countryCode": "AR",
+    "tzName": "America/Argentina/Ushuaia",
     "offset": {
       "hour": -3,
       "minute": -180,
@@ -690,8 +690,8 @@
     }
   },
   {
-    "code": "AW",
-    "tzname": "America/Aruba",
+    "countryCode": "AW",
+    "tzName": "America/Aruba",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -700,8 +700,8 @@
     }
   },
   {
-    "code": "PY",
-    "tzname": "America/Asuncion",
+    "countryCode": "PY",
+    "tzName": "America/Asuncion",
     "offset": {
       "hour": -3,
       "minute": -180,
@@ -710,8 +710,8 @@
     }
   },
   {
-    "code": "CA",
-    "tzname": "America/Atikokan",
+    "countryCode": "CA",
+    "tzName": "America/Atikokan",
     "offset": {
       "hour": -5,
       "minute": -300,
@@ -720,8 +720,8 @@
     }
   },
   {
-    "code": "BR",
-    "tzname": "America/Bahia",
+    "countryCode": "BR",
+    "tzName": "America/Bahia",
     "offset": {
       "hour": -3,
       "minute": -180,
@@ -730,8 +730,8 @@
     }
   },
   {
-    "code": "MX",
-    "tzname": "America/Bahia_Banderas",
+    "countryCode": "MX",
+    "tzName": "America/Bahia_Banderas",
     "offset": {
       "hour": -6,
       "minute": -360,
@@ -740,8 +740,8 @@
     }
   },
   {
-    "code": "BB",
-    "tzname": "America/Barbados",
+    "countryCode": "BB",
+    "tzName": "America/Barbados",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -750,8 +750,8 @@
     }
   },
   {
-    "code": "BR",
-    "tzname": "America/Belem",
+    "countryCode": "BR",
+    "tzName": "America/Belem",
     "offset": {
       "hour": -3,
       "minute": -180,
@@ -760,8 +760,8 @@
     }
   },
   {
-    "code": "BZ",
-    "tzname": "America/Belize",
+    "countryCode": "BZ",
+    "tzName": "America/Belize",
     "offset": {
       "hour": -6,
       "minute": -360,
@@ -770,8 +770,8 @@
     }
   },
   {
-    "code": "CA",
-    "tzname": "America/Blanc-Sablon",
+    "countryCode": "CA",
+    "tzName": "America/Blanc-Sablon",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -780,8 +780,8 @@
     }
   },
   {
-    "code": "BR",
-    "tzname": "America/Boa_Vista",
+    "countryCode": "BR",
+    "tzName": "America/Boa_Vista",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -790,8 +790,8 @@
     }
   },
   {
-    "code": "CO",
-    "tzname": "America/Bogota",
+    "countryCode": "CO",
+    "tzName": "America/Bogota",
     "offset": {
       "hour": -5,
       "minute": -300,
@@ -800,8 +800,8 @@
     }
   },
   {
-    "code": "US",
-    "tzname": "America/Boise",
+    "countryCode": "US",
+    "tzName": "America/Boise",
     "offset": {
       "hour": -7,
       "minute": -420,
@@ -810,8 +810,8 @@
     }
   },
   {
-    "code": "CA",
-    "tzname": "America/Cambridge_Bay",
+    "countryCode": "CA",
+    "tzName": "America/Cambridge_Bay",
     "offset": {
       "hour": -7,
       "minute": -420,
@@ -820,8 +820,8 @@
     }
   },
   {
-    "code": "BR",
-    "tzname": "America/Campo_Grande",
+    "countryCode": "BR",
+    "tzName": "America/Campo_Grande",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -830,8 +830,8 @@
     }
   },
   {
-    "code": "MX",
-    "tzname": "America/Cancun",
+    "countryCode": "MX",
+    "tzName": "America/Cancun",
     "offset": {
       "hour": -5,
       "minute": -300,
@@ -840,8 +840,8 @@
     }
   },
   {
-    "code": "VE",
-    "tzname": "America/Caracas",
+    "countryCode": "VE",
+    "tzName": "America/Caracas",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -850,8 +850,8 @@
     }
   },
   {
-    "code": "GF",
-    "tzname": "America/Cayenne",
+    "countryCode": "GF",
+    "tzName": "America/Cayenne",
     "offset": {
       "hour": -3,
       "minute": -180,
@@ -860,8 +860,8 @@
     }
   },
   {
-    "code": "KY",
-    "tzname": "America/Cayman",
+    "countryCode": "KY",
+    "tzName": "America/Cayman",
     "offset": {
       "hour": -5,
       "minute": -300,
@@ -870,8 +870,8 @@
     }
   },
   {
-    "code": "US",
-    "tzname": "America/Chicago",
+    "countryCode": "US",
+    "tzName": "America/Chicago",
     "offset": {
       "hour": -6,
       "minute": -360,
@@ -880,8 +880,8 @@
     }
   },
   {
-    "code": "MX",
-    "tzname": "America/Chihuahua",
+    "countryCode": "MX",
+    "tzName": "America/Chihuahua",
     "offset": {
       "hour": -6,
       "minute": -360,
@@ -890,8 +890,8 @@
     }
   },
   {
-    "code": "MX",
-    "tzname": "America/Ciudad_Juarez",
+    "countryCode": "MX",
+    "tzName": "America/Ciudad_Juarez",
     "offset": {
       "hour": -7,
       "minute": -420,
@@ -900,8 +900,8 @@
     }
   },
   {
-    "code": "CR",
-    "tzname": "America/Costa_Rica",
+    "countryCode": "CR",
+    "tzName": "America/Costa_Rica",
     "offset": {
       "hour": -6,
       "minute": -360,
@@ -910,8 +910,8 @@
     }
   },
   {
-    "code": "CA",
-    "tzname": "America/Creston",
+    "countryCode": "CA",
+    "tzName": "America/Creston",
     "offset": {
       "hour": -7,
       "minute": -420,
@@ -920,8 +920,8 @@
     }
   },
   {
-    "code": "BR",
-    "tzname": "America/Cuiaba",
+    "countryCode": "BR",
+    "tzName": "America/Cuiaba",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -930,8 +930,8 @@
     }
   },
   {
-    "code": "CW",
-    "tzname": "America/Curacao",
+    "countryCode": "CW",
+    "tzName": "America/Curacao",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -940,8 +940,8 @@
     }
   },
   {
-    "code": "GL",
-    "tzname": "America/Danmarkshavn",
+    "countryCode": "GL",
+    "tzName": "America/Danmarkshavn",
     "offset": {
       "hour": 0,
       "minute": 0,
@@ -950,8 +950,8 @@
     }
   },
   {
-    "code": "CA",
-    "tzname": "America/Dawson",
+    "countryCode": "CA",
+    "tzName": "America/Dawson",
     "offset": {
       "hour": -7,
       "minute": -420,
@@ -960,8 +960,8 @@
     }
   },
   {
-    "code": "CA",
-    "tzname": "America/Dawson_Creek",
+    "countryCode": "CA",
+    "tzName": "America/Dawson_Creek",
     "offset": {
       "hour": -7,
       "minute": -420,
@@ -970,8 +970,8 @@
     }
   },
   {
-    "code": "US",
-    "tzname": "America/Denver",
+    "countryCode": "US",
+    "tzName": "America/Denver",
     "offset": {
       "hour": -7,
       "minute": -420,
@@ -980,8 +980,8 @@
     }
   },
   {
-    "code": "US",
-    "tzname": "America/Detroit",
+    "countryCode": "US",
+    "tzName": "America/Detroit",
     "offset": {
       "hour": -5,
       "minute": -300,
@@ -990,8 +990,8 @@
     }
   },
   {
-    "code": "DM",
-    "tzname": "America/Dominica",
+    "countryCode": "DM",
+    "tzName": "America/Dominica",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -1000,8 +1000,8 @@
     }
   },
   {
-    "code": "CA",
-    "tzname": "America/Edmonton",
+    "countryCode": "CA",
+    "tzName": "America/Edmonton",
     "offset": {
       "hour": -7,
       "minute": -420,
@@ -1010,8 +1010,8 @@
     }
   },
   {
-    "code": "BR",
-    "tzname": "America/Eirunepe",
+    "countryCode": "BR",
+    "tzName": "America/Eirunepe",
     "offset": {
       "hour": -5,
       "minute": -300,
@@ -1020,8 +1020,8 @@
     }
   },
   {
-    "code": "SV",
-    "tzname": "America/El_Salvador",
+    "countryCode": "SV",
+    "tzName": "America/El_Salvador",
     "offset": {
       "hour": -6,
       "minute": -360,
@@ -1030,8 +1030,8 @@
     }
   },
   {
-    "code": "CA",
-    "tzname": "America/Fort_Nelson",
+    "countryCode": "CA",
+    "tzName": "America/Fort_Nelson",
     "offset": {
       "hour": -7,
       "minute": -420,
@@ -1040,8 +1040,8 @@
     }
   },
   {
-    "code": "BR",
-    "tzname": "America/Fortaleza",
+    "countryCode": "BR",
+    "tzName": "America/Fortaleza",
     "offset": {
       "hour": -3,
       "minute": -180,
@@ -1050,8 +1050,8 @@
     }
   },
   {
-    "code": "CA",
-    "tzname": "America/Glace_Bay",
+    "countryCode": "CA",
+    "tzName": "America/Glace_Bay",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -1060,8 +1060,8 @@
     }
   },
   {
-    "code": "CA",
-    "tzname": "America/Goose_Bay",
+    "countryCode": "CA",
+    "tzName": "America/Goose_Bay",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -1070,8 +1070,8 @@
     }
   },
   {
-    "code": "TC",
-    "tzname": "America/Grand_Turk",
+    "countryCode": "TC",
+    "tzName": "America/Grand_Turk",
     "offset": {
       "hour": -5,
       "minute": -300,
@@ -1080,8 +1080,8 @@
     }
   },
   {
-    "code": "GD",
-    "tzname": "America/Grenada",
+    "countryCode": "GD",
+    "tzName": "America/Grenada",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -1090,8 +1090,8 @@
     }
   },
   {
-    "code": "GP",
-    "tzname": "America/Guadeloupe",
+    "countryCode": "GP",
+    "tzName": "America/Guadeloupe",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -1100,8 +1100,8 @@
     }
   },
   {
-    "code": "GT",
-    "tzname": "America/Guatemala",
+    "countryCode": "GT",
+    "tzName": "America/Guatemala",
     "offset": {
       "hour": -6,
       "minute": -360,
@@ -1110,8 +1110,8 @@
     }
   },
   {
-    "code": "EC",
-    "tzname": "America/Guayaquil",
+    "countryCode": "EC",
+    "tzName": "America/Guayaquil",
     "offset": {
       "hour": -5,
       "minute": -300,
@@ -1120,8 +1120,8 @@
     }
   },
   {
-    "code": "GY",
-    "tzname": "America/Guyana",
+    "countryCode": "GY",
+    "tzName": "America/Guyana",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -1130,8 +1130,8 @@
     }
   },
   {
-    "code": "CA",
-    "tzname": "America/Halifax",
+    "countryCode": "CA",
+    "tzName": "America/Halifax",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -1140,8 +1140,8 @@
     }
   },
   {
-    "code": "CU",
-    "tzname": "America/Havana",
+    "countryCode": "CU",
+    "tzName": "America/Havana",
     "offset": {
       "hour": -5,
       "minute": -300,
@@ -1150,8 +1150,8 @@
     }
   },
   {
-    "code": "MX",
-    "tzname": "America/Hermosillo",
+    "countryCode": "MX",
+    "tzName": "America/Hermosillo",
     "offset": {
       "hour": -7,
       "minute": -420,
@@ -1160,8 +1160,8 @@
     }
   },
   {
-    "code": "US",
-    "tzname": "America/Indiana/Indianapolis",
+    "countryCode": "US",
+    "tzName": "America/Indiana/Indianapolis",
     "offset": {
       "hour": -5,
       "minute": -300,
@@ -1170,8 +1170,8 @@
     }
   },
   {
-    "code": "US",
-    "tzname": "America/Indiana/Knox",
+    "countryCode": "US",
+    "tzName": "America/Indiana/Knox",
     "offset": {
       "hour": -6,
       "minute": -360,
@@ -1180,8 +1180,8 @@
     }
   },
   {
-    "code": "US",
-    "tzname": "America/Indiana/Marengo",
+    "countryCode": "US",
+    "tzName": "America/Indiana/Marengo",
     "offset": {
       "hour": -5,
       "minute": -300,
@@ -1190,8 +1190,8 @@
     }
   },
   {
-    "code": "US",
-    "tzname": "America/Indiana/Petersburg",
+    "countryCode": "US",
+    "tzName": "America/Indiana/Petersburg",
     "offset": {
       "hour": -5,
       "minute": -300,
@@ -1200,8 +1200,8 @@
     }
   },
   {
-    "code": "US",
-    "tzname": "America/Indiana/Tell_City",
+    "countryCode": "US",
+    "tzName": "America/Indiana/Tell_City",
     "offset": {
       "hour": -6,
       "minute": -360,
@@ -1210,8 +1210,8 @@
     }
   },
   {
-    "code": "US",
-    "tzname": "America/Indiana/Vevay",
+    "countryCode": "US",
+    "tzName": "America/Indiana/Vevay",
     "offset": {
       "hour": -5,
       "minute": -300,
@@ -1220,8 +1220,8 @@
     }
   },
   {
-    "code": "US",
-    "tzname": "America/Indiana/Vincennes",
+    "countryCode": "US",
+    "tzName": "America/Indiana/Vincennes",
     "offset": {
       "hour": -5,
       "minute": -300,
@@ -1230,8 +1230,8 @@
     }
   },
   {
-    "code": "US",
-    "tzname": "America/Indiana/Winamac",
+    "countryCode": "US",
+    "tzName": "America/Indiana/Winamac",
     "offset": {
       "hour": -5,
       "minute": -300,
@@ -1240,8 +1240,8 @@
     }
   },
   {
-    "code": "CA",
-    "tzname": "America/Inuvik",
+    "countryCode": "CA",
+    "tzName": "America/Inuvik",
     "offset": {
       "hour": -7,
       "minute": -420,
@@ -1250,8 +1250,8 @@
     }
   },
   {
-    "code": "CA",
-    "tzname": "America/Iqaluit",
+    "countryCode": "CA",
+    "tzName": "America/Iqaluit",
     "offset": {
       "hour": -5,
       "minute": -300,
@@ -1260,8 +1260,8 @@
     }
   },
   {
-    "code": "JM",
-    "tzname": "America/Jamaica",
+    "countryCode": "JM",
+    "tzName": "America/Jamaica",
     "offset": {
       "hour": -5,
       "minute": -300,
@@ -1270,8 +1270,8 @@
     }
   },
   {
-    "code": "US",
-    "tzname": "America/Juneau",
+    "countryCode": "US",
+    "tzName": "America/Juneau",
     "offset": {
       "hour": -9,
       "minute": -540,
@@ -1280,8 +1280,8 @@
     }
   },
   {
-    "code": "US",
-    "tzname": "America/Kentucky/Louisville",
+    "countryCode": "US",
+    "tzName": "America/Kentucky/Louisville",
     "offset": {
       "hour": -5,
       "minute": -300,
@@ -1290,8 +1290,8 @@
     }
   },
   {
-    "code": "US",
-    "tzname": "America/Kentucky/Monticello",
+    "countryCode": "US",
+    "tzName": "America/Kentucky/Monticello",
     "offset": {
       "hour": -5,
       "minute": -300,
@@ -1300,8 +1300,8 @@
     }
   },
   {
-    "code": "BQ",
-    "tzname": "America/Kralendijk",
+    "countryCode": "BQ",
+    "tzName": "America/Kralendijk",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -1310,8 +1310,8 @@
     }
   },
   {
-    "code": "BO",
-    "tzname": "America/La_Paz",
+    "countryCode": "BO",
+    "tzName": "America/La_Paz",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -1320,8 +1320,8 @@
     }
   },
   {
-    "code": "PE",
-    "tzname": "America/Lima",
+    "countryCode": "PE",
+    "tzName": "America/Lima",
     "offset": {
       "hour": -5,
       "minute": -300,
@@ -1330,8 +1330,8 @@
     }
   },
   {
-    "code": "US",
-    "tzname": "America/Los_Angeles",
+    "countryCode": "US",
+    "tzName": "America/Los_Angeles",
     "offset": {
       "hour": -8,
       "minute": -480,
@@ -1340,8 +1340,8 @@
     }
   },
   {
-    "code": "SX",
-    "tzname": "America/Lower_Princes",
+    "countryCode": "SX",
+    "tzName": "America/Lower_Princes",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -1350,8 +1350,8 @@
     }
   },
   {
-    "code": "BR",
-    "tzname": "America/Maceio",
+    "countryCode": "BR",
+    "tzName": "America/Maceio",
     "offset": {
       "hour": -3,
       "minute": -180,
@@ -1360,8 +1360,8 @@
     }
   },
   {
-    "code": "NI",
-    "tzname": "America/Managua",
+    "countryCode": "NI",
+    "tzName": "America/Managua",
     "offset": {
       "hour": -6,
       "minute": -360,
@@ -1370,8 +1370,8 @@
     }
   },
   {
-    "code": "BR",
-    "tzname": "America/Manaus",
+    "countryCode": "BR",
+    "tzName": "America/Manaus",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -1380,8 +1380,8 @@
     }
   },
   {
-    "code": "MF",
-    "tzname": "America/Marigot",
+    "countryCode": "MF",
+    "tzName": "America/Marigot",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -1390,8 +1390,8 @@
     }
   },
   {
-    "code": "MQ",
-    "tzname": "America/Martinique",
+    "countryCode": "MQ",
+    "tzName": "America/Martinique",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -1400,8 +1400,8 @@
     }
   },
   {
-    "code": "MX",
-    "tzname": "America/Matamoros",
+    "countryCode": "MX",
+    "tzName": "America/Matamoros",
     "offset": {
       "hour": -6,
       "minute": -360,
@@ -1410,8 +1410,8 @@
     }
   },
   {
-    "code": "MX",
-    "tzname": "America/Mazatlan",
+    "countryCode": "MX",
+    "tzName": "America/Mazatlan",
     "offset": {
       "hour": -7,
       "minute": -420,
@@ -1420,8 +1420,8 @@
     }
   },
   {
-    "code": "US",
-    "tzname": "America/Menominee",
+    "countryCode": "US",
+    "tzName": "America/Menominee",
     "offset": {
       "hour": -6,
       "minute": -360,
@@ -1430,8 +1430,8 @@
     }
   },
   {
-    "code": "MX",
-    "tzname": "America/Merida",
+    "countryCode": "MX",
+    "tzName": "America/Merida",
     "offset": {
       "hour": -6,
       "minute": -360,
@@ -1440,8 +1440,8 @@
     }
   },
   {
-    "code": "US",
-    "tzname": "America/Metlakatla",
+    "countryCode": "US",
+    "tzName": "America/Metlakatla",
     "offset": {
       "hour": -9,
       "minute": -540,
@@ -1450,8 +1450,8 @@
     }
   },
   {
-    "code": "MX",
-    "tzname": "America/Mexico_City",
+    "countryCode": "MX",
+    "tzName": "America/Mexico_City",
     "offset": {
       "hour": -6,
       "minute": -360,
@@ -1460,8 +1460,8 @@
     }
   },
   {
-    "code": "PM",
-    "tzname": "America/Miquelon",
+    "countryCode": "PM",
+    "tzName": "America/Miquelon",
     "offset": {
       "hour": -3,
       "minute": -180,
@@ -1470,8 +1470,8 @@
     }
   },
   {
-    "code": "CA",
-    "tzname": "America/Moncton",
+    "countryCode": "CA",
+    "tzName": "America/Moncton",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -1480,8 +1480,8 @@
     }
   },
   {
-    "code": "MX",
-    "tzname": "America/Monterrey",
+    "countryCode": "MX",
+    "tzName": "America/Monterrey",
     "offset": {
       "hour": -6,
       "minute": -360,
@@ -1490,8 +1490,8 @@
     }
   },
   {
-    "code": "UY",
-    "tzname": "America/Montevideo",
+    "countryCode": "UY",
+    "tzName": "America/Montevideo",
     "offset": {
       "hour": -3,
       "minute": -180,
@@ -1500,8 +1500,8 @@
     }
   },
   {
-    "code": "MS",
-    "tzname": "America/Montserrat",
+    "countryCode": "MS",
+    "tzName": "America/Montserrat",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -1510,8 +1510,8 @@
     }
   },
   {
-    "code": "BS",
-    "tzname": "America/Nassau",
+    "countryCode": "BS",
+    "tzName": "America/Nassau",
     "offset": {
       "hour": -5,
       "minute": -300,
@@ -1520,8 +1520,8 @@
     }
   },
   {
-    "code": "US",
-    "tzname": "America/New_York",
+    "countryCode": "US",
+    "tzName": "America/New_York",
     "offset": {
       "hour": -5,
       "minute": -300,
@@ -1530,8 +1530,8 @@
     }
   },
   {
-    "code": "US",
-    "tzname": "America/Nome",
+    "countryCode": "US",
+    "tzName": "America/Nome",
     "offset": {
       "hour": -9,
       "minute": -540,
@@ -1540,8 +1540,8 @@
     }
   },
   {
-    "code": "BR",
-    "tzname": "America/Noronha",
+    "countryCode": "BR",
+    "tzName": "America/Noronha",
     "offset": {
       "hour": -2,
       "minute": -120,
@@ -1550,8 +1550,8 @@
     }
   },
   {
-    "code": "US",
-    "tzname": "America/North_Dakota/Beulah",
+    "countryCode": "US",
+    "tzName": "America/North_Dakota/Beulah",
     "offset": {
       "hour": -6,
       "minute": -360,
@@ -1560,8 +1560,8 @@
     }
   },
   {
-    "code": "US",
-    "tzname": "America/North_Dakota/Center",
+    "countryCode": "US",
+    "tzName": "America/North_Dakota/Center",
     "offset": {
       "hour": -6,
       "minute": -360,
@@ -1570,8 +1570,8 @@
     }
   },
   {
-    "code": "US",
-    "tzname": "America/North_Dakota/New_Salem",
+    "countryCode": "US",
+    "tzName": "America/North_Dakota/New_Salem",
     "offset": {
       "hour": -6,
       "minute": -360,
@@ -1580,8 +1580,8 @@
     }
   },
   {
-    "code": "GL",
-    "tzname": "America/Nuuk",
+    "countryCode": "GL",
+    "tzName": "America/Nuuk",
     "offset": {
       "hour": -2,
       "minute": -120,
@@ -1590,8 +1590,8 @@
     }
   },
   {
-    "code": "MX",
-    "tzname": "America/Ojinaga",
+    "countryCode": "MX",
+    "tzName": "America/Ojinaga",
     "offset": {
       "hour": -6,
       "minute": -360,
@@ -1600,8 +1600,8 @@
     }
   },
   {
-    "code": "PA",
-    "tzname": "America/Panama",
+    "countryCode": "PA",
+    "tzName": "America/Panama",
     "offset": {
       "hour": -5,
       "minute": -300,
@@ -1610,8 +1610,8 @@
     }
   },
   {
-    "code": "SR",
-    "tzname": "America/Paramaribo",
+    "countryCode": "SR",
+    "tzName": "America/Paramaribo",
     "offset": {
       "hour": -3,
       "minute": -180,
@@ -1620,8 +1620,8 @@
     }
   },
   {
-    "code": "US",
-    "tzname": "America/Phoenix",
+    "countryCode": "US",
+    "tzName": "America/Phoenix",
     "offset": {
       "hour": -7,
       "minute": -420,
@@ -1630,8 +1630,8 @@
     }
   },
   {
-    "code": "HT",
-    "tzname": "America/Port-au-Prince",
+    "countryCode": "HT",
+    "tzName": "America/Port-au-Prince",
     "offset": {
       "hour": -5,
       "minute": -300,
@@ -1640,8 +1640,8 @@
     }
   },
   {
-    "code": "TT",
-    "tzname": "America/Port_of_Spain",
+    "countryCode": "TT",
+    "tzName": "America/Port_of_Spain",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -1650,8 +1650,8 @@
     }
   },
   {
-    "code": "BR",
-    "tzname": "America/Porto_Velho",
+    "countryCode": "BR",
+    "tzName": "America/Porto_Velho",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -1660,8 +1660,8 @@
     }
   },
   {
-    "code": "PR",
-    "tzname": "America/Puerto_Rico",
+    "countryCode": "PR",
+    "tzName": "America/Puerto_Rico",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -1670,8 +1670,8 @@
     }
   },
   {
-    "code": "CL",
-    "tzname": "America/Punta_Arenas",
+    "countryCode": "CL",
+    "tzName": "America/Punta_Arenas",
     "offset": {
       "hour": -3,
       "minute": -180,
@@ -1680,8 +1680,8 @@
     }
   },
   {
-    "code": "CA",
-    "tzname": "America/Rankin_Inlet",
+    "countryCode": "CA",
+    "tzName": "America/Rankin_Inlet",
     "offset": {
       "hour": -6,
       "minute": -360,
@@ -1690,8 +1690,8 @@
     }
   },
   {
-    "code": "BR",
-    "tzname": "America/Recife",
+    "countryCode": "BR",
+    "tzName": "America/Recife",
     "offset": {
       "hour": -3,
       "minute": -180,
@@ -1700,8 +1700,8 @@
     }
   },
   {
-    "code": "CA",
-    "tzname": "America/Regina",
+    "countryCode": "CA",
+    "tzName": "America/Regina",
     "offset": {
       "hour": -6,
       "minute": -360,
@@ -1710,8 +1710,8 @@
     }
   },
   {
-    "code": "CA",
-    "tzname": "America/Resolute",
+    "countryCode": "CA",
+    "tzName": "America/Resolute",
     "offset": {
       "hour": -6,
       "minute": -360,
@@ -1720,8 +1720,8 @@
     }
   },
   {
-    "code": "BR",
-    "tzname": "America/Rio_Branco",
+    "countryCode": "BR",
+    "tzName": "America/Rio_Branco",
     "offset": {
       "hour": -5,
       "minute": -300,
@@ -1730,8 +1730,8 @@
     }
   },
   {
-    "code": "BR",
-    "tzname": "America/Santarem",
+    "countryCode": "BR",
+    "tzName": "America/Santarem",
     "offset": {
       "hour": -3,
       "minute": -180,
@@ -1740,8 +1740,8 @@
     }
   },
   {
-    "code": "CL",
-    "tzname": "America/Santiago",
+    "countryCode": "CL",
+    "tzName": "America/Santiago",
     "offset": {
       "hour": -3,
       "minute": -180,
@@ -1750,8 +1750,8 @@
     }
   },
   {
-    "code": "DO",
-    "tzname": "America/Santo_Domingo",
+    "countryCode": "DO",
+    "tzName": "America/Santo_Domingo",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -1760,8 +1760,8 @@
     }
   },
   {
-    "code": "BR",
-    "tzname": "America/Sao_Paulo",
+    "countryCode": "BR",
+    "tzName": "America/Sao_Paulo",
     "offset": {
       "hour": -3,
       "minute": -180,
@@ -1770,8 +1770,8 @@
     }
   },
   {
-    "code": "GL",
-    "tzname": "America/Scoresbysund",
+    "countryCode": "GL",
+    "tzName": "America/Scoresbysund",
     "offset": {
       "hour": -1,
       "minute": -60,
@@ -1780,8 +1780,8 @@
     }
   },
   {
-    "code": "US",
-    "tzname": "America/Sitka",
+    "countryCode": "US",
+    "tzName": "America/Sitka",
     "offset": {
       "hour": -9,
       "minute": -540,
@@ -1790,8 +1790,8 @@
     }
   },
   {
-    "code": "BL",
-    "tzname": "America/St_Barthelemy",
+    "countryCode": "BL",
+    "tzName": "America/St_Barthelemy",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -1800,28 +1800,18 @@
     }
   },
   {
-    "code": "CA",
-    "tzname": "America/St_Johns",
+    "countryCode": "CA",
+    "tzName": "America/St_Johns",
     "offset": {
-      "hour": -3,
-      "minute": -180,
-      "second": -10800,
-      "millisecond": -10800000
+      "hour": -3.5,
+      "minute": -210,
+      "second": -12600,
+      "millisecond": -12600000
     }
   },
   {
-    "code": "KN",
-    "tzname": "America/St_Kitts",
-    "offset": {
-      "hour": -4,
-      "minute": -240,
-      "second": -14400,
-      "millisecond": -14400000
-    }
-  },
-  {
-    "code": "LC",
-    "tzname": "America/St_Lucia",
+    "countryCode": "KN",
+    "tzName": "America/St_Kitts",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -1830,8 +1820,8 @@
     }
   },
   {
-    "code": "VI",
-    "tzname": "America/St_Thomas",
+    "countryCode": "LC",
+    "tzName": "America/St_Lucia",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -1840,8 +1830,8 @@
     }
   },
   {
-    "code": "VC",
-    "tzname": "America/St_Vincent",
+    "countryCode": "VI",
+    "tzName": "America/St_Thomas",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -1850,8 +1840,18 @@
     }
   },
   {
-    "code": "CA",
-    "tzname": "America/Swift_Current",
+    "countryCode": "VC",
+    "tzName": "America/St_Vincent",
+    "offset": {
+      "hour": -4,
+      "minute": -240,
+      "second": -14400,
+      "millisecond": -14400000
+    }
+  },
+  {
+    "countryCode": "CA",
+    "tzName": "America/Swift_Current",
     "offset": {
       "hour": -6,
       "minute": -360,
@@ -1860,8 +1860,8 @@
     }
   },
   {
-    "code": "HN",
-    "tzname": "America/Tegucigalpa",
+    "countryCode": "HN",
+    "tzName": "America/Tegucigalpa",
     "offset": {
       "hour": -6,
       "minute": -360,
@@ -1870,8 +1870,8 @@
     }
   },
   {
-    "code": "GL",
-    "tzname": "America/Thule",
+    "countryCode": "GL",
+    "tzName": "America/Thule",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -1880,8 +1880,8 @@
     }
   },
   {
-    "code": "MX",
-    "tzname": "America/Tijuana",
+    "countryCode": "MX",
+    "tzName": "America/Tijuana",
     "offset": {
       "hour": -8,
       "minute": -480,
@@ -1890,8 +1890,8 @@
     }
   },
   {
-    "code": "CA",
-    "tzname": "America/Toronto",
+    "countryCode": "CA",
+    "tzName": "America/Toronto",
     "offset": {
       "hour": -5,
       "minute": -300,
@@ -1900,8 +1900,8 @@
     }
   },
   {
-    "code": "VG",
-    "tzname": "America/Tortola",
+    "countryCode": "VG",
+    "tzName": "America/Tortola",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -1910,8 +1910,8 @@
     }
   },
   {
-    "code": "CA",
-    "tzname": "America/Vancouver",
+    "countryCode": "CA",
+    "tzName": "America/Vancouver",
     "offset": {
       "hour": -8,
       "minute": -480,
@@ -1920,8 +1920,8 @@
     }
   },
   {
-    "code": "CA",
-    "tzname": "America/Whitehorse",
+    "countryCode": "CA",
+    "tzName": "America/Whitehorse",
     "offset": {
       "hour": -7,
       "minute": -420,
@@ -1930,8 +1930,8 @@
     }
   },
   {
-    "code": "CA",
-    "tzname": "America/Winnipeg",
+    "countryCode": "CA",
+    "tzName": "America/Winnipeg",
     "offset": {
       "hour": -6,
       "minute": -360,
@@ -1940,8 +1940,8 @@
     }
   },
   {
-    "code": "US",
-    "tzname": "America/Yakutat",
+    "countryCode": "US",
+    "tzName": "America/Yakutat",
     "offset": {
       "hour": -9,
       "minute": -540,
@@ -1950,8 +1950,8 @@
     }
   },
   {
-    "code": "CA",
-    "tzname": "America/Yellowknife",
+    "countryCode": "CA",
+    "tzName": "America/Yellowknife",
     "offset": {
       "hour": -7,
       "minute": -420,
@@ -1960,8 +1960,8 @@
     }
   },
   {
-    "code": "AQ",
-    "tzname": "Antarctica/Casey",
+    "countryCode": "AQ",
+    "tzName": "Antarctica/Casey",
     "offset": {
       "hour": 8,
       "minute": 480,
@@ -1970,8 +1970,8 @@
     }
   },
   {
-    "code": "AQ",
-    "tzname": "Antarctica/Davis",
+    "countryCode": "AQ",
+    "tzName": "Antarctica/Davis",
     "offset": {
       "hour": 7,
       "minute": 420,
@@ -1980,8 +1980,8 @@
     }
   },
   {
-    "code": "AQ",
-    "tzname": "Antarctica/DumontDUrville",
+    "countryCode": "AQ",
+    "tzName": "Antarctica/DumontDUrville",
     "offset": {
       "hour": 10,
       "minute": 600,
@@ -1990,8 +1990,8 @@
     }
   },
   {
-    "code": "AU",
-    "tzname": "Antarctica/Macquarie",
+    "countryCode": "AU",
+    "tzName": "Antarctica/Macquarie",
     "offset": {
       "hour": 11,
       "minute": 660,
@@ -2000,8 +2000,8 @@
     }
   },
   {
-    "code": "AQ",
-    "tzname": "Antarctica/Mawson",
+    "countryCode": "AQ",
+    "tzName": "Antarctica/Mawson",
     "offset": {
       "hour": 5,
       "minute": 300,
@@ -2010,8 +2010,8 @@
     }
   },
   {
-    "code": "AQ",
-    "tzname": "Antarctica/McMurdo",
+    "countryCode": "AQ",
+    "tzName": "Antarctica/McMurdo",
     "offset": {
       "hour": 13,
       "minute": 780,
@@ -2020,8 +2020,8 @@
     }
   },
   {
-    "code": "AQ",
-    "tzname": "Antarctica/Palmer",
+    "countryCode": "AQ",
+    "tzName": "Antarctica/Palmer",
     "offset": {
       "hour": -3,
       "minute": -180,
@@ -2030,8 +2030,8 @@
     }
   },
   {
-    "code": "AQ",
-    "tzname": "Antarctica/Rothera",
+    "countryCode": "AQ",
+    "tzName": "Antarctica/Rothera",
     "offset": {
       "hour": -3,
       "minute": -180,
@@ -2040,8 +2040,8 @@
     }
   },
   {
-    "code": "AQ",
-    "tzname": "Antarctica/Syowa",
+    "countryCode": "AQ",
+    "tzName": "Antarctica/Syowa",
     "offset": {
       "hour": 3,
       "minute": 180,
@@ -2050,8 +2050,8 @@
     }
   },
   {
-    "code": "AQ",
-    "tzname": "Antarctica/Troll",
+    "countryCode": "AQ",
+    "tzName": "Antarctica/Troll",
     "offset": {
       "hour": 0,
       "minute": 0,
@@ -2060,8 +2060,8 @@
     }
   },
   {
-    "code": "AQ",
-    "tzname": "Antarctica/Vostok",
+    "countryCode": "AQ",
+    "tzName": "Antarctica/Vostok",
     "offset": {
       "hour": 5,
       "minute": 300,
@@ -2070,8 +2070,8 @@
     }
   },
   {
-    "code": "SJ",
-    "tzname": "Arctic/Longyearbyen",
+    "countryCode": "SJ",
+    "tzName": "Arctic/Longyearbyen",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -2080,8 +2080,8 @@
     }
   },
   {
-    "code": "YE",
-    "tzname": "Asia/Aden",
+    "countryCode": "YE",
+    "tzName": "Asia/Aden",
     "offset": {
       "hour": 3,
       "minute": 180,
@@ -2090,8 +2090,8 @@
     }
   },
   {
-    "code": "KZ",
-    "tzname": "Asia/Almaty",
+    "countryCode": "KZ",
+    "tzName": "Asia/Almaty",
     "offset": {
       "hour": 6,
       "minute": 360,
@@ -2100,8 +2100,8 @@
     }
   },
   {
-    "code": "JO",
-    "tzname": "Asia/Amman",
+    "countryCode": "JO",
+    "tzName": "Asia/Amman",
     "offset": {
       "hour": 3,
       "minute": 180,
@@ -2110,8 +2110,8 @@
     }
   },
   {
-    "code": "RU",
-    "tzname": "Asia/Anadyr",
+    "countryCode": "RU",
+    "tzName": "Asia/Anadyr",
     "offset": {
       "hour": 12,
       "minute": 720,
@@ -2120,8 +2120,8 @@
     }
   },
   {
-    "code": "KZ",
-    "tzname": "Asia/Aqtau",
+    "countryCode": "KZ",
+    "tzName": "Asia/Aqtau",
     "offset": {
       "hour": 5,
       "minute": 300,
@@ -2130,8 +2130,8 @@
     }
   },
   {
-    "code": "KZ",
-    "tzname": "Asia/Aqtobe",
+    "countryCode": "KZ",
+    "tzName": "Asia/Aqtobe",
     "offset": {
       "hour": 5,
       "minute": 300,
@@ -2140,8 +2140,8 @@
     }
   },
   {
-    "code": "TM",
-    "tzname": "Asia/Ashgabat",
+    "countryCode": "TM",
+    "tzName": "Asia/Ashgabat",
     "offset": {
       "hour": 5,
       "minute": 300,
@@ -2150,8 +2150,8 @@
     }
   },
   {
-    "code": "KZ",
-    "tzname": "Asia/Atyrau",
+    "countryCode": "KZ",
+    "tzName": "Asia/Atyrau",
     "offset": {
       "hour": 5,
       "minute": 300,
@@ -2160,8 +2160,8 @@
     }
   },
   {
-    "code": "IQ",
-    "tzname": "Asia/Baghdad",
+    "countryCode": "IQ",
+    "tzName": "Asia/Baghdad",
     "offset": {
       "hour": 3,
       "minute": 180,
@@ -2170,8 +2170,8 @@
     }
   },
   {
-    "code": "BH",
-    "tzname": "Asia/Bahrain",
+    "countryCode": "BH",
+    "tzName": "Asia/Bahrain",
     "offset": {
       "hour": 3,
       "minute": 180,
@@ -2180,8 +2180,8 @@
     }
   },
   {
-    "code": "AZ",
-    "tzname": "Asia/Baku",
+    "countryCode": "AZ",
+    "tzName": "Asia/Baku",
     "offset": {
       "hour": 4,
       "minute": 240,
@@ -2190,8 +2190,8 @@
     }
   },
   {
-    "code": "TH",
-    "tzname": "Asia/Bangkok",
+    "countryCode": "TH",
+    "tzName": "Asia/Bangkok",
     "offset": {
       "hour": 7,
       "minute": 420,
@@ -2200,8 +2200,8 @@
     }
   },
   {
-    "code": "RU",
-    "tzname": "Asia/Barnaul",
+    "countryCode": "RU",
+    "tzName": "Asia/Barnaul",
     "offset": {
       "hour": 7,
       "minute": 420,
@@ -2210,8 +2210,8 @@
     }
   },
   {
-    "code": "LB",
-    "tzname": "Asia/Beirut",
+    "countryCode": "LB",
+    "tzName": "Asia/Beirut",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -2220,8 +2220,8 @@
     }
   },
   {
-    "code": "KG",
-    "tzname": "Asia/Bishkek",
+    "countryCode": "KG",
+    "tzName": "Asia/Bishkek",
     "offset": {
       "hour": 6,
       "minute": 360,
@@ -2230,8 +2230,8 @@
     }
   },
   {
-    "code": "BN",
-    "tzname": "Asia/Brunei",
+    "countryCode": "BN",
+    "tzName": "Asia/Brunei",
     "offset": {
       "hour": 8,
       "minute": 480,
@@ -2240,8 +2240,8 @@
     }
   },
   {
-    "code": "RU",
-    "tzname": "Asia/Chita",
+    "countryCode": "RU",
+    "tzName": "Asia/Chita",
     "offset": {
       "hour": 9,
       "minute": 540,
@@ -2250,8 +2250,8 @@
     }
   },
   {
-    "code": "MN",
-    "tzname": "Asia/Choibalsan",
+    "countryCode": "MN",
+    "tzName": "Asia/Choibalsan",
     "offset": {
       "hour": 8,
       "minute": 480,
@@ -2260,18 +2260,18 @@
     }
   },
   {
-    "code": "LK",
-    "tzname": "Asia/Colombo",
+    "countryCode": "LK",
+    "tzName": "Asia/Colombo",
     "offset": {
-      "hour": 5,
-      "minute": 300,
-      "second": 18000,
-      "millisecond": 18000000
+      "hour": 5.5,
+      "minute": 330,
+      "second": 19800,
+      "millisecond": 19800000
     }
   },
   {
-    "code": "SY",
-    "tzname": "Asia/Damascus",
+    "countryCode": "SY",
+    "tzName": "Asia/Damascus",
     "offset": {
       "hour": 3,
       "minute": 180,
@@ -2280,8 +2280,8 @@
     }
   },
   {
-    "code": "BD",
-    "tzname": "Asia/Dhaka",
+    "countryCode": "BD",
+    "tzName": "Asia/Dhaka",
     "offset": {
       "hour": 6,
       "minute": 360,
@@ -2290,8 +2290,8 @@
     }
   },
   {
-    "code": "TL",
-    "tzname": "Asia/Dili",
+    "countryCode": "TL",
+    "tzName": "Asia/Dili",
     "offset": {
       "hour": 9,
       "minute": 540,
@@ -2300,8 +2300,8 @@
     }
   },
   {
-    "code": "AE",
-    "tzname": "Asia/Dubai",
+    "countryCode": "AE",
+    "tzName": "Asia/Dubai",
     "offset": {
       "hour": 4,
       "minute": 240,
@@ -2310,8 +2310,8 @@
     }
   },
   {
-    "code": "TJ",
-    "tzname": "Asia/Dushanbe",
+    "countryCode": "TJ",
+    "tzName": "Asia/Dushanbe",
     "offset": {
       "hour": 5,
       "minute": 300,
@@ -2320,8 +2320,8 @@
     }
   },
   {
-    "code": "CY",
-    "tzname": "Asia/Famagusta",
+    "countryCode": "CY",
+    "tzName": "Asia/Famagusta",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -2330,8 +2330,8 @@
     }
   },
   {
-    "code": "PS",
-    "tzname": "Asia/Gaza",
+    "countryCode": "PS",
+    "tzName": "Asia/Gaza",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -2340,8 +2340,8 @@
     }
   },
   {
-    "code": "PS",
-    "tzname": "Asia/Hebron",
+    "countryCode": "PS",
+    "tzName": "Asia/Hebron",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -2350,8 +2350,8 @@
     }
   },
   {
-    "code": "VN",
-    "tzname": "Asia/Ho_Chi_Minh",
+    "countryCode": "VN",
+    "tzName": "Asia/Ho_Chi_Minh",
     "offset": {
       "hour": 7,
       "minute": 420,
@@ -2360,8 +2360,8 @@
     }
   },
   {
-    "code": "HK",
-    "tzname": "Asia/Hong_Kong",
+    "countryCode": "HK",
+    "tzName": "Asia/Hong_Kong",
     "offset": {
       "hour": 8,
       "minute": 480,
@@ -2370,8 +2370,8 @@
     }
   },
   {
-    "code": "MN",
-    "tzname": "Asia/Hovd",
+    "countryCode": "MN",
+    "tzName": "Asia/Hovd",
     "offset": {
       "hour": 7,
       "minute": 420,
@@ -2380,8 +2380,8 @@
     }
   },
   {
-    "code": "RU",
-    "tzname": "Asia/Irkutsk",
+    "countryCode": "RU",
+    "tzName": "Asia/Irkutsk",
     "offset": {
       "hour": 8,
       "minute": 480,
@@ -2390,8 +2390,8 @@
     }
   },
   {
-    "code": "ID",
-    "tzname": "Asia/Jakarta",
+    "countryCode": "ID",
+    "tzName": "Asia/Jakarta",
     "offset": {
       "hour": 7,
       "minute": 420,
@@ -2400,8 +2400,8 @@
     }
   },
   {
-    "code": "ID",
-    "tzname": "Asia/Jayapura",
+    "countryCode": "ID",
+    "tzName": "Asia/Jayapura",
     "offset": {
       "hour": 9,
       "minute": 540,
@@ -2410,8 +2410,8 @@
     }
   },
   {
-    "code": "IL",
-    "tzname": "Asia/Jerusalem",
+    "countryCode": "IL",
+    "tzName": "Asia/Jerusalem",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -2420,18 +2420,18 @@
     }
   },
   {
-    "code": "AF",
-    "tzname": "Asia/Kabul",
+    "countryCode": "AF",
+    "tzName": "Asia/Kabul",
     "offset": {
-      "hour": 4,
-      "minute": 240,
-      "second": 14400,
-      "millisecond": 14400000
+      "hour": 4.5,
+      "minute": 270,
+      "second": 16200,
+      "millisecond": 16200000
     }
   },
   {
-    "code": "RU",
-    "tzname": "Asia/Kamchatka",
+    "countryCode": "RU",
+    "tzName": "Asia/Kamchatka",
     "offset": {
       "hour": 12,
       "minute": 720,
@@ -2440,8 +2440,8 @@
     }
   },
   {
-    "code": "PK",
-    "tzname": "Asia/Karachi",
+    "countryCode": "PK",
+    "tzName": "Asia/Karachi",
     "offset": {
       "hour": 5,
       "minute": 300,
@@ -2450,18 +2450,18 @@
     }
   },
   {
-    "code": "NP",
-    "tzname": "Asia/Kathmandu",
+    "countryCode": "NP",
+    "tzName": "Asia/Kathmandu",
     "offset": {
-      "hour": 5,
-      "minute": 300,
-      "second": 18000,
-      "millisecond": 18000000
+      "hour": 5.75,
+      "minute": 345,
+      "second": 20700,
+      "millisecond": 20700000
     }
   },
   {
-    "code": "RU",
-    "tzname": "Asia/Khandyga",
+    "countryCode": "RU",
+    "tzName": "Asia/Khandyga",
     "offset": {
       "hour": 9,
       "minute": 540,
@@ -2470,18 +2470,18 @@
     }
   },
   {
-    "code": "IN",
-    "tzname": "Asia/Kolkata",
+    "countryCode": "IN",
+    "tzName": "Asia/Kolkata",
     "offset": {
-      "hour": 5,
-      "minute": 300,
-      "second": 18000,
-      "millisecond": 18000000
+      "hour": 5.5,
+      "minute": 330,
+      "second": 19800,
+      "millisecond": 19800000
     }
   },
   {
-    "code": "RU",
-    "tzname": "Asia/Krasnoyarsk",
+    "countryCode": "RU",
+    "tzName": "Asia/Krasnoyarsk",
     "offset": {
       "hour": 7,
       "minute": 420,
@@ -2490,8 +2490,8 @@
     }
   },
   {
-    "code": "MY",
-    "tzname": "Asia/Kuala_Lumpur",
+    "countryCode": "MY",
+    "tzName": "Asia/Kuala_Lumpur",
     "offset": {
       "hour": 8,
       "minute": 480,
@@ -2500,8 +2500,8 @@
     }
   },
   {
-    "code": "MY",
-    "tzname": "Asia/Kuching",
+    "countryCode": "MY",
+    "tzName": "Asia/Kuching",
     "offset": {
       "hour": 8,
       "minute": 480,
@@ -2510,8 +2510,8 @@
     }
   },
   {
-    "code": "KW",
-    "tzname": "Asia/Kuwait",
+    "countryCode": "KW",
+    "tzName": "Asia/Kuwait",
     "offset": {
       "hour": 3,
       "minute": 180,
@@ -2520,8 +2520,8 @@
     }
   },
   {
-    "code": "MO",
-    "tzname": "Asia/Macau",
+    "countryCode": "MO",
+    "tzName": "Asia/Macau",
     "offset": {
       "hour": 8,
       "minute": 480,
@@ -2530,8 +2530,8 @@
     }
   },
   {
-    "code": "RU",
-    "tzname": "Asia/Magadan",
+    "countryCode": "RU",
+    "tzName": "Asia/Magadan",
     "offset": {
       "hour": 11,
       "minute": 660,
@@ -2540,8 +2540,8 @@
     }
   },
   {
-    "code": "ID",
-    "tzname": "Asia/Makassar",
+    "countryCode": "ID",
+    "tzName": "Asia/Makassar",
     "offset": {
       "hour": 8,
       "minute": 480,
@@ -2550,8 +2550,8 @@
     }
   },
   {
-    "code": "PH",
-    "tzname": "Asia/Manila",
+    "countryCode": "PH",
+    "tzName": "Asia/Manila",
     "offset": {
       "hour": 8,
       "minute": 480,
@@ -2560,8 +2560,8 @@
     }
   },
   {
-    "code": "OM",
-    "tzname": "Asia/Muscat",
+    "countryCode": "OM",
+    "tzName": "Asia/Muscat",
     "offset": {
       "hour": 4,
       "minute": 240,
@@ -2570,8 +2570,8 @@
     }
   },
   {
-    "code": "CY",
-    "tzname": "Asia/Nicosia",
+    "countryCode": "CY",
+    "tzName": "Asia/Nicosia",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -2580,8 +2580,8 @@
     }
   },
   {
-    "code": "RU",
-    "tzname": "Asia/Novokuznetsk",
+    "countryCode": "RU",
+    "tzName": "Asia/Novokuznetsk",
     "offset": {
       "hour": 7,
       "minute": 420,
@@ -2590,8 +2590,8 @@
     }
   },
   {
-    "code": "RU",
-    "tzname": "Asia/Novosibirsk",
+    "countryCode": "RU",
+    "tzName": "Asia/Novosibirsk",
     "offset": {
       "hour": 7,
       "minute": 420,
@@ -2600,8 +2600,8 @@
     }
   },
   {
-    "code": "RU",
-    "tzname": "Asia/Omsk",
+    "countryCode": "RU",
+    "tzName": "Asia/Omsk",
     "offset": {
       "hour": 6,
       "minute": 360,
@@ -2610,8 +2610,8 @@
     }
   },
   {
-    "code": "KZ",
-    "tzname": "Asia/Oral",
+    "countryCode": "KZ",
+    "tzName": "Asia/Oral",
     "offset": {
       "hour": 5,
       "minute": 300,
@@ -2620,8 +2620,8 @@
     }
   },
   {
-    "code": "KH",
-    "tzname": "Asia/Phnom_Penh",
+    "countryCode": "KH",
+    "tzName": "Asia/Phnom_Penh",
     "offset": {
       "hour": 7,
       "minute": 420,
@@ -2630,8 +2630,8 @@
     }
   },
   {
-    "code": "ID",
-    "tzname": "Asia/Pontianak",
+    "countryCode": "ID",
+    "tzName": "Asia/Pontianak",
     "offset": {
       "hour": 7,
       "minute": 420,
@@ -2640,8 +2640,8 @@
     }
   },
   {
-    "code": "KP",
-    "tzname": "Asia/Pyongyang",
+    "countryCode": "KP",
+    "tzName": "Asia/Pyongyang",
     "offset": {
       "hour": 9,
       "minute": 540,
@@ -2650,8 +2650,8 @@
     }
   },
   {
-    "code": "QA",
-    "tzname": "Asia/Qatar",
+    "countryCode": "QA",
+    "tzName": "Asia/Qatar",
     "offset": {
       "hour": 3,
       "minute": 180,
@@ -2660,8 +2660,8 @@
     }
   },
   {
-    "code": "KZ",
-    "tzname": "Asia/Qostanay",
+    "countryCode": "KZ",
+    "tzName": "Asia/Qostanay",
     "offset": {
       "hour": 6,
       "minute": 360,
@@ -2670,8 +2670,8 @@
     }
   },
   {
-    "code": "KZ",
-    "tzname": "Asia/Qyzylorda",
+    "countryCode": "KZ",
+    "tzName": "Asia/Qyzylorda",
     "offset": {
       "hour": 5,
       "minute": 300,
@@ -2680,8 +2680,8 @@
     }
   },
   {
-    "code": "SA",
-    "tzname": "Asia/Riyadh",
+    "countryCode": "SA",
+    "tzName": "Asia/Riyadh",
     "offset": {
       "hour": 3,
       "minute": 180,
@@ -2690,8 +2690,8 @@
     }
   },
   {
-    "code": "RU",
-    "tzname": "Asia/Sakhalin",
+    "countryCode": "RU",
+    "tzName": "Asia/Sakhalin",
     "offset": {
       "hour": 11,
       "minute": 660,
@@ -2700,8 +2700,8 @@
     }
   },
   {
-    "code": "UZ",
-    "tzname": "Asia/Samarkand",
+    "countryCode": "UZ",
+    "tzName": "Asia/Samarkand",
     "offset": {
       "hour": 5,
       "minute": 300,
@@ -2710,8 +2710,8 @@
     }
   },
   {
-    "code": "KR",
-    "tzname": "Asia/Seoul",
+    "countryCode": "KR",
+    "tzName": "Asia/Seoul",
     "offset": {
       "hour": 9,
       "minute": 540,
@@ -2720,8 +2720,8 @@
     }
   },
   {
-    "code": "CN",
-    "tzname": "Asia/Shanghai",
+    "countryCode": "CN",
+    "tzName": "Asia/Shanghai",
     "offset": {
       "hour": 8,
       "minute": 480,
@@ -2730,8 +2730,8 @@
     }
   },
   {
-    "code": "SG",
-    "tzname": "Asia/Singapore",
+    "countryCode": "SG",
+    "tzName": "Asia/Singapore",
     "offset": {
       "hour": 8,
       "minute": 480,
@@ -2740,8 +2740,8 @@
     }
   },
   {
-    "code": "RU",
-    "tzname": "Asia/Srednekolymsk",
+    "countryCode": "RU",
+    "tzName": "Asia/Srednekolymsk",
     "offset": {
       "hour": 11,
       "minute": 660,
@@ -2750,8 +2750,8 @@
     }
   },
   {
-    "code": "TW",
-    "tzname": "Asia/Taipei",
+    "countryCode": "TW",
+    "tzName": "Asia/Taipei",
     "offset": {
       "hour": 8,
       "minute": 480,
@@ -2760,8 +2760,8 @@
     }
   },
   {
-    "code": "UZ",
-    "tzname": "Asia/Tashkent",
+    "countryCode": "UZ",
+    "tzName": "Asia/Tashkent",
     "offset": {
       "hour": 5,
       "minute": 300,
@@ -2770,8 +2770,8 @@
     }
   },
   {
-    "code": "GE",
-    "tzname": "Asia/Tbilisi",
+    "countryCode": "GE",
+    "tzName": "Asia/Tbilisi",
     "offset": {
       "hour": 4,
       "minute": 240,
@@ -2780,18 +2780,18 @@
     }
   },
   {
-    "code": "IR",
-    "tzname": "Asia/Tehran",
+    "countryCode": "IR",
+    "tzName": "Asia/Tehran",
     "offset": {
-      "hour": 3,
-      "minute": 180,
-      "second": 10800,
-      "millisecond": 10800000
+      "hour": 3.5,
+      "minute": 210,
+      "second": 12600,
+      "millisecond": 12600000
     }
   },
   {
-    "code": "BT",
-    "tzname": "Asia/Thimphu",
+    "countryCode": "BT",
+    "tzName": "Asia/Thimphu",
     "offset": {
       "hour": 6,
       "minute": 360,
@@ -2800,8 +2800,8 @@
     }
   },
   {
-    "code": "JP",
-    "tzname": "Asia/Tokyo",
+    "countryCode": "JP",
+    "tzName": "Asia/Tokyo",
     "offset": {
       "hour": 9,
       "minute": 540,
@@ -2810,8 +2810,8 @@
     }
   },
   {
-    "code": "RU",
-    "tzname": "Asia/Tomsk",
+    "countryCode": "RU",
+    "tzName": "Asia/Tomsk",
     "offset": {
       "hour": 7,
       "minute": 420,
@@ -2820,8 +2820,8 @@
     }
   },
   {
-    "code": "MN",
-    "tzname": "Asia/Ulaanbaatar",
+    "countryCode": "MN",
+    "tzName": "Asia/Ulaanbaatar",
     "offset": {
       "hour": 8,
       "minute": 480,
@@ -2830,8 +2830,8 @@
     }
   },
   {
-    "code": "CN",
-    "tzname": "Asia/Urumqi",
+    "countryCode": "CN",
+    "tzName": "Asia/Urumqi",
     "offset": {
       "hour": 6,
       "minute": 360,
@@ -2840,8 +2840,8 @@
     }
   },
   {
-    "code": "RU",
-    "tzname": "Asia/Ust-Nera",
+    "countryCode": "RU",
+    "tzName": "Asia/Ust-Nera",
     "offset": {
       "hour": 10,
       "minute": 600,
@@ -2850,8 +2850,8 @@
     }
   },
   {
-    "code": "LA",
-    "tzname": "Asia/Vientiane",
+    "countryCode": "LA",
+    "tzName": "Asia/Vientiane",
     "offset": {
       "hour": 7,
       "minute": 420,
@@ -2860,8 +2860,8 @@
     }
   },
   {
-    "code": "RU",
-    "tzname": "Asia/Vladivostok",
+    "countryCode": "RU",
+    "tzName": "Asia/Vladivostok",
     "offset": {
       "hour": 10,
       "minute": 600,
@@ -2870,8 +2870,8 @@
     }
   },
   {
-    "code": "RU",
-    "tzname": "Asia/Yakutsk",
+    "countryCode": "RU",
+    "tzName": "Asia/Yakutsk",
     "offset": {
       "hour": 9,
       "minute": 540,
@@ -2880,18 +2880,18 @@
     }
   },
   {
-    "code": "MM",
-    "tzname": "Asia/Yangon",
+    "countryCode": "MM",
+    "tzName": "Asia/Yangon",
     "offset": {
-      "hour": 6,
-      "minute": 360,
-      "second": 21600,
-      "millisecond": 21600000
+      "hour": 6.5,
+      "minute": 390,
+      "second": 23400,
+      "millisecond": 23400000
     }
   },
   {
-    "code": "RU",
-    "tzname": "Asia/Yekaterinburg",
+    "countryCode": "RU",
+    "tzName": "Asia/Yekaterinburg",
     "offset": {
       "hour": 5,
       "minute": 300,
@@ -2900,8 +2900,8 @@
     }
   },
   {
-    "code": "AM",
-    "tzname": "Asia/Yerevan",
+    "countryCode": "AM",
+    "tzName": "Asia/Yerevan",
     "offset": {
       "hour": 4,
       "minute": 240,
@@ -2910,8 +2910,8 @@
     }
   },
   {
-    "code": "PT",
-    "tzname": "Atlantic/Azores",
+    "countryCode": "PT",
+    "tzName": "Atlantic/Azores",
     "offset": {
       "hour": -1,
       "minute": -60,
@@ -2920,8 +2920,8 @@
     }
   },
   {
-    "code": "BM",
-    "tzname": "Atlantic/Bermuda",
+    "countryCode": "BM",
+    "tzName": "Atlantic/Bermuda",
     "offset": {
       "hour": -4,
       "minute": -240,
@@ -2930,8 +2930,8 @@
     }
   },
   {
-    "code": "ES",
-    "tzname": "Atlantic/Canary",
+    "countryCode": "ES",
+    "tzName": "Atlantic/Canary",
     "offset": {
       "hour": 0,
       "minute": 0,
@@ -2940,8 +2940,8 @@
     }
   },
   {
-    "code": "CV",
-    "tzname": "Atlantic/Cape_Verde",
+    "countryCode": "CV",
+    "tzName": "Atlantic/Cape_Verde",
     "offset": {
       "hour": -1,
       "minute": -60,
@@ -2950,8 +2950,8 @@
     }
   },
   {
-    "code": "FO",
-    "tzname": "Atlantic/Faroe",
+    "countryCode": "FO",
+    "tzName": "Atlantic/Faroe",
     "offset": {
       "hour": 0,
       "minute": 0,
@@ -2960,8 +2960,8 @@
     }
   },
   {
-    "code": "PT",
-    "tzname": "Atlantic/Madeira",
+    "countryCode": "PT",
+    "tzName": "Atlantic/Madeira",
     "offset": {
       "hour": 0,
       "minute": 0,
@@ -2970,8 +2970,8 @@
     }
   },
   {
-    "code": "IS",
-    "tzname": "Atlantic/Reykjavik",
+    "countryCode": "IS",
+    "tzName": "Atlantic/Reykjavik",
     "offset": {
       "hour": 0,
       "minute": 0,
@@ -2980,8 +2980,8 @@
     }
   },
   {
-    "code": "GS",
-    "tzname": "Atlantic/South_Georgia",
+    "countryCode": "GS",
+    "tzName": "Atlantic/South_Georgia",
     "offset": {
       "hour": -2,
       "minute": -120,
@@ -2990,8 +2990,8 @@
     }
   },
   {
-    "code": "SH",
-    "tzname": "Atlantic/St_Helena",
+    "countryCode": "SH",
+    "tzName": "Atlantic/St_Helena",
     "offset": {
       "hour": 0,
       "minute": 0,
@@ -3000,8 +3000,8 @@
     }
   },
   {
-    "code": "FK",
-    "tzname": "Atlantic/Stanley",
+    "countryCode": "FK",
+    "tzName": "Atlantic/Stanley",
     "offset": {
       "hour": -3,
       "minute": -180,
@@ -3010,8 +3010,18 @@
     }
   },
   {
-    "code": "AU",
-    "tzname": "Australia/Adelaide",
+    "countryCode": "AU",
+    "tzName": "Australia/Adelaide",
+    "offset": {
+      "hour": 10.5,
+      "minute": 630,
+      "second": 37800,
+      "millisecond": 37800000
+    }
+  },
+  {
+    "countryCode": "AU",
+    "tzName": "Australia/Brisbane",
     "offset": {
       "hour": 10,
       "minute": 600,
@@ -3020,8 +3030,48 @@
     }
   },
   {
-    "code": "AU",
-    "tzname": "Australia/Brisbane",
+    "countryCode": "AU",
+    "tzName": "Australia/Broken_Hill",
+    "offset": {
+      "hour": 10.5,
+      "minute": 630,
+      "second": 37800,
+      "millisecond": 37800000
+    }
+  },
+  {
+    "countryCode": "AU",
+    "tzName": "Australia/Darwin",
+    "offset": {
+      "hour": 9.5,
+      "minute": 570,
+      "second": 34200,
+      "millisecond": 34200000
+    }
+  },
+  {
+    "countryCode": "AU",
+    "tzName": "Australia/Eucla",
+    "offset": {
+      "hour": 8.75,
+      "minute": 525,
+      "second": 31500,
+      "millisecond": 31500000
+    }
+  },
+  {
+    "countryCode": "AU",
+    "tzName": "Australia/Hobart",
+    "offset": {
+      "hour": 11,
+      "minute": 660,
+      "second": 39600,
+      "millisecond": 39600000
+    }
+  },
+  {
+    "countryCode": "AU",
+    "tzName": "Australia/Lindeman",
     "offset": {
       "hour": 10,
       "minute": 600,
@@ -3030,28 +3080,28 @@
     }
   },
   {
-    "code": "AU",
-    "tzname": "Australia/Broken_Hill",
+    "countryCode": "AU",
+    "tzName": "Australia/Lord_Howe",
     "offset": {
-      "hour": 10,
-      "minute": 600,
-      "second": 36000,
-      "millisecond": 36000000
+      "hour": 11,
+      "minute": 660,
+      "second": 39600,
+      "millisecond": 39600000
     }
   },
   {
-    "code": "AU",
-    "tzname": "Australia/Darwin",
+    "countryCode": "AU",
+    "tzName": "Australia/Melbourne",
     "offset": {
-      "hour": 9,
-      "minute": 540,
-      "second": 32400,
-      "millisecond": 32400000
+      "hour": 11,
+      "minute": 660,
+      "second": 39600,
+      "millisecond": 39600000
     }
   },
   {
-    "code": "AU",
-    "tzname": "Australia/Eucla",
+    "countryCode": "AU",
+    "tzName": "Australia/Perth",
     "offset": {
       "hour": 8,
       "minute": 480,
@@ -3060,8 +3110,8 @@
     }
   },
   {
-    "code": "AU",
-    "tzname": "Australia/Hobart",
+    "countryCode": "AU",
+    "tzName": "Australia/Sydney",
     "offset": {
       "hour": 11,
       "minute": 660,
@@ -3070,58 +3120,8 @@
     }
   },
   {
-    "code": "AU",
-    "tzname": "Australia/Lindeman",
-    "offset": {
-      "hour": 10,
-      "minute": 600,
-      "second": 36000,
-      "millisecond": 36000000
-    }
-  },
-  {
-    "code": "AU",
-    "tzname": "Australia/Lord_Howe",
-    "offset": {
-      "hour": 11,
-      "minute": 660,
-      "second": 39600,
-      "millisecond": 39600000
-    }
-  },
-  {
-    "code": "AU",
-    "tzname": "Australia/Melbourne",
-    "offset": {
-      "hour": 11,
-      "minute": 660,
-      "second": 39600,
-      "millisecond": 39600000
-    }
-  },
-  {
-    "code": "AU",
-    "tzname": "Australia/Perth",
-    "offset": {
-      "hour": 8,
-      "minute": 480,
-      "second": 28800,
-      "millisecond": 28800000
-    }
-  },
-  {
-    "code": "AU",
-    "tzname": "Australia/Sydney",
-    "offset": {
-      "hour": 11,
-      "minute": 660,
-      "second": 39600,
-      "millisecond": 39600000
-    }
-  },
-  {
-    "code": "NL",
-    "tzname": "Europe/Amsterdam",
+    "countryCode": "NL",
+    "tzName": "Europe/Amsterdam",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3130,8 +3130,8 @@
     }
   },
   {
-    "code": "AD",
-    "tzname": "Europe/Andorra",
+    "countryCode": "AD",
+    "tzName": "Europe/Andorra",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3140,8 +3140,8 @@
     }
   },
   {
-    "code": "RU",
-    "tzname": "Europe/Astrakhan",
+    "countryCode": "RU",
+    "tzName": "Europe/Astrakhan",
     "offset": {
       "hour": 4,
       "minute": 240,
@@ -3150,8 +3150,8 @@
     }
   },
   {
-    "code": "GR",
-    "tzname": "Europe/Athens",
+    "countryCode": "GR",
+    "tzName": "Europe/Athens",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -3160,8 +3160,8 @@
     }
   },
   {
-    "code": "RS",
-    "tzname": "Europe/Belgrade",
+    "countryCode": "RS",
+    "tzName": "Europe/Belgrade",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3170,8 +3170,8 @@
     }
   },
   {
-    "code": "DE",
-    "tzname": "Europe/Berlin",
+    "countryCode": "DE",
+    "tzName": "Europe/Berlin",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3180,8 +3180,8 @@
     }
   },
   {
-    "code": "SK",
-    "tzname": "Europe/Bratislava",
+    "countryCode": "SK",
+    "tzName": "Europe/Bratislava",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3190,8 +3190,8 @@
     }
   },
   {
-    "code": "BE",
-    "tzname": "Europe/Brussels",
+    "countryCode": "BE",
+    "tzName": "Europe/Brussels",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3200,8 +3200,8 @@
     }
   },
   {
-    "code": "RO",
-    "tzname": "Europe/Bucharest",
+    "countryCode": "RO",
+    "tzName": "Europe/Bucharest",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -3210,8 +3210,8 @@
     }
   },
   {
-    "code": "HU",
-    "tzname": "Europe/Budapest",
+    "countryCode": "HU",
+    "tzName": "Europe/Budapest",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3220,8 +3220,8 @@
     }
   },
   {
-    "code": "DE",
-    "tzname": "Europe/Busingen",
+    "countryCode": "DE",
+    "tzName": "Europe/Busingen",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3230,8 +3230,8 @@
     }
   },
   {
-    "code": "MD",
-    "tzname": "Europe/Chisinau",
+    "countryCode": "MD",
+    "tzName": "Europe/Chisinau",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -3240,8 +3240,8 @@
     }
   },
   {
-    "code": "DK",
-    "tzname": "Europe/Copenhagen",
+    "countryCode": "DK",
+    "tzName": "Europe/Copenhagen",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3250,8 +3250,8 @@
     }
   },
   {
-    "code": "IE",
-    "tzname": "Europe/Dublin",
+    "countryCode": "IE",
+    "tzName": "Europe/Dublin",
     "offset": {
       "hour": 0,
       "minute": 0,
@@ -3260,8 +3260,8 @@
     }
   },
   {
-    "code": "GI",
-    "tzname": "Europe/Gibraltar",
+    "countryCode": "GI",
+    "tzName": "Europe/Gibraltar",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3270,8 +3270,8 @@
     }
   },
   {
-    "code": "GG",
-    "tzname": "Europe/Guernsey",
+    "countryCode": "GG",
+    "tzName": "Europe/Guernsey",
     "offset": {
       "hour": 0,
       "minute": 0,
@@ -3280,8 +3280,8 @@
     }
   },
   {
-    "code": "FI",
-    "tzname": "Europe/Helsinki",
+    "countryCode": "FI",
+    "tzName": "Europe/Helsinki",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -3290,8 +3290,8 @@
     }
   },
   {
-    "code": "IM",
-    "tzname": "Europe/Isle_of_Man",
+    "countryCode": "IM",
+    "tzName": "Europe/Isle_of_Man",
     "offset": {
       "hour": 0,
       "minute": 0,
@@ -3300,8 +3300,8 @@
     }
   },
   {
-    "code": "TR",
-    "tzname": "Europe/Istanbul",
+    "countryCode": "TR",
+    "tzName": "Europe/Istanbul",
     "offset": {
       "hour": 3,
       "minute": 180,
@@ -3310,8 +3310,8 @@
     }
   },
   {
-    "code": "JE",
-    "tzname": "Europe/Jersey",
+    "countryCode": "JE",
+    "tzName": "Europe/Jersey",
     "offset": {
       "hour": 0,
       "minute": 0,
@@ -3320,8 +3320,8 @@
     }
   },
   {
-    "code": "RU",
-    "tzname": "Europe/Kaliningrad",
+    "countryCode": "RU",
+    "tzName": "Europe/Kaliningrad",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -3330,8 +3330,8 @@
     }
   },
   {
-    "code": "RU",
-    "tzname": "Europe/Kirov",
+    "countryCode": "RU",
+    "tzName": "Europe/Kirov",
     "offset": {
       "hour": 3,
       "minute": 180,
@@ -3340,8 +3340,8 @@
     }
   },
   {
-    "code": "UA",
-    "tzname": "Europe/Kyiv",
+    "countryCode": "UA",
+    "tzName": "Europe/Kyiv",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -3350,8 +3350,8 @@
     }
   },
   {
-    "code": "PT",
-    "tzname": "Europe/Lisbon",
+    "countryCode": "PT",
+    "tzName": "Europe/Lisbon",
     "offset": {
       "hour": 0,
       "minute": 0,
@@ -3360,8 +3360,8 @@
     }
   },
   {
-    "code": "SI",
-    "tzname": "Europe/Ljubljana",
+    "countryCode": "SI",
+    "tzName": "Europe/Ljubljana",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3370,8 +3370,8 @@
     }
   },
   {
-    "code": "GB",
-    "tzname": "Europe/London",
+    "countryCode": "GB",
+    "tzName": "Europe/London",
     "offset": {
       "hour": 0,
       "minute": 0,
@@ -3380,8 +3380,8 @@
     }
   },
   {
-    "code": "LU",
-    "tzname": "Europe/Luxembourg",
+    "countryCode": "LU",
+    "tzName": "Europe/Luxembourg",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3390,8 +3390,8 @@
     }
   },
   {
-    "code": "ES",
-    "tzname": "Europe/Madrid",
+    "countryCode": "ES",
+    "tzName": "Europe/Madrid",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3400,8 +3400,8 @@
     }
   },
   {
-    "code": "MT",
-    "tzname": "Europe/Malta",
+    "countryCode": "MT",
+    "tzName": "Europe/Malta",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3410,8 +3410,8 @@
     }
   },
   {
-    "code": "AX",
-    "tzname": "Europe/Mariehamn",
+    "countryCode": "AX",
+    "tzName": "Europe/Mariehamn",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -3420,8 +3420,8 @@
     }
   },
   {
-    "code": "BY",
-    "tzname": "Europe/Minsk",
+    "countryCode": "BY",
+    "tzName": "Europe/Minsk",
     "offset": {
       "hour": 3,
       "minute": 180,
@@ -3430,8 +3430,8 @@
     }
   },
   {
-    "code": "MC",
-    "tzname": "Europe/Monaco",
+    "countryCode": "MC",
+    "tzName": "Europe/Monaco",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3440,8 +3440,8 @@
     }
   },
   {
-    "code": "RU",
-    "tzname": "Europe/Moscow",
+    "countryCode": "RU",
+    "tzName": "Europe/Moscow",
     "offset": {
       "hour": 3,
       "minute": 180,
@@ -3450,8 +3450,8 @@
     }
   },
   {
-    "code": "NO",
-    "tzname": "Europe/Oslo",
+    "countryCode": "NO",
+    "tzName": "Europe/Oslo",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3460,8 +3460,8 @@
     }
   },
   {
-    "code": "FR",
-    "tzname": "Europe/Paris",
+    "countryCode": "FR",
+    "tzName": "Europe/Paris",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3470,8 +3470,8 @@
     }
   },
   {
-    "code": "ME",
-    "tzname": "Europe/Podgorica",
+    "countryCode": "ME",
+    "tzName": "Europe/Podgorica",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3480,8 +3480,8 @@
     }
   },
   {
-    "code": "CZ",
-    "tzname": "Europe/Prague",
+    "countryCode": "CZ",
+    "tzName": "Europe/Prague",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3490,8 +3490,8 @@
     }
   },
   {
-    "code": "LV",
-    "tzname": "Europe/Riga",
+    "countryCode": "LV",
+    "tzName": "Europe/Riga",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -3500,8 +3500,8 @@
     }
   },
   {
-    "code": "IT",
-    "tzname": "Europe/Rome",
+    "countryCode": "IT",
+    "tzName": "Europe/Rome",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3510,8 +3510,8 @@
     }
   },
   {
-    "code": "RU",
-    "tzname": "Europe/Samara",
+    "countryCode": "RU",
+    "tzName": "Europe/Samara",
     "offset": {
       "hour": 4,
       "minute": 240,
@@ -3520,8 +3520,8 @@
     }
   },
   {
-    "code": "SM",
-    "tzname": "Europe/San_Marino",
+    "countryCode": "SM",
+    "tzName": "Europe/San_Marino",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3530,8 +3530,8 @@
     }
   },
   {
-    "code": "BA",
-    "tzname": "Europe/Sarajevo",
+    "countryCode": "BA",
+    "tzName": "Europe/Sarajevo",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3540,8 +3540,8 @@
     }
   },
   {
-    "code": "RU",
-    "tzname": "Europe/Saratov",
+    "countryCode": "RU",
+    "tzName": "Europe/Saratov",
     "offset": {
       "hour": 4,
       "minute": 240,
@@ -3550,8 +3550,8 @@
     }
   },
   {
-    "code": "UA",
-    "tzname": "Europe/Simferopol",
+    "countryCode": "UA",
+    "tzName": "Europe/Simferopol",
     "offset": {
       "hour": 3,
       "minute": 180,
@@ -3560,8 +3560,8 @@
     }
   },
   {
-    "code": "MK",
-    "tzname": "Europe/Skopje",
+    "countryCode": "MK",
+    "tzName": "Europe/Skopje",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3570,8 +3570,8 @@
     }
   },
   {
-    "code": "BG",
-    "tzname": "Europe/Sofia",
+    "countryCode": "BG",
+    "tzName": "Europe/Sofia",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -3580,8 +3580,8 @@
     }
   },
   {
-    "code": "SE",
-    "tzname": "Europe/Stockholm",
+    "countryCode": "SE",
+    "tzName": "Europe/Stockholm",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3590,8 +3590,8 @@
     }
   },
   {
-    "code": "EE",
-    "tzname": "Europe/Tallinn",
+    "countryCode": "EE",
+    "tzName": "Europe/Tallinn",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -3600,8 +3600,8 @@
     }
   },
   {
-    "code": "AL",
-    "tzname": "Europe/Tirane",
+    "countryCode": "AL",
+    "tzName": "Europe/Tirane",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3610,8 +3610,8 @@
     }
   },
   {
-    "code": "RU",
-    "tzname": "Europe/Ulyanovsk",
+    "countryCode": "RU",
+    "tzName": "Europe/Ulyanovsk",
     "offset": {
       "hour": 4,
       "minute": 240,
@@ -3620,8 +3620,8 @@
     }
   },
   {
-    "code": "LI",
-    "tzname": "Europe/Vaduz",
+    "countryCode": "LI",
+    "tzName": "Europe/Vaduz",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3630,8 +3630,8 @@
     }
   },
   {
-    "code": "VA",
-    "tzname": "Europe/Vatican",
+    "countryCode": "VA",
+    "tzName": "Europe/Vatican",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3640,8 +3640,8 @@
     }
   },
   {
-    "code": "AT",
-    "tzname": "Europe/Vienna",
+    "countryCode": "AT",
+    "tzName": "Europe/Vienna",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3650,8 +3650,8 @@
     }
   },
   {
-    "code": "LT",
-    "tzname": "Europe/Vilnius",
+    "countryCode": "LT",
+    "tzName": "Europe/Vilnius",
     "offset": {
       "hour": 2,
       "minute": 120,
@@ -3660,8 +3660,8 @@
     }
   },
   {
-    "code": "RU",
-    "tzname": "Europe/Volgograd",
+    "countryCode": "RU",
+    "tzName": "Europe/Volgograd",
     "offset": {
       "hour": 3,
       "minute": 180,
@@ -3670,8 +3670,8 @@
     }
   },
   {
-    "code": "PL",
-    "tzname": "Europe/Warsaw",
+    "countryCode": "PL",
+    "tzName": "Europe/Warsaw",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3680,8 +3680,8 @@
     }
   },
   {
-    "code": "HR",
-    "tzname": "Europe/Zagreb",
+    "countryCode": "HR",
+    "tzName": "Europe/Zagreb",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3690,8 +3690,8 @@
     }
   },
   {
-    "code": "CH",
-    "tzname": "Europe/Zurich",
+    "countryCode": "CH",
+    "tzName": "Europe/Zurich",
     "offset": {
       "hour": 1,
       "minute": 60,
@@ -3700,8 +3700,8 @@
     }
   },
   {
-    "code": "MG",
-    "tzname": "Indian/Antananarivo",
+    "countryCode": "MG",
+    "tzName": "Indian/Antananarivo",
     "offset": {
       "hour": 3,
       "minute": 180,
@@ -3710,8 +3710,8 @@
     }
   },
   {
-    "code": "IO",
-    "tzname": "Indian/Chagos",
+    "countryCode": "IO",
+    "tzName": "Indian/Chagos",
     "offset": {
       "hour": 6,
       "minute": 360,
@@ -3720,8 +3720,8 @@
     }
   },
   {
-    "code": "CX",
-    "tzname": "Indian/Christmas",
+    "countryCode": "CX",
+    "tzName": "Indian/Christmas",
     "offset": {
       "hour": 7,
       "minute": 420,
@@ -3730,68 +3730,18 @@
     }
   },
   {
-    "code": "CC",
-    "tzname": "Indian/Cocos",
+    "countryCode": "CC",
+    "tzName": "Indian/Cocos",
     "offset": {
-      "hour": 6,
-      "minute": 360,
-      "second": 21600,
-      "millisecond": 21600000
+      "hour": 6.5,
+      "minute": 390,
+      "second": 23400,
+      "millisecond": 23400000
     }
   },
   {
-    "code": "KM",
-    "tzname": "Indian/Comoro",
-    "offset": {
-      "hour": 3,
-      "minute": 180,
-      "second": 10800,
-      "millisecond": 10800000
-    }
-  },
-  {
-    "code": "TF",
-    "tzname": "Indian/Kerguelen",
-    "offset": {
-      "hour": 5,
-      "minute": 300,
-      "second": 18000,
-      "millisecond": 18000000
-    }
-  },
-  {
-    "code": "SC",
-    "tzname": "Indian/Mahe",
-    "offset": {
-      "hour": 4,
-      "minute": 240,
-      "second": 14400,
-      "millisecond": 14400000
-    }
-  },
-  {
-    "code": "MV",
-    "tzname": "Indian/Maldives",
-    "offset": {
-      "hour": 5,
-      "minute": 300,
-      "second": 18000,
-      "millisecond": 18000000
-    }
-  },
-  {
-    "code": "MU",
-    "tzname": "Indian/Mauritius",
-    "offset": {
-      "hour": 4,
-      "minute": 240,
-      "second": 14400,
-      "millisecond": 14400000
-    }
-  },
-  {
-    "code": "YT",
-    "tzname": "Indian/Mayotte",
+    "countryCode": "KM",
+    "tzName": "Indian/Comoro",
     "offset": {
       "hour": 3,
       "minute": 180,
@@ -3800,8 +3750,18 @@
     }
   },
   {
-    "code": "RE",
-    "tzname": "Indian/Reunion",
+    "countryCode": "TF",
+    "tzName": "Indian/Kerguelen",
+    "offset": {
+      "hour": 5,
+      "minute": 300,
+      "second": 18000,
+      "millisecond": 18000000
+    }
+  },
+  {
+    "countryCode": "SC",
+    "tzName": "Indian/Mahe",
     "offset": {
       "hour": 4,
       "minute": 240,
@@ -3810,8 +3770,48 @@
     }
   },
   {
-    "code": "WS",
-    "tzname": "Pacific/Apia",
+    "countryCode": "MV",
+    "tzName": "Indian/Maldives",
+    "offset": {
+      "hour": 5,
+      "minute": 300,
+      "second": 18000,
+      "millisecond": 18000000
+    }
+  },
+  {
+    "countryCode": "MU",
+    "tzName": "Indian/Mauritius",
+    "offset": {
+      "hour": 4,
+      "minute": 240,
+      "second": 14400,
+      "millisecond": 14400000
+    }
+  },
+  {
+    "countryCode": "YT",
+    "tzName": "Indian/Mayotte",
+    "offset": {
+      "hour": 3,
+      "minute": 180,
+      "second": 10800,
+      "millisecond": 10800000
+    }
+  },
+  {
+    "countryCode": "RE",
+    "tzName": "Indian/Reunion",
+    "offset": {
+      "hour": 4,
+      "minute": 240,
+      "second": 14400,
+      "millisecond": 14400000
+    }
+  },
+  {
+    "countryCode": "WS",
+    "tzName": "Pacific/Apia",
     "offset": {
       "hour": 13,
       "minute": 780,
@@ -3820,8 +3820,8 @@
     }
   },
   {
-    "code": "NZ",
-    "tzname": "Pacific/Auckland",
+    "countryCode": "NZ",
+    "tzName": "Pacific/Auckland",
     "offset": {
       "hour": 13,
       "minute": 780,
@@ -3830,8 +3830,8 @@
     }
   },
   {
-    "code": "PG",
-    "tzname": "Pacific/Bougainville",
+    "countryCode": "PG",
+    "tzName": "Pacific/Bougainville",
     "offset": {
       "hour": 11,
       "minute": 660,
@@ -3840,18 +3840,18 @@
     }
   },
   {
-    "code": "NZ",
-    "tzname": "Pacific/Chatham",
+    "countryCode": "NZ",
+    "tzName": "Pacific/Chatham",
     "offset": {
-      "hour": 13,
-      "minute": 780,
-      "second": 46800,
-      "millisecond": 46800000
+      "hour": 13.75,
+      "minute": 825,
+      "second": 49500,
+      "millisecond": 49500000
     }
   },
   {
-    "code": "FM",
-    "tzname": "Pacific/Chuuk",
+    "countryCode": "FM",
+    "tzName": "Pacific/Chuuk",
     "offset": {
       "hour": 10,
       "minute": 600,
@@ -3860,8 +3860,8 @@
     }
   },
   {
-    "code": "CL",
-    "tzname": "Pacific/Easter",
+    "countryCode": "CL",
+    "tzName": "Pacific/Easter",
     "offset": {
       "hour": -5,
       "minute": -300,
@@ -3870,8 +3870,8 @@
     }
   },
   {
-    "code": "VU",
-    "tzname": "Pacific/Efate",
+    "countryCode": "VU",
+    "tzName": "Pacific/Efate",
     "offset": {
       "hour": 11,
       "minute": 660,
@@ -3880,8 +3880,8 @@
     }
   },
   {
-    "code": "TK",
-    "tzname": "Pacific/Fakaofo",
+    "countryCode": "TK",
+    "tzName": "Pacific/Fakaofo",
     "offset": {
       "hour": 13,
       "minute": 780,
@@ -3890,8 +3890,8 @@
     }
   },
   {
-    "code": "FJ",
-    "tzname": "Pacific/Fiji",
+    "countryCode": "FJ",
+    "tzName": "Pacific/Fiji",
     "offset": {
       "hour": 12,
       "minute": 720,
@@ -3900,8 +3900,8 @@
     }
   },
   {
-    "code": "TV",
-    "tzname": "Pacific/Funafuti",
+    "countryCode": "TV",
+    "tzName": "Pacific/Funafuti",
     "offset": {
       "hour": 12,
       "minute": 720,
@@ -3910,8 +3910,8 @@
     }
   },
   {
-    "code": "EC",
-    "tzname": "Pacific/Galapagos",
+    "countryCode": "EC",
+    "tzName": "Pacific/Galapagos",
     "offset": {
       "hour": -6,
       "minute": -360,
@@ -3920,8 +3920,8 @@
     }
   },
   {
-    "code": "PF",
-    "tzname": "Pacific/Gambier",
+    "countryCode": "PF",
+    "tzName": "Pacific/Gambier",
     "offset": {
       "hour": -9,
       "minute": -540,
@@ -3930,8 +3930,8 @@
     }
   },
   {
-    "code": "SB",
-    "tzname": "Pacific/Guadalcanal",
+    "countryCode": "SB",
+    "tzName": "Pacific/Guadalcanal",
     "offset": {
       "hour": 11,
       "minute": 660,
@@ -3940,8 +3940,8 @@
     }
   },
   {
-    "code": "GU",
-    "tzname": "Pacific/Guam",
+    "countryCode": "GU",
+    "tzName": "Pacific/Guam",
     "offset": {
       "hour": 10,
       "minute": 600,
@@ -3950,8 +3950,8 @@
     }
   },
   {
-    "code": "US",
-    "tzname": "Pacific/Honolulu",
+    "countryCode": "US",
+    "tzName": "Pacific/Honolulu",
     "offset": {
       "hour": -10,
       "minute": -600,
@@ -3960,8 +3960,8 @@
     }
   },
   {
-    "code": "KI",
-    "tzname": "Pacific/Kanton",
+    "countryCode": "KI",
+    "tzName": "Pacific/Kanton",
     "offset": {
       "hour": 13,
       "minute": 780,
@@ -3970,8 +3970,8 @@
     }
   },
   {
-    "code": "KI",
-    "tzname": "Pacific/Kiritimati",
+    "countryCode": "KI",
+    "tzName": "Pacific/Kiritimati",
     "offset": {
       "hour": 14,
       "minute": 840,
@@ -3980,8 +3980,8 @@
     }
   },
   {
-    "code": "FM",
-    "tzname": "Pacific/Kosrae",
+    "countryCode": "FM",
+    "tzName": "Pacific/Kosrae",
     "offset": {
       "hour": 11,
       "minute": 660,
@@ -3990,8 +3990,8 @@
     }
   },
   {
-    "code": "MH",
-    "tzname": "Pacific/Kwajalein",
+    "countryCode": "MH",
+    "tzName": "Pacific/Kwajalein",
     "offset": {
       "hour": 12,
       "minute": 720,
@@ -4000,8 +4000,8 @@
     }
   },
   {
-    "code": "MH",
-    "tzname": "Pacific/Majuro",
+    "countryCode": "MH",
+    "tzName": "Pacific/Majuro",
     "offset": {
       "hour": 12,
       "minute": 720,
@@ -4010,18 +4010,18 @@
     }
   },
   {
-    "code": "PF",
-    "tzname": "Pacific/Marquesas",
+    "countryCode": "PF",
+    "tzName": "Pacific/Marquesas",
     "offset": {
-      "hour": -9,
-      "minute": -540,
-      "second": -32400,
-      "millisecond": -32400000
+      "hour": -9.5,
+      "minute": -570,
+      "second": -34200,
+      "millisecond": -34200000
     }
   },
   {
-    "code": "UM",
-    "tzname": "Pacific/Midway",
+    "countryCode": "UM",
+    "tzName": "Pacific/Midway",
     "offset": {
       "hour": -11,
       "minute": -660,
@@ -4030,8 +4030,8 @@
     }
   },
   {
-    "code": "NR",
-    "tzname": "Pacific/Nauru",
+    "countryCode": "NR",
+    "tzName": "Pacific/Nauru",
     "offset": {
       "hour": 12,
       "minute": 720,
@@ -4040,8 +4040,8 @@
     }
   },
   {
-    "code": "NU",
-    "tzname": "Pacific/Niue",
+    "countryCode": "NU",
+    "tzName": "Pacific/Niue",
     "offset": {
       "hour": -11,
       "minute": -660,
@@ -4050,8 +4050,8 @@
     }
   },
   {
-    "code": "NF",
-    "tzname": "Pacific/Norfolk",
+    "countryCode": "NF",
+    "tzName": "Pacific/Norfolk",
     "offset": {
       "hour": 12,
       "minute": 720,
@@ -4060,8 +4060,8 @@
     }
   },
   {
-    "code": "NC",
-    "tzname": "Pacific/Noumea",
+    "countryCode": "NC",
+    "tzName": "Pacific/Noumea",
     "offset": {
       "hour": 11,
       "minute": 660,
@@ -4070,8 +4070,8 @@
     }
   },
   {
-    "code": "AS",
-    "tzname": "Pacific/Pago_Pago",
+    "countryCode": "AS",
+    "tzName": "Pacific/Pago_Pago",
     "offset": {
       "hour": -11,
       "minute": -660,
@@ -4080,8 +4080,8 @@
     }
   },
   {
-    "code": "PW",
-    "tzname": "Pacific/Palau",
+    "countryCode": "PW",
+    "tzName": "Pacific/Palau",
     "offset": {
       "hour": 9,
       "minute": 540,
@@ -4090,8 +4090,8 @@
     }
   },
   {
-    "code": "PN",
-    "tzname": "Pacific/Pitcairn",
+    "countryCode": "PN",
+    "tzName": "Pacific/Pitcairn",
     "offset": {
       "hour": -8,
       "minute": -480,
@@ -4100,8 +4100,8 @@
     }
   },
   {
-    "code": "FM",
-    "tzname": "Pacific/Pohnpei",
+    "countryCode": "FM",
+    "tzName": "Pacific/Pohnpei",
     "offset": {
       "hour": 11,
       "minute": 660,
@@ -4110,8 +4110,8 @@
     }
   },
   {
-    "code": "PG",
-    "tzname": "Pacific/Port_Moresby",
+    "countryCode": "PG",
+    "tzName": "Pacific/Port_Moresby",
     "offset": {
       "hour": 10,
       "minute": 600,
@@ -4120,8 +4120,8 @@
     }
   },
   {
-    "code": "CK",
-    "tzname": "Pacific/Rarotonga",
+    "countryCode": "CK",
+    "tzName": "Pacific/Rarotonga",
     "offset": {
       "hour": -10,
       "minute": -600,
@@ -4130,8 +4130,8 @@
     }
   },
   {
-    "code": "MP",
-    "tzname": "Pacific/Saipan",
+    "countryCode": "MP",
+    "tzName": "Pacific/Saipan",
     "offset": {
       "hour": 10,
       "minute": 600,
@@ -4140,8 +4140,8 @@
     }
   },
   {
-    "code": "PF",
-    "tzname": "Pacific/Tahiti",
+    "countryCode": "PF",
+    "tzName": "Pacific/Tahiti",
     "offset": {
       "hour": -10,
       "minute": -600,
@@ -4150,8 +4150,8 @@
     }
   },
   {
-    "code": "KI",
-    "tzname": "Pacific/Tarawa",
+    "countryCode": "KI",
+    "tzName": "Pacific/Tarawa",
     "offset": {
       "hour": 12,
       "minute": 720,
@@ -4160,8 +4160,8 @@
     }
   },
   {
-    "code": "TO",
-    "tzname": "Pacific/Tongatapu",
+    "countryCode": "TO",
+    "tzName": "Pacific/Tongatapu",
     "offset": {
       "hour": 13,
       "minute": 780,
@@ -4170,8 +4170,8 @@
     }
   },
   {
-    "code": "UM",
-    "tzname": "Pacific/Wake",
+    "countryCode": "UM",
+    "tzName": "Pacific/Wake",
     "offset": {
       "hour": 12,
       "minute": 720,
@@ -4180,8 +4180,8 @@
     }
   },
   {
-    "code": "WF",
-    "tzname": "Pacific/Wallis",
+    "countryCode": "WF",
+    "tzName": "Pacific/Wallis",
     "offset": {
       "hour": 12,
       "minute": 720,

@@ -1,0 +1,120 @@
+@import url("https://cdn.jsdelivr.net/gh/phothinmg/burmesecss@main/dist/fonts/umoe/umoe.css");
+
+:root,
+::backdrop {
+  :root,
+  ::backdrop {
+    color-scheme: dark;
+    --bg: #212121;
+    --accent-bg: #2b2b2b;
+    --text: #dcdcdc;
+    --text-light: #ababab;
+    --accent: #ffb300;
+    --accent-hover: #ffe099;
+    --accent-text: var(--bg);
+    --code: #f06292;
+    --preformatted: #ccc;
+    --disabled: #111;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  :root,
+  ::backdrop {
+    color-scheme: dark;
+    --bg: #212121;
+    --accent-bg: #2b2b2b;
+    --text: #dcdcdc;
+    --text-light: #ababab;
+    --accent: #ffb300;
+    --accent-hover: #ffe099;
+    --accent-text: var(--bg);
+    --code: #f06292;
+    --preformatted: #ccc;
+    --disabled: #111;
+  }
+  /* Add a bit of transparency so light media isn't so glaring in dark mode */
+  img,
+  video {
+    opacity: 0.8;
+  }
+}
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+body {
+  color: var(--text);
+  background-color: var(--bg);
+  font-size: 1.15rem;
+  line-height: 1.5;
+  display: grid;
+  grid-template-columns: 1fr min(45rem, 90%) 1fr;
+  margin: 0;
+  font-family: umoe !important;
+}
+body > * {
+  grid-column: 2;
+}
+/* Top */
+
+.top {
+  text-align: center;
+  padding: 10px;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px,
+    rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+  border: 1px solid var(--accent);
+  border-radius: 15px 50px;
+}
+
+.top > h1 {
+  text-shadow: 2px 2px 4px #000000;
+}
+
+/* --- header ---- */
+.form {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 20px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  padding: 10px;
+  border-radius: 7px;
+  border: 1px solid var(--accent);
+}
+
+.form > input,
+select {
+  max-width: 160px;
+  text-align: center;
+  font-size: medium;
+  max-height: min-content;
+}
+
+.form > small {
+  font-size: medium;
+  margin-top: 10px;
+}
+
+/* ----------------------------------------- */
+.mcal {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  padding: 26px;
+  border-radius: 7px;
+}
+.day {
+  padding: 10px;
+  border: 1px solid var(--accent);
+  text-align: center;
+}
+.sunday {
+  color: var(--code);
+}
+.active {
+  color: lime;
+}
+
+/* -------------- */

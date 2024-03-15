@@ -1,6 +1,7 @@
+import path from "path";
 import { writeJson } from "array-json";
 
-async function tz2() {
+async function countryinfo() {
   let obj = [];
   await fetch("https://download.geonames.org/export/dump/countryInfo.txt")
     .then((res) => res.text())
@@ -27,7 +28,7 @@ async function tz2() {
         obj.push(bb2);
       });
     });
-  await writeJson("src/data/tz2.json", obj);
+  await writeJson(path.join(process.cwd(), "data/countryinfo.json"), obj);
 }
 
-export default tz2;
+export default countryinfo;

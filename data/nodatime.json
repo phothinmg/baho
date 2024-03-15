@@ -1,0 +1,4214 @@
+[
+  {
+    "id": "Africa/Abidjan",
+    "country_code": "CI",
+    "country": "Côte d'Ivoire",
+    "current_offset": "+00 (GMT)",
+    "offsets": "+00",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Africa/Accra, Africa/Bamako, Africa/Banjul, Africa/Conakry, Africa/Dakar, Africa/Freetown, Africa/Lome, Africa/Nouakchott, Africa/Ouagadougou, Africa/Timbuktu, Atlantic/Reykjavik, Atlantic/St_Helena, Iceland"
+    ],
+    "link": "(5.317, -4.033)"
+  },
+  {
+    "id": "Africa/Algiers",
+    "country_code": "DZ",
+    "country": "Algeria",
+    "current_offset": "+01 (CET)",
+    "offsets": "+01",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(36.783, 3.050)"
+  },
+  {
+    "id": "Africa/Bissau",
+    "country_code": "GW",
+    "country": "Guinea-Bissau",
+    "current_offset": "+00 (GMT)",
+    "offsets": "+00",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(11.850, -15.583)"
+  },
+  {
+    "id": "Africa/Cairo",
+    "country_code": "EG",
+    "country": "Egypt",
+    "current_offset": "+02 (EET)",
+    "offsets": "+02, +03",
+    "next_transition": "2024-04-25T22:00:00Z (2024-04-26T00:00:00  local)+02 to +03",
+    "aliases": [
+      "Egypt"
+    ],
+    "link": "(30.050, 31.250)"
+  },
+  {
+    "id": "Africa/Casablanca",
+    "country_code": "MA",
+    "country": "Morocco",
+    "current_offset": "+00 (+00)",
+    "offsets": "+00, +01",
+    "next_transition": "2024-04-14T02:00:00Z (2024-04-14T02:00:00  local)+00 to +01",
+    "aliases": [
+      ""
+    ],
+    "link": "(33.650, -7.583)"
+  },
+  {
+    "id": "Africa/Ceuta",
+    "country_code": "ES",
+    "country": "Spain",
+    "current_offset": "+01 (CET)",
+    "offsets": "+01, +02",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T02:00:00  local)+01 to +02",
+    "aliases": [
+      ""
+    ],
+    "link": "(35.883, -5.317)"
+  },
+  {
+    "id": "Africa/El_Aaiun",
+    "country_code": "EH",
+    "country": "Western Sahara",
+    "current_offset": "+00 (+00)",
+    "offsets": "+00, +01",
+    "next_transition": "2024-04-14T02:00:00Z (2024-04-14T02:00:00  local)+00 to +01",
+    "aliases": [
+      ""
+    ],
+    "link": "(27.150, -13.200)"
+  },
+  {
+    "id": "Africa/Johannesburg",
+    "country_code": "ZA",
+    "country": "South Africa",
+    "current_offset": "+02 (SAST)",
+    "offsets": "+02",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Africa/Maseru, Africa/Mbabane"
+    ],
+    "link": "(-26.250, 28.000)"
+  },
+  {
+    "id": "Africa/Juba",
+    "country_code": "SS",
+    "country": "South Sudan",
+    "current_offset": "+02 (CAT)",
+    "offsets": "+02, +03",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(4.850, 31.617)"
+  },
+  {
+    "id": "Africa/Khartoum",
+    "country_code": "SD",
+    "country": "Sudan",
+    "current_offset": "+02 (CAT)",
+    "offsets": "+02, +03",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(15.600, 32.533)"
+  },
+  {
+    "id": "Africa/Lagos",
+    "country_code": "NG",
+    "country": "Nigeria",
+    "current_offset": "+01 (WAT)",
+    "offsets": "+01",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Africa/Bangui, Africa/Brazzaville, Africa/Douala, Africa/Kinshasa, Africa/Libreville, Africa/Luanda, Africa/Malabo, Africa/Niamey, Africa/Porto-Novo"
+    ],
+    "link": "(6.450, 3.400)"
+  },
+  {
+    "id": "Africa/Maputo",
+    "country_code": "MZ",
+    "country": "Mozambique",
+    "current_offset": "+02 (CAT)",
+    "offsets": "+02",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Africa/Blantyre, Africa/Bujumbura, Africa/Gaborone, Africa/Harare, Africa/Kigali, Africa/Lubumbashi, Africa/Lusaka"
+    ],
+    "link": "(-25.967, 32.583)"
+  },
+  {
+    "id": "Africa/Monrovia",
+    "country_code": "LR",
+    "country": "Liberia",
+    "current_offset": "+00 (GMT)",
+    "offsets": "+00",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(6.300, -10.783)"
+  },
+  {
+    "id": "Africa/Nairobi",
+    "country_code": "KE",
+    "country": "Kenya",
+    "current_offset": "+03 (EAT)",
+    "offsets": "+03",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Africa/Addis_Ababa, Africa/Asmara, Africa/Asmera, Africa/Dar_es_Salaam, Africa/Djibouti, Africa/Kampala, Africa/Mogadishu, Indian/Antananarivo, Indian/Comoro, Indian/Mayotte"
+    ],
+    "link": "(-1.283, 36.817)"
+  },
+  {
+    "id": "Africa/Ndjamena",
+    "country_code": "TD",
+    "country": "Chad",
+    "current_offset": "+01 (WAT)",
+    "offsets": "+01",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(12.117, 15.050)"
+  },
+  {
+    "id": "Africa/Sao_Tome",
+    "country_code": "ST",
+    "country": "Sao Tome & Principe",
+    "current_offset": "+00 (GMT)",
+    "offsets": "+00, +01",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(0.333, 6.733)"
+  },
+  {
+    "id": "Africa/Tripoli",
+    "country_code": "LY",
+    "country": "Libya",
+    "current_offset": "+02 (EET)",
+    "offsets": "+01, +02",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Libya"
+    ],
+    "link": "(32.900, 13.183)"
+  },
+  {
+    "id": "Africa/Tunis",
+    "country_code": "TN",
+    "country": "Tunisia",
+    "current_offset": "+01 (CET)",
+    "offsets": "+01, +02",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(36.800, 10.183)"
+  },
+  {
+    "id": "Africa/Windhoek",
+    "country_code": "NA",
+    "country": "Namibia",
+    "current_offset": "+02 (CAT)",
+    "offsets": "+01, +02",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-22.567, 17.100)"
+  },
+  {
+    "id": "America/Adak",
+    "country_code": "US",
+    "country": "United States",
+    "current_offset": "-09 (HDT)",
+    "offsets": "-10, -09",
+    "next_transition": "2024-11-03T11:00:00Z (2024-11-03T02:00:00  local)-09 to -10",
+    "aliases": [
+      "America/Atka, US/Aleutian"
+    ],
+    "link": "(51.880, -176.658)"
+  },
+  {
+    "id": "America/Anchorage",
+    "country_code": "US",
+    "country": "United States",
+    "current_offset": "-08 (AKDT)",
+    "offsets": "-09, -08",
+    "next_transition": "2024-11-03T10:00:00Z (2024-11-03T02:00:00  local)-08 to -09",
+    "aliases": [
+      "US/Alaska"
+    ],
+    "link": "(61.218, -149.900)"
+  },
+  {
+    "id": "America/Araguaina",
+    "country_code": "BR",
+    "country": "Brazil",
+    "current_offset": "-03 (-03)",
+    "offsets": "-03, -02",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-7.200, -48.200)"
+  },
+  {
+    "id": "America/Argentina/Buenos_Aires",
+    "country_code": "AR",
+    "country": "Argentina",
+    "current_offset": "-03 (-03)",
+    "offsets": "-03, -02",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "America/Buenos_Aires"
+    ],
+    "link": "(-34.600, -58.450)"
+  },
+  {
+    "id": "America/Argentina/Catamarca",
+    "country_code": "AR",
+    "country": "Argentina",
+    "current_offset": "-03 (-03)",
+    "offsets": "-04, -03, -02",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "America/Argentina/ComodRivadavia, America/Catamarca"
+    ],
+    "link": "(-28.467, -65.783)"
+  },
+  {
+    "id": "America/Argentina/Cordoba",
+    "country_code": "AR",
+    "country": "Argentina",
+    "current_offset": "-03 (-03)",
+    "offsets": "-03, -02",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "America/Cordoba, America/Rosario"
+    ],
+    "link": "(-31.400, -64.183)"
+  },
+  {
+    "id": "America/Argentina/Jujuy",
+    "country_code": "AR",
+    "country": "Argentina",
+    "current_offset": "-03 (-03)",
+    "offsets": "-03, -02",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "America/Jujuy"
+    ],
+    "link": "(-24.183, -65.300)"
+  },
+  {
+    "id": "America/Argentina/La_Rioja",
+    "country_code": "AR",
+    "country": "Argentina",
+    "current_offset": "-03 (-03)",
+    "offsets": "-04, -03, -02",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-29.433, -66.850)"
+  },
+  {
+    "id": "America/Argentina/Mendoza",
+    "country_code": "AR",
+    "country": "Argentina",
+    "current_offset": "-03 (-03)",
+    "offsets": "-04, -03, -02",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "America/Mendoza"
+    ],
+    "link": "(-32.883, -68.817)"
+  },
+  {
+    "id": "America/Argentina/Rio_Gallegos",
+    "country_code": "AR",
+    "country": "Argentina",
+    "current_offset": "-03 (-03)",
+    "offsets": "-04, -03, -02",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-51.633, -69.217)"
+  },
+  {
+    "id": "America/Argentina/Salta",
+    "country_code": "AR",
+    "country": "Argentina",
+    "current_offset": "-03 (-03)",
+    "offsets": "-03, -02",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-24.783, -65.417)"
+  },
+  {
+    "id": "America/Argentina/San_Juan",
+    "country_code": "AR",
+    "country": "Argentina",
+    "current_offset": "-03 (-03)",
+    "offsets": "-04, -03, -02",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-31.533, -68.517)"
+  },
+  {
+    "id": "America/Argentina/San_Luis",
+    "country_code": "AR",
+    "country": "Argentina",
+    "current_offset": "-03 (-03)",
+    "offsets": "-04, -03, -02",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-33.317, -66.350)"
+  },
+  {
+    "id": "America/Argentina/Tucuman",
+    "country_code": "AR",
+    "country": "Argentina",
+    "current_offset": "-03 (-03)",
+    "offsets": "-04, -03, -02",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-26.817, -65.217)"
+  },
+  {
+    "id": "America/Argentina/Ushuaia",
+    "country_code": "AR",
+    "country": "Argentina",
+    "current_offset": "-03 (-03)",
+    "offsets": "-04, -03, -02",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-54.800, -68.300)"
+  },
+  {
+    "id": "America/Asuncion",
+    "country_code": "PY",
+    "country": "Paraguay",
+    "current_offset": "-03 (-03)",
+    "offsets": "-04, -03",
+    "next_transition": "2024-03-24T03:00:00Z (2024-03-24T00:00:00  local)-03 to -04",
+    "aliases": [
+      ""
+    ],
+    "link": "(-25.267, -57.667)"
+  },
+  {
+    "id": "America/Bahia",
+    "country_code": "BR",
+    "country": "Brazil",
+    "current_offset": "-03 (-03)",
+    "offsets": "-03, -02",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-12.983, -38.517)"
+  },
+  {
+    "id": "America/Bahia_Banderas",
+    "country_code": "MX",
+    "country": "Mexico",
+    "current_offset": "-06 (CST)",
+    "offsets": "-07, -06, -05",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(20.800, -105.250)"
+  },
+  {
+    "id": "America/Barbados",
+    "country_code": "BB",
+    "country": "Barbados",
+    "current_offset": "-04 (AST)",
+    "offsets": "-04",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(13.100, -59.617)"
+  },
+  {
+    "id": "America/Belem",
+    "country_code": "BR",
+    "country": "Brazil",
+    "current_offset": "-03 (-03)",
+    "offsets": "-03",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-1.450, -48.483)"
+  },
+  {
+    "id": "America/Belize",
+    "country_code": "BZ",
+    "country": "Belize",
+    "current_offset": "-06 (CST)",
+    "offsets": "-06",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(17.500, -88.200)"
+  },
+  {
+    "id": "America/Boa_Vista",
+    "country_code": "BR",
+    "country": "Brazil",
+    "current_offset": "-04 (-04)",
+    "offsets": "-04, -03",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(2.817, -60.667)"
+  },
+  {
+    "id": "America/Bogota",
+    "country_code": "CO",
+    "country": "Colombia",
+    "current_offset": "-05 (-05)",
+    "offsets": "-05",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(4.600, -74.083)"
+  },
+  {
+    "id": "America/Boise",
+    "country_code": "US",
+    "country": "United States",
+    "current_offset": "-06 (MDT)",
+    "offsets": "-07, -06",
+    "next_transition": "2024-11-03T08:00:00Z (2024-11-03T02:00:00  local)-06 to -07",
+    "aliases": [
+      ""
+    ],
+    "link": "(43.614, -116.203)"
+  },
+  {
+    "id": "America/Cambridge_Bay",
+    "country_code": "CA",
+    "country": "Canada",
+    "current_offset": "-06 (MDT)",
+    "offsets": "-07, -06, -05",
+    "next_transition": "2024-11-03T08:00:00Z (2024-11-03T02:00:00  local)-06 to -07",
+    "aliases": [
+      ""
+    ],
+    "link": "(69.114, -105.053)"
+  },
+  {
+    "id": "America/Campo_Grande",
+    "country_code": "BR",
+    "country": "Brazil",
+    "current_offset": "-04 (-04)",
+    "offsets": "-04, -03",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-20.450, -54.617)"
+  },
+  {
+    "id": "America/Cancun",
+    "country_code": "MX",
+    "country": "Mexico",
+    "current_offset": "-05 (EST)",
+    "offsets": "-06, -05",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(21.083, -86.767)"
+  },
+  {
+    "id": "America/Caracas",
+    "country_code": "VE",
+    "country": "Venezuela",
+    "current_offset": "-04 (-04)",
+    "offsets": "-04:30, -04",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(10.500, -66.933)"
+  },
+  {
+    "id": "America/Cayenne",
+    "country_code": "GF",
+    "country": "French Guiana",
+    "current_offset": "-03 (-03)",
+    "offsets": "-03",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(4.933, -52.333)"
+  },
+  {
+    "id": "America/Chicago",
+    "country_code": "US",
+    "country": "United States",
+    "current_offset": "-05 (CDT)",
+    "offsets": "-06, -05",
+    "next_transition": "2024-11-03T07:00:00Z (2024-11-03T02:00:00  local)-05 to -06",
+    "aliases": [
+      "US/Central"
+    ],
+    "link": "(41.850, -87.650)"
+  },
+  {
+    "id": "America/Chihuahua",
+    "country_code": "MX",
+    "country": "Mexico",
+    "current_offset": "-06 (CST)",
+    "offsets": "-07, -06",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(28.633, -106.083)"
+  },
+  {
+    "id": "America/Ciudad_Juarez",
+    "country_code": "MX",
+    "country": "Mexico",
+    "current_offset": "-06 (MDT)",
+    "offsets": "-07, -06",
+    "next_transition": "2024-11-03T08:00:00Z (2024-11-03T02:00:00  local)-06 to -07",
+    "aliases": [
+      ""
+    ],
+    "link": "(31.733, -106.483)"
+  },
+  {
+    "id": "America/Costa_Rica",
+    "country_code": "CR",
+    "country": "Costa Rica",
+    "current_offset": "-06 (CST)",
+    "offsets": "-06",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(9.933, -84.083)"
+  },
+  {
+    "id": "America/Cuiaba",
+    "country_code": "BR",
+    "country": "Brazil",
+    "current_offset": "-04 (-04)",
+    "offsets": "-04, -03",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-15.583, -56.083)"
+  },
+  {
+    "id": "America/Danmarkshavn",
+    "country_code": "GL",
+    "country": "Greenland",
+    "current_offset": "+00 (GMT)",
+    "offsets": "+00",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(76.767, -18.667)"
+  },
+  {
+    "id": "America/Dawson",
+    "country_code": "CA",
+    "country": "Canada",
+    "current_offset": "-07 (MST)",
+    "offsets": "-08, -07",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(64.067, -139.417)"
+  },
+  {
+    "id": "America/Dawson_Creek",
+    "country_code": "CA",
+    "country": "Canada",
+    "current_offset": "-07 (MST)",
+    "offsets": "-07",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(55.767, -120.233)"
+  },
+  {
+    "id": "America/Denver",
+    "country_code": "US",
+    "country": "United States",
+    "current_offset": "-06 (MDT)",
+    "offsets": "-07, -06",
+    "next_transition": "2024-11-03T08:00:00Z (2024-11-03T02:00:00  local)-06 to -07",
+    "aliases": [
+      "America/Shiprock, Navajo, US/Mountain"
+    ],
+    "link": "(39.739, -104.984)"
+  },
+  {
+    "id": "America/Detroit",
+    "country_code": "US",
+    "country": "United States",
+    "current_offset": "-04 (EDT)",
+    "offsets": "-05, -04",
+    "next_transition": "2024-11-03T06:00:00Z (2024-11-03T02:00:00  local)-04 to -05",
+    "aliases": [
+      "US/Michigan"
+    ],
+    "link": "(42.331, -83.046)"
+  },
+  {
+    "id": "America/Edmonton",
+    "country_code": "CA",
+    "country": "Canada",
+    "current_offset": "-06 (MDT)",
+    "offsets": "-07, -06",
+    "next_transition": "2024-11-03T08:00:00Z (2024-11-03T02:00:00  local)-06 to -07",
+    "aliases": [
+      "America/Yellowknife, Canada/Mountain"
+    ],
+    "link": "(53.550, -113.467)"
+  },
+  {
+    "id": "America/Eirunepe",
+    "country_code": "BR",
+    "country": "Brazil",
+    "current_offset": "-05 (-05)",
+    "offsets": "-05, -04",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-6.667, -69.867)"
+  },
+  {
+    "id": "America/El_Salvador",
+    "country_code": "SV",
+    "country": "El Salvador",
+    "current_offset": "-06 (CST)",
+    "offsets": "-06",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(13.700, -89.200)"
+  },
+  {
+    "id": "America/Fort_Nelson",
+    "country_code": "CA",
+    "country": "Canada",
+    "current_offset": "-07 (MST)",
+    "offsets": "-08, -07",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(58.800, -122.700)"
+  },
+  {
+    "id": "America/Fortaleza",
+    "country_code": "BR",
+    "country": "Brazil",
+    "current_offset": "-03 (-03)",
+    "offsets": "-03, -02",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-3.717, -38.500)"
+  },
+  {
+    "id": "America/Glace_Bay",
+    "country_code": "CA",
+    "country": "Canada",
+    "current_offset": "-03 (ADT)",
+    "offsets": "-04, -03",
+    "next_transition": "2024-11-03T05:00:00Z (2024-11-03T02:00:00  local)-03 to -04",
+    "aliases": [
+      ""
+    ],
+    "link": "(46.200, -59.950)"
+  },
+  {
+    "id": "America/Goose_Bay",
+    "country_code": "CA",
+    "country": "Canada",
+    "current_offset": "-03 (ADT)",
+    "offsets": "-04, -03",
+    "next_transition": "2024-11-03T05:00:00Z (2024-11-03T02:00:00  local)-03 to -04",
+    "aliases": [
+      ""
+    ],
+    "link": "(53.333, -60.417)"
+  },
+  {
+    "id": "America/Grand_Turk",
+    "country_code": "TC",
+    "country": "Turks & Caicos Is",
+    "current_offset": "-04 (EDT)",
+    "offsets": "-05, -04",
+    "next_transition": "2024-11-03T06:00:00Z (2024-11-03T02:00:00  local)-04 to -05",
+    "aliases": [
+      ""
+    ],
+    "link": "(21.467, -71.133)"
+  },
+  {
+    "id": "America/Guatemala",
+    "country_code": "GT",
+    "country": "Guatemala",
+    "current_offset": "-06 (CST)",
+    "offsets": "-06, -05",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(14.633, -90.517)"
+  },
+  {
+    "id": "America/Guayaquil",
+    "country_code": "EC",
+    "country": "Ecuador",
+    "current_offset": "-05 (-05)",
+    "offsets": "-05",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-2.167, -79.833)"
+  },
+  {
+    "id": "America/Guyana",
+    "country_code": "GY",
+    "country": "Guyana",
+    "current_offset": "-04 (-04)",
+    "offsets": "-04",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(6.800, -58.167)"
+  },
+  {
+    "id": "America/Halifax",
+    "country_code": "CA",
+    "country": "Canada",
+    "current_offset": "-03 (ADT)",
+    "offsets": "-04, -03",
+    "next_transition": "2024-11-03T05:00:00Z (2024-11-03T02:00:00  local)-03 to -04",
+    "aliases": [
+      "Canada/Atlantic"
+    ],
+    "link": "(44.650, -63.600)"
+  },
+  {
+    "id": "America/Havana",
+    "country_code": "CU",
+    "country": "Cuba",
+    "current_offset": "-04 (CDT)",
+    "offsets": "-05, -04",
+    "next_transition": "2024-11-03T05:00:00Z (2024-11-03T01:00:00  local)-04 to -05",
+    "aliases": [
+      "Cuba"
+    ],
+    "link": "(23.133, -82.367)"
+  },
+  {
+    "id": "America/Hermosillo",
+    "country_code": "MX",
+    "country": "Mexico",
+    "current_offset": "-07 (MST)",
+    "offsets": "-07",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(29.067, -110.967)"
+  },
+  {
+    "id": "America/Indiana/Indianapolis",
+    "country_code": "US",
+    "country": "United States",
+    "current_offset": "-04 (EDT)",
+    "offsets": "-05, -04",
+    "next_transition": "2024-11-03T06:00:00Z (2024-11-03T02:00:00  local)-04 to -05",
+    "aliases": [
+      "America/Fort_Wayne, America/Indianapolis, US/East-Indiana"
+    ],
+    "link": "(39.768, -86.158)"
+  },
+  {
+    "id": "America/Indiana/Knox",
+    "country_code": "US",
+    "country": "United States",
+    "current_offset": "-05 (CDT)",
+    "offsets": "-06, -05",
+    "next_transition": "2024-11-03T07:00:00Z (2024-11-03T02:00:00  local)-05 to -06",
+    "aliases": [
+      "America/Knox_IN, US/Indiana-Starke"
+    ],
+    "link": "(41.296, -86.625)"
+  },
+  {
+    "id": "America/Indiana/Marengo",
+    "country_code": "US",
+    "country": "United States",
+    "current_offset": "-04 (EDT)",
+    "offsets": "-05, -04",
+    "next_transition": "2024-11-03T06:00:00Z (2024-11-03T02:00:00  local)-04 to -05",
+    "aliases": [
+      ""
+    ],
+    "link": "(38.376, -86.345)"
+  },
+  {
+    "id": "America/Indiana/Petersburg",
+    "country_code": "US",
+    "country": "United States",
+    "current_offset": "-04 (EDT)",
+    "offsets": "-06, -05, -04",
+    "next_transition": "2024-11-03T06:00:00Z (2024-11-03T02:00:00  local)-04 to -05",
+    "aliases": [
+      ""
+    ],
+    "link": "(38.492, -87.279)"
+  },
+  {
+    "id": "America/Indiana/Tell_City",
+    "country_code": "US",
+    "country": "United States",
+    "current_offset": "-05 (CDT)",
+    "offsets": "-06, -05",
+    "next_transition": "2024-11-03T07:00:00Z (2024-11-03T02:00:00  local)-05 to -06",
+    "aliases": [
+      ""
+    ],
+    "link": "(37.953, -86.761)"
+  },
+  {
+    "id": "America/Indiana/Vevay",
+    "country_code": "US",
+    "country": "United States",
+    "current_offset": "-04 (EDT)",
+    "offsets": "-05, -04",
+    "next_transition": "2024-11-03T06:00:00Z (2024-11-03T02:00:00  local)-04 to -05",
+    "aliases": [
+      ""
+    ],
+    "link": "(38.748, -85.067)"
+  },
+  {
+    "id": "America/Indiana/Vincennes",
+    "country_code": "US",
+    "country": "United States",
+    "current_offset": "-04 (EDT)",
+    "offsets": "-06, -05, -04",
+    "next_transition": "2024-11-03T06:00:00Z (2024-11-03T02:00:00  local)-04 to -05",
+    "aliases": [
+      ""
+    ],
+    "link": "(38.677, -87.529)"
+  },
+  {
+    "id": "America/Indiana/Winamac",
+    "country_code": "US",
+    "country": "United States",
+    "current_offset": "-04 (EDT)",
+    "offsets": "-06, -05, -04",
+    "next_transition": "2024-11-03T06:00:00Z (2024-11-03T02:00:00  local)-04 to -05",
+    "aliases": [
+      ""
+    ],
+    "link": "(41.051, -86.603)"
+  },
+  {
+    "id": "America/Inuvik",
+    "country_code": "CA",
+    "country": "Canada",
+    "current_offset": "-06 (MDT)",
+    "offsets": "-07, -06",
+    "next_transition": "2024-11-03T08:00:00Z (2024-11-03T02:00:00  local)-06 to -07",
+    "aliases": [
+      ""
+    ],
+    "link": "(68.350, -133.717)"
+  },
+  {
+    "id": "America/Iqaluit",
+    "country_code": "CA",
+    "country": "Canada",
+    "current_offset": "-04 (EDT)",
+    "offsets": "-06, -05, -04",
+    "next_transition": "2024-11-03T06:00:00Z (2024-11-03T02:00:00  local)-04 to -05",
+    "aliases": [
+      "America/Pangnirtung"
+    ],
+    "link": "(63.733, -68.467)"
+  },
+  {
+    "id": "America/Jamaica",
+    "country_code": "JM",
+    "country": "Jamaica",
+    "current_offset": "-05 (EST)",
+    "offsets": "-05",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Jamaica"
+    ],
+    "link": "(17.968, -76.793)"
+  },
+  {
+    "id": "America/Juneau",
+    "country_code": "US",
+    "country": "United States",
+    "current_offset": "-08 (AKDT)",
+    "offsets": "-09, -08",
+    "next_transition": "2024-11-03T10:00:00Z (2024-11-03T02:00:00  local)-08 to -09",
+    "aliases": [
+      ""
+    ],
+    "link": "(58.302, -134.420)"
+  },
+  {
+    "id": "America/Kentucky/Louisville",
+    "country_code": "US",
+    "country": "United States",
+    "current_offset": "-04 (EDT)",
+    "offsets": "-05, -04",
+    "next_transition": "2024-11-03T06:00:00Z (2024-11-03T02:00:00  local)-04 to -05",
+    "aliases": [
+      "America/Louisville"
+    ],
+    "link": "(38.254, -85.759)"
+  },
+  {
+    "id": "America/Kentucky/Monticello",
+    "country_code": "US",
+    "country": "United States",
+    "current_offset": "-04 (EDT)",
+    "offsets": "-06, -05, -04",
+    "next_transition": "2024-11-03T06:00:00Z (2024-11-03T02:00:00  local)-04 to -05",
+    "aliases": [
+      ""
+    ],
+    "link": "(36.830, -84.849)"
+  },
+  {
+    "id": "America/La_Paz",
+    "country_code": "BO",
+    "country": "Bolivia",
+    "current_offset": "-04 (-04)",
+    "offsets": "-04",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-16.500, -68.150)"
+  },
+  {
+    "id": "America/Lima",
+    "country_code": "PE",
+    "country": "Peru",
+    "current_offset": "-05 (-05)",
+    "offsets": "-05",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-12.050, -77.050)"
+  },
+  {
+    "id": "America/Los_Angeles",
+    "country_code": "US",
+    "country": "United States",
+    "current_offset": "-07 (PDT)",
+    "offsets": "-08, -07",
+    "next_transition": "2024-11-03T09:00:00Z (2024-11-03T02:00:00  local)-07 to -08",
+    "aliases": [
+      "US/Pacific"
+    ],
+    "link": "(34.052, -118.243)"
+  },
+  {
+    "id": "America/Maceio",
+    "country_code": "BR",
+    "country": "Brazil",
+    "current_offset": "-03 (-03)",
+    "offsets": "-03, -02",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-9.667, -35.717)"
+  },
+  {
+    "id": "America/Managua",
+    "country_code": "NI",
+    "country": "Nicaragua",
+    "current_offset": "-06 (CST)",
+    "offsets": "-06, -05",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(12.150, -86.283)"
+  },
+  {
+    "id": "America/Manaus",
+    "country_code": "BR",
+    "country": "Brazil",
+    "current_offset": "-04 (-04)",
+    "offsets": "-04",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Brazil/West"
+    ],
+    "link": "(-3.133, -60.017)"
+  },
+  {
+    "id": "America/Martinique",
+    "country_code": "MQ",
+    "country": "Martinique",
+    "current_offset": "-04 (AST)",
+    "offsets": "-04",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(14.600, -61.083)"
+  },
+  {
+    "id": "America/Matamoros",
+    "country_code": "MX",
+    "country": "Mexico",
+    "current_offset": "-05 (CDT)",
+    "offsets": "-06, -05",
+    "next_transition": "2024-11-03T07:00:00Z (2024-11-03T02:00:00  local)-05 to -06",
+    "aliases": [
+      ""
+    ],
+    "link": "(25.833, -97.500)"
+  },
+  {
+    "id": "America/Mazatlan",
+    "country_code": "MX",
+    "country": "Mexico",
+    "current_offset": "-07 (MST)",
+    "offsets": "-07, -06",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Mexico/BajaSur"
+    ],
+    "link": "(23.217, -106.417)"
+  },
+  {
+    "id": "America/Menominee",
+    "country_code": "US",
+    "country": "United States",
+    "current_offset": "-05 (CDT)",
+    "offsets": "-06, -05",
+    "next_transition": "2024-11-03T07:00:00Z (2024-11-03T02:00:00  local)-05 to -06",
+    "aliases": [
+      ""
+    ],
+    "link": "(45.108, -87.614)"
+  },
+  {
+    "id": "America/Merida",
+    "country_code": "MX",
+    "country": "Mexico",
+    "current_offset": "-06 (CST)",
+    "offsets": "-06, -05",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(20.967, -89.617)"
+  },
+  {
+    "id": "America/Metlakatla",
+    "country_code": "US",
+    "country": "United States",
+    "current_offset": "-08 (AKDT)",
+    "offsets": "-09, -08",
+    "next_transition": "2024-11-03T10:00:00Z (2024-11-03T02:00:00  local)-08 to -09",
+    "aliases": [
+      ""
+    ],
+    "link": "(55.127, -131.576)"
+  },
+  {
+    "id": "America/Mexico_City",
+    "country_code": "MX",
+    "country": "Mexico",
+    "current_offset": "-06 (CST)",
+    "offsets": "-06, -05",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Mexico/General"
+    ],
+    "link": "(19.400, -99.150)"
+  },
+  {
+    "id": "America/Miquelon",
+    "country_code": "PM",
+    "country": "St Pierre & Miquelon",
+    "current_offset": "-02 (-02)",
+    "offsets": "-03, -02",
+    "next_transition": "2024-11-03T04:00:00Z (2024-11-03T02:00:00  local)-02 to -03",
+    "aliases": [
+      ""
+    ],
+    "link": "(47.050, -56.333)"
+  },
+  {
+    "id": "America/Moncton",
+    "country_code": "CA",
+    "country": "Canada",
+    "current_offset": "-03 (ADT)",
+    "offsets": "-04, -03",
+    "next_transition": "2024-11-03T05:00:00Z (2024-11-03T02:00:00  local)-03 to -04",
+    "aliases": [
+      ""
+    ],
+    "link": "(46.100, -64.783)"
+  },
+  {
+    "id": "America/Monterrey",
+    "country_code": "MX",
+    "country": "Mexico",
+    "current_offset": "-06 (CST)",
+    "offsets": "-06, -05",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(25.667, -100.317)"
+  },
+  {
+    "id": "America/Montevideo",
+    "country_code": "UY",
+    "country": "Uruguay",
+    "current_offset": "-03 (-03)",
+    "offsets": "-03, -02",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-34.909, -56.213)"
+  },
+  {
+    "id": "America/New_York",
+    "country_code": "US",
+    "country": "United States",
+    "current_offset": "-04 (EDT)",
+    "offsets": "-05, -04",
+    "next_transition": "2024-11-03T06:00:00Z (2024-11-03T02:00:00  local)-04 to -05",
+    "aliases": [
+      "US/Eastern"
+    ],
+    "link": "(40.714, -74.006)"
+  },
+  {
+    "id": "America/Nome",
+    "country_code": "US",
+    "country": "United States",
+    "current_offset": "-08 (AKDT)",
+    "offsets": "-09, -08",
+    "next_transition": "2024-11-03T10:00:00Z (2024-11-03T02:00:00  local)-08 to -09",
+    "aliases": [
+      ""
+    ],
+    "link": "(64.501, -165.406)"
+  },
+  {
+    "id": "America/Noronha",
+    "country_code": "BR",
+    "country": "Brazil",
+    "current_offset": "-02 (-02)",
+    "offsets": "-02, -01",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Brazil/DeNoronha"
+    ],
+    "link": "(-3.850, -32.417)"
+  },
+  {
+    "id": "America/North_Dakota/Beulah",
+    "country_code": "US",
+    "country": "United States",
+    "current_offset": "-05 (CDT)",
+    "offsets": "-07, -06, -05",
+    "next_transition": "2024-11-03T07:00:00Z (2024-11-03T02:00:00  local)-05 to -06",
+    "aliases": [
+      ""
+    ],
+    "link": "(47.264, -101.778)"
+  },
+  {
+    "id": "America/North_Dakota/Center",
+    "country_code": "US",
+    "country": "United States",
+    "current_offset": "-05 (CDT)",
+    "offsets": "-06, -05",
+    "next_transition": "2024-11-03T07:00:00Z (2024-11-03T02:00:00  local)-05 to -06",
+    "aliases": [
+      ""
+    ],
+    "link": "(47.116, -101.299)"
+  },
+  {
+    "id": "America/North_Dakota/New_Salem",
+    "country_code": "US",
+    "country": "United States",
+    "current_offset": "-05 (CDT)",
+    "offsets": "-07, -06, -05",
+    "next_transition": "2024-11-03T07:00:00Z (2024-11-03T02:00:00  local)-05 to -06",
+    "aliases": [
+      ""
+    ],
+    "link": "(46.845, -101.411)"
+  },
+  {
+    "id": "America/Nuuk",
+    "country_code": "GL",
+    "country": "Greenland",
+    "current_offset": "-02 (-02)",
+    "offsets": "-03, -02, -01",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-30T23:00:00  local)-02 to -01",
+    "aliases": [
+      "America/Godthab"
+    ],
+    "link": "(64.183, -51.733)"
+  },
+  {
+    "id": "America/Ojinaga",
+    "country_code": "MX",
+    "country": "Mexico",
+    "current_offset": "-05 (CDT)",
+    "offsets": "-07, -06, -05",
+    "next_transition": "2024-11-03T07:00:00Z (2024-11-03T02:00:00  local)-05 to -06",
+    "aliases": [
+      ""
+    ],
+    "link": "(29.567, -104.417)"
+  },
+  {
+    "id": "America/Panama",
+    "country_code": "PA",
+    "country": "Panama",
+    "current_offset": "-05 (EST)",
+    "offsets": "-05",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "America/Atikokan, America/Cayman, America/Coral_Harbour"
+    ],
+    "link": "(8.967, -79.533)"
+  },
+  {
+    "id": "America/Paramaribo",
+    "country_code": "SR",
+    "country": "Suriname",
+    "current_offset": "-03 (-03)",
+    "offsets": "-03",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(5.833, -55.167)"
+  },
+  {
+    "id": "America/Phoenix",
+    "country_code": "US",
+    "country": "United States",
+    "current_offset": "-07 (MST)",
+    "offsets": "-07",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "America/Creston, US/Arizona"
+    ],
+    "link": "(33.448, -112.073)"
+  },
+  {
+    "id": "America/Port-au-Prince",
+    "country_code": "HT",
+    "country": "Haiti",
+    "current_offset": "-04 (EDT)",
+    "offsets": "-05, -04",
+    "next_transition": "2024-11-03T06:00:00Z (2024-11-03T02:00:00  local)-04 to -05",
+    "aliases": [
+      ""
+    ],
+    "link": "(18.533, -72.333)"
+  },
+  {
+    "id": "America/Porto_Velho",
+    "country_code": "BR",
+    "country": "Brazil",
+    "current_offset": "-04 (-04)",
+    "offsets": "-04",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-8.767, -63.900)"
+  },
+  {
+    "id": "America/Puerto_Rico",
+    "country_code": "PR",
+    "country": "Puerto Rico",
+    "current_offset": "-04 (AST)",
+    "offsets": "-04",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "America/Anguilla, America/Antigua, America/Aruba, America/Blanc-Sablon, America/Curacao, America/Dominica, America/Grenada, America/Guadeloupe, America/Kralendijk, America/Lower_Princes, America/Marigot, America/Montserrat, America/Port_of_Spain, America/St_Barthelemy, America/St_Kitts, America/St_Lucia, America/St_Thomas, America/St_Vincent, America/Tortola, America/Virgin"
+    ],
+    "link": "(18.468, -66.106)"
+  },
+  {
+    "id": "America/Punta_Arenas",
+    "country_code": "CL",
+    "country": "Chile",
+    "current_offset": "-03 (-03)",
+    "offsets": "-04, -03",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-53.150, -70.917)"
+  },
+  {
+    "id": "America/Rankin_Inlet",
+    "country_code": "CA",
+    "country": "Canada",
+    "current_offset": "-05 (CDT)",
+    "offsets": "-06, -05",
+    "next_transition": "2024-11-03T07:00:00Z (2024-11-03T02:00:00  local)-05 to -06",
+    "aliases": [
+      ""
+    ],
+    "link": "(62.817, -92.083)"
+  },
+  {
+    "id": "America/Recife",
+    "country_code": "BR",
+    "country": "Brazil",
+    "current_offset": "-03 (-03)",
+    "offsets": "-03, -02",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-8.050, -34.900)"
+  },
+  {
+    "id": "America/Regina",
+    "country_code": "CA",
+    "country": "Canada",
+    "current_offset": "-06 (CST)",
+    "offsets": "-06",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Canada/Saskatchewan"
+    ],
+    "link": "(50.400, -104.650)"
+  },
+  {
+    "id": "America/Resolute",
+    "country_code": "CA",
+    "country": "Canada",
+    "current_offset": "-05 (CDT)",
+    "offsets": "-06, -05",
+    "next_transition": "2024-11-03T07:00:00Z (2024-11-03T02:00:00  local)-05 to -06",
+    "aliases": [
+      ""
+    ],
+    "link": "(74.696, -94.829)"
+  },
+  {
+    "id": "America/Rio_Branco",
+    "country_code": "BR",
+    "country": "Brazil",
+    "current_offset": "-05 (-05)",
+    "offsets": "-05, -04",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "America/Porto_Acre, Brazil/Acre"
+    ],
+    "link": "(-9.967, -67.800)"
+  },
+  {
+    "id": "America/Santarem",
+    "country_code": "BR",
+    "country": "Brazil",
+    "current_offset": "-03 (-03)",
+    "offsets": "-04, -03",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-2.433, -54.867)"
+  },
+  {
+    "id": "America/Santiago",
+    "country_code": "CL",
+    "country": "Chile",
+    "current_offset": "-03 (-03)",
+    "offsets": "-04, -03",
+    "next_transition": "2024-04-07T03:00:00Z (2024-04-07T00:00:00  local)-03 to -04",
+    "aliases": [
+      "Chile/Continental"
+    ],
+    "link": "(-33.450, -70.667)"
+  },
+  {
+    "id": "America/Santo_Domingo",
+    "country_code": "DO",
+    "country": "Dominican Republic",
+    "current_offset": "-04 (AST)",
+    "offsets": "-05, -04",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(18.467, -69.900)"
+  },
+  {
+    "id": "America/Sao_Paulo",
+    "country_code": "BR",
+    "country": "Brazil",
+    "current_offset": "-03 (-03)",
+    "offsets": "-03, -02",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Brazil/East"
+    ],
+    "link": "(-23.533, -46.617)"
+  },
+  {
+    "id": "America/Scoresbysund",
+    "country_code": "GL",
+    "country": "Greenland",
+    "current_offset": "-01 (-01)",
+    "offsets": "-02, -01, +00",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T00:00:00  local)-01 to -01",
+    "aliases": [
+      ""
+    ],
+    "link": "(70.483, -21.967)"
+  },
+  {
+    "id": "America/Sitka",
+    "country_code": "US",
+    "country": "United States",
+    "current_offset": "-08 (AKDT)",
+    "offsets": "-09, -08",
+    "next_transition": "2024-11-03T10:00:00Z (2024-11-03T02:00:00  local)-08 to -09",
+    "aliases": [
+      ""
+    ],
+    "link": "(57.176, -135.302)"
+  },
+  {
+    "id": "America/St_Johns",
+    "country_code": "CA",
+    "country": "Canada",
+    "current_offset": "-02:30 (NDT)",
+    "offsets": "-03:30, -02:30",
+    "next_transition": "2024-11-03T04:30:00Z (2024-11-03T02:00:00  local)-02:30 to -03:30",
+    "aliases": [
+      "Canada/Newfoundland"
+    ],
+    "link": "(47.567, -52.717)"
+  },
+  {
+    "id": "America/Swift_Current",
+    "country_code": "CA",
+    "country": "Canada",
+    "current_offset": "-06 (CST)",
+    "offsets": "-06",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(50.283, -107.833)"
+  },
+  {
+    "id": "America/Tegucigalpa",
+    "country_code": "HN",
+    "country": "Honduras",
+    "current_offset": "-06 (CST)",
+    "offsets": "-06, -05",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(14.100, -87.217)"
+  },
+  {
+    "id": "America/Thule",
+    "country_code": "GL",
+    "country": "Greenland",
+    "current_offset": "-03 (ADT)",
+    "offsets": "-04, -03",
+    "next_transition": "2024-11-03T05:00:00Z (2024-11-03T02:00:00  local)-03 to -04",
+    "aliases": [
+      ""
+    ],
+    "link": "(76.567, -68.783)"
+  },
+  {
+    "id": "America/Tijuana",
+    "country_code": "MX",
+    "country": "Mexico",
+    "current_offset": "-07 (PDT)",
+    "offsets": "-08, -07",
+    "next_transition": "2024-11-03T09:00:00Z (2024-11-03T02:00:00  local)-07 to -08",
+    "aliases": [
+      "America/Ensenada, America/Santa_Isabel, Mexico/BajaNorte"
+    ],
+    "link": "(32.533, -117.017)"
+  },
+  {
+    "id": "America/Toronto",
+    "country_code": "CA",
+    "country": "Canada",
+    "current_offset": "-04 (EDT)",
+    "offsets": "-05, -04",
+    "next_transition": "2024-11-03T06:00:00Z (2024-11-03T02:00:00  local)-04 to -05",
+    "aliases": [
+      "America/Montreal, America/Nassau, America/Nipigon, America/Thunder_Bay, Canada/Eastern"
+    ],
+    "link": "(43.650, -79.383)"
+  },
+  {
+    "id": "America/Vancouver",
+    "country_code": "CA",
+    "country": "Canada",
+    "current_offset": "-07 (PDT)",
+    "offsets": "-08, -07",
+    "next_transition": "2024-11-03T09:00:00Z (2024-11-03T02:00:00  local)-07 to -08",
+    "aliases": [
+      "Canada/Pacific"
+    ],
+    "link": "(49.267, -123.117)"
+  },
+  {
+    "id": "America/Whitehorse",
+    "country_code": "CA",
+    "country": "Canada",
+    "current_offset": "-07 (MST)",
+    "offsets": "-08, -07",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Canada/Yukon"
+    ],
+    "link": "(60.717, -135.050)"
+  },
+  {
+    "id": "America/Winnipeg",
+    "country_code": "CA",
+    "country": "Canada",
+    "current_offset": "-05 (CDT)",
+    "offsets": "-06, -05",
+    "next_transition": "2024-11-03T07:00:00Z (2024-11-03T02:00:00  local)-05 to -06",
+    "aliases": [
+      "America/Rainy_River, Canada/Central"
+    ],
+    "link": "(49.883, -97.150)"
+  },
+  {
+    "id": "America/Yakutat",
+    "country_code": "US",
+    "country": "United States",
+    "current_offset": "-08 (AKDT)",
+    "offsets": "-09, -08",
+    "next_transition": "2024-11-03T10:00:00Z (2024-11-03T02:00:00  local)-08 to -09",
+    "aliases": [
+      ""
+    ],
+    "link": "(59.547, -139.727)"
+  },
+  {
+    "id": "Antarctica/Casey",
+    "country_code": "AQ",
+    "country": "Antarctica",
+    "current_offset": "+08 (+08)",
+    "offsets": "+08, +11",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-66.283, 110.517)"
+  },
+  {
+    "id": "Antarctica/Davis",
+    "country_code": "AQ",
+    "country": "Antarctica",
+    "current_offset": "+07 (+07)",
+    "offsets": "+05, +07",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-68.583, 77.967)"
+  },
+  {
+    "id": "Antarctica/Macquarie",
+    "country_code": "AU",
+    "country": "Australia",
+    "current_offset": "+11 (AEDT)",
+    "offsets": "+10, +11",
+    "next_transition": "2024-04-06T16:00:00Z (2024-04-07T03:00:00  local)+11 to +10",
+    "aliases": [
+      ""
+    ],
+    "link": "(-54.500, 158.950)"
+  },
+  {
+    "id": "Antarctica/Mawson",
+    "country_code": "AQ",
+    "country": "Antarctica",
+    "current_offset": "+05 (+05)",
+    "offsets": "+05, +06",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-67.600, 62.883)"
+  },
+  {
+    "id": "Antarctica/Palmer",
+    "country_code": "AQ",
+    "country": "Antarctica",
+    "current_offset": "-03 (-03)",
+    "offsets": "-04, -03",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-64.800, -64.100)"
+  },
+  {
+    "id": "Antarctica/Rothera",
+    "country_code": "AQ",
+    "country": "Antarctica",
+    "current_offset": "-03 (-03)",
+    "offsets": "-03",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-67.567, -68.133)"
+  },
+  {
+    "id": "Antarctica/Troll",
+    "country_code": "AQ",
+    "country": "Antarctica",
+    "current_offset": "+00 (+00)",
+    "offsets": "+00, +02",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T01:00:00  local)+00 to +02",
+    "aliases": [
+      ""
+    ],
+    "link": "(-72.011, 2.535)"
+  },
+  {
+    "id": "Antarctica/Vostok",
+    "country_code": "AQ",
+    "country": "Antarctica",
+    "current_offset": "+05 (+05)",
+    "offsets": "+05, +07",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-78.400, 106.900)"
+  },
+  {
+    "id": "Asia/Almaty",
+    "country_code": "KZ",
+    "country": "Kazakhstan",
+    "current_offset": "+05 (+05)",
+    "offsets": "+05, +06, +07",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(43.250, 76.950)"
+  },
+  {
+    "id": "Asia/Amman",
+    "country_code": "JO",
+    "country": "Jordan",
+    "current_offset": "+03 (+03)",
+    "offsets": "+02, +03",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(31.950, 35.933)"
+  },
+  {
+    "id": "Asia/Anadyr",
+    "country_code": "RU",
+    "country": "Russia",
+    "current_offset": "+12 (+12)",
+    "offsets": "+11, +12, +13",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(64.750, 177.483)"
+  },
+  {
+    "id": "Asia/Aqtau",
+    "country_code": "KZ",
+    "country": "Kazakhstan",
+    "current_offset": "+05 (+05)",
+    "offsets": "+04, +05",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(44.517, 50.267)"
+  },
+  {
+    "id": "Asia/Aqtobe",
+    "country_code": "KZ",
+    "country": "Kazakhstan",
+    "current_offset": "+05 (+05)",
+    "offsets": "+05, +06",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(50.283, 57.167)"
+  },
+  {
+    "id": "Asia/Ashgabat",
+    "country_code": "TM",
+    "country": "Turkmenistan",
+    "current_offset": "+05 (+05)",
+    "offsets": "+05",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Asia/Ashkhabad"
+    ],
+    "link": "(37.950, 58.383)"
+  },
+  {
+    "id": "Asia/Atyrau",
+    "country_code": "KZ",
+    "country": "Kazakhstan",
+    "current_offset": "+05 (+05)",
+    "offsets": "+04, +05",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(47.117, 51.933)"
+  },
+  {
+    "id": "Asia/Baghdad",
+    "country_code": "IQ",
+    "country": "Iraq",
+    "current_offset": "+03 (+03)",
+    "offsets": "+03, +04",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(33.350, 44.417)"
+  },
+  {
+    "id": "Asia/Baku",
+    "country_code": "AZ",
+    "country": "Azerbaijan",
+    "current_offset": "+04 (+04)",
+    "offsets": "+04, +05",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(40.383, 49.850)"
+  },
+  {
+    "id": "Asia/Bangkok",
+    "country_code": "TH",
+    "country": "Thailand",
+    "current_offset": "+07 (+07)",
+    "offsets": "+07",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Asia/Phnom_Penh, Asia/Vientiane, Indian/Christmas"
+    ],
+    "link": "(13.750, 100.517)"
+  },
+  {
+    "id": "Asia/Barnaul",
+    "country_code": "RU",
+    "country": "Russia",
+    "current_offset": "+07 (+07)",
+    "offsets": "+06, +07",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(53.367, 83.750)"
+  },
+  {
+    "id": "Asia/Beirut",
+    "country_code": "LB",
+    "country": "Lebanon",
+    "current_offset": "+02 (EET)",
+    "offsets": "+02, +03",
+    "next_transition": "2024-03-30T22:00:00Z (2024-03-31T00:00:00  local)+02 to +03",
+    "aliases": [
+      ""
+    ],
+    "link": "(33.883, 35.500)"
+  },
+  {
+    "id": "Asia/Bishkek",
+    "country_code": "KG",
+    "country": "Kyrgyzstan",
+    "current_offset": "+06 (+06)",
+    "offsets": "+05, +06",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(42.900, 74.600)"
+  },
+  {
+    "id": "Asia/Chita",
+    "country_code": "RU",
+    "country": "Russia",
+    "current_offset": "+09 (+09)",
+    "offsets": "+08, +09, +10",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(52.050, 113.467)"
+  },
+  {
+    "id": "Asia/Choibalsan",
+    "country_code": "MN",
+    "country": "Mongolia",
+    "current_offset": "+08 (+08)",
+    "offsets": "+08, +09, +10",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(48.067, 114.500)"
+  },
+  {
+    "id": "Asia/Colombo",
+    "country_code": "LK",
+    "country": "Sri Lanka",
+    "current_offset": "+05:30 (+0530)",
+    "offsets": "+05:30, +06",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(6.933, 79.850)"
+  },
+  {
+    "id": "Asia/Damascus",
+    "country_code": "SY",
+    "country": "Syria",
+    "current_offset": "+03 (+03)",
+    "offsets": "+02, +03",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(33.500, 36.300)"
+  },
+  {
+    "id": "Asia/Dhaka",
+    "country_code": "BD",
+    "country": "Bangladesh",
+    "current_offset": "+06 (+06)",
+    "offsets": "+06, +07",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Asia/Dacca"
+    ],
+    "link": "(23.717, 90.417)"
+  },
+  {
+    "id": "Asia/Dili",
+    "country_code": "TL",
+    "country": "East Timor",
+    "current_offset": "+09 (+09)",
+    "offsets": "+08, +09",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-8.550, 125.583)"
+  },
+  {
+    "id": "Asia/Dubai",
+    "country_code": "AE",
+    "country": "United Arab Emirates",
+    "current_offset": "+04 (+04)",
+    "offsets": "+04",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Asia/Muscat, Indian/Mahe, Indian/Reunion"
+    ],
+    "link": "(25.300, 55.300)"
+  },
+  {
+    "id": "Asia/Dushanbe",
+    "country_code": "TJ",
+    "country": "Tajikistan",
+    "current_offset": "+05 (+05)",
+    "offsets": "+05",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(38.583, 68.800)"
+  },
+  {
+    "id": "Asia/Famagusta",
+    "country_code": "CY",
+    "country": "Cyprus",
+    "current_offset": "+02 (EET)",
+    "offsets": "+02, +03",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T03:00:00  local)+02 to +03",
+    "aliases": [
+      ""
+    ],
+    "link": "(35.117, 33.950)"
+  },
+  {
+    "id": "Asia/Gaza",
+    "country_code": "PS",
+    "country": "Palestine",
+    "current_offset": "+02 (EET)",
+    "offsets": "+02, +03",
+    "next_transition": "2024-04-20T00:00:00Z (2024-04-20T02:00:00  local)+02 to +03",
+    "aliases": [
+      ""
+    ],
+    "link": "(31.500, 34.467)"
+  },
+  {
+    "id": "Asia/Hebron",
+    "country_code": "PS",
+    "country": "Palestine",
+    "current_offset": "+02 (EET)",
+    "offsets": "+02, +03",
+    "next_transition": "2024-04-20T00:00:00Z (2024-04-20T02:00:00  local)+02 to +03",
+    "aliases": [
+      ""
+    ],
+    "link": "(31.533, 35.095)"
+  },
+  {
+    "id": "Asia/Ho_Chi_Minh",
+    "country_code": "VN",
+    "country": "Vietnam",
+    "current_offset": "+07 (+07)",
+    "offsets": "+07",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Asia/Saigon"
+    ],
+    "link": "(10.750, 106.667)"
+  },
+  {
+    "id": "Asia/Hong_Kong",
+    "country_code": "HK",
+    "country": "Hong Kong",
+    "current_offset": "+08 (HKT)",
+    "offsets": "+08",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Hongkong"
+    ],
+    "link": "(22.283, 114.150)"
+  },
+  {
+    "id": "Asia/Hovd",
+    "country_code": "MN",
+    "country": "Mongolia",
+    "current_offset": "+07 (+07)",
+    "offsets": "+07, +08",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(48.017, 91.650)"
+  },
+  {
+    "id": "Asia/Irkutsk",
+    "country_code": "RU",
+    "country": "Russia",
+    "current_offset": "+08 (+08)",
+    "offsets": "+08, +09",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(52.267, 104.333)"
+  },
+  {
+    "id": "Asia/Jakarta",
+    "country_code": "ID",
+    "country": "Indonesia",
+    "current_offset": "+07 (WIB)",
+    "offsets": "+07",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-6.167, 106.800)"
+  },
+  {
+    "id": "Asia/Jayapura",
+    "country_code": "ID",
+    "country": "Indonesia",
+    "current_offset": "+09 (WIT)",
+    "offsets": "+09",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-2.533, 140.700)"
+  },
+  {
+    "id": "Asia/Jerusalem",
+    "country_code": "IL",
+    "country": "Israel",
+    "current_offset": "+02 (IST)",
+    "offsets": "+02, +03",
+    "next_transition": "2024-03-29T00:00:00Z (2024-03-29T02:00:00  local)+02 to +03",
+    "aliases": [
+      "Asia/Tel_Aviv, Israel"
+    ],
+    "link": "(31.781, 35.224)"
+  },
+  {
+    "id": "Asia/Kabul",
+    "country_code": "AF",
+    "country": "Afghanistan",
+    "current_offset": "+04:30 (+0430)",
+    "offsets": "+04:30",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(34.517, 69.200)"
+  },
+  {
+    "id": "Asia/Kamchatka",
+    "country_code": "RU",
+    "country": "Russia",
+    "current_offset": "+12 (+12)",
+    "offsets": "+11, +12, +13",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(53.017, 158.650)"
+  },
+  {
+    "id": "Asia/Karachi",
+    "country_code": "PK",
+    "country": "Pakistan",
+    "current_offset": "+05 (PKT)",
+    "offsets": "+05, +06",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(24.867, 67.050)"
+  },
+  {
+    "id": "Asia/Kathmandu",
+    "country_code": "NP",
+    "country": "Nepal",
+    "current_offset": "+05:45 (+0545)",
+    "offsets": "+05:45",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Asia/Katmandu"
+    ],
+    "link": "(27.717, 85.317)"
+  },
+  {
+    "id": "Asia/Khandyga",
+    "country_code": "RU",
+    "country": "Russia",
+    "current_offset": "+09 (+09)",
+    "offsets": "+09, +10, +11",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(62.656, 135.554)"
+  },
+  {
+    "id": "Asia/Kolkata",
+    "country_code": "IN",
+    "country": "India",
+    "current_offset": "+05:30 (IST)",
+    "offsets": "+05:30",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Asia/Calcutta"
+    ],
+    "link": "(22.533, 88.367)"
+  },
+  {
+    "id": "Asia/Krasnoyarsk",
+    "country_code": "RU",
+    "country": "Russia",
+    "current_offset": "+07 (+07)",
+    "offsets": "+07, +08",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(56.017, 92.833)"
+  },
+  {
+    "id": "Asia/Kuching",
+    "country_code": "MY",
+    "country": "Malaysia",
+    "current_offset": "+08 (+08)",
+    "offsets": "+08",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Asia/Brunei"
+    ],
+    "link": "(1.550, 110.333)"
+  },
+  {
+    "id": "Asia/Macau",
+    "country_code": "MO",
+    "country": "Macau",
+    "current_offset": "+08 (CST)",
+    "offsets": "+08",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Asia/Macao"
+    ],
+    "link": "(22.197, 113.542)"
+  },
+  {
+    "id": "Asia/Magadan",
+    "country_code": "RU",
+    "country": "Russia",
+    "current_offset": "+11 (+11)",
+    "offsets": "+10, +11, +12",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(59.567, 150.800)"
+  },
+  {
+    "id": "Asia/Makassar",
+    "country_code": "ID",
+    "country": "Indonesia",
+    "current_offset": "+08 (WITA)",
+    "offsets": "+08",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Asia/Ujung_Pandang"
+    ],
+    "link": "(-5.117, 119.400)"
+  },
+  {
+    "id": "Asia/Manila",
+    "country_code": "PH",
+    "country": "Philippines",
+    "current_offset": "+08 (PST)",
+    "offsets": "+08",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(14.583, 121.000)"
+  },
+  {
+    "id": "Asia/Nicosia",
+    "country_code": "CY",
+    "country": "Cyprus",
+    "current_offset": "+02 (EET)",
+    "offsets": "+02, +03",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T03:00:00  local)+02 to +03",
+    "aliases": [
+      "Europe/Nicosia"
+    ],
+    "link": "(35.167, 33.367)"
+  },
+  {
+    "id": "Asia/Novokuznetsk",
+    "country_code": "RU",
+    "country": "Russia",
+    "current_offset": "+07 (+07)",
+    "offsets": "+06, +07, +08",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(53.750, 87.117)"
+  },
+  {
+    "id": "Asia/Novosibirsk",
+    "country_code": "RU",
+    "country": "Russia",
+    "current_offset": "+07 (+07)",
+    "offsets": "+06, +07",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(55.033, 82.917)"
+  },
+  {
+    "id": "Asia/Omsk",
+    "country_code": "RU",
+    "country": "Russia",
+    "current_offset": "+06 (+06)",
+    "offsets": "+06, +07",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(55.000, 73.400)"
+  },
+  {
+    "id": "Asia/Oral",
+    "country_code": "KZ",
+    "country": "Kazakhstan",
+    "current_offset": "+05 (+05)",
+    "offsets": "+04, +05",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(51.217, 51.350)"
+  },
+  {
+    "id": "Asia/Pontianak",
+    "country_code": "ID",
+    "country": "Indonesia",
+    "current_offset": "+07 (WIB)",
+    "offsets": "+07",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-0.033, 109.333)"
+  },
+  {
+    "id": "Asia/Pyongyang",
+    "country_code": "KP",
+    "country": "Korea (North)",
+    "current_offset": "+09 (KST)",
+    "offsets": "+08:30, +09",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(39.017, 125.750)"
+  },
+  {
+    "id": "Asia/Qatar",
+    "country_code": "QA",
+    "country": "Qatar",
+    "current_offset": "+03 (+03)",
+    "offsets": "+03",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Asia/Bahrain"
+    ],
+    "link": "(25.283, 51.533)"
+  },
+  {
+    "id": "Asia/Qostanay",
+    "country_code": "KZ",
+    "country": "Kazakhstan",
+    "current_offset": "+05 (+05)",
+    "offsets": "+05, +06",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(53.200, 63.617)"
+  },
+  {
+    "id": "Asia/Qyzylorda",
+    "country_code": "KZ",
+    "country": "Kazakhstan",
+    "current_offset": "+05 (+05)",
+    "offsets": "+05, +06",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(44.800, 65.467)"
+  },
+  {
+    "id": "Asia/Riyadh",
+    "country_code": "SA",
+    "country": "Saudi Arabia",
+    "current_offset": "+03 (+03)",
+    "offsets": "+03",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Antarctica/Syowa, Asia/Aden, Asia/Kuwait"
+    ],
+    "link": "(24.633, 46.717)"
+  },
+  {
+    "id": "Asia/Sakhalin",
+    "country_code": "RU",
+    "country": "Russia",
+    "current_offset": "+11 (+11)",
+    "offsets": "+10, +11",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(46.967, 142.700)"
+  },
+  {
+    "id": "Asia/Samarkand",
+    "country_code": "UZ",
+    "country": "Uzbekistan",
+    "current_offset": "+05 (+05)",
+    "offsets": "+05",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(39.667, 66.800)"
+  },
+  {
+    "id": "Asia/Seoul",
+    "country_code": "KR",
+    "country": "Korea (South)",
+    "current_offset": "+09 (KST)",
+    "offsets": "+09",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "ROK"
+    ],
+    "link": "(37.550, 126.967)"
+  },
+  {
+    "id": "Asia/Shanghai",
+    "country_code": "CN",
+    "country": "China",
+    "current_offset": "+08 (CST)",
+    "offsets": "+08",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Asia/Chongqing, Asia/Chungking, Asia/Harbin, PRC"
+    ],
+    "link": "(31.233, 121.467)"
+  },
+  {
+    "id": "Asia/Singapore",
+    "country_code": "SG",
+    "country": "Singapore",
+    "current_offset": "+08 (+08)",
+    "offsets": "+08",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Asia/Kuala_Lumpur, Singapore"
+    ],
+    "link": "(1.283, 103.850)"
+  },
+  {
+    "id": "Asia/Srednekolymsk",
+    "country_code": "RU",
+    "country": "Russia",
+    "current_offset": "+11 (+11)",
+    "offsets": "+11, +12",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(67.467, 153.717)"
+  },
+  {
+    "id": "Asia/Taipei",
+    "country_code": "TW",
+    "country": "Taiwan",
+    "current_offset": "+08 (CST)",
+    "offsets": "+08",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "ROC"
+    ],
+    "link": "(25.050, 121.500)"
+  },
+  {
+    "id": "Asia/Tashkent",
+    "country_code": "UZ",
+    "country": "Uzbekistan",
+    "current_offset": "+05 (+05)",
+    "offsets": "+05",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(41.333, 69.300)"
+  },
+  {
+    "id": "Asia/Tbilisi",
+    "country_code": "GE",
+    "country": "Georgia",
+    "current_offset": "+04 (+04)",
+    "offsets": "+03, +04, +05",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(41.717, 44.817)"
+  },
+  {
+    "id": "Asia/Tehran",
+    "country_code": "IR",
+    "country": "Iran",
+    "current_offset": "+03:30 (+0330)",
+    "offsets": "+03:30, +04:30",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Iran"
+    ],
+    "link": "(35.667, 51.433)"
+  },
+  {
+    "id": "Asia/Thimphu",
+    "country_code": "BT",
+    "country": "Bhutan",
+    "current_offset": "+06 (+06)",
+    "offsets": "+06",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Asia/Thimbu"
+    ],
+    "link": "(27.467, 89.650)"
+  },
+  {
+    "id": "Asia/Tokyo",
+    "country_code": "JP",
+    "country": "Japan",
+    "current_offset": "+09 (JST)",
+    "offsets": "+09",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Japan"
+    ],
+    "link": "(35.654, 139.745)"
+  },
+  {
+    "id": "Asia/Tomsk",
+    "country_code": "RU",
+    "country": "Russia",
+    "current_offset": "+07 (+07)",
+    "offsets": "+06, +07, +08",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(56.500, 84.967)"
+  },
+  {
+    "id": "Asia/Ulaanbaatar",
+    "country_code": "MN",
+    "country": "Mongolia",
+    "current_offset": "+08 (+08)",
+    "offsets": "+08, +09",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Asia/Ulan_Bator"
+    ],
+    "link": "(47.917, 106.883)"
+  },
+  {
+    "id": "Asia/Urumqi",
+    "country_code": "CN",
+    "country": "China",
+    "current_offset": "+06 (+06)",
+    "offsets": "+06",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Asia/Kashgar"
+    ],
+    "link": "(43.800, 87.583)"
+  },
+  {
+    "id": "Asia/Ust-Nera",
+    "country_code": "RU",
+    "country": "Russia",
+    "current_offset": "+10 (+10)",
+    "offsets": "+10, +11, +12",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(64.560, 143.227)"
+  },
+  {
+    "id": "Asia/Vladivostok",
+    "country_code": "RU",
+    "country": "Russia",
+    "current_offset": "+10 (+10)",
+    "offsets": "+10, +11",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(43.167, 131.933)"
+  },
+  {
+    "id": "Asia/Yakutsk",
+    "country_code": "RU",
+    "country": "Russia",
+    "current_offset": "+09 (+09)",
+    "offsets": "+09, +10",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(62.000, 129.667)"
+  },
+  {
+    "id": "Asia/Yangon",
+    "country_code": "MM",
+    "country": "Myanmar (Burma)",
+    "current_offset": "+06:30 (+0630)",
+    "offsets": "+06:30",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Asia/Rangoon, Indian/Cocos"
+    ],
+    "link": "(16.783, 96.167)"
+  },
+  {
+    "id": "Asia/Yekaterinburg",
+    "country_code": "RU",
+    "country": "Russia",
+    "current_offset": "+05 (+05)",
+    "offsets": "+05, +06",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(56.850, 60.600)"
+  },
+  {
+    "id": "Asia/Yerevan",
+    "country_code": "AM",
+    "country": "Armenia",
+    "current_offset": "+04 (+04)",
+    "offsets": "+04, +05",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(40.183, 44.500)"
+  },
+  {
+    "id": "Atlantic/Azores",
+    "country_code": "PT",
+    "country": "Portugal",
+    "current_offset": "-01 (-01)",
+    "offsets": "-01, +00",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T00:00:00  local)-01 to +00",
+    "aliases": [
+      ""
+    ],
+    "link": "(37.733, -25.667)"
+  },
+  {
+    "id": "Atlantic/Bermuda",
+    "country_code": "BM",
+    "country": "Bermuda",
+    "current_offset": "-03 (ADT)",
+    "offsets": "-04, -03",
+    "next_transition": "2024-11-03T05:00:00Z (2024-11-03T02:00:00  local)-03 to -04",
+    "aliases": [
+      ""
+    ],
+    "link": "(32.283, -64.767)"
+  },
+  {
+    "id": "Atlantic/Canary",
+    "country_code": "ES",
+    "country": "Spain",
+    "current_offset": "+00 (WET)",
+    "offsets": "+00, +01",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T01:00:00  local)+00 to +01",
+    "aliases": [
+      ""
+    ],
+    "link": "(28.100, -15.400)"
+  },
+  {
+    "id": "Atlantic/Cape_Verde",
+    "country_code": "CV",
+    "country": "Cape Verde",
+    "current_offset": "-01 (-01)",
+    "offsets": "-01",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(14.917, -23.517)"
+  },
+  {
+    "id": "Atlantic/Faroe",
+    "country_code": "FO",
+    "country": "Faroe Islands",
+    "current_offset": "+00 (WET)",
+    "offsets": "+00, +01",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T01:00:00  local)+00 to +01",
+    "aliases": [
+      "Atlantic/Faeroe"
+    ],
+    "link": "(62.017, -6.767)"
+  },
+  {
+    "id": "Atlantic/Madeira",
+    "country_code": "PT",
+    "country": "Portugal",
+    "current_offset": "+00 (WET)",
+    "offsets": "+00, +01",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T01:00:00  local)+00 to +01",
+    "aliases": [
+      ""
+    ],
+    "link": "(32.633, -16.900)"
+  },
+  {
+    "id": "Atlantic/South_Georgia",
+    "country_code": "GS",
+    "country": "South Georgia & the South Sandwich Islands",
+    "current_offset": "-02 (-02)",
+    "offsets": "-02",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-54.267, -36.533)"
+  },
+  {
+    "id": "Atlantic/Stanley",
+    "country_code": "FK",
+    "country": "Falkland Islands",
+    "current_offset": "-03 (-03)",
+    "offsets": "-04, -03",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-51.700, -57.850)"
+  },
+  {
+    "id": "Australia/Adelaide",
+    "country_code": "AU",
+    "country": "Australia",
+    "current_offset": "+10:30 (ACDT)",
+    "offsets": "+09:30, +10:30",
+    "next_transition": "2024-04-06T16:30:00Z (2024-04-07T03:00:00  local)+10:30 to +09:30",
+    "aliases": [
+      "Australia/South"
+    ],
+    "link": "(-34.917, 138.583)"
+  },
+  {
+    "id": "Australia/Brisbane",
+    "country_code": "AU",
+    "country": "Australia",
+    "current_offset": "+10 (AEST)",
+    "offsets": "+10",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Australia/Queensland"
+    ],
+    "link": "(-27.467, 153.033)"
+  },
+  {
+    "id": "Australia/Broken_Hill",
+    "country_code": "AU",
+    "country": "Australia",
+    "current_offset": "+10:30 (ACDT)",
+    "offsets": "+09:30, +10:30",
+    "next_transition": "2024-04-06T16:30:00Z (2024-04-07T03:00:00  local)+10:30 to +09:30",
+    "aliases": [
+      "Australia/Yancowinna"
+    ],
+    "link": "(-31.950, 141.450)"
+  },
+  {
+    "id": "Australia/Darwin",
+    "country_code": "AU",
+    "country": "Australia",
+    "current_offset": "+09:30 (ACST)",
+    "offsets": "+09:30",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Australia/North"
+    ],
+    "link": "(-12.467, 130.833)"
+  },
+  {
+    "id": "Australia/Eucla",
+    "country_code": "AU",
+    "country": "Australia",
+    "current_offset": "+08:45 (+0845)",
+    "offsets": "+08:45, +09:45",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-31.717, 128.867)"
+  },
+  {
+    "id": "Australia/Hobart",
+    "country_code": "AU",
+    "country": "Australia",
+    "current_offset": "+11 (AEDT)",
+    "offsets": "+10, +11",
+    "next_transition": "2024-04-06T16:00:00Z (2024-04-07T03:00:00  local)+11 to +10",
+    "aliases": [
+      "Australia/Currie, Australia/Tasmania"
+    ],
+    "link": "(-42.883, 147.317)"
+  },
+  {
+    "id": "Australia/Lindeman",
+    "country_code": "AU",
+    "country": "Australia",
+    "current_offset": "+10 (AEST)",
+    "offsets": "+10",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-20.267, 149.000)"
+  },
+  {
+    "id": "Australia/Lord_Howe",
+    "country_code": "AU",
+    "country": "Australia",
+    "current_offset": "+11 (+11)",
+    "offsets": "+10:30, +11",
+    "next_transition": "2024-04-06T15:00:00Z (2024-04-07T02:00:00  local)+11 to +10:30",
+    "aliases": [
+      "Australia/LHI"
+    ],
+    "link": "(-31.550, 159.083)"
+  },
+  {
+    "id": "Australia/Melbourne",
+    "country_code": "AU",
+    "country": "Australia",
+    "current_offset": "+11 (AEDT)",
+    "offsets": "+10, +11",
+    "next_transition": "2024-04-06T16:00:00Z (2024-04-07T03:00:00  local)+11 to +10",
+    "aliases": [
+      "Australia/Victoria"
+    ],
+    "link": "(-37.817, 144.967)"
+  },
+  {
+    "id": "Australia/Perth",
+    "country_code": "AU",
+    "country": "Australia",
+    "current_offset": "+08 (AWST)",
+    "offsets": "+08, +09",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Australia/West"
+    ],
+    "link": "(-31.950, 115.850)"
+  },
+  {
+    "id": "Australia/Sydney",
+    "country_code": "AU",
+    "country": "Australia",
+    "current_offset": "+11 (AEDT)",
+    "offsets": "+10, +11",
+    "next_transition": "2024-04-06T16:00:00Z (2024-04-07T03:00:00  local)+11 to +10",
+    "aliases": [
+      "Australia/ACT, Australia/Canberra, Australia/NSW"
+    ],
+    "link": "(-33.867, 151.217)"
+  },
+  {
+    "id": "CET",
+    "country_code": "",
+    "country": "",
+    "current_offset": "+01 (CET)",
+    "offsets": "+01, +02",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T02:00:00  local)+01 to +02",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "CST6CDT",
+    "country_code": "",
+    "country": "",
+    "current_offset": "-05 (CDT)",
+    "offsets": "-06, -05",
+    "next_transition": "2024-11-03T07:00:00Z (2024-11-03T02:00:00  local)-05 to -06",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "EET",
+    "country_code": "",
+    "country": "",
+    "current_offset": "+02 (EET)",
+    "offsets": "+02, +03",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T03:00:00  local)+02 to +03",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "EST",
+    "country_code": "",
+    "country": "",
+    "current_offset": "-05 (EST)",
+    "offsets": "-05",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "EST5EDT",
+    "country_code": "",
+    "country": "",
+    "current_offset": "-04 (EDT)",
+    "offsets": "-05, -04",
+    "next_transition": "2024-11-03T06:00:00Z (2024-11-03T02:00:00  local)-04 to -05",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "Etc/GMT",
+    "country_code": "",
+    "country": "",
+    "current_offset": "+00 (GMT)",
+    "offsets": "+00",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Etc/GMT+0, Etc/GMT-0, Etc/GMT0, Etc/Greenwich, GMT, GMT+0, GMT-0, GMT0, Greenwich"
+    ],
+    "link": ""
+  },
+  {
+    "id": "Etc/GMT-1",
+    "country_code": "",
+    "country": "",
+    "current_offset": "+01 (+01)",
+    "offsets": "+01",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "Etc/GMT-10",
+    "country_code": "",
+    "country": "",
+    "current_offset": "+10 (+10)",
+    "offsets": "+10",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "Etc/GMT-11",
+    "country_code": "",
+    "country": "",
+    "current_offset": "+11 (+11)",
+    "offsets": "+11",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "Etc/GMT-12",
+    "country_code": "",
+    "country": "",
+    "current_offset": "+12 (+12)",
+    "offsets": "+12",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "Etc/GMT-13",
+    "country_code": "",
+    "country": "",
+    "current_offset": "+13 (+13)",
+    "offsets": "+13",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "Etc/GMT-14",
+    "country_code": "",
+    "country": "",
+    "current_offset": "+14 (+14)",
+    "offsets": "+14",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "Etc/GMT-2",
+    "country_code": "",
+    "country": "",
+    "current_offset": "+02 (+02)",
+    "offsets": "+02",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "Etc/GMT-3",
+    "country_code": "",
+    "country": "",
+    "current_offset": "+03 (+03)",
+    "offsets": "+03",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "Etc/GMT-4",
+    "country_code": "",
+    "country": "",
+    "current_offset": "+04 (+04)",
+    "offsets": "+04",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "Etc/GMT-5",
+    "country_code": "",
+    "country": "",
+    "current_offset": "+05 (+05)",
+    "offsets": "+05",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "Etc/GMT-6",
+    "country_code": "",
+    "country": "",
+    "current_offset": "+06 (+06)",
+    "offsets": "+06",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "Etc/GMT-7",
+    "country_code": "",
+    "country": "",
+    "current_offset": "+07 (+07)",
+    "offsets": "+07",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "Etc/GMT-8",
+    "country_code": "",
+    "country": "",
+    "current_offset": "+08 (+08)",
+    "offsets": "+08",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "Etc/GMT-9",
+    "country_code": "",
+    "country": "",
+    "current_offset": "+09 (+09)",
+    "offsets": "+09",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "Etc/GMT+1",
+    "country_code": "",
+    "country": "",
+    "current_offset": "-01 (-01)",
+    "offsets": "-01",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "Etc/GMT+10",
+    "country_code": "",
+    "country": "",
+    "current_offset": "-10 (-10)",
+    "offsets": "-10",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "Etc/GMT+11",
+    "country_code": "",
+    "country": "",
+    "current_offset": "-11 (-11)",
+    "offsets": "-11",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "Etc/GMT+12",
+    "country_code": "",
+    "country": "",
+    "current_offset": "-12 (-12)",
+    "offsets": "-12",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "Etc/GMT+2",
+    "country_code": "",
+    "country": "",
+    "current_offset": "-02 (-02)",
+    "offsets": "-02",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "Etc/GMT+3",
+    "country_code": "",
+    "country": "",
+    "current_offset": "-03 (-03)",
+    "offsets": "-03",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "Etc/GMT+4",
+    "country_code": "",
+    "country": "",
+    "current_offset": "-04 (-04)",
+    "offsets": "-04",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "Etc/GMT+5",
+    "country_code": "",
+    "country": "",
+    "current_offset": "-05 (-05)",
+    "offsets": "-05",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "Etc/GMT+6",
+    "country_code": "",
+    "country": "",
+    "current_offset": "-06 (-06)",
+    "offsets": "-06",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "Etc/GMT+7",
+    "country_code": "",
+    "country": "",
+    "current_offset": "-07 (-07)",
+    "offsets": "-07",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "Etc/GMT+8",
+    "country_code": "",
+    "country": "",
+    "current_offset": "-08 (-08)",
+    "offsets": "-08",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "Etc/GMT+9",
+    "country_code": "",
+    "country": "",
+    "current_offset": "-09 (-09)",
+    "offsets": "-09",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "Etc/UTC",
+    "country_code": "",
+    "country": "",
+    "current_offset": "+00 (UTC)",
+    "offsets": "+00",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Etc/UCT, Etc/Universal, Etc/Zulu, UCT, UTC, Universal, Zulu"
+    ],
+    "link": ""
+  },
+  {
+    "id": "Europe/Andorra",
+    "country_code": "AD",
+    "country": "Andorra",
+    "current_offset": "+01 (CET)",
+    "offsets": "+01, +02",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T02:00:00  local)+01 to +02",
+    "aliases": [
+      ""
+    ],
+    "link": "(42.500, 1.517)"
+  },
+  {
+    "id": "Europe/Astrakhan",
+    "country_code": "RU",
+    "country": "Russia",
+    "current_offset": "+04 (+04)",
+    "offsets": "+03, +04",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(46.350, 48.050)"
+  },
+  {
+    "id": "Europe/Athens",
+    "country_code": "GR",
+    "country": "Greece",
+    "current_offset": "+02 (EET)",
+    "offsets": "+02, +03",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T03:00:00  local)+02 to +03",
+    "aliases": [
+      ""
+    ],
+    "link": "(37.967, 23.717)"
+  },
+  {
+    "id": "Europe/Belgrade",
+    "country_code": "RS",
+    "country": "Serbia",
+    "current_offset": "+01 (CET)",
+    "offsets": "+01, +02",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T02:00:00  local)+01 to +02",
+    "aliases": [
+      "Europe/Ljubljana, Europe/Podgorica, Europe/Sarajevo, Europe/Skopje, Europe/Zagreb"
+    ],
+    "link": "(44.833, 20.500)"
+  },
+  {
+    "id": "Europe/Berlin",
+    "country_code": "DE",
+    "country": "Germany",
+    "current_offset": "+01 (CET)",
+    "offsets": "+01, +02",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T02:00:00  local)+01 to +02",
+    "aliases": [
+      "Arctic/Longyearbyen, Atlantic/Jan_Mayen, Europe/Copenhagen, Europe/Oslo, Europe/Stockholm"
+    ],
+    "link": "(52.500, 13.367)"
+  },
+  {
+    "id": "Europe/Brussels",
+    "country_code": "BE",
+    "country": "Belgium",
+    "current_offset": "+01 (CET)",
+    "offsets": "+01, +02",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T02:00:00  local)+01 to +02",
+    "aliases": [
+      "Europe/Amsterdam, Europe/Luxembourg"
+    ],
+    "link": "(50.833, 4.333)"
+  },
+  {
+    "id": "Europe/Bucharest",
+    "country_code": "RO",
+    "country": "Romania",
+    "current_offset": "+02 (EET)",
+    "offsets": "+02, +03",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T03:00:00  local)+02 to +03",
+    "aliases": [
+      ""
+    ],
+    "link": "(44.433, 26.100)"
+  },
+  {
+    "id": "Europe/Budapest",
+    "country_code": "HU",
+    "country": "Hungary",
+    "current_offset": "+01 (CET)",
+    "offsets": "+01, +02",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T02:00:00  local)+01 to +02",
+    "aliases": [
+      ""
+    ],
+    "link": "(47.500, 19.083)"
+  },
+  {
+    "id": "Europe/Chisinau",
+    "country_code": "MD",
+    "country": "Moldova",
+    "current_offset": "+02 (EET)",
+    "offsets": "+02, +03",
+    "next_transition": "2024-03-31T00:00:00Z (2024-03-31T02:00:00  local)+02 to +03",
+    "aliases": [
+      "Europe/Tiraspol"
+    ],
+    "link": "(47.000, 28.833)"
+  },
+  {
+    "id": "Europe/Dublin",
+    "country_code": "IE",
+    "country": "Ireland",
+    "current_offset": "+00 (GMT)",
+    "offsets": "+00, +01",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T01:00:00  local)+00 to +01",
+    "aliases": [
+      "Eire"
+    ],
+    "link": "(53.333, -6.250)"
+  },
+  {
+    "id": "Europe/Gibraltar",
+    "country_code": "GI",
+    "country": "Gibraltar",
+    "current_offset": "+01 (CET)",
+    "offsets": "+01, +02",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T02:00:00  local)+01 to +02",
+    "aliases": [
+      ""
+    ],
+    "link": "(36.133, -5.350)"
+  },
+  {
+    "id": "Europe/Helsinki",
+    "country_code": "FI",
+    "country": "Finland",
+    "current_offset": "+02 (EET)",
+    "offsets": "+02, +03",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T03:00:00  local)+02 to +03",
+    "aliases": [
+      "Europe/Mariehamn"
+    ],
+    "link": "(60.167, 24.967)"
+  },
+  {
+    "id": "Europe/Istanbul",
+    "country_code": "TR",
+    "country": "Turkey",
+    "current_offset": "+03 (+03)",
+    "offsets": "+02, +03",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Asia/Istanbul, Turkey"
+    ],
+    "link": "(41.017, 28.967)"
+  },
+  {
+    "id": "Europe/Kaliningrad",
+    "country_code": "RU",
+    "country": "Russia",
+    "current_offset": "+02 (EET)",
+    "offsets": "+02, +03",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(54.717, 20.500)"
+  },
+  {
+    "id": "Europe/Kirov",
+    "country_code": "RU",
+    "country": "Russia",
+    "current_offset": "+03 (MSK)",
+    "offsets": "+03, +04",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(58.600, 49.650)"
+  },
+  {
+    "id": "Europe/Kyiv",
+    "country_code": "UA",
+    "country": "Ukraine",
+    "current_offset": "+02 (EET)",
+    "offsets": "+02, +03",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T03:00:00  local)+02 to +03",
+    "aliases": [
+      "Europe/Kiev, Europe/Uzhgorod, Europe/Zaporozhye"
+    ],
+    "link": "(50.433, 30.517)"
+  },
+  {
+    "id": "Europe/Lisbon",
+    "country_code": "PT",
+    "country": "Portugal",
+    "current_offset": "+00 (WET)",
+    "offsets": "+00, +01",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T01:00:00  local)+00 to +01",
+    "aliases": [
+      "Portugal"
+    ],
+    "link": "(38.717, -9.133)"
+  },
+  {
+    "id": "Europe/London",
+    "country_code": "GB",
+    "country": "Britain (UK)",
+    "current_offset": "+00 (GMT)",
+    "offsets": "+00, +01",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T01:00:00  local)+00 to +01",
+    "aliases": [
+      "Europe/Belfast, Europe/Guernsey, Europe/Isle_of_Man, Europe/Jersey, GB, GB-Eire"
+    ],
+    "link": "(51.508, -0.125)"
+  },
+  {
+    "id": "Europe/Madrid",
+    "country_code": "ES",
+    "country": "Spain",
+    "current_offset": "+01 (CET)",
+    "offsets": "+01, +02",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T02:00:00  local)+01 to +02",
+    "aliases": [
+      ""
+    ],
+    "link": "(40.400, -3.683)"
+  },
+  {
+    "id": "Europe/Malta",
+    "country_code": "MT",
+    "country": "Malta",
+    "current_offset": "+01 (CET)",
+    "offsets": "+01, +02",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T02:00:00  local)+01 to +02",
+    "aliases": [
+      ""
+    ],
+    "link": "(35.900, 14.517)"
+  },
+  {
+    "id": "Europe/Minsk",
+    "country_code": "BY",
+    "country": "Belarus",
+    "current_offset": "+03 (+03)",
+    "offsets": "+02, +03",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(53.900, 27.567)"
+  },
+  {
+    "id": "Europe/Moscow",
+    "country_code": "RU",
+    "country": "Russia",
+    "current_offset": "+03 (MSK)",
+    "offsets": "+03, +04",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "W-SU"
+    ],
+    "link": "(55.756, 37.618)"
+  },
+  {
+    "id": "Europe/Paris",
+    "country_code": "FR",
+    "country": "France",
+    "current_offset": "+01 (CET)",
+    "offsets": "+01, +02",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T02:00:00  local)+01 to +02",
+    "aliases": [
+      "Europe/Monaco"
+    ],
+    "link": "(48.867, 2.333)"
+  },
+  {
+    "id": "Europe/Prague",
+    "country_code": "CZ",
+    "country": "Czech Republic",
+    "current_offset": "+01 (CET)",
+    "offsets": "+01, +02",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T02:00:00  local)+01 to +02",
+    "aliases": [
+      "Europe/Bratislava"
+    ],
+    "link": "(50.083, 14.433)"
+  },
+  {
+    "id": "Europe/Riga",
+    "country_code": "LV",
+    "country": "Latvia",
+    "current_offset": "+02 (EET)",
+    "offsets": "+02, +03",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T03:00:00  local)+02 to +03",
+    "aliases": [
+      ""
+    ],
+    "link": "(56.950, 24.100)"
+  },
+  {
+    "id": "Europe/Rome",
+    "country_code": "IT",
+    "country": "Italy",
+    "current_offset": "+01 (CET)",
+    "offsets": "+01, +02",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T02:00:00  local)+01 to +02",
+    "aliases": [
+      "Europe/San_Marino, Europe/Vatican"
+    ],
+    "link": "(41.900, 12.483)"
+  },
+  {
+    "id": "Europe/Samara",
+    "country_code": "RU",
+    "country": "Russia",
+    "current_offset": "+04 (+04)",
+    "offsets": "+03, +04, +05",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(53.200, 50.150)"
+  },
+  {
+    "id": "Europe/Saratov",
+    "country_code": "RU",
+    "country": "Russia",
+    "current_offset": "+04 (+04)",
+    "offsets": "+03, +04",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(51.567, 46.033)"
+  },
+  {
+    "id": "Europe/Simferopol",
+    "country_code": "UA",
+    "country": "Ukraine",
+    "current_offset": "+03 (MSK)",
+    "offsets": "+02, +03, +04",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(44.950, 34.100)"
+  },
+  {
+    "id": "Europe/Sofia",
+    "country_code": "BG",
+    "country": "Bulgaria",
+    "current_offset": "+02 (EET)",
+    "offsets": "+02, +03",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T03:00:00  local)+02 to +03",
+    "aliases": [
+      ""
+    ],
+    "link": "(42.683, 23.317)"
+  },
+  {
+    "id": "Europe/Tallinn",
+    "country_code": "EE",
+    "country": "Estonia",
+    "current_offset": "+02 (EET)",
+    "offsets": "+02, +03",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T03:00:00  local)+02 to +03",
+    "aliases": [
+      ""
+    ],
+    "link": "(59.417, 24.750)"
+  },
+  {
+    "id": "Europe/Tirane",
+    "country_code": "AL",
+    "country": "Albania",
+    "current_offset": "+01 (CET)",
+    "offsets": "+01, +02",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T02:00:00  local)+01 to +02",
+    "aliases": [
+      ""
+    ],
+    "link": "(41.333, 19.833)"
+  },
+  {
+    "id": "Europe/Ulyanovsk",
+    "country_code": "RU",
+    "country": "Russia",
+    "current_offset": "+04 (+04)",
+    "offsets": "+03, +04",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(54.333, 48.400)"
+  },
+  {
+    "id": "Europe/Vienna",
+    "country_code": "AT",
+    "country": "Austria",
+    "current_offset": "+01 (CET)",
+    "offsets": "+01, +02",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T02:00:00  local)+01 to +02",
+    "aliases": [
+      ""
+    ],
+    "link": "(48.217, 16.333)"
+  },
+  {
+    "id": "Europe/Vilnius",
+    "country_code": "LT",
+    "country": "Lithuania",
+    "current_offset": "+02 (EET)",
+    "offsets": "+02, +03",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T03:00:00  local)+02 to +03",
+    "aliases": [
+      ""
+    ],
+    "link": "(54.683, 25.317)"
+  },
+  {
+    "id": "Europe/Volgograd",
+    "country_code": "RU",
+    "country": "Russia",
+    "current_offset": "+03 (MSK)",
+    "offsets": "+03, +04",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(48.733, 44.417)"
+  },
+  {
+    "id": "Europe/Warsaw",
+    "country_code": "PL",
+    "country": "Poland",
+    "current_offset": "+01 (CET)",
+    "offsets": "+01, +02",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T02:00:00  local)+01 to +02",
+    "aliases": [
+      "Poland"
+    ],
+    "link": "(52.250, 21.000)"
+  },
+  {
+    "id": "Europe/Zurich",
+    "country_code": "CH",
+    "country": "Switzerland",
+    "current_offset": "+01 (CET)",
+    "offsets": "+01, +02",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T02:00:00  local)+01 to +02",
+    "aliases": [
+      "Europe/Busingen, Europe/Vaduz"
+    ],
+    "link": "(47.383, 8.533)"
+  },
+  {
+    "id": "HST",
+    "country_code": "",
+    "country": "",
+    "current_offset": "-10 (HST)",
+    "offsets": "-10",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "Indian/Chagos",
+    "country_code": "IO",
+    "country": "British Indian Ocean Territory",
+    "current_offset": "+06 (+06)",
+    "offsets": "+06",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-7.333, 72.417)"
+  },
+  {
+    "id": "Indian/Maldives",
+    "country_code": "MV",
+    "country": "Maldives",
+    "current_offset": "+05 (+05)",
+    "offsets": "+05",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Indian/Kerguelen"
+    ],
+    "link": "(4.167, 73.500)"
+  },
+  {
+    "id": "Indian/Mauritius",
+    "country_code": "MU",
+    "country": "Mauritius",
+    "current_offset": "+04 (+04)",
+    "offsets": "+04, +05",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-20.167, 57.500)"
+  },
+  {
+    "id": "MET",
+    "country_code": "",
+    "country": "",
+    "current_offset": "+01 (MET)",
+    "offsets": "+01, +02",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T02:00:00  local)+01 to +02",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "MST",
+    "country_code": "",
+    "country": "",
+    "current_offset": "-07 (MST)",
+    "offsets": "-07",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "MST7MDT",
+    "country_code": "",
+    "country": "",
+    "current_offset": "-06 (MDT)",
+    "offsets": "-07, -06",
+    "next_transition": "2024-11-03T08:00:00Z (2024-11-03T02:00:00  local)-06 to -07",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "Pacific/Apia",
+    "country_code": "WS",
+    "country": "Samoa (western)",
+    "current_offset": "+13 (+13)",
+    "offsets": "-11, -10, +13, +14",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-13.833, -171.733)"
+  },
+  {
+    "id": "Pacific/Auckland",
+    "country_code": "NZ",
+    "country": "New Zealand",
+    "current_offset": "+13 (NZDT)",
+    "offsets": "+12, +13",
+    "next_transition": "2024-04-06T14:00:00Z (2024-04-07T03:00:00  local)+13 to +12",
+    "aliases": [
+      "Antarctica/McMurdo, Antarctica/South_Pole, NZ"
+    ],
+    "link": "(-36.867, 174.767)"
+  },
+  {
+    "id": "Pacific/Bougainville",
+    "country_code": "PG",
+    "country": "Papua New Guinea",
+    "current_offset": "+11 (+11)",
+    "offsets": "+10, +11",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-6.217, 155.567)"
+  },
+  {
+    "id": "Pacific/Chatham",
+    "country_code": "NZ",
+    "country": "New Zealand",
+    "current_offset": "+13:45 (+1345)",
+    "offsets": "+12:45, +13:45",
+    "next_transition": "2024-04-06T14:00:00Z (2024-04-07T03:45:00  local)+13:45 to +12:45",
+    "aliases": [
+      "NZ-CHAT"
+    ],
+    "link": "(-43.950, -176.550)"
+  },
+  {
+    "id": "Pacific/Easter",
+    "country_code": "CL",
+    "country": "Chile",
+    "current_offset": "-05 (-05)",
+    "offsets": "-06, -05",
+    "next_transition": "2024-04-07T03:00:00Z (2024-04-06T22:00:00  local)-05 to -06",
+    "aliases": [
+      "Chile/EasterIsland"
+    ],
+    "link": "(-27.150, -109.433)"
+  },
+  {
+    "id": "Pacific/Efate",
+    "country_code": "VU",
+    "country": "Vanuatu",
+    "current_offset": "+11 (+11)",
+    "offsets": "+11",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-17.667, 168.417)"
+  },
+  {
+    "id": "Pacific/Fakaofo",
+    "country_code": "TK",
+    "country": "Tokelau",
+    "current_offset": "+13 (+13)",
+    "offsets": "-11, +13",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-9.367, -171.233)"
+  },
+  {
+    "id": "Pacific/Fiji",
+    "country_code": "FJ",
+    "country": "Fiji",
+    "current_offset": "+12 (+12)",
+    "offsets": "+12, +13",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-18.133, 178.417)"
+  },
+  {
+    "id": "Pacific/Galapagos",
+    "country_code": "EC",
+    "country": "Ecuador",
+    "current_offset": "-06 (-06)",
+    "offsets": "-06",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-0.900, -89.600)"
+  },
+  {
+    "id": "Pacific/Gambier",
+    "country_code": "PF",
+    "country": "French Polynesia",
+    "current_offset": "-09 (-09)",
+    "offsets": "-09",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-23.133, -134.950)"
+  },
+  {
+    "id": "Pacific/Guadalcanal",
+    "country_code": "SB",
+    "country": "Solomon Islands",
+    "current_offset": "+11 (+11)",
+    "offsets": "+11",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Pacific/Pohnpei, Pacific/Ponape"
+    ],
+    "link": "(-9.533, 160.200)"
+  },
+  {
+    "id": "Pacific/Guam",
+    "country_code": "GU",
+    "country": "Guam",
+    "current_offset": "+10 (ChST)",
+    "offsets": "+10",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Pacific/Saipan"
+    ],
+    "link": "(13.467, 144.750)"
+  },
+  {
+    "id": "Pacific/Honolulu",
+    "country_code": "US",
+    "country": "United States",
+    "current_offset": "-10 (HST)",
+    "offsets": "-10",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Pacific/Johnston, US/Hawaii"
+    ],
+    "link": "(21.307, -157.858)"
+  },
+  {
+    "id": "Pacific/Kanton",
+    "country_code": "KI",
+    "country": "Kiribati",
+    "current_offset": "+13 (+13)",
+    "offsets": "+13",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Pacific/Enderbury"
+    ],
+    "link": "(-2.783, -171.717)"
+  },
+  {
+    "id": "Pacific/Kiritimati",
+    "country_code": "KI",
+    "country": "Kiribati",
+    "current_offset": "+14 (+14)",
+    "offsets": "+14",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(1.867, -157.333)"
+  },
+  {
+    "id": "Pacific/Kosrae",
+    "country_code": "FM",
+    "country": "Micronesia",
+    "current_offset": "+11 (+11)",
+    "offsets": "+11",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(5.317, 162.983)"
+  },
+  {
+    "id": "Pacific/Kwajalein",
+    "country_code": "MH",
+    "country": "Marshall Islands",
+    "current_offset": "+12 (+12)",
+    "offsets": "+12",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Kwajalein"
+    ],
+    "link": "(9.083, 167.333)"
+  },
+  {
+    "id": "Pacific/Marquesas",
+    "country_code": "PF",
+    "country": "French Polynesia",
+    "current_offset": "-09:30 (-0930)",
+    "offsets": "-09:30",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-9.000, -139.500)"
+  },
+  {
+    "id": "Pacific/Nauru",
+    "country_code": "NR",
+    "country": "Nauru",
+    "current_offset": "+12 (+12)",
+    "offsets": "+12",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-0.517, 166.917)"
+  },
+  {
+    "id": "Pacific/Niue",
+    "country_code": "NU",
+    "country": "Niue",
+    "current_offset": "-11 (-11)",
+    "offsets": "-11",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-19.017, -169.917)"
+  },
+  {
+    "id": "Pacific/Norfolk",
+    "country_code": "NF",
+    "country": "Norfolk Island",
+    "current_offset": "+12 (+12)",
+    "offsets": "+11, +11:30, +12",
+    "next_transition": "2024-04-06T15:00:00Z (2024-04-07T03:00:00  local)+12 to +11",
+    "aliases": [
+      ""
+    ],
+    "link": "(-29.050, 167.967)"
+  },
+  {
+    "id": "Pacific/Noumea",
+    "country_code": "NC",
+    "country": "New Caledonia",
+    "current_offset": "+11 (+11)",
+    "offsets": "+11",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-22.267, 166.450)"
+  },
+  {
+    "id": "Pacific/Pago_Pago",
+    "country_code": "AS",
+    "country": "Samoa (American)",
+    "current_offset": "-11 (SST)",
+    "offsets": "-11",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Pacific/Midway, Pacific/Samoa, US/Samoa"
+    ],
+    "link": "(-14.267, -170.700)"
+  },
+  {
+    "id": "Pacific/Palau",
+    "country_code": "PW",
+    "country": "Palau",
+    "current_offset": "+09 (+09)",
+    "offsets": "+09",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(7.333, 134.483)"
+  },
+  {
+    "id": "Pacific/Pitcairn",
+    "country_code": "PN",
+    "country": "Pitcairn",
+    "current_offset": "-08 (-08)",
+    "offsets": "-08",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-25.067, -130.083)"
+  },
+  {
+    "id": "Pacific/Port_Moresby",
+    "country_code": "PG",
+    "country": "Papua New Guinea",
+    "current_offset": "+10 (+10)",
+    "offsets": "+10",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Antarctica/DumontDUrville, Pacific/Chuuk, Pacific/Truk, Pacific/Yap"
+    ],
+    "link": "(-9.500, 147.167)"
+  },
+  {
+    "id": "Pacific/Rarotonga",
+    "country_code": "CK",
+    "country": "Cook Islands",
+    "current_offset": "-10 (-10)",
+    "offsets": "-10",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-21.233, -159.767)"
+  },
+  {
+    "id": "Pacific/Tahiti",
+    "country_code": "PF",
+    "country": "French Polynesia",
+    "current_offset": "-10 (-10)",
+    "offsets": "-10",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-17.533, -149.567)"
+  },
+  {
+    "id": "Pacific/Tarawa",
+    "country_code": "KI",
+    "country": "Kiribati",
+    "current_offset": "+12 (+12)",
+    "offsets": "+12",
+    "next_transition": "(n/a)",
+    "aliases": [
+      "Pacific/Funafuti, Pacific/Majuro, Pacific/Wake, Pacific/Wallis"
+    ],
+    "link": "(1.417, 173.000)"
+  },
+  {
+    "id": "Pacific/Tongatapu",
+    "country_code": "TO",
+    "country": "Tonga",
+    "current_offset": "+13 (+13)",
+    "offsets": "+13, +14",
+    "next_transition": "(n/a)",
+    "aliases": [
+      ""
+    ],
+    "link": "(-21.133, -175.200)"
+  },
+  {
+    "id": "PST8PDT",
+    "country_code": "",
+    "country": "",
+    "current_offset": "-07 (PDT)",
+    "offsets": "-08, -07",
+    "next_transition": "2024-11-03T09:00:00Z (2024-11-03T02:00:00  local)-07 to -08",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  },
+  {
+    "id": "WET",
+    "country_code": "",
+    "country": "",
+    "current_offset": "+00 (WET)",
+    "offsets": "+00, +01",
+    "next_transition": "2024-03-31T01:00:00Z (2024-03-31T01:00:00  local)+00 to +01",
+    "aliases": [
+      ""
+    ],
+    "link": ""
+  }
+]

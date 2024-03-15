@@ -1,6 +1,7 @@
+import path from "path";
 import { writeJson } from "array-json";
 
-async function tz1() {
+async function geonametz() {
   let obj = [];
   await fetch("https://download.geonames.org/export/dump/timeZones.txt")
     .then((res) => res.text())
@@ -25,7 +26,7 @@ async function tz1() {
         obj.push(c);
       });
     });
-  await writeJson("src/data/tz1.json", obj.slice(0, -1));
+  await writeJson(path.join(process.cwd(),"data/geonametz.json" ), obj.slice(0, -1));
 }
-tz1()
-export default tz1;
+
+export default geonametz;
