@@ -1,5 +1,5 @@
 {
-  "name": "tbase",
+  "name": "tz-info",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "dependencies": {
     "array-json": "^0.2.1",
     "cheerio": "1.0.0-rc.12",
-    "express": "^4.18.3",
-    "got": "^14.2.1",
-    "sort-keys": "^5.0.0"
+    "express": "^4.18.3"
   },
   "devDependencies": {
+    "@types/cheerio": "^0.22.35",
+    "@types/express": "^4.17.21",
     "@types/node": "^20.11.26",
     "tsup": "^8.0.2",
     "typescript": "^5.4.2"
