@@ -1,6 +1,6 @@
 {
-  "name": "tz-info",
-  "version": "1.0.0",
+  "name": "noda-tz",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "type": "module",
