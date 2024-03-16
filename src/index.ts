@@ -1,3 +1,1 @@
-import getTimezoneNames from "./timezones/getTimeZones.ts";
-
-export { getTimezoneNames };
+export * from "./sun/suntimes.ts";
