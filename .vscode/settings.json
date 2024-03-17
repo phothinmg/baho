@@ -5,7 +5,10 @@
     "destime",
     "ffrz",
     "getdata",
+    "monthlist",
+    "msinday",
     "noda",
+    "nodadata",
     "ofhr",
     "ofmi",
     "ofms",
@@ -14,10 +17,12 @@
     "suntimes",
     "tdif",
     "Tofind",
+    "Tojulian",
     "tsup",
     "tzgp",
     "tzname",
-    "tzrouter"
+    "tzrouter",
+    "wdlist"
   ],
   "cSpell.ignorePaths": [
     "node_modules", // this will ignore anything the node_modules directory
