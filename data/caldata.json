@@ -1,0 +1,4108 @@
+[
+  {
+    "tzgp": [
+      "Africa/Abidjan",
+      "Africa/Accra",
+      "Africa/Bamako",
+      "Africa/Banjul",
+      "Africa/Conakry",
+      "Africa/Dakar",
+      "Africa/Freetown",
+      "Africa/Lome",
+      "Africa/Nouakchott",
+      "Africa/Ouagadougou",
+      "Africa/Timbuktu",
+      "Atlantic/Reykjavik",
+      "Atlantic/St_Helena",
+      "Iceland"
+    ],
+    "latitude": "5.317",
+    "longitude": "-4.033",
+    "offset_hr": 0,
+    "offset_mi": 0,
+    "offset_se": 0,
+    "offset_ms": 0
+  },
+  {
+    "tzgp": [
+      "Africa/Algiers"
+    ],
+    "latitude": "36.783",
+    "longitude": "3.050",
+    "offset_hr": 1,
+    "offset_mi": 60,
+    "offset_se": 3600,
+    "offset_ms": 3600000
+  },
+  {
+    "tzgp": [
+      "Africa/Bissau"
+    ],
+    "latitude": "11.850",
+    "longitude": "-15.583",
+    "offset_hr": 0,
+    "offset_mi": 0,
+    "offset_se": 0,
+    "offset_ms": 0
+  },
+  {
+    "tzgp": [
+      "Africa/Cairo",
+      "Egypt"
+    ],
+    "latitude": "30.050",
+    "longitude": "31.250",
+    "offset_hr": 2,
+    "offset_mi": 120,
+    "offset_se": 7200,
+    "offset_ms": 7200000
+  },
+  {
+    "tzgp": [
+      "Africa/Casablanca"
+    ],
+    "latitude": "33.650",
+    "longitude": "-7.583",
+    "offset_hr": 0,
+    "offset_mi": 0,
+    "offset_se": 0,
+    "offset_ms": 0
+  },
+  {
+    "tzgp": [
+      "Africa/Ceuta"
+    ],
+    "latitude": "35.883",
+    "longitude": "-5.317",
+    "offset_hr": 1,
+    "offset_mi": 60,
+    "offset_se": 3600,
+    "offset_ms": 3600000
+  },
+  {
+    "tzgp": [
+      "Africa/El_Aaiun"
+    ],
+    "latitude": "27.150",
+    "longitude": "-13.200",
+    "offset_hr": 0,
+    "offset_mi": 0,
+    "offset_se": 0,
+    "offset_ms": 0
+  },
+  {
+    "tzgp": [
+      "Africa/Johannesburg",
+      "Africa/Maseru",
+      "Africa/Mbabane"
+    ],
+    "latitude": "-26.250",
+    "longitude": "28.000",
+    "offset_hr": 2,
+    "offset_mi": 120,
+    "offset_se": 7200,
+    "offset_ms": 7200000
+  },
+  {
+    "tzgp": [
+      "Africa/Juba"
+    ],
+    "latitude": "4.850",
+    "longitude": "31.617",
+    "offset_hr": 2,
+    "offset_mi": 120,
+    "offset_se": 7200,
+    "offset_ms": 7200000
+  },
+  {
+    "tzgp": [
+      "Africa/Khartoum"
+    ],
+    "latitude": "15.600",
+    "longitude": "32.533",
+    "offset_hr": 2,
+    "offset_mi": 120,
+    "offset_se": 7200,
+    "offset_ms": 7200000
+  },
+  {
+    "tzgp": [
+      "Africa/Lagos",
+      "Africa/Bangui",
+      "Africa/Brazzaville",
+      "Africa/Douala",
+      "Africa/Kinshasa",
+      "Africa/Libreville",
+      "Africa/Luanda",
+      "Africa/Malabo",
+      "Africa/Niamey",
+      "Africa/Porto-Novo"
+    ],
+    "latitude": "6.450",
+    "longitude": "3.400",
+    "offset_hr": 1,
+    "offset_mi": 60,
+    "offset_se": 3600,
+    "offset_ms": 3600000
+  },
+  {
+    "tzgp": [
+      "Africa/Maputo",
+      "Africa/Blantyre",
+      "Africa/Bujumbura",
+      "Africa/Gaborone",
+      "Africa/Harare",
+      "Africa/Kigali",
+      "Africa/Lubumbashi",
+      "Africa/Lusaka"
+    ],
+    "latitude": "-25.967",
+    "longitude": "32.583",
+    "offset_hr": 2,
+    "offset_mi": 120,
+    "offset_se": 7200,
+    "offset_ms": 7200000
+  },
+  {
+    "tzgp": [
+      "Africa/Monrovia"
+    ],
+    "latitude": "6.300",
+    "longitude": "-10.783",
+    "offset_hr": 0,
+    "offset_mi": 0,
+    "offset_se": 0,
+    "offset_ms": 0
+  },
+  {
+    "tzgp": [
+      "Africa/Nairobi",
+      "Africa/Addis_Ababa",
+      "Africa/Asmara",
+      "Africa/Asmera",
+      "Africa/Dar_es_Salaam",
+      "Africa/Djibouti",
+      "Africa/Kampala",
+      "Africa/Mogadishu",
+      "Indian/Antananarivo",
+      "Indian/Comoro",
+      "Indian/Mayotte"
+    ],
+    "latitude": "-1.283",
+    "longitude": "36.817",
+    "offset_hr": 3,
+    "offset_mi": 180,
+    "offset_se": 10800,
+    "offset_ms": 10800000
+  },
+  {
+    "tzgp": [
+      "Africa/Ndjamena"
+    ],
+    "latitude": "12.117",
+    "longitude": "15.050",
+    "offset_hr": 1,
+    "offset_mi": 60,
+    "offset_se": 3600,
+    "offset_ms": 3600000
+  },
+  {
+    "tzgp": [
+      "Africa/Sao_Tome"
+    ],
+    "latitude": "0.333",
+    "longitude": "6.733",
+    "offset_hr": 0,
+    "offset_mi": 0,
+    "offset_se": 0,
+    "offset_ms": 0
+  },
+  {
+    "tzgp": [
+      "Africa/Tripoli",
+      "Libya"
+    ],
+    "latitude": "32.900",
+    "longitude": "13.183",
+    "offset_hr": 2,
+    "offset_mi": 120,
+    "offset_se": 7200,
+    "offset_ms": 7200000
+  },
+  {
+    "tzgp": [
+      "Africa/Tunis"
+    ],
+    "latitude": "36.800",
+    "longitude": "10.183",
+    "offset_hr": 1,
+    "offset_mi": 60,
+    "offset_se": 3600,
+    "offset_ms": 3600000
+  },
+  {
+    "tzgp": [
+      "Africa/Windhoek"
+    ],
+    "latitude": "-22.567",
+    "longitude": "17.100",
+    "offset_hr": 2,
+    "offset_mi": 120,
+    "offset_se": 7200,
+    "offset_ms": 7200000
+  },
+  {
+    "tzgp": [
+      "America/Adak",
+      "America/Atka",
+      "US/Aleutian"
+    ],
+    "latitude": "51.880",
+    "longitude": "-176.658",
+    "offset_hr": -9,
+    "offset_mi": -540,
+    "offset_se": -32400,
+    "offset_ms": -32400000
+  },
+  {
+    "tzgp": [
+      "America/Anchorage",
+      "US/Alaska"
+    ],
+    "latitude": "61.218",
+    "longitude": "-149.900",
+    "offset_hr": -8,
+    "offset_mi": -480,
+    "offset_se": -28800,
+    "offset_ms": -28800000
+  },
+  {
+    "tzgp": [
+      "America/Araguaina"
+    ],
+    "latitude": "-7.200",
+    "longitude": "-48.200",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/Argentina/Buenos_Aires",
+      "America/Buenos_Aires"
+    ],
+    "latitude": "-34.600",
+    "longitude": "-58.450",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/Argentina/Catamarca",
+      "America/Argentina/ComodRivadavia",
+      "America/Catamarca"
+    ],
+    "latitude": "-28.467",
+    "longitude": "-65.783",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/Argentina/Cordoba",
+      "America/Cordoba",
+      "America/Rosario"
+    ],
+    "latitude": "-31.400",
+    "longitude": "-64.183",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/Argentina/Jujuy",
+      "America/Jujuy"
+    ],
+    "latitude": "-24.183",
+    "longitude": "-65.300",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/Argentina/La_Rioja"
+    ],
+    "latitude": "-29.433",
+    "longitude": "-66.850",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/Argentina/Mendoza",
+      "America/Mendoza"
+    ],
+    "latitude": "-32.883",
+    "longitude": "-68.817",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/Argentina/Rio_Gallegos"
+    ],
+    "latitude": "-51.633",
+    "longitude": "-69.217",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/Argentina/Salta"
+    ],
+    "latitude": "-24.783",
+    "longitude": "-65.417",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/Argentina/San_Juan"
+    ],
+    "latitude": "-31.533",
+    "longitude": "-68.517",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/Argentina/San_Luis"
+    ],
+    "latitude": "-33.317",
+    "longitude": "-66.350",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/Argentina/Tucuman"
+    ],
+    "latitude": "-26.817",
+    "longitude": "-65.217",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/Argentina/Ushuaia"
+    ],
+    "latitude": "-54.800",
+    "longitude": "-68.300",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/Asuncion"
+    ],
+    "latitude": "-25.267",
+    "longitude": "-57.667",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/Bahia"
+    ],
+    "latitude": "-12.983",
+    "longitude": "-38.517",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/Bahia_Banderas"
+    ],
+    "latitude": "20.800",
+    "longitude": "-105.250",
+    "offset_hr": -6,
+    "offset_mi": -360,
+    "offset_se": -21600,
+    "offset_ms": -21600000
+  },
+  {
+    "tzgp": [
+      "America/Barbados"
+    ],
+    "latitude": "13.100",
+    "longitude": "-59.617",
+    "offset_hr": -4,
+    "offset_mi": -240,
+    "offset_se": -14400,
+    "offset_ms": -14400000
+  },
+  {
+    "tzgp": [
+      "America/Belem"
+    ],
+    "latitude": "-1.450",
+    "longitude": "-48.483",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/Belize"
+    ],
+    "latitude": "17.500",
+    "longitude": "-88.200",
+    "offset_hr": -6,
+    "offset_mi": -360,
+    "offset_se": -21600,
+    "offset_ms": -21600000
+  },
+  {
+    "tzgp": [
+      "America/Boa_Vista"
+    ],
+    "latitude": "2.817",
+    "longitude": "-60.667",
+    "offset_hr": -4,
+    "offset_mi": -240,
+    "offset_se": -14400,
+    "offset_ms": -14400000
+  },
+  {
+    "tzgp": [
+      "America/Bogota"
+    ],
+    "latitude": "4.600",
+    "longitude": "-74.083",
+    "offset_hr": -5,
+    "offset_mi": -300,
+    "offset_se": -18000,
+    "offset_ms": -18000000
+  },
+  {
+    "tzgp": [
+      "America/Boise"
+    ],
+    "latitude": "43.614",
+    "longitude": "-116.203",
+    "offset_hr": -6,
+    "offset_mi": -360,
+    "offset_se": -21600,
+    "offset_ms": -21600000
+  },
+  {
+    "tzgp": [
+      "America/Cambridge_Bay"
+    ],
+    "latitude": "69.114",
+    "longitude": "-105.053",
+    "offset_hr": -6,
+    "offset_mi": -360,
+    "offset_se": -21600,
+    "offset_ms": -21600000
+  },
+  {
+    "tzgp": [
+      "America/Campo_Grande"
+    ],
+    "latitude": "-20.450",
+    "longitude": "-54.617",
+    "offset_hr": -4,
+    "offset_mi": -240,
+    "offset_se": -14400,
+    "offset_ms": -14400000
+  },
+  {
+    "tzgp": [
+      "America/Cancun"
+    ],
+    "latitude": "21.083",
+    "longitude": "-86.767",
+    "offset_hr": -5,
+    "offset_mi": -300,
+    "offset_se": -18000,
+    "offset_ms": -18000000
+  },
+  {
+    "tzgp": [
+      "America/Caracas"
+    ],
+    "latitude": "10.500",
+    "longitude": "-66.933",
+    "offset_hr": -4,
+    "offset_mi": -240,
+    "offset_se": -14400,
+    "offset_ms": -14400000
+  },
+  {
+    "tzgp": [
+      "America/Cayenne"
+    ],
+    "latitude": "4.933",
+    "longitude": "-52.333",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/Chicago",
+      "US/Central"
+    ],
+    "latitude": "41.850",
+    "longitude": "-87.650",
+    "offset_hr": -5,
+    "offset_mi": -300,
+    "offset_se": -18000,
+    "offset_ms": -18000000
+  },
+  {
+    "tzgp": [
+      "America/Chihuahua"
+    ],
+    "latitude": "28.633",
+    "longitude": "-106.083",
+    "offset_hr": -6,
+    "offset_mi": -360,
+    "offset_se": -21600,
+    "offset_ms": -21600000
+  },
+  {
+    "tzgp": [
+      "America/Ciudad_Juarez"
+    ],
+    "latitude": "31.733",
+    "longitude": "-106.483",
+    "offset_hr": -6,
+    "offset_mi": -360,
+    "offset_se": -21600,
+    "offset_ms": -21600000
+  },
+  {
+    "tzgp": [
+      "America/Costa_Rica"
+    ],
+    "latitude": "9.933",
+    "longitude": "-84.083",
+    "offset_hr": -6,
+    "offset_mi": -360,
+    "offset_se": -21600,
+    "offset_ms": -21600000
+  },
+  {
+    "tzgp": [
+      "America/Cuiaba"
+    ],
+    "latitude": "-15.583",
+    "longitude": "-56.083",
+    "offset_hr": -4,
+    "offset_mi": -240,
+    "offset_se": -14400,
+    "offset_ms": -14400000
+  },
+  {
+    "tzgp": [
+      "America/Danmarkshavn"
+    ],
+    "latitude": "76.767",
+    "longitude": "-18.667",
+    "offset_hr": 0,
+    "offset_mi": 0,
+    "offset_se": 0,
+    "offset_ms": 0
+  },
+  {
+    "tzgp": [
+      "America/Dawson"
+    ],
+    "latitude": "64.067",
+    "longitude": "-139.417",
+    "offset_hr": -7,
+    "offset_mi": -420,
+    "offset_se": -25200,
+    "offset_ms": -25200000
+  },
+  {
+    "tzgp": [
+      "America/Dawson_Creek"
+    ],
+    "latitude": "55.767",
+    "longitude": "-120.233",
+    "offset_hr": -7,
+    "offset_mi": -420,
+    "offset_se": -25200,
+    "offset_ms": -25200000
+  },
+  {
+    "tzgp": [
+      "America/Denver",
+      "America/Shiprock",
+      "Navajo",
+      "US/Mountain"
+    ],
+    "latitude": "39.739",
+    "longitude": "-104.984",
+    "offset_hr": -6,
+    "offset_mi": -360,
+    "offset_se": -21600,
+    "offset_ms": -21600000
+  },
+  {
+    "tzgp": [
+      "America/Detroit",
+      "US/Michigan"
+    ],
+    "latitude": "42.331",
+    "longitude": "-83.046",
+    "offset_hr": -4,
+    "offset_mi": -240,
+    "offset_se": -14400,
+    "offset_ms": -14400000
+  },
+  {
+    "tzgp": [
+      "America/Edmonton",
+      "America/Yellowknife",
+      "Canada/Mountain"
+    ],
+    "latitude": "53.550",
+    "longitude": "-113.467",
+    "offset_hr": -6,
+    "offset_mi": -360,
+    "offset_se": -21600,
+    "offset_ms": -21600000
+  },
+  {
+    "tzgp": [
+      "America/Eirunepe"
+    ],
+    "latitude": "-6.667",
+    "longitude": "-69.867",
+    "offset_hr": -5,
+    "offset_mi": -300,
+    "offset_se": -18000,
+    "offset_ms": -18000000
+  },
+  {
+    "tzgp": [
+      "America/El_Salvador"
+    ],
+    "latitude": "13.700",
+    "longitude": "-89.200",
+    "offset_hr": -6,
+    "offset_mi": -360,
+    "offset_se": -21600,
+    "offset_ms": -21600000
+  },
+  {
+    "tzgp": [
+      "America/Fort_Nelson"
+    ],
+    "latitude": "58.800",
+    "longitude": "-122.700",
+    "offset_hr": -7,
+    "offset_mi": -420,
+    "offset_se": -25200,
+    "offset_ms": -25200000
+  },
+  {
+    "tzgp": [
+      "America/Fortaleza"
+    ],
+    "latitude": "-3.717",
+    "longitude": "-38.500",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/Glace_Bay"
+    ],
+    "latitude": "46.200",
+    "longitude": "-59.950",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/Goose_Bay"
+    ],
+    "latitude": "53.333",
+    "longitude": "-60.417",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/Grand_Turk"
+    ],
+    "latitude": "21.467",
+    "longitude": "-71.133",
+    "offset_hr": -4,
+    "offset_mi": -240,
+    "offset_se": -14400,
+    "offset_ms": -14400000
+  },
+  {
+    "tzgp": [
+      "America/Guatemala"
+    ],
+    "latitude": "14.633",
+    "longitude": "-90.517",
+    "offset_hr": -6,
+    "offset_mi": -360,
+    "offset_se": -21600,
+    "offset_ms": -21600000
+  },
+  {
+    "tzgp": [
+      "America/Guayaquil"
+    ],
+    "latitude": "-2.167",
+    "longitude": "-79.833",
+    "offset_hr": -5,
+    "offset_mi": -300,
+    "offset_se": -18000,
+    "offset_ms": -18000000
+  },
+  {
+    "tzgp": [
+      "America/Guyana"
+    ],
+    "latitude": "6.800",
+    "longitude": "-58.167",
+    "offset_hr": -4,
+    "offset_mi": -240,
+    "offset_se": -14400,
+    "offset_ms": -14400000
+  },
+  {
+    "tzgp": [
+      "America/Halifax",
+      "Canada/Atlantic"
+    ],
+    "latitude": "44.650",
+    "longitude": "-63.600",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/Havana",
+      "Cuba"
+    ],
+    "latitude": "23.133",
+    "longitude": "-82.367",
+    "offset_hr": -4,
+    "offset_mi": -240,
+    "offset_se": -14400,
+    "offset_ms": -14400000
+  },
+  {
+    "tzgp": [
+      "America/Hermosillo"
+    ],
+    "latitude": "29.067",
+    "longitude": "-110.967",
+    "offset_hr": -7,
+    "offset_mi": -420,
+    "offset_se": -25200,
+    "offset_ms": -25200000
+  },
+  {
+    "tzgp": [
+      "America/Indiana/Indianapolis",
+      "America/Fort_Wayne",
+      "America/Indianapolis",
+      "US/East-Indiana"
+    ],
+    "latitude": "39.768",
+    "longitude": "-86.158",
+    "offset_hr": -4,
+    "offset_mi": -240,
+    "offset_se": -14400,
+    "offset_ms": -14400000
+  },
+  {
+    "tzgp": [
+      "America/Indiana/Knox",
+      "America/Knox_IN",
+      "US/Indiana-Starke"
+    ],
+    "latitude": "41.296",
+    "longitude": "-86.625",
+    "offset_hr": -5,
+    "offset_mi": -300,
+    "offset_se": -18000,
+    "offset_ms": -18000000
+  },
+  {
+    "tzgp": [
+      "America/Indiana/Marengo"
+    ],
+    "latitude": "38.376",
+    "longitude": "-86.345",
+    "offset_hr": -4,
+    "offset_mi": -240,
+    "offset_se": -14400,
+    "offset_ms": -14400000
+  },
+  {
+    "tzgp": [
+      "America/Indiana/Petersburg"
+    ],
+    "latitude": "38.492",
+    "longitude": "-87.279",
+    "offset_hr": -4,
+    "offset_mi": -240,
+    "offset_se": -14400,
+    "offset_ms": -14400000
+  },
+  {
+    "tzgp": [
+      "America/Indiana/Tell_City"
+    ],
+    "latitude": "37.953",
+    "longitude": "-86.761",
+    "offset_hr": -5,
+    "offset_mi": -300,
+    "offset_se": -18000,
+    "offset_ms": -18000000
+  },
+  {
+    "tzgp": [
+      "America/Indiana/Vevay"
+    ],
+    "latitude": "38.748",
+    "longitude": "-85.067",
+    "offset_hr": -4,
+    "offset_mi": -240,
+    "offset_se": -14400,
+    "offset_ms": -14400000
+  },
+  {
+    "tzgp": [
+      "America/Indiana/Vincennes"
+    ],
+    "latitude": "38.677",
+    "longitude": "-87.529",
+    "offset_hr": -4,
+    "offset_mi": -240,
+    "offset_se": -14400,
+    "offset_ms": -14400000
+  },
+  {
+    "tzgp": [
+      "America/Indiana/Winamac"
+    ],
+    "latitude": "41.051",
+    "longitude": "-86.603",
+    "offset_hr": -4,
+    "offset_mi": -240,
+    "offset_se": -14400,
+    "offset_ms": -14400000
+  },
+  {
+    "tzgp": [
+      "America/Inuvik"
+    ],
+    "latitude": "68.350",
+    "longitude": "-133.717",
+    "offset_hr": -6,
+    "offset_mi": -360,
+    "offset_se": -21600,
+    "offset_ms": -21600000
+  },
+  {
+    "tzgp": [
+      "America/Iqaluit",
+      "America/Pangnirtung"
+    ],
+    "latitude": "63.733",
+    "longitude": "-68.467",
+    "offset_hr": -4,
+    "offset_mi": -240,
+    "offset_se": -14400,
+    "offset_ms": -14400000
+  },
+  {
+    "tzgp": [
+      "America/Jamaica",
+      "Jamaica"
+    ],
+    "latitude": "17.968",
+    "longitude": "-76.793",
+    "offset_hr": -5,
+    "offset_mi": -300,
+    "offset_se": -18000,
+    "offset_ms": -18000000
+  },
+  {
+    "tzgp": [
+      "America/Juneau"
+    ],
+    "latitude": "58.302",
+    "longitude": "-134.420",
+    "offset_hr": -8,
+    "offset_mi": -480,
+    "offset_se": -28800,
+    "offset_ms": -28800000
+  },
+  {
+    "tzgp": [
+      "America/Kentucky/Louisville",
+      "America/Louisville"
+    ],
+    "latitude": "38.254",
+    "longitude": "-85.759",
+    "offset_hr": -4,
+    "offset_mi": -240,
+    "offset_se": -14400,
+    "offset_ms": -14400000
+  },
+  {
+    "tzgp": [
+      "America/Kentucky/Monticello"
+    ],
+    "latitude": "36.830",
+    "longitude": "-84.849",
+    "offset_hr": -4,
+    "offset_mi": -240,
+    "offset_se": -14400,
+    "offset_ms": -14400000
+  },
+  {
+    "tzgp": [
+      "America/La_Paz"
+    ],
+    "latitude": "-16.500",
+    "longitude": "-68.150",
+    "offset_hr": -4,
+    "offset_mi": -240,
+    "offset_se": -14400,
+    "offset_ms": -14400000
+  },
+  {
+    "tzgp": [
+      "America/Lima"
+    ],
+    "latitude": "-12.050",
+    "longitude": "-77.050",
+    "offset_hr": -5,
+    "offset_mi": -300,
+    "offset_se": -18000,
+    "offset_ms": -18000000
+  },
+  {
+    "tzgp": [
+      "America/Los_Angeles",
+      "US/Pacific"
+    ],
+    "latitude": "34.052",
+    "longitude": "-118.243",
+    "offset_hr": -7,
+    "offset_mi": -420,
+    "offset_se": -25200,
+    "offset_ms": -25200000
+  },
+  {
+    "tzgp": [
+      "America/Maceio"
+    ],
+    "latitude": "-9.667",
+    "longitude": "-35.717",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/Managua"
+    ],
+    "latitude": "12.150",
+    "longitude": "-86.283",
+    "offset_hr": -6,
+    "offset_mi": -360,
+    "offset_se": -21600,
+    "offset_ms": -21600000
+  },
+  {
+    "tzgp": [
+      "America/Manaus",
+      "Brazil/West"
+    ],
+    "latitude": "-3.133",
+    "longitude": "-60.017",
+    "offset_hr": -4,
+    "offset_mi": -240,
+    "offset_se": -14400,
+    "offset_ms": -14400000
+  },
+  {
+    "tzgp": [
+      "America/Martinique"
+    ],
+    "latitude": "14.600",
+    "longitude": "-61.083",
+    "offset_hr": -4,
+    "offset_mi": -240,
+    "offset_se": -14400,
+    "offset_ms": -14400000
+  },
+  {
+    "tzgp": [
+      "America/Matamoros"
+    ],
+    "latitude": "25.833",
+    "longitude": "-97.500",
+    "offset_hr": -5,
+    "offset_mi": -300,
+    "offset_se": -18000,
+    "offset_ms": -18000000
+  },
+  {
+    "tzgp": [
+      "America/Mazatlan",
+      "Mexico/BajaSur"
+    ],
+    "latitude": "23.217",
+    "longitude": "-106.417",
+    "offset_hr": -7,
+    "offset_mi": -420,
+    "offset_se": -25200,
+    "offset_ms": -25200000
+  },
+  {
+    "tzgp": [
+      "America/Menominee"
+    ],
+    "latitude": "45.108",
+    "longitude": "-87.614",
+    "offset_hr": -5,
+    "offset_mi": -300,
+    "offset_se": -18000,
+    "offset_ms": -18000000
+  },
+  {
+    "tzgp": [
+      "America/Merida"
+    ],
+    "latitude": "20.967",
+    "longitude": "-89.617",
+    "offset_hr": -6,
+    "offset_mi": -360,
+    "offset_se": -21600,
+    "offset_ms": -21600000
+  },
+  {
+    "tzgp": [
+      "America/Metlakatla"
+    ],
+    "latitude": "55.127",
+    "longitude": "-131.576",
+    "offset_hr": -8,
+    "offset_mi": -480,
+    "offset_se": -28800,
+    "offset_ms": -28800000
+  },
+  {
+    "tzgp": [
+      "America/Mexico_City",
+      "Mexico/General"
+    ],
+    "latitude": "19.400",
+    "longitude": "-99.150",
+    "offset_hr": -6,
+    "offset_mi": -360,
+    "offset_se": -21600,
+    "offset_ms": -21600000
+  },
+  {
+    "tzgp": [
+      "America/Miquelon"
+    ],
+    "latitude": "47.050",
+    "longitude": "-56.333",
+    "offset_hr": -2,
+    "offset_mi": -120,
+    "offset_se": -7200,
+    "offset_ms": -7200000
+  },
+  {
+    "tzgp": [
+      "America/Moncton"
+    ],
+    "latitude": "46.100",
+    "longitude": "-64.783",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/Monterrey"
+    ],
+    "latitude": "25.667",
+    "longitude": "-100.317",
+    "offset_hr": -6,
+    "offset_mi": -360,
+    "offset_se": -21600,
+    "offset_ms": -21600000
+  },
+  {
+    "tzgp": [
+      "America/Montevideo"
+    ],
+    "latitude": "-34.909",
+    "longitude": "-56.212",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/New_York",
+      "US/Eastern"
+    ],
+    "latitude": "40.714",
+    "longitude": "-74.006",
+    "offset_hr": -4,
+    "offset_mi": -240,
+    "offset_se": -14400,
+    "offset_ms": -14400000
+  },
+  {
+    "tzgp": [
+      "America/Nome"
+    ],
+    "latitude": "64.501",
+    "longitude": "-165.406",
+    "offset_hr": -8,
+    "offset_mi": -480,
+    "offset_se": -28800,
+    "offset_ms": -28800000
+  },
+  {
+    "tzgp": [
+      "America/Noronha",
+      "Brazil/DeNoronha"
+    ],
+    "latitude": "-3.850",
+    "longitude": "-32.417",
+    "offset_hr": -2,
+    "offset_mi": -120,
+    "offset_se": -7200,
+    "offset_ms": -7200000
+  },
+  {
+    "tzgp": [
+      "America/North_Dakota/Beulah"
+    ],
+    "latitude": "47.264",
+    "longitude": "-101.778",
+    "offset_hr": -5,
+    "offset_mi": -300,
+    "offset_se": -18000,
+    "offset_ms": -18000000
+  },
+  {
+    "tzgp": [
+      "America/North_Dakota/Center"
+    ],
+    "latitude": "47.116",
+    "longitude": "-101.299",
+    "offset_hr": -5,
+    "offset_mi": -300,
+    "offset_se": -18000,
+    "offset_ms": -18000000
+  },
+  {
+    "tzgp": [
+      "America/North_Dakota/New_Salem"
+    ],
+    "latitude": "46.845",
+    "longitude": "-101.411",
+    "offset_hr": -5,
+    "offset_mi": -300,
+    "offset_se": -18000,
+    "offset_ms": -18000000
+  },
+  {
+    "tzgp": [
+      "America/Nuuk",
+      "America/Godthab"
+    ],
+    "latitude": "64.183",
+    "longitude": "-51.733",
+    "offset_hr": -2,
+    "offset_mi": -120,
+    "offset_se": -7200,
+    "offset_ms": -7200000
+  },
+  {
+    "tzgp": [
+      "America/Ojinaga"
+    ],
+    "latitude": "29.567",
+    "longitude": "-104.417",
+    "offset_hr": -5,
+    "offset_mi": -300,
+    "offset_se": -18000,
+    "offset_ms": -18000000
+  },
+  {
+    "tzgp": [
+      "America/Panama",
+      "America/Atikokan",
+      "America/Cayman",
+      "America/Coral_Harbour"
+    ],
+    "latitude": "8.967",
+    "longitude": "-79.533",
+    "offset_hr": -5,
+    "offset_mi": -300,
+    "offset_se": -18000,
+    "offset_ms": -18000000
+  },
+  {
+    "tzgp": [
+      "America/Paramaribo"
+    ],
+    "latitude": "5.833",
+    "longitude": "-55.167",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/Phoenix",
+      "America/Creston",
+      "US/Arizona"
+    ],
+    "latitude": "33.448",
+    "longitude": "-112.073",
+    "offset_hr": -7,
+    "offset_mi": -420,
+    "offset_se": -25200,
+    "offset_ms": -25200000
+  },
+  {
+    "tzgp": [
+      "America/Port-au-Prince"
+    ],
+    "latitude": "18.533",
+    "longitude": "-72.333",
+    "offset_hr": -4,
+    "offset_mi": -240,
+    "offset_se": -14400,
+    "offset_ms": -14400000
+  },
+  {
+    "tzgp": [
+      "America/Porto_Velho"
+    ],
+    "latitude": "-8.767",
+    "longitude": "-63.900",
+    "offset_hr": -4,
+    "offset_mi": -240,
+    "offset_se": -14400,
+    "offset_ms": -14400000
+  },
+  {
+    "tzgp": [
+      "America/Puerto_Rico",
+      "America/Anguilla",
+      "America/Antigua",
+      "America/Aruba",
+      "America/Blanc-Sablon",
+      "America/Curacao",
+      "America/Dominica",
+      "America/Grenada",
+      "America/Guadeloupe",
+      "America/Kralendijk",
+      "America/Lower_Princes",
+      "America/Marigot",
+      "America/Montserrat",
+      "America/Port_of_Spain",
+      "America/St_Barthelemy",
+      "America/St_Kitts",
+      "America/St_Lucia",
+      "America/St_Thomas",
+      "America/St_Vincent",
+      "America/Tortola",
+      "America/Virgin"
+    ],
+    "latitude": "18.468",
+    "longitude": "-66.106",
+    "offset_hr": -4,
+    "offset_mi": -240,
+    "offset_se": -14400,
+    "offset_ms": -14400000
+  },
+  {
+    "tzgp": [
+      "America/Punta_Arenas"
+    ],
+    "latitude": "-53.150",
+    "longitude": "-70.917",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/Rankin_Inlet"
+    ],
+    "latitude": "62.817",
+    "longitude": "-92.083",
+    "offset_hr": -5,
+    "offset_mi": -300,
+    "offset_se": -18000,
+    "offset_ms": -18000000
+  },
+  {
+    "tzgp": [
+      "America/Recife"
+    ],
+    "latitude": "-8.050",
+    "longitude": "-34.900",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/Regina",
+      "Canada/Saskatchewan"
+    ],
+    "latitude": "50.400",
+    "longitude": "-104.650",
+    "offset_hr": -6,
+    "offset_mi": -360,
+    "offset_se": -21600,
+    "offset_ms": -21600000
+  },
+  {
+    "tzgp": [
+      "America/Resolute"
+    ],
+    "latitude": "74.696",
+    "longitude": "-94.829",
+    "offset_hr": -5,
+    "offset_mi": -300,
+    "offset_se": -18000,
+    "offset_ms": -18000000
+  },
+  {
+    "tzgp": [
+      "America/Rio_Branco",
+      "America/Porto_Acre",
+      "Brazil/Acre"
+    ],
+    "latitude": "-9.967",
+    "longitude": "-67.800",
+    "offset_hr": -5,
+    "offset_mi": -300,
+    "offset_se": -18000,
+    "offset_ms": -18000000
+  },
+  {
+    "tzgp": [
+      "America/Santarem"
+    ],
+    "latitude": "-2.433",
+    "longitude": "-54.867",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/Santiago",
+      "Chile/Continental"
+    ],
+    "latitude": "-33.450",
+    "longitude": "-70.667",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/Santo_Domingo"
+    ],
+    "latitude": "18.467",
+    "longitude": "-69.900",
+    "offset_hr": -4,
+    "offset_mi": -240,
+    "offset_se": -14400,
+    "offset_ms": -14400000
+  },
+  {
+    "tzgp": [
+      "America/Sao_Paulo",
+      "Brazil/East"
+    ],
+    "latitude": "-23.533",
+    "longitude": "-46.617",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/Scoresbysund"
+    ],
+    "latitude": "70.483",
+    "longitude": "-21.967",
+    "offset_hr": -1,
+    "offset_mi": -60,
+    "offset_se": -3600,
+    "offset_ms": -3600000
+  },
+  {
+    "tzgp": [
+      "America/Sitka"
+    ],
+    "latitude": "57.176",
+    "longitude": "-135.302",
+    "offset_hr": -8,
+    "offset_mi": -480,
+    "offset_se": -28800,
+    "offset_ms": -28800000
+  },
+  {
+    "tzgp": [
+      "America/St_Johns",
+      "Canada/Newfoundland"
+    ],
+    "latitude": "47.567",
+    "longitude": "-52.717",
+    "offset_hr": -1.5,
+    "offset_mi": -90,
+    "offset_se": -5400,
+    "offset_ms": -5400000
+  },
+  {
+    "tzgp": [
+      "America/Swift_Current"
+    ],
+    "latitude": "50.283",
+    "longitude": "-107.833",
+    "offset_hr": -6,
+    "offset_mi": -360,
+    "offset_se": -21600,
+    "offset_ms": -21600000
+  },
+  {
+    "tzgp": [
+      "America/Tegucigalpa"
+    ],
+    "latitude": "14.100",
+    "longitude": "-87.217",
+    "offset_hr": -6,
+    "offset_mi": -360,
+    "offset_se": -21600,
+    "offset_ms": -21600000
+  },
+  {
+    "tzgp": [
+      "America/Thule"
+    ],
+    "latitude": "76.567",
+    "longitude": "-68.783",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "America/Tijuana",
+      "America/Ensenada",
+      "America/Santa_Isabel",
+      "Mexico/BajaNorte"
+    ],
+    "latitude": "32.533",
+    "longitude": "-117.017",
+    "offset_hr": -7,
+    "offset_mi": -420,
+    "offset_se": -25200,
+    "offset_ms": -25200000
+  },
+  {
+    "tzgp": [
+      "America/Toronto",
+      "America/Montreal",
+      "America/Nassau",
+      "America/Nipigon",
+      "America/Thunder_Bay",
+      "Canada/Eastern"
+    ],
+    "latitude": "43.650",
+    "longitude": "-79.383",
+    "offset_hr": -4,
+    "offset_mi": -240,
+    "offset_se": -14400,
+    "offset_ms": -14400000
+  },
+  {
+    "tzgp": [
+      "America/Vancouver",
+      "Canada/Pacific"
+    ],
+    "latitude": "49.267",
+    "longitude": "-123.117",
+    "offset_hr": -7,
+    "offset_mi": -420,
+    "offset_se": -25200,
+    "offset_ms": -25200000
+  },
+  {
+    "tzgp": [
+      "America/Whitehorse",
+      "Canada/Yukon"
+    ],
+    "latitude": "60.717",
+    "longitude": "-135.050",
+    "offset_hr": -7,
+    "offset_mi": -420,
+    "offset_se": -25200,
+    "offset_ms": -25200000
+  },
+  {
+    "tzgp": [
+      "America/Winnipeg",
+      "America/Rainy_River",
+      "Canada/Central"
+    ],
+    "latitude": "49.883",
+    "longitude": "-97.150",
+    "offset_hr": -5,
+    "offset_mi": -300,
+    "offset_se": -18000,
+    "offset_ms": -18000000
+  },
+  {
+    "tzgp": [
+      "America/Yakutat"
+    ],
+    "latitude": "59.547",
+    "longitude": "-139.727",
+    "offset_hr": -8,
+    "offset_mi": -480,
+    "offset_se": -28800,
+    "offset_ms": -28800000
+  },
+  {
+    "tzgp": [
+      "Antarctica/Casey"
+    ],
+    "latitude": "-66.283",
+    "longitude": "110.517",
+    "offset_hr": 8,
+    "offset_mi": 480,
+    "offset_se": 28800,
+    "offset_ms": 28800000
+  },
+  {
+    "tzgp": [
+      "Antarctica/Davis"
+    ],
+    "latitude": "-68.583",
+    "longitude": "77.967",
+    "offset_hr": 7,
+    "offset_mi": 420,
+    "offset_se": 25200,
+    "offset_ms": 25200000
+  },
+  {
+    "tzgp": [
+      "Antarctica/Macquarie"
+    ],
+    "latitude": "-54.500",
+    "longitude": "158.950",
+    "offset_hr": 11,
+    "offset_mi": 660,
+    "offset_se": 39600,
+    "offset_ms": 39600000
+  },
+  {
+    "tzgp": [
+      "Antarctica/Mawson"
+    ],
+    "latitude": "-67.600",
+    "longitude": "62.883",
+    "offset_hr": 5,
+    "offset_mi": 300,
+    "offset_se": 18000,
+    "offset_ms": 18000000
+  },
+  {
+    "tzgp": [
+      "Antarctica/Palmer"
+    ],
+    "latitude": "-64.800",
+    "longitude": "-64.100",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "Antarctica/Rothera"
+    ],
+    "latitude": "-67.567",
+    "longitude": "-68.133",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "Antarctica/Troll"
+    ],
+    "latitude": "-72.011",
+    "longitude": "2.535",
+    "offset_hr": 0,
+    "offset_mi": 0,
+    "offset_se": 0,
+    "offset_ms": 0
+  },
+  {
+    "tzgp": [
+      "Antarctica/Vostok"
+    ],
+    "latitude": "-78.400",
+    "longitude": "106.900",
+    "offset_hr": 5,
+    "offset_mi": 300,
+    "offset_se": 18000,
+    "offset_ms": 18000000
+  },
+  {
+    "tzgp": [
+      "Asia/Almaty"
+    ],
+    "latitude": "43.250",
+    "longitude": "76.950",
+    "offset_hr": 5,
+    "offset_mi": 300,
+    "offset_se": 18000,
+    "offset_ms": 18000000
+  },
+  {
+    "tzgp": [
+      "Asia/Amman"
+    ],
+    "latitude": "31.950",
+    "longitude": "35.933",
+    "offset_hr": 3,
+    "offset_mi": 180,
+    "offset_se": 10800,
+    "offset_ms": 10800000
+  },
+  {
+    "tzgp": [
+      "Asia/Anadyr"
+    ],
+    "latitude": "64.750",
+    "longitude": "177.483",
+    "offset_hr": 12,
+    "offset_mi": 720,
+    "offset_se": 43200,
+    "offset_ms": 43200000
+  },
+  {
+    "tzgp": [
+      "Asia/Aqtau"
+    ],
+    "latitude": "44.517",
+    "longitude": "50.267",
+    "offset_hr": 5,
+    "offset_mi": 300,
+    "offset_se": 18000,
+    "offset_ms": 18000000
+  },
+  {
+    "tzgp": [
+      "Asia/Aqtobe"
+    ],
+    "latitude": "50.283",
+    "longitude": "57.167",
+    "offset_hr": 5,
+    "offset_mi": 300,
+    "offset_se": 18000,
+    "offset_ms": 18000000
+  },
+  {
+    "tzgp": [
+      "Asia/Ashgabat",
+      "Asia/Ashkhabad"
+    ],
+    "latitude": "37.950",
+    "longitude": "58.383",
+    "offset_hr": 5,
+    "offset_mi": 300,
+    "offset_se": 18000,
+    "offset_ms": 18000000
+  },
+  {
+    "tzgp": [
+      "Asia/Atyrau"
+    ],
+    "latitude": "47.117",
+    "longitude": "51.933",
+    "offset_hr": 5,
+    "offset_mi": 300,
+    "offset_se": 18000,
+    "offset_ms": 18000000
+  },
+  {
+    "tzgp": [
+      "Asia/Baghdad"
+    ],
+    "latitude": "33.350",
+    "longitude": "44.417",
+    "offset_hr": 3,
+    "offset_mi": 180,
+    "offset_se": 10800,
+    "offset_ms": 10800000
+  },
+  {
+    "tzgp": [
+      "Asia/Baku"
+    ],
+    "latitude": "40.383",
+    "longitude": "49.850",
+    "offset_hr": 4,
+    "offset_mi": 240,
+    "offset_se": 14400,
+    "offset_ms": 14400000
+  },
+  {
+    "tzgp": [
+      "Asia/Bangkok",
+      "Asia/Phnom_Penh",
+      "Asia/Vientiane",
+      "Indian/Christmas"
+    ],
+    "latitude": "13.750",
+    "longitude": "100.517",
+    "offset_hr": 7,
+    "offset_mi": 420,
+    "offset_se": 25200,
+    "offset_ms": 25200000
+  },
+  {
+    "tzgp": [
+      "Asia/Barnaul"
+    ],
+    "latitude": "53.367",
+    "longitude": "83.750",
+    "offset_hr": 7,
+    "offset_mi": 420,
+    "offset_se": 25200,
+    "offset_ms": 25200000
+  },
+  {
+    "tzgp": [
+      "Asia/Beirut"
+    ],
+    "latitude": "33.883",
+    "longitude": "35.500",
+    "offset_hr": 2,
+    "offset_mi": 120,
+    "offset_se": 7200,
+    "offset_ms": 7200000
+  },
+  {
+    "tzgp": [
+      "Asia/Bishkek"
+    ],
+    "latitude": "42.900",
+    "longitude": "74.600",
+    "offset_hr": 6,
+    "offset_mi": 360,
+    "offset_se": 21600,
+    "offset_ms": 21600000
+  },
+  {
+    "tzgp": [
+      "Asia/Chita"
+    ],
+    "latitude": "52.050",
+    "longitude": "113.467",
+    "offset_hr": 9,
+    "offset_mi": 540,
+    "offset_se": 32400,
+    "offset_ms": 32400000
+  },
+  {
+    "tzgp": [
+      "Asia/Choibalsan"
+    ],
+    "latitude": "48.067",
+    "longitude": "114.500",
+    "offset_hr": 8,
+    "offset_mi": 480,
+    "offset_se": 28800,
+    "offset_ms": 28800000
+  },
+  {
+    "tzgp": [
+      "Asia/Colombo"
+    ],
+    "latitude": "6.933",
+    "longitude": "79.850",
+    "offset_hr": 5.5,
+    "offset_mi": 330,
+    "offset_se": 19800,
+    "offset_ms": 19800000
+  },
+  {
+    "tzgp": [
+      "Asia/Damascus"
+    ],
+    "latitude": "33.500",
+    "longitude": "36.300",
+    "offset_hr": 3,
+    "offset_mi": 180,
+    "offset_se": 10800,
+    "offset_ms": 10800000
+  },
+  {
+    "tzgp": [
+      "Asia/Dhaka",
+      "Asia/Dacca"
+    ],
+    "latitude": "23.717",
+    "longitude": "90.417",
+    "offset_hr": 6,
+    "offset_mi": 360,
+    "offset_se": 21600,
+    "offset_ms": 21600000
+  },
+  {
+    "tzgp": [
+      "Asia/Dili"
+    ],
+    "latitude": "-8.550",
+    "longitude": "125.583",
+    "offset_hr": 9,
+    "offset_mi": 540,
+    "offset_se": 32400,
+    "offset_ms": 32400000
+  },
+  {
+    "tzgp": [
+      "Asia/Dubai",
+      "Asia/Muscat",
+      "Indian/Mahe",
+      "Indian/Reunion"
+    ],
+    "latitude": "25.300",
+    "longitude": "55.300",
+    "offset_hr": 4,
+    "offset_mi": 240,
+    "offset_se": 14400,
+    "offset_ms": 14400000
+  },
+  {
+    "tzgp": [
+      "Asia/Dushanbe"
+    ],
+    "latitude": "38.583",
+    "longitude": "68.800",
+    "offset_hr": 5,
+    "offset_mi": 300,
+    "offset_se": 18000,
+    "offset_ms": 18000000
+  },
+  {
+    "tzgp": [
+      "Asia/Famagusta"
+    ],
+    "latitude": "35.117",
+    "longitude": "33.950",
+    "offset_hr": 2,
+    "offset_mi": 120,
+    "offset_se": 7200,
+    "offset_ms": 7200000
+  },
+  {
+    "tzgp": [
+      "Asia/Gaza"
+    ],
+    "latitude": "31.500",
+    "longitude": "34.467",
+    "offset_hr": 2,
+    "offset_mi": 120,
+    "offset_se": 7200,
+    "offset_ms": 7200000
+  },
+  {
+    "tzgp": [
+      "Asia/Hebron"
+    ],
+    "latitude": "31.533",
+    "longitude": "35.095",
+    "offset_hr": 2,
+    "offset_mi": 120,
+    "offset_se": 7200,
+    "offset_ms": 7200000
+  },
+  {
+    "tzgp": [
+      "Asia/Ho_Chi_Minh",
+      "Asia/Saigon"
+    ],
+    "latitude": "10.750",
+    "longitude": "106.667",
+    "offset_hr": 7,
+    "offset_mi": 420,
+    "offset_se": 25200,
+    "offset_ms": 25200000
+  },
+  {
+    "tzgp": [
+      "Asia/Hong_Kong",
+      "Hongkong"
+    ],
+    "latitude": "22.283",
+    "longitude": "114.150",
+    "offset_hr": 8,
+    "offset_mi": 480,
+    "offset_se": 28800,
+    "offset_ms": 28800000
+  },
+  {
+    "tzgp": [
+      "Asia/Hovd"
+    ],
+    "latitude": "48.017",
+    "longitude": "91.650",
+    "offset_hr": 7,
+    "offset_mi": 420,
+    "offset_se": 25200,
+    "offset_ms": 25200000
+  },
+  {
+    "tzgp": [
+      "Asia/Irkutsk"
+    ],
+    "latitude": "52.267",
+    "longitude": "104.333",
+    "offset_hr": 8,
+    "offset_mi": 480,
+    "offset_se": 28800,
+    "offset_ms": 28800000
+  },
+  {
+    "tzgp": [
+      "Asia/Jakarta"
+    ],
+    "latitude": "-6.167",
+    "longitude": "106.800",
+    "offset_hr": 7,
+    "offset_mi": 420,
+    "offset_se": 25200,
+    "offset_ms": 25200000
+  },
+  {
+    "tzgp": [
+      "Asia/Jayapura"
+    ],
+    "latitude": "-2.533",
+    "longitude": "140.700",
+    "offset_hr": 9,
+    "offset_mi": 540,
+    "offset_se": 32400,
+    "offset_ms": 32400000
+  },
+  {
+    "tzgp": [
+      "Asia/Jerusalem",
+      "Asia/Tel_Aviv",
+      "Israel"
+    ],
+    "latitude": "31.781",
+    "longitude": "35.224",
+    "offset_hr": 2,
+    "offset_mi": 120,
+    "offset_se": 7200,
+    "offset_ms": 7200000
+  },
+  {
+    "tzgp": [
+      "Asia/Kabul"
+    ],
+    "latitude": "34.517",
+    "longitude": "69.200",
+    "offset_hr": 4.5,
+    "offset_mi": 270,
+    "offset_se": 16200,
+    "offset_ms": 16200000
+  },
+  {
+    "tzgp": [
+      "Asia/Kamchatka"
+    ],
+    "latitude": "53.017",
+    "longitude": "158.650",
+    "offset_hr": 12,
+    "offset_mi": 720,
+    "offset_se": 43200,
+    "offset_ms": 43200000
+  },
+  {
+    "tzgp": [
+      "Asia/Karachi"
+    ],
+    "latitude": "24.867",
+    "longitude": "67.050",
+    "offset_hr": 5,
+    "offset_mi": 300,
+    "offset_se": 18000,
+    "offset_ms": 18000000
+  },
+  {
+    "tzgp": [
+      "Asia/Kathmandu",
+      "Asia/Katmandu"
+    ],
+    "latitude": "27.717",
+    "longitude": "85.317",
+    "offset_hr": 5.75,
+    "offset_mi": 345,
+    "offset_se": 20700,
+    "offset_ms": 20700000
+  },
+  {
+    "tzgp": [
+      "Asia/Khandyga"
+    ],
+    "latitude": "62.656",
+    "longitude": "135.554",
+    "offset_hr": 9,
+    "offset_mi": 540,
+    "offset_se": 32400,
+    "offset_ms": 32400000
+  },
+  {
+    "tzgp": [
+      "Asia/Kolkata",
+      "Asia/Calcutta"
+    ],
+    "latitude": "22.533",
+    "longitude": "88.367",
+    "offset_hr": 5.5,
+    "offset_mi": 330,
+    "offset_se": 19800,
+    "offset_ms": 19800000
+  },
+  {
+    "tzgp": [
+      "Asia/Krasnoyarsk"
+    ],
+    "latitude": "56.017",
+    "longitude": "92.833",
+    "offset_hr": 7,
+    "offset_mi": 420,
+    "offset_se": 25200,
+    "offset_ms": 25200000
+  },
+  {
+    "tzgp": [
+      "Asia/Kuching",
+      "Asia/Brunei"
+    ],
+    "latitude": "1.550",
+    "longitude": "110.333",
+    "offset_hr": 8,
+    "offset_mi": 480,
+    "offset_se": 28800,
+    "offset_ms": 28800000
+  },
+  {
+    "tzgp": [
+      "Asia/Macau",
+      "Asia/Macao"
+    ],
+    "latitude": "22.197",
+    "longitude": "113.542",
+    "offset_hr": 8,
+    "offset_mi": 480,
+    "offset_se": 28800,
+    "offset_ms": 28800000
+  },
+  {
+    "tzgp": [
+      "Asia/Magadan"
+    ],
+    "latitude": "59.567",
+    "longitude": "150.800",
+    "offset_hr": 11,
+    "offset_mi": 660,
+    "offset_se": 39600,
+    "offset_ms": 39600000
+  },
+  {
+    "tzgp": [
+      "Asia/Makassar",
+      "Asia/Ujung_Pandang"
+    ],
+    "latitude": "-5.117",
+    "longitude": "119.400",
+    "offset_hr": 8,
+    "offset_mi": 480,
+    "offset_se": 28800,
+    "offset_ms": 28800000
+  },
+  {
+    "tzgp": [
+      "Asia/Manila"
+    ],
+    "latitude": "14.583",
+    "longitude": "121.000",
+    "offset_hr": 8,
+    "offset_mi": 480,
+    "offset_se": 28800,
+    "offset_ms": 28800000
+  },
+  {
+    "tzgp": [
+      "Asia/Nicosia",
+      "Europe/Nicosia"
+    ],
+    "latitude": "35.167",
+    "longitude": "33.367",
+    "offset_hr": 2,
+    "offset_mi": 120,
+    "offset_se": 7200,
+    "offset_ms": 7200000
+  },
+  {
+    "tzgp": [
+      "Asia/Novokuznetsk"
+    ],
+    "latitude": "53.750",
+    "longitude": "87.117",
+    "offset_hr": 7,
+    "offset_mi": 420,
+    "offset_se": 25200,
+    "offset_ms": 25200000
+  },
+  {
+    "tzgp": [
+      "Asia/Novosibirsk"
+    ],
+    "latitude": "55.033",
+    "longitude": "82.917",
+    "offset_hr": 7,
+    "offset_mi": 420,
+    "offset_se": 25200,
+    "offset_ms": 25200000
+  },
+  {
+    "tzgp": [
+      "Asia/Omsk"
+    ],
+    "latitude": "55.000",
+    "longitude": "73.400",
+    "offset_hr": 6,
+    "offset_mi": 360,
+    "offset_se": 21600,
+    "offset_ms": 21600000
+  },
+  {
+    "tzgp": [
+      "Asia/Oral"
+    ],
+    "latitude": "51.217",
+    "longitude": "51.350",
+    "offset_hr": 5,
+    "offset_mi": 300,
+    "offset_se": 18000,
+    "offset_ms": 18000000
+  },
+  {
+    "tzgp": [
+      "Asia/Pontianak"
+    ],
+    "latitude": "-0.033",
+    "longitude": "109.333",
+    "offset_hr": 7,
+    "offset_mi": 420,
+    "offset_se": 25200,
+    "offset_ms": 25200000
+  },
+  {
+    "tzgp": [
+      "Asia/Pyongyang"
+    ],
+    "latitude": "39.017",
+    "longitude": "125.750",
+    "offset_hr": 9,
+    "offset_mi": 540,
+    "offset_se": 32400,
+    "offset_ms": 32400000
+  },
+  {
+    "tzgp": [
+      "Asia/Qatar",
+      "Asia/Bahrain"
+    ],
+    "latitude": "25.283",
+    "longitude": "51.533",
+    "offset_hr": 3,
+    "offset_mi": 180,
+    "offset_se": 10800,
+    "offset_ms": 10800000
+  },
+  {
+    "tzgp": [
+      "Asia/Qostanay"
+    ],
+    "latitude": "53.200",
+    "longitude": "63.617",
+    "offset_hr": 5,
+    "offset_mi": 300,
+    "offset_se": 18000,
+    "offset_ms": 18000000
+  },
+  {
+    "tzgp": [
+      "Asia/Qyzylorda"
+    ],
+    "latitude": "44.800",
+    "longitude": "65.467",
+    "offset_hr": 5,
+    "offset_mi": 300,
+    "offset_se": 18000,
+    "offset_ms": 18000000
+  },
+  {
+    "tzgp": [
+      "Asia/Riyadh",
+      "Antarctica/Syowa",
+      "Asia/Aden",
+      "Asia/Kuwait"
+    ],
+    "latitude": "24.633",
+    "longitude": "46.717",
+    "offset_hr": 3,
+    "offset_mi": 180,
+    "offset_se": 10800,
+    "offset_ms": 10800000
+  },
+  {
+    "tzgp": [
+      "Asia/Sakhalin"
+    ],
+    "latitude": "46.967",
+    "longitude": "142.700",
+    "offset_hr": 11,
+    "offset_mi": 660,
+    "offset_se": 39600,
+    "offset_ms": 39600000
+  },
+  {
+    "tzgp": [
+      "Asia/Samarkand"
+    ],
+    "latitude": "39.667",
+    "longitude": "66.800",
+    "offset_hr": 5,
+    "offset_mi": 300,
+    "offset_se": 18000,
+    "offset_ms": 18000000
+  },
+  {
+    "tzgp": [
+      "Asia/Seoul",
+      "ROK"
+    ],
+    "latitude": "37.550",
+    "longitude": "126.967",
+    "offset_hr": 9,
+    "offset_mi": 540,
+    "offset_se": 32400,
+    "offset_ms": 32400000
+  },
+  {
+    "tzgp": [
+      "Asia/Shanghai",
+      "Asia/Chongqing",
+      "Asia/Chungking",
+      "Asia/Harbin",
+      "PRC"
+    ],
+    "latitude": "31.233",
+    "longitude": "121.467",
+    "offset_hr": 8,
+    "offset_mi": 480,
+    "offset_se": 28800,
+    "offset_ms": 28800000
+  },
+  {
+    "tzgp": [
+      "Asia/Singapore",
+      "Asia/Kuala_Lumpur",
+      "Singapore"
+    ],
+    "latitude": "1.283",
+    "longitude": "103.850",
+    "offset_hr": 8,
+    "offset_mi": 480,
+    "offset_se": 28800,
+    "offset_ms": 28800000
+  },
+  {
+    "tzgp": [
+      "Asia/Srednekolymsk"
+    ],
+    "latitude": "67.467",
+    "longitude": "153.717",
+    "offset_hr": 11,
+    "offset_mi": 660,
+    "offset_se": 39600,
+    "offset_ms": 39600000
+  },
+  {
+    "tzgp": [
+      "Asia/Taipei",
+      "ROC"
+    ],
+    "latitude": "25.050",
+    "longitude": "121.500",
+    "offset_hr": 8,
+    "offset_mi": 480,
+    "offset_se": 28800,
+    "offset_ms": 28800000
+  },
+  {
+    "tzgp": [
+      "Asia/Tashkent"
+    ],
+    "latitude": "41.333",
+    "longitude": "69.300",
+    "offset_hr": 5,
+    "offset_mi": 300,
+    "offset_se": 18000,
+    "offset_ms": 18000000
+  },
+  {
+    "tzgp": [
+      "Asia/Tbilisi"
+    ],
+    "latitude": "41.717",
+    "longitude": "44.817",
+    "offset_hr": 4,
+    "offset_mi": 240,
+    "offset_se": 14400,
+    "offset_ms": 14400000
+  },
+  {
+    "tzgp": [
+      "Asia/Tehran",
+      "Iran"
+    ],
+    "latitude": "35.667",
+    "longitude": "51.433",
+    "offset_hr": 3.5,
+    "offset_mi": 210,
+    "offset_se": 12600,
+    "offset_ms": 12600000
+  },
+  {
+    "tzgp": [
+      "Asia/Thimphu",
+      "Asia/Thimbu"
+    ],
+    "latitude": "27.467",
+    "longitude": "89.650",
+    "offset_hr": 6,
+    "offset_mi": 360,
+    "offset_se": 21600,
+    "offset_ms": 21600000
+  },
+  {
+    "tzgp": [
+      "Asia/Tokyo",
+      "Japan"
+    ],
+    "latitude": "35.654",
+    "longitude": "139.745",
+    "offset_hr": 9,
+    "offset_mi": 540,
+    "offset_se": 32400,
+    "offset_ms": 32400000
+  },
+  {
+    "tzgp": [
+      "Asia/Tomsk"
+    ],
+    "latitude": "56.500",
+    "longitude": "84.967",
+    "offset_hr": 7,
+    "offset_mi": 420,
+    "offset_se": 25200,
+    "offset_ms": 25200000
+  },
+  {
+    "tzgp": [
+      "Asia/Ulaanbaatar",
+      "Asia/Ulan_Bator"
+    ],
+    "latitude": "47.917",
+    "longitude": "106.883",
+    "offset_hr": 8,
+    "offset_mi": 480,
+    "offset_se": 28800,
+    "offset_ms": 28800000
+  },
+  {
+    "tzgp": [
+      "Asia/Urumqi",
+      "Asia/Kashgar"
+    ],
+    "latitude": "43.800",
+    "longitude": "87.583",
+    "offset_hr": 6,
+    "offset_mi": 360,
+    "offset_se": 21600,
+    "offset_ms": 21600000
+  },
+  {
+    "tzgp": [
+      "Asia/Ust-Nera"
+    ],
+    "latitude": "64.560",
+    "longitude": "143.227",
+    "offset_hr": 10,
+    "offset_mi": 600,
+    "offset_se": 36000,
+    "offset_ms": 36000000
+  },
+  {
+    "tzgp": [
+      "Asia/Vladivostok"
+    ],
+    "latitude": "43.167",
+    "longitude": "131.933",
+    "offset_hr": 10,
+    "offset_mi": 600,
+    "offset_se": 36000,
+    "offset_ms": 36000000
+  },
+  {
+    "tzgp": [
+      "Asia/Yakutsk"
+    ],
+    "latitude": "62.000",
+    "longitude": "129.667",
+    "offset_hr": 9,
+    "offset_mi": 540,
+    "offset_se": 32400,
+    "offset_ms": 32400000
+  },
+  {
+    "tzgp": [
+      "Asia/Yangon",
+      "Asia/Rangoon",
+      "Indian/Cocos"
+    ],
+    "latitude": "16.783",
+    "longitude": "96.167",
+    "offset_hr": 6.5,
+    "offset_mi": 390,
+    "offset_se": 23400,
+    "offset_ms": 23400000
+  },
+  {
+    "tzgp": [
+      "Asia/Yekaterinburg"
+    ],
+    "latitude": "56.850",
+    "longitude": "60.600",
+    "offset_hr": 5,
+    "offset_mi": 300,
+    "offset_se": 18000,
+    "offset_ms": 18000000
+  },
+  {
+    "tzgp": [
+      "Asia/Yerevan"
+    ],
+    "latitude": "40.183",
+    "longitude": "44.500",
+    "offset_hr": 4,
+    "offset_mi": 240,
+    "offset_se": 14400,
+    "offset_ms": 14400000
+  },
+  {
+    "tzgp": [
+      "Atlantic/Azores"
+    ],
+    "latitude": "37.733",
+    "longitude": "-25.667",
+    "offset_hr": -1,
+    "offset_mi": -60,
+    "offset_se": -3600,
+    "offset_ms": -3600000
+  },
+  {
+    "tzgp": [
+      "Atlantic/Bermuda"
+    ],
+    "latitude": "32.283",
+    "longitude": "-64.767",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "Atlantic/Canary"
+    ],
+    "latitude": "28.100",
+    "longitude": "-15.400",
+    "offset_hr": 0,
+    "offset_mi": 0,
+    "offset_se": 0,
+    "offset_ms": 0
+  },
+  {
+    "tzgp": [
+      "Atlantic/Cape_Verde"
+    ],
+    "latitude": "14.917",
+    "longitude": "-23.517",
+    "offset_hr": -1,
+    "offset_mi": -60,
+    "offset_se": -3600,
+    "offset_ms": -3600000
+  },
+  {
+    "tzgp": [
+      "Atlantic/Faroe",
+      "Atlantic/Faeroe"
+    ],
+    "latitude": "62.017",
+    "longitude": "-6.767",
+    "offset_hr": 0,
+    "offset_mi": 0,
+    "offset_se": 0,
+    "offset_ms": 0
+  },
+  {
+    "tzgp": [
+      "Atlantic/Madeira"
+    ],
+    "latitude": "32.633",
+    "longitude": "-16.900",
+    "offset_hr": 0,
+    "offset_mi": 0,
+    "offset_se": 0,
+    "offset_ms": 0
+  },
+  {
+    "tzgp": [
+      "Atlantic/South_Georgia"
+    ],
+    "latitude": "-54.267",
+    "longitude": "-36.533",
+    "offset_hr": -2,
+    "offset_mi": -120,
+    "offset_se": -7200,
+    "offset_ms": -7200000
+  },
+  {
+    "tzgp": [
+      "Atlantic/Stanley"
+    ],
+    "latitude": "-51.700",
+    "longitude": "-57.850",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "Australia/Adelaide",
+      "Australia/South"
+    ],
+    "latitude": "-34.917",
+    "longitude": "138.583",
+    "offset_hr": 10.5,
+    "offset_mi": 630,
+    "offset_se": 37800,
+    "offset_ms": 37800000
+  },
+  {
+    "tzgp": [
+      "Australia/Brisbane",
+      "Australia/Queensland"
+    ],
+    "latitude": "-27.467",
+    "longitude": "153.033",
+    "offset_hr": 10,
+    "offset_mi": 600,
+    "offset_se": 36000,
+    "offset_ms": 36000000
+  },
+  {
+    "tzgp": [
+      "Australia/Broken_Hill",
+      "Australia/Yancowinna"
+    ],
+    "latitude": "-31.950",
+    "longitude": "141.450",
+    "offset_hr": 10.5,
+    "offset_mi": 630,
+    "offset_se": 37800,
+    "offset_ms": 37800000
+  },
+  {
+    "tzgp": [
+      "Australia/Darwin",
+      "Australia/North"
+    ],
+    "latitude": "-12.467",
+    "longitude": "130.833",
+    "offset_hr": 9.5,
+    "offset_mi": 570,
+    "offset_se": 34200,
+    "offset_ms": 34200000
+  },
+  {
+    "tzgp": [
+      "Australia/Eucla"
+    ],
+    "latitude": "-31.717",
+    "longitude": "128.867",
+    "offset_hr": 8.75,
+    "offset_mi": 525,
+    "offset_se": 31500,
+    "offset_ms": 31500000
+  },
+  {
+    "tzgp": [
+      "Australia/Hobart",
+      "Australia/Currie",
+      "Australia/Tasmania"
+    ],
+    "latitude": "-42.883",
+    "longitude": "147.317",
+    "offset_hr": 11,
+    "offset_mi": 660,
+    "offset_se": 39600,
+    "offset_ms": 39600000
+  },
+  {
+    "tzgp": [
+      "Australia/Lindeman"
+    ],
+    "latitude": "-20.267",
+    "longitude": "149.000",
+    "offset_hr": 10,
+    "offset_mi": 600,
+    "offset_se": 36000,
+    "offset_ms": 36000000
+  },
+  {
+    "tzgp": [
+      "Australia/Lord_Howe",
+      "Australia/LHI"
+    ],
+    "latitude": "-31.550",
+    "longitude": "159.083",
+    "offset_hr": 11,
+    "offset_mi": 660,
+    "offset_se": 39600,
+    "offset_ms": 39600000
+  },
+  {
+    "tzgp": [
+      "Australia/Melbourne",
+      "Australia/Victoria"
+    ],
+    "latitude": "-37.817",
+    "longitude": "144.967",
+    "offset_hr": 11,
+    "offset_mi": 660,
+    "offset_se": 39600,
+    "offset_ms": 39600000
+  },
+  {
+    "tzgp": [
+      "Australia/Perth",
+      "Australia/West"
+    ],
+    "latitude": "-31.950",
+    "longitude": "115.850",
+    "offset_hr": 8,
+    "offset_mi": 480,
+    "offset_se": 28800,
+    "offset_ms": 28800000
+  },
+  {
+    "tzgp": [
+      "Australia/Sydney",
+      "Australia/ACT",
+      "Australia/Canberra",
+      "Australia/NSW"
+    ],
+    "latitude": "-33.867",
+    "longitude": "151.217",
+    "offset_hr": 11,
+    "offset_mi": 660,
+    "offset_se": 39600,
+    "offset_ms": 39600000
+  },
+  {
+    "tzgp": [
+      "CET"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": 1,
+    "offset_mi": 60,
+    "offset_se": 3600,
+    "offset_ms": 3600000
+  },
+  {
+    "tzgp": [
+      "CST6CDT"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": -5,
+    "offset_mi": -300,
+    "offset_se": -18000,
+    "offset_ms": -18000000
+  },
+  {
+    "tzgp": [
+      "EET"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": 2,
+    "offset_mi": 120,
+    "offset_se": 7200,
+    "offset_ms": 7200000
+  },
+  {
+    "tzgp": [
+      "EST"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": -5,
+    "offset_mi": -300,
+    "offset_se": -18000,
+    "offset_ms": -18000000
+  },
+  {
+    "tzgp": [
+      "EST5EDT"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": -4,
+    "offset_mi": -240,
+    "offset_se": -14400,
+    "offset_ms": -14400000
+  },
+  {
+    "tzgp": [
+      "Etc/GMT",
+      "Etc/GMT+0",
+      "Etc/GMT-0",
+      "Etc/GMT0",
+      "Etc/Greenwich",
+      "GMT",
+      "GMT+0",
+      "GMT-0",
+      "GMT0",
+      "Greenwich"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": 0,
+    "offset_mi": 0,
+    "offset_se": 0,
+    "offset_ms": 0
+  },
+  {
+    "tzgp": [
+      "Etc/GMT-1"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": 1,
+    "offset_mi": 60,
+    "offset_se": 3600,
+    "offset_ms": 3600000
+  },
+  {
+    "tzgp": [
+      "Etc/GMT-10"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": 10,
+    "offset_mi": 600,
+    "offset_se": 36000,
+    "offset_ms": 36000000
+  },
+  {
+    "tzgp": [
+      "Etc/GMT-11"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": 11,
+    "offset_mi": 660,
+    "offset_se": 39600,
+    "offset_ms": 39600000
+  },
+  {
+    "tzgp": [
+      "Etc/GMT-12"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": 12,
+    "offset_mi": 720,
+    "offset_se": 43200,
+    "offset_ms": 43200000
+  },
+  {
+    "tzgp": [
+      "Etc/GMT-13"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": 13,
+    "offset_mi": 780,
+    "offset_se": 46800,
+    "offset_ms": 46800000
+  },
+  {
+    "tzgp": [
+      "Etc/GMT-14"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": 14,
+    "offset_mi": 840,
+    "offset_se": 50400,
+    "offset_ms": 50400000
+  },
+  {
+    "tzgp": [
+      "Etc/GMT-2"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": 2,
+    "offset_mi": 120,
+    "offset_se": 7200,
+    "offset_ms": 7200000
+  },
+  {
+    "tzgp": [
+      "Etc/GMT-3"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": 3,
+    "offset_mi": 180,
+    "offset_se": 10800,
+    "offset_ms": 10800000
+  },
+  {
+    "tzgp": [
+      "Etc/GMT-4"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": 4,
+    "offset_mi": 240,
+    "offset_se": 14400,
+    "offset_ms": 14400000
+  },
+  {
+    "tzgp": [
+      "Etc/GMT-5"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": 5,
+    "offset_mi": 300,
+    "offset_se": 18000,
+    "offset_ms": 18000000
+  },
+  {
+    "tzgp": [
+      "Etc/GMT-6"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": 6,
+    "offset_mi": 360,
+    "offset_se": 21600,
+    "offset_ms": 21600000
+  },
+  {
+    "tzgp": [
+      "Etc/GMT-7"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": 7,
+    "offset_mi": 420,
+    "offset_se": 25200,
+    "offset_ms": 25200000
+  },
+  {
+    "tzgp": [
+      "Etc/GMT-8"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": 8,
+    "offset_mi": 480,
+    "offset_se": 28800,
+    "offset_ms": 28800000
+  },
+  {
+    "tzgp": [
+      "Etc/GMT-9"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": 9,
+    "offset_mi": 540,
+    "offset_se": 32400,
+    "offset_ms": 32400000
+  },
+  {
+    "tzgp": [
+      "Etc/GMT+1"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": -1,
+    "offset_mi": -60,
+    "offset_se": -3600,
+    "offset_ms": -3600000
+  },
+  {
+    "tzgp": [
+      "Etc/GMT+10"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": -10,
+    "offset_mi": -600,
+    "offset_se": -36000,
+    "offset_ms": -36000000
+  },
+  {
+    "tzgp": [
+      "Etc/GMT+11"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": -11,
+    "offset_mi": -660,
+    "offset_se": -39600,
+    "offset_ms": -39600000
+  },
+  {
+    "tzgp": [
+      "Etc/GMT+12"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": -12,
+    "offset_mi": -720,
+    "offset_se": -43200,
+    "offset_ms": -43200000
+  },
+  {
+    "tzgp": [
+      "Etc/GMT+2"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": -2,
+    "offset_mi": -120,
+    "offset_se": -7200,
+    "offset_ms": -7200000
+  },
+  {
+    "tzgp": [
+      "Etc/GMT+3"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": -3,
+    "offset_mi": -180,
+    "offset_se": -10800,
+    "offset_ms": -10800000
+  },
+  {
+    "tzgp": [
+      "Etc/GMT+4"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": -4,
+    "offset_mi": -240,
+    "offset_se": -14400,
+    "offset_ms": -14400000
+  },
+  {
+    "tzgp": [
+      "Etc/GMT+5"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": -5,
+    "offset_mi": -300,
+    "offset_se": -18000,
+    "offset_ms": -18000000
+  },
+  {
+    "tzgp": [
+      "Etc/GMT+6"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": -6,
+    "offset_mi": -360,
+    "offset_se": -21600,
+    "offset_ms": -21600000
+  },
+  {
+    "tzgp": [
+      "Etc/GMT+7"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": -7,
+    "offset_mi": -420,
+    "offset_se": -25200,
+    "offset_ms": -25200000
+  },
+  {
+    "tzgp": [
+      "Etc/GMT+8"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": -8,
+    "offset_mi": -480,
+    "offset_se": -28800,
+    "offset_ms": -28800000
+  },
+  {
+    "tzgp": [
+      "Etc/GMT+9"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": -9,
+    "offset_mi": -540,
+    "offset_se": -32400,
+    "offset_ms": -32400000
+  },
+  {
+    "tzgp": [
+      "Etc/UTC",
+      "Etc/UCT",
+      "Etc/Universal",
+      "Etc/Zulu",
+      "UCT",
+      "UTC",
+      "Universal",
+      "Zulu"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": 0,
+    "offset_mi": 0,
+    "offset_se": 0,
+    "offset_ms": 0
+  },
+  {
+    "tzgp": [
+      "Europe/Andorra"
+    ],
+    "latitude": "42.500",
+    "longitude": "1.517",
+    "offset_hr": 1,
+    "offset_mi": 60,
+    "offset_se": 3600,
+    "offset_ms": 3600000
+  },
+  {
+    "tzgp": [
+      "Europe/Astrakhan"
+    ],
+    "latitude": "46.350",
+    "longitude": "48.050",
+    "offset_hr": 4,
+    "offset_mi": 240,
+    "offset_se": 14400,
+    "offset_ms": 14400000
+  },
+  {
+    "tzgp": [
+      "Europe/Athens"
+    ],
+    "latitude": "37.967",
+    "longitude": "23.717",
+    "offset_hr": 2,
+    "offset_mi": 120,
+    "offset_se": 7200,
+    "offset_ms": 7200000
+  },
+  {
+    "tzgp": [
+      "Europe/Belgrade",
+      "Europe/Ljubljana",
+      "Europe/Podgorica",
+      "Europe/Sarajevo",
+      "Europe/Skopje",
+      "Europe/Zagreb"
+    ],
+    "latitude": "44.833",
+    "longitude": "20.500",
+    "offset_hr": 1,
+    "offset_mi": 60,
+    "offset_se": 3600,
+    "offset_ms": 3600000
+  },
+  {
+    "tzgp": [
+      "Europe/Berlin",
+      "Arctic/Longyearbyen",
+      "Atlantic/Jan_Mayen",
+      "Europe/Copenhagen",
+      "Europe/Oslo",
+      "Europe/Stockholm"
+    ],
+    "latitude": "52.500",
+    "longitude": "13.367",
+    "offset_hr": 1,
+    "offset_mi": 60,
+    "offset_se": 3600,
+    "offset_ms": 3600000
+  },
+  {
+    "tzgp": [
+      "Europe/Brussels",
+      "Europe/Amsterdam",
+      "Europe/Luxembourg"
+    ],
+    "latitude": "50.833",
+    "longitude": "4.333",
+    "offset_hr": 1,
+    "offset_mi": 60,
+    "offset_se": 3600,
+    "offset_ms": 3600000
+  },
+  {
+    "tzgp": [
+      "Europe/Bucharest"
+    ],
+    "latitude": "44.433",
+    "longitude": "26.100",
+    "offset_hr": 2,
+    "offset_mi": 120,
+    "offset_se": 7200,
+    "offset_ms": 7200000
+  },
+  {
+    "tzgp": [
+      "Europe/Budapest"
+    ],
+    "latitude": "47.500",
+    "longitude": "19.083",
+    "offset_hr": 1,
+    "offset_mi": 60,
+    "offset_se": 3600,
+    "offset_ms": 3600000
+  },
+  {
+    "tzgp": [
+      "Europe/Chisinau",
+      "Europe/Tiraspol"
+    ],
+    "latitude": "47.000",
+    "longitude": "28.833",
+    "offset_hr": 2,
+    "offset_mi": 120,
+    "offset_se": 7200,
+    "offset_ms": 7200000
+  },
+  {
+    "tzgp": [
+      "Europe/Dublin",
+      "Eire"
+    ],
+    "latitude": "53.333",
+    "longitude": "-6.250",
+    "offset_hr": 0,
+    "offset_mi": 0,
+    "offset_se": 0,
+    "offset_ms": 0
+  },
+  {
+    "tzgp": [
+      "Europe/Gibraltar"
+    ],
+    "latitude": "36.133",
+    "longitude": "-5.350",
+    "offset_hr": 1,
+    "offset_mi": 60,
+    "offset_se": 3600,
+    "offset_ms": 3600000
+  },
+  {
+    "tzgp": [
+      "Europe/Helsinki",
+      "Europe/Mariehamn"
+    ],
+    "latitude": "60.167",
+    "longitude": "24.967",
+    "offset_hr": 2,
+    "offset_mi": 120,
+    "offset_se": 7200,
+    "offset_ms": 7200000
+  },
+  {
+    "tzgp": [
+      "Europe/Istanbul",
+      "Asia/Istanbul",
+      "Turkey"
+    ],
+    "latitude": "41.017",
+    "longitude": "28.967",
+    "offset_hr": 3,
+    "offset_mi": 180,
+    "offset_se": 10800,
+    "offset_ms": 10800000
+  },
+  {
+    "tzgp": [
+      "Europe/Kaliningrad"
+    ],
+    "latitude": "54.717",
+    "longitude": "20.500",
+    "offset_hr": 2,
+    "offset_mi": 120,
+    "offset_se": 7200,
+    "offset_ms": 7200000
+  },
+  {
+    "tzgp": [
+      "Europe/Kirov"
+    ],
+    "latitude": "58.600",
+    "longitude": "49.650",
+    "offset_hr": 3,
+    "offset_mi": 180,
+    "offset_se": 10800,
+    "offset_ms": 10800000
+  },
+  {
+    "tzgp": [
+      "Europe/Kyiv",
+      "Europe/Kiev",
+      "Europe/Uzhgorod",
+      "Europe/Zaporozhye"
+    ],
+    "latitude": "50.433",
+    "longitude": "30.517",
+    "offset_hr": 2,
+    "offset_mi": 120,
+    "offset_se": 7200,
+    "offset_ms": 7200000
+  },
+  {
+    "tzgp": [
+      "Europe/Lisbon",
+      "Portugal"
+    ],
+    "latitude": "38.717",
+    "longitude": "-9.133",
+    "offset_hr": 0,
+    "offset_mi": 0,
+    "offset_se": 0,
+    "offset_ms": 0
+  },
+  {
+    "tzgp": [
+      "Europe/London",
+      "Europe/Belfast",
+      "Europe/Guernsey",
+      "Europe/Isle_of_Man",
+      "Europe/Jersey",
+      "GB",
+      "GB-Eire"
+    ],
+    "latitude": "51.508",
+    "longitude": "-0.125",
+    "offset_hr": 0,
+    "offset_mi": 0,
+    "offset_se": 0,
+    "offset_ms": 0
+  },
+  {
+    "tzgp": [
+      "Europe/Madrid"
+    ],
+    "latitude": "40.400",
+    "longitude": "-3.683",
+    "offset_hr": 1,
+    "offset_mi": 60,
+    "offset_se": 3600,
+    "offset_ms": 3600000
+  },
+  {
+    "tzgp": [
+      "Europe/Malta"
+    ],
+    "latitude": "35.900",
+    "longitude": "14.517",
+    "offset_hr": 1,
+    "offset_mi": 60,
+    "offset_se": 3600,
+    "offset_ms": 3600000
+  },
+  {
+    "tzgp": [
+      "Europe/Minsk"
+    ],
+    "latitude": "53.900",
+    "longitude": "27.567",
+    "offset_hr": 3,
+    "offset_mi": 180,
+    "offset_se": 10800,
+    "offset_ms": 10800000
+  },
+  {
+    "tzgp": [
+      "Europe/Moscow",
+      "W-SU"
+    ],
+    "latitude": "55.756",
+    "longitude": "37.618",
+    "offset_hr": 3,
+    "offset_mi": 180,
+    "offset_se": 10800,
+    "offset_ms": 10800000
+  },
+  {
+    "tzgp": [
+      "Europe/Paris",
+      "Europe/Monaco"
+    ],
+    "latitude": "48.867",
+    "longitude": "2.333",
+    "offset_hr": 1,
+    "offset_mi": 60,
+    "offset_se": 3600,
+    "offset_ms": 3600000
+  },
+  {
+    "tzgp": [
+      "Europe/Prague",
+      "Europe/Bratislava"
+    ],
+    "latitude": "50.083",
+    "longitude": "14.433",
+    "offset_hr": 1,
+    "offset_mi": 60,
+    "offset_se": 3600,
+    "offset_ms": 3600000
+  },
+  {
+    "tzgp": [
+      "Europe/Riga"
+    ],
+    "latitude": "56.950",
+    "longitude": "24.100",
+    "offset_hr": 2,
+    "offset_mi": 120,
+    "offset_se": 7200,
+    "offset_ms": 7200000
+  },
+  {
+    "tzgp": [
+      "Europe/Rome",
+      "Europe/San_Marino",
+      "Europe/Vatican"
+    ],
+    "latitude": "41.900",
+    "longitude": "12.483",
+    "offset_hr": 1,
+    "offset_mi": 60,
+    "offset_se": 3600,
+    "offset_ms": 3600000
+  },
+  {
+    "tzgp": [
+      "Europe/Samara"
+    ],
+    "latitude": "53.200",
+    "longitude": "50.150",
+    "offset_hr": 4,
+    "offset_mi": 240,
+    "offset_se": 14400,
+    "offset_ms": 14400000
+  },
+  {
+    "tzgp": [
+      "Europe/Saratov"
+    ],
+    "latitude": "51.567",
+    "longitude": "46.033",
+    "offset_hr": 4,
+    "offset_mi": 240,
+    "offset_se": 14400,
+    "offset_ms": 14400000
+  },
+  {
+    "tzgp": [
+      "Europe/Simferopol"
+    ],
+    "latitude": "44.950",
+    "longitude": "34.100",
+    "offset_hr": 3,
+    "offset_mi": 180,
+    "offset_se": 10800,
+    "offset_ms": 10800000
+  },
+  {
+    "tzgp": [
+      "Europe/Sofia"
+    ],
+    "latitude": "42.683",
+    "longitude": "23.317",
+    "offset_hr": 2,
+    "offset_mi": 120,
+    "offset_se": 7200,
+    "offset_ms": 7200000
+  },
+  {
+    "tzgp": [
+      "Europe/Tallinn"
+    ],
+    "latitude": "59.417",
+    "longitude": "24.750",
+    "offset_hr": 2,
+    "offset_mi": 120,
+    "offset_se": 7200,
+    "offset_ms": 7200000
+  },
+  {
+    "tzgp": [
+      "Europe/Tirane"
+    ],
+    "latitude": "41.333",
+    "longitude": "19.833",
+    "offset_hr": 1,
+    "offset_mi": 60,
+    "offset_se": 3600,
+    "offset_ms": 3600000
+  },
+  {
+    "tzgp": [
+      "Europe/Ulyanovsk"
+    ],
+    "latitude": "54.333",
+    "longitude": "48.400",
+    "offset_hr": 4,
+    "offset_mi": 240,
+    "offset_se": 14400,
+    "offset_ms": 14400000
+  },
+  {
+    "tzgp": [
+      "Europe/Vienna"
+    ],
+    "latitude": "48.217",
+    "longitude": "16.333",
+    "offset_hr": 1,
+    "offset_mi": 60,
+    "offset_se": 3600,
+    "offset_ms": 3600000
+  },
+  {
+    "tzgp": [
+      "Europe/Vilnius"
+    ],
+    "latitude": "54.683",
+    "longitude": "25.317",
+    "offset_hr": 2,
+    "offset_mi": 120,
+    "offset_se": 7200,
+    "offset_ms": 7200000
+  },
+  {
+    "tzgp": [
+      "Europe/Volgograd"
+    ],
+    "latitude": "48.733",
+    "longitude": "44.417",
+    "offset_hr": 3,
+    "offset_mi": 180,
+    "offset_se": 10800,
+    "offset_ms": 10800000
+  },
+  {
+    "tzgp": [
+      "Europe/Warsaw",
+      "Poland"
+    ],
+    "latitude": "52.250",
+    "longitude": "21.000",
+    "offset_hr": 1,
+    "offset_mi": 60,
+    "offset_se": 3600,
+    "offset_ms": 3600000
+  },
+  {
+    "tzgp": [
+      "Europe/Zurich",
+      "Europe/Busingen",
+      "Europe/Vaduz"
+    ],
+    "latitude": "47.383",
+    "longitude": "8.533",
+    "offset_hr": 1,
+    "offset_mi": 60,
+    "offset_se": 3600,
+    "offset_ms": 3600000
+  },
+  {
+    "tzgp": [
+      "HST"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": -10,
+    "offset_mi": -600,
+    "offset_se": -36000,
+    "offset_ms": -36000000
+  },
+  {
+    "tzgp": [
+      "Indian/Chagos"
+    ],
+    "latitude": "-7.333",
+    "longitude": "72.417",
+    "offset_hr": 6,
+    "offset_mi": 360,
+    "offset_se": 21600,
+    "offset_ms": 21600000
+  },
+  {
+    "tzgp": [
+      "Indian/Maldives",
+      "Indian/Kerguelen"
+    ],
+    "latitude": "4.167",
+    "longitude": "73.500",
+    "offset_hr": 5,
+    "offset_mi": 300,
+    "offset_se": 18000,
+    "offset_ms": 18000000
+  },
+  {
+    "tzgp": [
+      "Indian/Mauritius"
+    ],
+    "latitude": "-20.167",
+    "longitude": "57.500",
+    "offset_hr": 4,
+    "offset_mi": 240,
+    "offset_se": 14400,
+    "offset_ms": 14400000
+  },
+  {
+    "tzgp": [
+      "MET"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": 1,
+    "offset_mi": 60,
+    "offset_se": 3600,
+    "offset_ms": 3600000
+  },
+  {
+    "tzgp": [
+      "MST"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": -7,
+    "offset_mi": -420,
+    "offset_se": -25200,
+    "offset_ms": -25200000
+  },
+  {
+    "tzgp": [
+      "MST7MDT"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": -6,
+    "offset_mi": -360,
+    "offset_se": -21600,
+    "offset_ms": -21600000
+  },
+  {
+    "tzgp": [
+      "Pacific/Apia"
+    ],
+    "latitude": "-13.833",
+    "longitude": "-171.733",
+    "offset_hr": 13,
+    "offset_mi": 780,
+    "offset_se": 46800,
+    "offset_ms": 46800000
+  },
+  {
+    "tzgp": [
+      "Pacific/Auckland",
+      "Antarctica/McMurdo",
+      "Antarctica/South_Pole",
+      "NZ"
+    ],
+    "latitude": "-36.867",
+    "longitude": "174.767",
+    "offset_hr": 13,
+    "offset_mi": 780,
+    "offset_se": 46800,
+    "offset_ms": 46800000
+  },
+  {
+    "tzgp": [
+      "Pacific/Bougainville"
+    ],
+    "latitude": "-6.217",
+    "longitude": "155.567",
+    "offset_hr": 11,
+    "offset_mi": 660,
+    "offset_se": 39600,
+    "offset_ms": 39600000
+  },
+  {
+    "tzgp": [
+      "Pacific/Chatham",
+      "NZ-CHAT"
+    ],
+    "latitude": "-43.950",
+    "longitude": "-176.550",
+    "offset_hr": 13.75,
+    "offset_mi": 825,
+    "offset_se": 49500,
+    "offset_ms": 49500000
+  },
+  {
+    "tzgp": [
+      "Pacific/Easter",
+      "Chile/EasterIsland"
+    ],
+    "latitude": "-27.150",
+    "longitude": "-109.433",
+    "offset_hr": -5,
+    "offset_mi": -300,
+    "offset_se": -18000,
+    "offset_ms": -18000000
+  },
+  {
+    "tzgp": [
+      "Pacific/Efate"
+    ],
+    "latitude": "-17.667",
+    "longitude": "168.417",
+    "offset_hr": 11,
+    "offset_mi": 660,
+    "offset_se": 39600,
+    "offset_ms": 39600000
+  },
+  {
+    "tzgp": [
+      "Pacific/Fakaofo"
+    ],
+    "latitude": "-9.367",
+    "longitude": "-171.233",
+    "offset_hr": 13,
+    "offset_mi": 780,
+    "offset_se": 46800,
+    "offset_ms": 46800000
+  },
+  {
+    "tzgp": [
+      "Pacific/Fiji"
+    ],
+    "latitude": "-18.133",
+    "longitude": "178.417",
+    "offset_hr": 12,
+    "offset_mi": 720,
+    "offset_se": 43200,
+    "offset_ms": 43200000
+  },
+  {
+    "tzgp": [
+      "Pacific/Galapagos"
+    ],
+    "latitude": "-0.900",
+    "longitude": "-89.600",
+    "offset_hr": -6,
+    "offset_mi": -360,
+    "offset_se": -21600,
+    "offset_ms": -21600000
+  },
+  {
+    "tzgp": [
+      "Pacific/Gambier"
+    ],
+    "latitude": "-23.133",
+    "longitude": "-134.950",
+    "offset_hr": -9,
+    "offset_mi": -540,
+    "offset_se": -32400,
+    "offset_ms": -32400000
+  },
+  {
+    "tzgp": [
+      "Pacific/Guadalcanal",
+      "Pacific/Pohnpei",
+      "Pacific/Ponape"
+    ],
+    "latitude": "-9.533",
+    "longitude": "160.200",
+    "offset_hr": 11,
+    "offset_mi": 660,
+    "offset_se": 39600,
+    "offset_ms": 39600000
+  },
+  {
+    "tzgp": [
+      "Pacific/Guam",
+      "Pacific/Saipan"
+    ],
+    "latitude": "13.467",
+    "longitude": "144.750",
+    "offset_hr": 10,
+    "offset_mi": 600,
+    "offset_se": 36000,
+    "offset_ms": 36000000
+  },
+  {
+    "tzgp": [
+      "Pacific/Honolulu",
+      "Pacific/Johnston",
+      "US/Hawaii"
+    ],
+    "latitude": "21.307",
+    "longitude": "-157.858",
+    "offset_hr": -10,
+    "offset_mi": -600,
+    "offset_se": -36000,
+    "offset_ms": -36000000
+  },
+  {
+    "tzgp": [
+      "Pacific/Kanton",
+      "Pacific/Enderbury"
+    ],
+    "latitude": "-2.783",
+    "longitude": "-171.717",
+    "offset_hr": 13,
+    "offset_mi": 780,
+    "offset_se": 46800,
+    "offset_ms": 46800000
+  },
+  {
+    "tzgp": [
+      "Pacific/Kiritimati"
+    ],
+    "latitude": "1.867",
+    "longitude": "-157.333",
+    "offset_hr": 14,
+    "offset_mi": 840,
+    "offset_se": 50400,
+    "offset_ms": 50400000
+  },
+  {
+    "tzgp": [
+      "Pacific/Kosrae"
+    ],
+    "latitude": "5.317",
+    "longitude": "162.983",
+    "offset_hr": 11,
+    "offset_mi": 660,
+    "offset_se": 39600,
+    "offset_ms": 39600000
+  },
+  {
+    "tzgp": [
+      "Pacific/Kwajalein",
+      "Kwajalein"
+    ],
+    "latitude": "9.083",
+    "longitude": "167.333",
+    "offset_hr": 12,
+    "offset_mi": 720,
+    "offset_se": 43200,
+    "offset_ms": 43200000
+  },
+  {
+    "tzgp": [
+      "Pacific/Marquesas"
+    ],
+    "latitude": "-9.000",
+    "longitude": "-139.500",
+    "offset_hr": -8.5,
+    "offset_mi": -510,
+    "offset_se": -30600,
+    "offset_ms": -30600000
+  },
+  {
+    "tzgp": [
+      "Pacific/Nauru"
+    ],
+    "latitude": "-0.517",
+    "longitude": "166.917",
+    "offset_hr": 12,
+    "offset_mi": 720,
+    "offset_se": 43200,
+    "offset_ms": 43200000
+  },
+  {
+    "tzgp": [
+      "Pacific/Niue"
+    ],
+    "latitude": "-19.017",
+    "longitude": "-169.917",
+    "offset_hr": -11,
+    "offset_mi": -660,
+    "offset_se": -39600,
+    "offset_ms": -39600000
+  },
+  {
+    "tzgp": [
+      "Pacific/Norfolk"
+    ],
+    "latitude": "-29.050",
+    "longitude": "167.967",
+    "offset_hr": 12,
+    "offset_mi": 720,
+    "offset_se": 43200,
+    "offset_ms": 43200000
+  },
+  {
+    "tzgp": [
+      "Pacific/Noumea"
+    ],
+    "latitude": "-22.267",
+    "longitude": "166.450",
+    "offset_hr": 11,
+    "offset_mi": 660,
+    "offset_se": 39600,
+    "offset_ms": 39600000
+  },
+  {
+    "tzgp": [
+      "Pacific/Pago_Pago",
+      "Pacific/Midway",
+      "Pacific/Samoa",
+      "US/Samoa"
+    ],
+    "latitude": "-14.267",
+    "longitude": "-170.700",
+    "offset_hr": -11,
+    "offset_mi": -660,
+    "offset_se": -39600,
+    "offset_ms": -39600000
+  },
+  {
+    "tzgp": [
+      "Pacific/Palau"
+    ],
+    "latitude": "7.333",
+    "longitude": "134.483",
+    "offset_hr": 9,
+    "offset_mi": 540,
+    "offset_se": 32400,
+    "offset_ms": 32400000
+  },
+  {
+    "tzgp": [
+      "Pacific/Pitcairn"
+    ],
+    "latitude": "-25.067",
+    "longitude": "-130.083",
+    "offset_hr": -8,
+    "offset_mi": -480,
+    "offset_se": -28800,
+    "offset_ms": -28800000
+  },
+  {
+    "tzgp": [
+      "Pacific/Port_Moresby",
+      "Antarctica/DumontDUrville",
+      "Pacific/Chuuk",
+      "Pacific/Truk",
+      "Pacific/Yap"
+    ],
+    "latitude": "-9.500",
+    "longitude": "147.167",
+    "offset_hr": 10,
+    "offset_mi": 600,
+    "offset_se": 36000,
+    "offset_ms": 36000000
+  },
+  {
+    "tzgp": [
+      "Pacific/Rarotonga"
+    ],
+    "latitude": "-21.233",
+    "longitude": "-159.767",
+    "offset_hr": -10,
+    "offset_mi": -600,
+    "offset_se": -36000,
+    "offset_ms": -36000000
+  },
+  {
+    "tzgp": [
+      "Pacific/Tahiti"
+    ],
+    "latitude": "-17.533",
+    "longitude": "-149.567",
+    "offset_hr": -10,
+    "offset_mi": -600,
+    "offset_se": -36000,
+    "offset_ms": -36000000
+  },
+  {
+    "tzgp": [
+      "Pacific/Tarawa",
+      "Pacific/Funafuti",
+      "Pacific/Majuro",
+      "Pacific/Wake",
+      "Pacific/Wallis"
+    ],
+    "latitude": "1.417",
+    "longitude": "173.000",
+    "offset_hr": 12,
+    "offset_mi": 720,
+    "offset_se": 43200,
+    "offset_ms": 43200000
+  },
+  {
+    "tzgp": [
+      "Pacific/Tongatapu"
+    ],
+    "latitude": "-21.133",
+    "longitude": "-175.200",
+    "offset_hr": 13,
+    "offset_mi": 780,
+    "offset_se": 46800,
+    "offset_ms": 46800000
+  },
+  {
+    "tzgp": [
+      "PST8PDT"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": -7,
+    "offset_mi": -420,
+    "offset_se": -25200,
+    "offset_ms": -25200000
+  },
+  {
+    "tzgp": [
+      "WET"
+    ],
+    "latitude": "0.000",
+    "longitude": "0.000",
+    "offset_hr": 0,
+    "offset_mi": 0,
+    "offset_se": 0,
+    "offset_ms": 0
+  }
+]

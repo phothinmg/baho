@@ -1,10 +1,16 @@
 {
   "cSpell.words": [
+    "caldata",
     "getdata",
+    "noda",
     "ofms",
+    "riseorset",
+    "suntimes",
     "Tofind",
     "tsup",
-    "tzname"
+    "tzgp",
+    "tzname",
+    "tzrouter"
   ],
   "cSpell.ignorePaths": [
     "node_modules", // this will ignore anything the node_modules directory
@@ -15,7 +21,9 @@
     ".git", // Ignore the .git directory
     "*.dll", // Ignore all .dll files.
     "**/*.dll",
-    "src/data/**/*",
-    "tsconfig.json"
+    "data/**/*",
+    "tsconfig.json",
+    "docs/text",
+    "opt/**/*",
   ]
 }
