@@ -38,6 +38,26 @@ tzrouter.get("/:reqId", (req, res) => {
       zz = tz.antarctica;
     } else if (id === "arctic") {
       zz = tz.arctic;
+    } else if (id === "atlantic") {
+      zz = tz.atlantic;
+    } else if (id === "australia") {
+      zz = tz.australia;
+    } else if (id === "brazil") {
+      zz = tz.brazil;
+    } else if (id === "canada") {
+      zz = tz.canada;
+    } else if (id === "chile") {
+      zz = tz.chile;
+    } else if (id === "europe") {
+      zz = tz.europe;
+    } else if (id === "indian") {
+      zz = tz.indian;
+    } else if (id === "mexico") {
+      zz = tz.mexico;
+    } else if (id === "pacific") {
+      zz = tz.pacific;
+    } else if (id === "usa") {
+      zz = tz.usa;
     }
     res.end(zz);
   } catch (error) {

@@ -1,1 +1,2 @@
-export * from "./sun/suntimes.ts";
+
+export * from "./sun/index.ts";

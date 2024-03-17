@@ -2,8 +2,8 @@
 import { defineConfig } from "tsup";
 
 export default defineConfig({
-  entry: ["src/api/index.ts"],
-  outDir: "./dist/api",
+  entry: ["src/sun/index.ts"],
+  outDir: "./dist/suntimes",
   splitting: true,
   sourcemap: true,
   dts: true,

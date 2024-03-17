@@ -1,5 +1,27 @@
 import data from "../../data/timezones.json" assert { type: "json" };
 
+/**
+ * Retrieves the names of different time zones categorized by region.
+ * 
+ * @returns An object containing the names of time zones categorized by region.
+ * The object has the following properties:
+ * - all: A stringified JSON array of all time zone names.
+ * - africa: A stringified JSON array of time zone names in Africa.
+ * - usa: A stringified JSON array of time zone names in the United States.
+ * - canada: A stringified JSON array of time zone names in Canada.
+ * - brazil: A stringified JSON array of time zone names in Brazil.
+ * - mexico: A stringified JSON array of time zone names in Mexico.
+ * - antarctica: A stringified JSON array of time zone names in Antarctica.
+ * - indian: A stringified JSON array of time zone names in the Indian Ocean.
+ * - atlantic: A stringified JSON array of time zone names in the Atlantic Ocean.
+ * - australia: A stringified JSON array of time zone names in Australia.
+ * - europe: A stringified JSON array of time zone names in Europe.
+ * - arctic: A stringified JSON array of time zone names in the Arctic Ocean.
+ * - pacific: A stringified JSON array of time zone names in the Pacific Ocean.
+ * - chile: A stringified JSON array of time zone names in Chile.
+ * - asia: A stringified JSON array of time zone names in Asia.
+ * - america: A stringified JSON array of time zone names in the Americas.
+ */
 export default function getTimeZoneNames() {
   const africa = JSON.stringify(
     data.filter((i) => i.split("/")[0] === "Africa"),

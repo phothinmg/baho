@@ -16,8 +16,8 @@
       "Atlantic/St_Helena",
       "Iceland"
     ],
-    "latitude": "5.317",
-    "longitude": "-4.033",
+    "latitude": 5.316666666666666,
+    "longitude": -4.033333333333333,
     "offset_hr": 0,
     "offset_mi": 0,
     "offset_se": 0,
@@ -27,8 +27,8 @@
     "tzgp": [
       "Africa/Algiers"
     ],
-    "latitude": "36.783",
-    "longitude": "3.050",
+    "latitude": 36.78333333333333,
+    "longitude": 3.05,
     "offset_hr": 1,
     "offset_mi": 60,
     "offset_se": 3600,
@@ -38,8 +38,8 @@
     "tzgp": [
       "Africa/Bissau"
     ],
-    "latitude": "11.850",
-    "longitude": "-15.583",
+    "latitude": 11.85,
+    "longitude": -15.583333333333334,
     "offset_hr": 0,
     "offset_mi": 0,
     "offset_se": 0,
@@ -50,8 +50,8 @@
       "Africa/Cairo",
       "Egypt"
     ],
-    "latitude": "30.050",
-    "longitude": "31.250",
+    "latitude": 30.05,
+    "longitude": 31.25,
     "offset_hr": 2,
     "offset_mi": 120,
     "offset_se": 7200,
@@ -61,8 +61,8 @@
     "tzgp": [
       "Africa/Casablanca"
     ],
-    "latitude": "33.650",
-    "longitude": "-7.583",
+    "latitude": 33.65,
+    "longitude": -7.583333333333333,
     "offset_hr": 0,
     "offset_mi": 0,
     "offset_se": 0,
@@ -72,8 +72,8 @@
     "tzgp": [
       "Africa/Ceuta"
     ],
-    "latitude": "35.883",
-    "longitude": "-5.317",
+    "latitude": 35.88333333333333,
+    "longitude": -5.316666666666666,
     "offset_hr": 1,
     "offset_mi": 60,
     "offset_se": 3600,
@@ -83,8 +83,8 @@
     "tzgp": [
       "Africa/El_Aaiun"
     ],
-    "latitude": "27.150",
-    "longitude": "-13.200",
+    "latitude": 27.15,
+    "longitude": -13.2,
     "offset_hr": 0,
     "offset_mi": 0,
     "offset_se": 0,
@@ -96,8 +96,8 @@
       "Africa/Maseru",
       "Africa/Mbabane"
     ],
-    "latitude": "-26.250",
-    "longitude": "28.000",
+    "latitude": -26.25,
+    "longitude": 28,
     "offset_hr": 2,
     "offset_mi": 120,
     "offset_se": 7200,
@@ -107,8 +107,8 @@
     "tzgp": [
       "Africa/Juba"
     ],
-    "latitude": "4.850",
-    "longitude": "31.617",
+    "latitude": 4.85,
+    "longitude": 31.616666666666667,
     "offset_hr": 2,
     "offset_mi": 120,
     "offset_se": 7200,
@@ -118,8 +118,8 @@
     "tzgp": [
       "Africa/Khartoum"
     ],
-    "latitude": "15.600",
-    "longitude": "32.533",
+    "latitude": 15.6,
+    "longitude": 32.53333333333333,
     "offset_hr": 2,
     "offset_mi": 120,
     "offset_se": 7200,
@@ -138,8 +138,8 @@
       "Africa/Niamey",
       "Africa/Porto-Novo"
     ],
-    "latitude": "6.450",
-    "longitude": "3.400",
+    "latitude": 6.45,
+    "longitude": 3.4,
     "offset_hr": 1,
     "offset_mi": 60,
     "offset_se": 3600,
@@ -156,8 +156,8 @@
       "Africa/Lubumbashi",
       "Africa/Lusaka"
     ],
-    "latitude": "-25.967",
-    "longitude": "32.583",
+    "latitude": -25.966666666666665,
+    "longitude": 32.583333333333336,
     "offset_hr": 2,
     "offset_mi": 120,
     "offset_se": 7200,
@@ -167,8 +167,8 @@
     "tzgp": [
       "Africa/Monrovia"
     ],
-    "latitude": "6.300",
-    "longitude": "-10.783",
+    "latitude": 6.3,
+    "longitude": -10.783333333333333,
     "offset_hr": 0,
     "offset_mi": 0,
     "offset_se": 0,
@@ -188,8 +188,8 @@
       "Indian/Comoro",
       "Indian/Mayotte"
     ],
-    "latitude": "-1.283",
-    "longitude": "36.817",
+    "latitude": -1.2833333333333334,
+    "longitude": 36.81666666666667,
     "offset_hr": 3,
     "offset_mi": 180,
     "offset_se": 10800,
@@ -199,8 +199,8 @@
     "tzgp": [
       "Africa/Ndjamena"
     ],
-    "latitude": "12.117",
-    "longitude": "15.050",
+    "latitude": 12.116666666666667,
+    "longitude": 15.05,
     "offset_hr": 1,
     "offset_mi": 60,
     "offset_se": 3600,
@@ -210,8 +210,8 @@
     "tzgp": [
       "Africa/Sao_Tome"
     ],
-    "latitude": "0.333",
-    "longitude": "6.733",
+    "latitude": 0.3333333333333333,
+    "longitude": 6.733333333333333,
     "offset_hr": 0,
     "offset_mi": 0,
     "offset_se": 0,
@@ -222,8 +222,8 @@
       "Africa/Tripoli",
       "Libya"
     ],
-    "latitude": "32.900",
-    "longitude": "13.183",
+    "latitude": 32.9,
+    "longitude": 13.183333333333334,
     "offset_hr": 2,
     "offset_mi": 120,
     "offset_se": 7200,
@@ -233,8 +233,8 @@
     "tzgp": [
       "Africa/Tunis"
     ],
-    "latitude": "36.800",
-    "longitude": "10.183",
+    "latitude": 36.8,
+    "longitude": 10.183333333333334,
     "offset_hr": 1,
     "offset_mi": 60,
     "offset_se": 3600,
@@ -244,8 +244,8 @@
     "tzgp": [
       "Africa/Windhoek"
     ],
-    "latitude": "-22.567",
-    "longitude": "17.100",
+    "latitude": -22.566666666666666,
+    "longitude": 17.1,
     "offset_hr": 2,
     "offset_mi": 120,
     "offset_se": 7200,
@@ -257,8 +257,8 @@
       "America/Atka",
       "US/Aleutian"
     ],
-    "latitude": "51.880",
-    "longitude": "-176.658",
+    "latitude": 51.88,
+    "longitude": -176.65805555555556,
     "offset_hr": -9,
     "offset_mi": -540,
     "offset_se": -32400,
@@ -269,8 +269,8 @@
       "America/Anchorage",
       "US/Alaska"
     ],
-    "latitude": "61.218",
-    "longitude": "-149.900",
+    "latitude": 61.21805555555556,
+    "longitude": -149.90027777777777,
     "offset_hr": -8,
     "offset_mi": -480,
     "offset_se": -28800,
@@ -280,8 +280,8 @@
     "tzgp": [
       "America/Araguaina"
     ],
-    "latitude": "-7.200",
-    "longitude": "-48.200",
+    "latitude": -7.2,
+    "longitude": -48.2,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -292,8 +292,8 @@
       "America/Argentina/Buenos_Aires",
       "America/Buenos_Aires"
     ],
-    "latitude": "-34.600",
-    "longitude": "-58.450",
+    "latitude": -34.6,
+    "longitude": -58.45,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -305,8 +305,8 @@
       "America/Argentina/ComodRivadavia",
       "America/Catamarca"
     ],
-    "latitude": "-28.467",
-    "longitude": "-65.783",
+    "latitude": -28.466666666666665,
+    "longitude": -65.78333333333333,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -318,8 +318,8 @@
       "America/Cordoba",
       "America/Rosario"
     ],
-    "latitude": "-31.400",
-    "longitude": "-64.183",
+    "latitude": -31.4,
+    "longitude": -64.18333333333334,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -330,8 +330,8 @@
       "America/Argentina/Jujuy",
       "America/Jujuy"
     ],
-    "latitude": "-24.183",
-    "longitude": "-65.300",
+    "latitude": -24.183333333333334,
+    "longitude": -65.3,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -341,8 +341,8 @@
     "tzgp": [
       "America/Argentina/La_Rioja"
     ],
-    "latitude": "-29.433",
-    "longitude": "-66.850",
+    "latitude": -29.433333333333334,
+    "longitude": -66.85,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -353,8 +353,8 @@
       "America/Argentina/Mendoza",
       "America/Mendoza"
     ],
-    "latitude": "-32.883",
-    "longitude": "-68.817",
+    "latitude": -32.88333333333333,
+    "longitude": -68.81666666666666,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -364,8 +364,8 @@
     "tzgp": [
       "America/Argentina/Rio_Gallegos"
     ],
-    "latitude": "-51.633",
-    "longitude": "-69.217",
+    "latitude": -51.63333333333333,
+    "longitude": -69.21666666666667,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -375,8 +375,8 @@
     "tzgp": [
       "America/Argentina/Salta"
     ],
-    "latitude": "-24.783",
-    "longitude": "-65.417",
+    "latitude": -24.783333333333335,
+    "longitude": -65.41666666666667,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -386,8 +386,8 @@
     "tzgp": [
       "America/Argentina/San_Juan"
     ],
-    "latitude": "-31.533",
-    "longitude": "-68.517",
+    "latitude": -31.533333333333335,
+    "longitude": -68.51666666666667,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -397,8 +397,8 @@
     "tzgp": [
       "America/Argentina/San_Luis"
     ],
-    "latitude": "-33.317",
-    "longitude": "-66.350",
+    "latitude": -33.31666666666667,
+    "longitude": -66.35,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -408,8 +408,8 @@
     "tzgp": [
       "America/Argentina/Tucuman"
     ],
-    "latitude": "-26.817",
-    "longitude": "-65.217",
+    "latitude": -26.816666666666666,
+    "longitude": -65.21666666666667,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -419,8 +419,8 @@
     "tzgp": [
       "America/Argentina/Ushuaia"
     ],
-    "latitude": "-54.800",
-    "longitude": "-68.300",
+    "latitude": -54.8,
+    "longitude": -68.3,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -430,8 +430,8 @@
     "tzgp": [
       "America/Asuncion"
     ],
-    "latitude": "-25.267",
-    "longitude": "-57.667",
+    "latitude": -25.266666666666666,
+    "longitude": -57.666666666666664,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -441,8 +441,8 @@
     "tzgp": [
       "America/Bahia"
     ],
-    "latitude": "-12.983",
-    "longitude": "-38.517",
+    "latitude": -12.983333333333333,
+    "longitude": -38.516666666666666,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -452,8 +452,8 @@
     "tzgp": [
       "America/Bahia_Banderas"
     ],
-    "latitude": "20.800",
-    "longitude": "-105.250",
+    "latitude": 20.8,
+    "longitude": -105.25,
     "offset_hr": -6,
     "offset_mi": -360,
     "offset_se": -21600,
@@ -463,8 +463,8 @@
     "tzgp": [
       "America/Barbados"
     ],
-    "latitude": "13.100",
-    "longitude": "-59.617",
+    "latitude": 13.1,
+    "longitude": -59.61666666666667,
     "offset_hr": -4,
     "offset_mi": -240,
     "offset_se": -14400,
@@ -474,8 +474,8 @@
     "tzgp": [
       "America/Belem"
     ],
-    "latitude": "-1.450",
-    "longitude": "-48.483",
+    "latitude": -1.45,
+    "longitude": -48.483333333333334,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -485,8 +485,8 @@
     "tzgp": [
       "America/Belize"
     ],
-    "latitude": "17.500",
-    "longitude": "-88.200",
+    "latitude": 17.5,
+    "longitude": -88.2,
     "offset_hr": -6,
     "offset_mi": -360,
     "offset_se": -21600,
@@ -496,8 +496,8 @@
     "tzgp": [
       "America/Boa_Vista"
     ],
-    "latitude": "2.817",
-    "longitude": "-60.667",
+    "latitude": 2.816666666666667,
+    "longitude": -60.666666666666664,
     "offset_hr": -4,
     "offset_mi": -240,
     "offset_se": -14400,
@@ -507,8 +507,8 @@
     "tzgp": [
       "America/Bogota"
     ],
-    "latitude": "4.600",
-    "longitude": "-74.083",
+    "latitude": 4.6,
+    "longitude": -74.08333333333333,
     "offset_hr": -5,
     "offset_mi": -300,
     "offset_se": -18000,
@@ -518,8 +518,8 @@
     "tzgp": [
       "America/Boise"
     ],
-    "latitude": "43.614",
-    "longitude": "-116.203",
+    "latitude": 43.61361111111111,
+    "longitude": -116.2025,
     "offset_hr": -6,
     "offset_mi": -360,
     "offset_se": -21600,
@@ -529,8 +529,8 @@
     "tzgp": [
       "America/Cambridge_Bay"
     ],
-    "latitude": "69.114",
-    "longitude": "-105.053",
+    "latitude": 69.1138888888889,
+    "longitude": -105.05277777777778,
     "offset_hr": -6,
     "offset_mi": -360,
     "offset_se": -21600,
@@ -540,8 +540,8 @@
     "tzgp": [
       "America/Campo_Grande"
     ],
-    "latitude": "-20.450",
-    "longitude": "-54.617",
+    "latitude": -20.45,
+    "longitude": -54.61666666666667,
     "offset_hr": -4,
     "offset_mi": -240,
     "offset_se": -14400,
@@ -551,8 +551,8 @@
     "tzgp": [
       "America/Cancun"
     ],
-    "latitude": "21.083",
-    "longitude": "-86.767",
+    "latitude": 21.083333333333332,
+    "longitude": -86.76666666666667,
     "offset_hr": -5,
     "offset_mi": -300,
     "offset_se": -18000,
@@ -562,8 +562,8 @@
     "tzgp": [
       "America/Caracas"
     ],
-    "latitude": "10.500",
-    "longitude": "-66.933",
+    "latitude": 10.5,
+    "longitude": -66.93333333333334,
     "offset_hr": -4,
     "offset_mi": -240,
     "offset_se": -14400,
@@ -573,8 +573,8 @@
     "tzgp": [
       "America/Cayenne"
     ],
-    "latitude": "4.933",
-    "longitude": "-52.333",
+    "latitude": 4.933333333333334,
+    "longitude": -52.333333333333336,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -585,8 +585,8 @@
       "America/Chicago",
       "US/Central"
     ],
-    "latitude": "41.850",
-    "longitude": "-87.650",
+    "latitude": 41.85,
+    "longitude": -87.65,
     "offset_hr": -5,
     "offset_mi": -300,
     "offset_se": -18000,
@@ -596,8 +596,8 @@
     "tzgp": [
       "America/Chihuahua"
     ],
-    "latitude": "28.633",
-    "longitude": "-106.083",
+    "latitude": 28.633333333333333,
+    "longitude": -106.08333333333333,
     "offset_hr": -6,
     "offset_mi": -360,
     "offset_se": -21600,
@@ -607,8 +607,8 @@
     "tzgp": [
       "America/Ciudad_Juarez"
     ],
-    "latitude": "31.733",
-    "longitude": "-106.483",
+    "latitude": 31.733333333333334,
+    "longitude": -106.48333333333333,
     "offset_hr": -6,
     "offset_mi": -360,
     "offset_se": -21600,
@@ -618,8 +618,8 @@
     "tzgp": [
       "America/Costa_Rica"
     ],
-    "latitude": "9.933",
-    "longitude": "-84.083",
+    "latitude": 9.933333333333334,
+    "longitude": -84.08333333333333,
     "offset_hr": -6,
     "offset_mi": -360,
     "offset_se": -21600,
@@ -629,8 +629,8 @@
     "tzgp": [
       "America/Cuiaba"
     ],
-    "latitude": "-15.583",
-    "longitude": "-56.083",
+    "latitude": -15.583333333333334,
+    "longitude": -56.083333333333336,
     "offset_hr": -4,
     "offset_mi": -240,
     "offset_se": -14400,
@@ -640,8 +640,8 @@
     "tzgp": [
       "America/Danmarkshavn"
     ],
-    "latitude": "76.767",
-    "longitude": "-18.667",
+    "latitude": 76.76666666666667,
+    "longitude": -18.666666666666668,
     "offset_hr": 0,
     "offset_mi": 0,
     "offset_se": 0,
@@ -651,8 +651,8 @@
     "tzgp": [
       "America/Dawson"
     ],
-    "latitude": "64.067",
-    "longitude": "-139.417",
+    "latitude": 64.06666666666666,
+    "longitude": -139.41666666666666,
     "offset_hr": -7,
     "offset_mi": -420,
     "offset_se": -25200,
@@ -662,8 +662,8 @@
     "tzgp": [
       "America/Dawson_Creek"
     ],
-    "latitude": "55.767",
-    "longitude": "-120.233",
+    "latitude": 55.766666666666666,
+    "longitude": -120.23333333333333,
     "offset_hr": -7,
     "offset_mi": -420,
     "offset_se": -25200,
@@ -676,8 +676,8 @@
       "Navajo",
       "US/Mountain"
     ],
-    "latitude": "39.739",
-    "longitude": "-104.984",
+    "latitude": 39.73916666666667,
+    "longitude": -104.98416666666667,
     "offset_hr": -6,
     "offset_mi": -360,
     "offset_se": -21600,
@@ -688,8 +688,8 @@
       "America/Detroit",
       "US/Michigan"
     ],
-    "latitude": "42.331",
-    "longitude": "-83.046",
+    "latitude": 42.33138888888889,
+    "longitude": -83.04583333333333,
     "offset_hr": -4,
     "offset_mi": -240,
     "offset_se": -14400,
@@ -701,8 +701,8 @@
       "America/Yellowknife",
       "Canada/Mountain"
     ],
-    "latitude": "53.550",
-    "longitude": "-113.467",
+    "latitude": 53.55,
+    "longitude": -113.46666666666667,
     "offset_hr": -6,
     "offset_mi": -360,
     "offset_se": -21600,
@@ -712,8 +712,8 @@
     "tzgp": [
       "America/Eirunepe"
     ],
-    "latitude": "-6.667",
-    "longitude": "-69.867",
+    "latitude": -6.666666666666667,
+    "longitude": -69.86666666666666,
     "offset_hr": -5,
     "offset_mi": -300,
     "offset_se": -18000,
@@ -723,8 +723,8 @@
     "tzgp": [
       "America/El_Salvador"
     ],
-    "latitude": "13.700",
-    "longitude": "-89.200",
+    "latitude": 13.7,
+    "longitude": -89.2,
     "offset_hr": -6,
     "offset_mi": -360,
     "offset_se": -21600,
@@ -734,8 +734,8 @@
     "tzgp": [
       "America/Fort_Nelson"
     ],
-    "latitude": "58.800",
-    "longitude": "-122.700",
+    "latitude": 58.8,
+    "longitude": -122.7,
     "offset_hr": -7,
     "offset_mi": -420,
     "offset_se": -25200,
@@ -745,8 +745,8 @@
     "tzgp": [
       "America/Fortaleza"
     ],
-    "latitude": "-3.717",
-    "longitude": "-38.500",
+    "latitude": -3.716666666666667,
+    "longitude": -38.5,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -756,8 +756,8 @@
     "tzgp": [
       "America/Glace_Bay"
     ],
-    "latitude": "46.200",
-    "longitude": "-59.950",
+    "latitude": 46.2,
+    "longitude": -59.95,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -767,8 +767,8 @@
     "tzgp": [
       "America/Goose_Bay"
     ],
-    "latitude": "53.333",
-    "longitude": "-60.417",
+    "latitude": 53.333333333333336,
+    "longitude": -60.416666666666664,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -778,8 +778,8 @@
     "tzgp": [
       "America/Grand_Turk"
     ],
-    "latitude": "21.467",
-    "longitude": "-71.133",
+    "latitude": 21.466666666666665,
+    "longitude": -71.13333333333334,
     "offset_hr": -4,
     "offset_mi": -240,
     "offset_se": -14400,
@@ -789,8 +789,8 @@
     "tzgp": [
       "America/Guatemala"
     ],
-    "latitude": "14.633",
-    "longitude": "-90.517",
+    "latitude": 14.633333333333333,
+    "longitude": -90.51666666666667,
     "offset_hr": -6,
     "offset_mi": -360,
     "offset_se": -21600,
@@ -800,8 +800,8 @@
     "tzgp": [
       "America/Guayaquil"
     ],
-    "latitude": "-2.167",
-    "longitude": "-79.833",
+    "latitude": -2.1666666666666665,
+    "longitude": -79.83333333333333,
     "offset_hr": -5,
     "offset_mi": -300,
     "offset_se": -18000,
@@ -811,8 +811,8 @@
     "tzgp": [
       "America/Guyana"
     ],
-    "latitude": "6.800",
-    "longitude": "-58.167",
+    "latitude": 6.8,
+    "longitude": -58.166666666666664,
     "offset_hr": -4,
     "offset_mi": -240,
     "offset_se": -14400,
@@ -823,8 +823,8 @@
       "America/Halifax",
       "Canada/Atlantic"
     ],
-    "latitude": "44.650",
-    "longitude": "-63.600",
+    "latitude": 44.65,
+    "longitude": -63.6,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -835,8 +835,8 @@
       "America/Havana",
       "Cuba"
     ],
-    "latitude": "23.133",
-    "longitude": "-82.367",
+    "latitude": 23.133333333333333,
+    "longitude": -82.36666666666666,
     "offset_hr": -4,
     "offset_mi": -240,
     "offset_se": -14400,
@@ -846,8 +846,8 @@
     "tzgp": [
       "America/Hermosillo"
     ],
-    "latitude": "29.067",
-    "longitude": "-110.967",
+    "latitude": 29.066666666666666,
+    "longitude": -110.96666666666667,
     "offset_hr": -7,
     "offset_mi": -420,
     "offset_se": -25200,
@@ -860,8 +860,8 @@
       "America/Indianapolis",
       "US/East-Indiana"
     ],
-    "latitude": "39.768",
-    "longitude": "-86.158",
+    "latitude": 39.76833333333333,
+    "longitude": -86.15805555555555,
     "offset_hr": -4,
     "offset_mi": -240,
     "offset_se": -14400,
@@ -873,8 +873,8 @@
       "America/Knox_IN",
       "US/Indiana-Starke"
     ],
-    "latitude": "41.296",
-    "longitude": "-86.625",
+    "latitude": 41.295833333333334,
+    "longitude": -86.625,
     "offset_hr": -5,
     "offset_mi": -300,
     "offset_se": -18000,
@@ -884,8 +884,8 @@
     "tzgp": [
       "America/Indiana/Marengo"
     ],
-    "latitude": "38.376",
-    "longitude": "-86.345",
+    "latitude": 38.37555555555556,
+    "longitude": -86.34472222222222,
     "offset_hr": -4,
     "offset_mi": -240,
     "offset_se": -14400,
@@ -895,8 +895,8 @@
     "tzgp": [
       "America/Indiana/Petersburg"
     ],
-    "latitude": "38.492",
-    "longitude": "-87.279",
+    "latitude": 38.49194444444444,
+    "longitude": -87.2786111111111,
     "offset_hr": -4,
     "offset_mi": -240,
     "offset_se": -14400,
@@ -906,8 +906,8 @@
     "tzgp": [
       "America/Indiana/Tell_City"
     ],
-    "latitude": "37.953",
-    "longitude": "-86.761",
+    "latitude": 37.95305555555556,
+    "longitude": -86.76138888888889,
     "offset_hr": -5,
     "offset_mi": -300,
     "offset_se": -18000,
@@ -917,8 +917,8 @@
     "tzgp": [
       "America/Indiana/Vevay"
     ],
-    "latitude": "38.748",
-    "longitude": "-85.067",
+    "latitude": 38.74777777777778,
+    "longitude": -85.06722222222223,
     "offset_hr": -4,
     "offset_mi": -240,
     "offset_se": -14400,
@@ -928,8 +928,8 @@
     "tzgp": [
       "America/Indiana/Vincennes"
     ],
-    "latitude": "38.677",
-    "longitude": "-87.529",
+    "latitude": 38.67722222222222,
+    "longitude": -87.5286111111111,
     "offset_hr": -4,
     "offset_mi": -240,
     "offset_se": -14400,
@@ -939,8 +939,8 @@
     "tzgp": [
       "America/Indiana/Winamac"
     ],
-    "latitude": "41.051",
-    "longitude": "-86.603",
+    "latitude": 41.05138888888889,
+    "longitude": -86.60305555555556,
     "offset_hr": -4,
     "offset_mi": -240,
     "offset_se": -14400,
@@ -950,8 +950,8 @@
     "tzgp": [
       "America/Inuvik"
     ],
-    "latitude": "68.350",
-    "longitude": "-133.717",
+    "latitude": 68.34972222222223,
+    "longitude": -133.71666666666667,
     "offset_hr": -6,
     "offset_mi": -360,
     "offset_se": -21600,
@@ -962,8 +962,8 @@
       "America/Iqaluit",
       "America/Pangnirtung"
     ],
-    "latitude": "63.733",
-    "longitude": "-68.467",
+    "latitude": 63.733333333333334,
+    "longitude": -68.46666666666667,
     "offset_hr": -4,
     "offset_mi": -240,
     "offset_se": -14400,
@@ -974,8 +974,8 @@
       "America/Jamaica",
       "Jamaica"
     ],
-    "latitude": "17.968",
-    "longitude": "-76.793",
+    "latitude": 17.968055555555555,
+    "longitude": -76.79333333333334,
     "offset_hr": -5,
     "offset_mi": -300,
     "offset_se": -18000,
@@ -985,8 +985,8 @@
     "tzgp": [
       "America/Juneau"
     ],
-    "latitude": "58.302",
-    "longitude": "-134.420",
+    "latitude": 58.301944444444445,
+    "longitude": -134.41972222222222,
     "offset_hr": -8,
     "offset_mi": -480,
     "offset_se": -28800,
@@ -997,8 +997,8 @@
       "America/Kentucky/Louisville",
       "America/Louisville"
     ],
-    "latitude": "38.254",
-    "longitude": "-85.759",
+    "latitude": 38.25416666666667,
+    "longitude": -85.75944444444444,
     "offset_hr": -4,
     "offset_mi": -240,
     "offset_se": -14400,
@@ -1008,8 +1008,8 @@
     "tzgp": [
       "America/Kentucky/Monticello"
     ],
-    "latitude": "36.830",
-    "longitude": "-84.849",
+    "latitude": 36.82972222222222,
+    "longitude": -84.84916666666666,
     "offset_hr": -4,
     "offset_mi": -240,
     "offset_se": -14400,
@@ -1019,8 +1019,8 @@
     "tzgp": [
       "America/La_Paz"
     ],
-    "latitude": "-16.500",
-    "longitude": "-68.150",
+    "latitude": -16.5,
+    "longitude": -68.15,
     "offset_hr": -4,
     "offset_mi": -240,
     "offset_se": -14400,
@@ -1030,8 +1030,8 @@
     "tzgp": [
       "America/Lima"
     ],
-    "latitude": "-12.050",
-    "longitude": "-77.050",
+    "latitude": -12.05,
+    "longitude": -77.05,
     "offset_hr": -5,
     "offset_mi": -300,
     "offset_se": -18000,
@@ -1042,8 +1042,8 @@
       "America/Los_Angeles",
       "US/Pacific"
     ],
-    "latitude": "34.052",
-    "longitude": "-118.243",
+    "latitude": 34.05222222222222,
+    "longitude": -118.24277777777777,
     "offset_hr": -7,
     "offset_mi": -420,
     "offset_se": -25200,
@@ -1053,8 +1053,8 @@
     "tzgp": [
       "America/Maceio"
     ],
-    "latitude": "-9.667",
-    "longitude": "-35.717",
+    "latitude": -9.666666666666666,
+    "longitude": -35.71666666666667,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -1064,8 +1064,8 @@
     "tzgp": [
       "America/Managua"
     ],
-    "latitude": "12.150",
-    "longitude": "-86.283",
+    "latitude": 12.15,
+    "longitude": -86.28333333333333,
     "offset_hr": -6,
     "offset_mi": -360,
     "offset_se": -21600,
@@ -1076,8 +1076,8 @@
       "America/Manaus",
       "Brazil/West"
     ],
-    "latitude": "-3.133",
-    "longitude": "-60.017",
+    "latitude": -3.1333333333333333,
+    "longitude": -60.016666666666666,
     "offset_hr": -4,
     "offset_mi": -240,
     "offset_se": -14400,
@@ -1087,8 +1087,8 @@
     "tzgp": [
       "America/Martinique"
     ],
-    "latitude": "14.600",
-    "longitude": "-61.083",
+    "latitude": 14.6,
+    "longitude": -61.083333333333336,
     "offset_hr": -4,
     "offset_mi": -240,
     "offset_se": -14400,
@@ -1098,8 +1098,8 @@
     "tzgp": [
       "America/Matamoros"
     ],
-    "latitude": "25.833",
-    "longitude": "-97.500",
+    "latitude": 25.833333333333332,
+    "longitude": -97.5,
     "offset_hr": -5,
     "offset_mi": -300,
     "offset_se": -18000,
@@ -1110,8 +1110,8 @@
       "America/Mazatlan",
       "Mexico/BajaSur"
     ],
-    "latitude": "23.217",
-    "longitude": "-106.417",
+    "latitude": 23.216666666666665,
+    "longitude": -106.41666666666667,
     "offset_hr": -7,
     "offset_mi": -420,
     "offset_se": -25200,
@@ -1121,8 +1121,8 @@
     "tzgp": [
       "America/Menominee"
     ],
-    "latitude": "45.108",
-    "longitude": "-87.614",
+    "latitude": 45.10777777777778,
+    "longitude": -87.61416666666666,
     "offset_hr": -5,
     "offset_mi": -300,
     "offset_se": -18000,
@@ -1132,8 +1132,8 @@
     "tzgp": [
       "America/Merida"
     ],
-    "latitude": "20.967",
-    "longitude": "-89.617",
+    "latitude": 20.966666666666665,
+    "longitude": -89.61666666666666,
     "offset_hr": -6,
     "offset_mi": -360,
     "offset_se": -21600,
@@ -1143,8 +1143,8 @@
     "tzgp": [
       "America/Metlakatla"
     ],
-    "latitude": "55.127",
-    "longitude": "-131.576",
+    "latitude": 55.12694444444445,
+    "longitude": -131.57638888888889,
     "offset_hr": -8,
     "offset_mi": -480,
     "offset_se": -28800,
@@ -1155,8 +1155,8 @@
       "America/Mexico_City",
       "Mexico/General"
     ],
-    "latitude": "19.400",
-    "longitude": "-99.150",
+    "latitude": 19.4,
+    "longitude": -99.15,
     "offset_hr": -6,
     "offset_mi": -360,
     "offset_se": -21600,
@@ -1166,8 +1166,8 @@
     "tzgp": [
       "America/Miquelon"
     ],
-    "latitude": "47.050",
-    "longitude": "-56.333",
+    "latitude": 47.05,
+    "longitude": -56.333333333333336,
     "offset_hr": -2,
     "offset_mi": -120,
     "offset_se": -7200,
@@ -1177,8 +1177,8 @@
     "tzgp": [
       "America/Moncton"
     ],
-    "latitude": "46.100",
-    "longitude": "-64.783",
+    "latitude": 46.1,
+    "longitude": -64.78333333333333,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -1188,8 +1188,8 @@
     "tzgp": [
       "America/Monterrey"
     ],
-    "latitude": "25.667",
-    "longitude": "-100.317",
+    "latitude": 25.666666666666668,
+    "longitude": -100.31666666666666,
     "offset_hr": -6,
     "offset_mi": -360,
     "offset_se": -21600,
@@ -1199,8 +1199,8 @@
     "tzgp": [
       "America/Montevideo"
     ],
-    "latitude": "-34.909",
-    "longitude": "-56.212",
+    "latitude": -34.909166666666664,
+    "longitude": -56.2125,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -1211,8 +1211,8 @@
       "America/New_York",
       "US/Eastern"
     ],
-    "latitude": "40.714",
-    "longitude": "-74.006",
+    "latitude": 40.714166666666664,
+    "longitude": -74.00638888888889,
     "offset_hr": -4,
     "offset_mi": -240,
     "offset_se": -14400,
@@ -1222,8 +1222,8 @@
     "tzgp": [
       "America/Nome"
     ],
-    "latitude": "64.501",
-    "longitude": "-165.406",
+    "latitude": 64.50111111111111,
+    "longitude": -165.4063888888889,
     "offset_hr": -8,
     "offset_mi": -480,
     "offset_se": -28800,
@@ -1234,8 +1234,8 @@
       "America/Noronha",
       "Brazil/DeNoronha"
     ],
-    "latitude": "-3.850",
-    "longitude": "-32.417",
+    "latitude": -3.85,
+    "longitude": -32.416666666666664,
     "offset_hr": -2,
     "offset_mi": -120,
     "offset_se": -7200,
@@ -1245,8 +1245,8 @@
     "tzgp": [
       "America/North_Dakota/Beulah"
     ],
-    "latitude": "47.264",
-    "longitude": "-101.778",
+    "latitude": 47.26416666666667,
+    "longitude": -101.77777777777777,
     "offset_hr": -5,
     "offset_mi": -300,
     "offset_se": -18000,
@@ -1256,8 +1256,8 @@
     "tzgp": [
       "America/North_Dakota/Center"
     ],
-    "latitude": "47.116",
-    "longitude": "-101.299",
+    "latitude": 47.11638888888889,
+    "longitude": -101.29916666666666,
     "offset_hr": -5,
     "offset_mi": -300,
     "offset_se": -18000,
@@ -1267,8 +1267,8 @@
     "tzgp": [
       "America/North_Dakota/New_Salem"
     ],
-    "latitude": "46.845",
-    "longitude": "-101.411",
+    "latitude": 46.845,
+    "longitude": -101.41083333333333,
     "offset_hr": -5,
     "offset_mi": -300,
     "offset_se": -18000,
@@ -1279,8 +1279,8 @@
       "America/Nuuk",
       "America/Godthab"
     ],
-    "latitude": "64.183",
-    "longitude": "-51.733",
+    "latitude": 64.18333333333334,
+    "longitude": -51.733333333333334,
     "offset_hr": -2,
     "offset_mi": -120,
     "offset_se": -7200,
@@ -1290,8 +1290,8 @@
     "tzgp": [
       "America/Ojinaga"
     ],
-    "latitude": "29.567",
-    "longitude": "-104.417",
+    "latitude": 29.566666666666666,
+    "longitude": -104.41666666666667,
     "offset_hr": -5,
     "offset_mi": -300,
     "offset_se": -18000,
@@ -1304,8 +1304,8 @@
       "America/Cayman",
       "America/Coral_Harbour"
     ],
-    "latitude": "8.967",
-    "longitude": "-79.533",
+    "latitude": 8.966666666666667,
+    "longitude": -79.53333333333333,
     "offset_hr": -5,
     "offset_mi": -300,
     "offset_se": -18000,
@@ -1315,8 +1315,8 @@
     "tzgp": [
       "America/Paramaribo"
     ],
-    "latitude": "5.833",
-    "longitude": "-55.167",
+    "latitude": 5.833333333333333,
+    "longitude": -55.166666666666664,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -1328,8 +1328,8 @@
       "America/Creston",
       "US/Arizona"
     ],
-    "latitude": "33.448",
-    "longitude": "-112.073",
+    "latitude": 33.44833333333333,
+    "longitude": -112.07333333333334,
     "offset_hr": -7,
     "offset_mi": -420,
     "offset_se": -25200,
@@ -1339,8 +1339,8 @@
     "tzgp": [
       "America/Port-au-Prince"
     ],
-    "latitude": "18.533",
-    "longitude": "-72.333",
+    "latitude": 18.533333333333335,
+    "longitude": -72.33333333333333,
     "offset_hr": -4,
     "offset_mi": -240,
     "offset_se": -14400,
@@ -1350,8 +1350,8 @@
     "tzgp": [
       "America/Porto_Velho"
     ],
-    "latitude": "-8.767",
-    "longitude": "-63.900",
+    "latitude": -8.766666666666667,
+    "longitude": -63.9,
     "offset_hr": -4,
     "offset_mi": -240,
     "offset_se": -14400,
@@ -1381,8 +1381,8 @@
       "America/Tortola",
       "America/Virgin"
     ],
-    "latitude": "18.468",
-    "longitude": "-66.106",
+    "latitude": 18.468333333333334,
+    "longitude": -66.1061111111111,
     "offset_hr": -4,
     "offset_mi": -240,
     "offset_se": -14400,
@@ -1392,8 +1392,8 @@
     "tzgp": [
       "America/Punta_Arenas"
     ],
-    "latitude": "-53.150",
-    "longitude": "-70.917",
+    "latitude": -53.15,
+    "longitude": -70.91666666666667,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -1403,8 +1403,8 @@
     "tzgp": [
       "America/Rankin_Inlet"
     ],
-    "latitude": "62.817",
-    "longitude": "-92.083",
+    "latitude": 62.81666666666667,
+    "longitude": -92.08305555555556,
     "offset_hr": -5,
     "offset_mi": -300,
     "offset_se": -18000,
@@ -1414,8 +1414,8 @@
     "tzgp": [
       "America/Recife"
     ],
-    "latitude": "-8.050",
-    "longitude": "-34.900",
+    "latitude": -8.05,
+    "longitude": -34.9,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -1426,8 +1426,8 @@
       "America/Regina",
       "Canada/Saskatchewan"
     ],
-    "latitude": "50.400",
-    "longitude": "-104.650",
+    "latitude": 50.4,
+    "longitude": -104.65,
     "offset_hr": -6,
     "offset_mi": -360,
     "offset_se": -21600,
@@ -1437,8 +1437,8 @@
     "tzgp": [
       "America/Resolute"
     ],
-    "latitude": "74.696",
-    "longitude": "-94.829",
+    "latitude": 74.69555555555556,
+    "longitude": -94.82916666666667,
     "offset_hr": -5,
     "offset_mi": -300,
     "offset_se": -18000,
@@ -1450,8 +1450,8 @@
       "America/Porto_Acre",
       "Brazil/Acre"
     ],
-    "latitude": "-9.967",
-    "longitude": "-67.800",
+    "latitude": -9.966666666666667,
+    "longitude": -67.8,
     "offset_hr": -5,
     "offset_mi": -300,
     "offset_se": -18000,
@@ -1461,8 +1461,8 @@
     "tzgp": [
       "America/Santarem"
     ],
-    "latitude": "-2.433",
-    "longitude": "-54.867",
+    "latitude": -2.433333333333333,
+    "longitude": -54.86666666666667,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -1473,8 +1473,8 @@
       "America/Santiago",
       "Chile/Continental"
     ],
-    "latitude": "-33.450",
-    "longitude": "-70.667",
+    "latitude": -33.45,
+    "longitude": -70.66666666666667,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -1484,8 +1484,8 @@
     "tzgp": [
       "America/Santo_Domingo"
     ],
-    "latitude": "18.467",
-    "longitude": "-69.900",
+    "latitude": 18.466666666666665,
+    "longitude": -69.9,
     "offset_hr": -4,
     "offset_mi": -240,
     "offset_se": -14400,
@@ -1496,8 +1496,8 @@
       "America/Sao_Paulo",
       "Brazil/East"
     ],
-    "latitude": "-23.533",
-    "longitude": "-46.617",
+    "latitude": -23.533333333333335,
+    "longitude": -46.61666666666667,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -1507,8 +1507,8 @@
     "tzgp": [
       "America/Scoresbysund"
     ],
-    "latitude": "70.483",
-    "longitude": "-21.967",
+    "latitude": 70.48333333333333,
+    "longitude": -21.966666666666665,
     "offset_hr": -1,
     "offset_mi": -60,
     "offset_se": -3600,
@@ -1518,8 +1518,8 @@
     "tzgp": [
       "America/Sitka"
     ],
-    "latitude": "57.176",
-    "longitude": "-135.302",
+    "latitude": 57.17638888888889,
+    "longitude": -135.30194444444444,
     "offset_hr": -8,
     "offset_mi": -480,
     "offset_se": -28800,
@@ -1530,8 +1530,8 @@
       "America/St_Johns",
       "Canada/Newfoundland"
     ],
-    "latitude": "47.567",
-    "longitude": "-52.717",
+    "latitude": 47.56666666666667,
+    "longitude": -52.71666666666667,
     "offset_hr": -1.5,
     "offset_mi": -90,
     "offset_se": -5400,
@@ -1541,8 +1541,8 @@
     "tzgp": [
       "America/Swift_Current"
     ],
-    "latitude": "50.283",
-    "longitude": "-107.833",
+    "latitude": 50.28333333333333,
+    "longitude": -107.83333333333333,
     "offset_hr": -6,
     "offset_mi": -360,
     "offset_se": -21600,
@@ -1552,8 +1552,8 @@
     "tzgp": [
       "America/Tegucigalpa"
     ],
-    "latitude": "14.100",
-    "longitude": "-87.217",
+    "latitude": 14.1,
+    "longitude": -87.21666666666667,
     "offset_hr": -6,
     "offset_mi": -360,
     "offset_se": -21600,
@@ -1563,8 +1563,8 @@
     "tzgp": [
       "America/Thule"
     ],
-    "latitude": "76.567",
-    "longitude": "-68.783",
+    "latitude": 76.56666666666666,
+    "longitude": -68.78333333333333,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -1577,8 +1577,8 @@
       "America/Santa_Isabel",
       "Mexico/BajaNorte"
     ],
-    "latitude": "32.533",
-    "longitude": "-117.017",
+    "latitude": 32.53333333333333,
+    "longitude": -117.01666666666667,
     "offset_hr": -7,
     "offset_mi": -420,
     "offset_se": -25200,
@@ -1593,8 +1593,8 @@
       "America/Thunder_Bay",
       "Canada/Eastern"
     ],
-    "latitude": "43.650",
-    "longitude": "-79.383",
+    "latitude": 43.65,
+    "longitude": -79.38333333333334,
     "offset_hr": -4,
     "offset_mi": -240,
     "offset_se": -14400,
@@ -1605,8 +1605,8 @@
       "America/Vancouver",
       "Canada/Pacific"
     ],
-    "latitude": "49.267",
-    "longitude": "-123.117",
+    "latitude": 49.266666666666666,
+    "longitude": -123.11666666666666,
     "offset_hr": -7,
     "offset_mi": -420,
     "offset_se": -25200,
@@ -1617,8 +1617,8 @@
       "America/Whitehorse",
       "Canada/Yukon"
     ],
-    "latitude": "60.717",
-    "longitude": "-135.050",
+    "latitude": 60.71666666666667,
+    "longitude": -135.05,
     "offset_hr": -7,
     "offset_mi": -420,
     "offset_se": -25200,
@@ -1630,8 +1630,8 @@
       "America/Rainy_River",
       "Canada/Central"
     ],
-    "latitude": "49.883",
-    "longitude": "-97.150",
+    "latitude": 49.88333333333333,
+    "longitude": -97.15,
     "offset_hr": -5,
     "offset_mi": -300,
     "offset_se": -18000,
@@ -1641,8 +1641,8 @@
     "tzgp": [
       "America/Yakutat"
     ],
-    "latitude": "59.547",
-    "longitude": "-139.727",
+    "latitude": 59.54694444444444,
+    "longitude": -139.72722222222222,
     "offset_hr": -8,
     "offset_mi": -480,
     "offset_se": -28800,
@@ -1652,8 +1652,8 @@
     "tzgp": [
       "Antarctica/Casey"
     ],
-    "latitude": "-66.283",
-    "longitude": "110.517",
+    "latitude": -66.28333333333333,
+    "longitude": 110.51666666666667,
     "offset_hr": 8,
     "offset_mi": 480,
     "offset_se": 28800,
@@ -1663,8 +1663,8 @@
     "tzgp": [
       "Antarctica/Davis"
     ],
-    "latitude": "-68.583",
-    "longitude": "77.967",
+    "latitude": -68.58333333333333,
+    "longitude": 77.96666666666667,
     "offset_hr": 7,
     "offset_mi": 420,
     "offset_se": 25200,
@@ -1674,8 +1674,8 @@
     "tzgp": [
       "Antarctica/Macquarie"
     ],
-    "latitude": "-54.500",
-    "longitude": "158.950",
+    "latitude": -54.5,
+    "longitude": 158.95,
     "offset_hr": 11,
     "offset_mi": 660,
     "offset_se": 39600,
@@ -1685,8 +1685,8 @@
     "tzgp": [
       "Antarctica/Mawson"
     ],
-    "latitude": "-67.600",
-    "longitude": "62.883",
+    "latitude": -67.6,
+    "longitude": 62.88333333333333,
     "offset_hr": 5,
     "offset_mi": 300,
     "offset_se": 18000,
@@ -1696,8 +1696,8 @@
     "tzgp": [
       "Antarctica/Palmer"
     ],
-    "latitude": "-64.800",
-    "longitude": "-64.100",
+    "latitude": -64.8,
+    "longitude": -64.1,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -1707,8 +1707,8 @@
     "tzgp": [
       "Antarctica/Rothera"
     ],
-    "latitude": "-67.567",
-    "longitude": "-68.133",
+    "latitude": -67.56666666666666,
+    "longitude": -68.13333333333334,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -1718,8 +1718,8 @@
     "tzgp": [
       "Antarctica/Troll"
     ],
-    "latitude": "-72.011",
-    "longitude": "2.535",
+    "latitude": -72.01138888888889,
+    "longitude": 2.535,
     "offset_hr": 0,
     "offset_mi": 0,
     "offset_se": 0,
@@ -1729,8 +1729,8 @@
     "tzgp": [
       "Antarctica/Vostok"
     ],
-    "latitude": "-78.400",
-    "longitude": "106.900",
+    "latitude": -78.4,
+    "longitude": 106.9,
     "offset_hr": 5,
     "offset_mi": 300,
     "offset_se": 18000,
@@ -1740,8 +1740,8 @@
     "tzgp": [
       "Asia/Almaty"
     ],
-    "latitude": "43.250",
-    "longitude": "76.950",
+    "latitude": 43.25,
+    "longitude": 76.95,
     "offset_hr": 5,
     "offset_mi": 300,
     "offset_se": 18000,
@@ -1751,8 +1751,8 @@
     "tzgp": [
       "Asia/Amman"
     ],
-    "latitude": "31.950",
-    "longitude": "35.933",
+    "latitude": 31.95,
+    "longitude": 35.93333333333333,
     "offset_hr": 3,
     "offset_mi": 180,
     "offset_se": 10800,
@@ -1762,8 +1762,8 @@
     "tzgp": [
       "Asia/Anadyr"
     ],
-    "latitude": "64.750",
-    "longitude": "177.483",
+    "latitude": 64.75,
+    "longitude": 177.48333333333332,
     "offset_hr": 12,
     "offset_mi": 720,
     "offset_se": 43200,
@@ -1773,8 +1773,8 @@
     "tzgp": [
       "Asia/Aqtau"
     ],
-    "latitude": "44.517",
-    "longitude": "50.267",
+    "latitude": 44.516666666666666,
+    "longitude": 50.266666666666666,
     "offset_hr": 5,
     "offset_mi": 300,
     "offset_se": 18000,
@@ -1784,8 +1784,8 @@
     "tzgp": [
       "Asia/Aqtobe"
     ],
-    "latitude": "50.283",
-    "longitude": "57.167",
+    "latitude": 50.28333333333333,
+    "longitude": 57.166666666666664,
     "offset_hr": 5,
     "offset_mi": 300,
     "offset_se": 18000,
@@ -1796,8 +1796,8 @@
       "Asia/Ashgabat",
       "Asia/Ashkhabad"
     ],
-    "latitude": "37.950",
-    "longitude": "58.383",
+    "latitude": 37.95,
+    "longitude": 58.38333333333333,
     "offset_hr": 5,
     "offset_mi": 300,
     "offset_se": 18000,
@@ -1807,8 +1807,8 @@
     "tzgp": [
       "Asia/Atyrau"
     ],
-    "latitude": "47.117",
-    "longitude": "51.933",
+    "latitude": 47.11666666666667,
+    "longitude": 51.93333333333333,
     "offset_hr": 5,
     "offset_mi": 300,
     "offset_se": 18000,
@@ -1818,8 +1818,8 @@
     "tzgp": [
       "Asia/Baghdad"
     ],
-    "latitude": "33.350",
-    "longitude": "44.417",
+    "latitude": 33.35,
+    "longitude": 44.416666666666664,
     "offset_hr": 3,
     "offset_mi": 180,
     "offset_se": 10800,
@@ -1829,8 +1829,8 @@
     "tzgp": [
       "Asia/Baku"
     ],
-    "latitude": "40.383",
-    "longitude": "49.850",
+    "latitude": 40.38333333333333,
+    "longitude": 49.85,
     "offset_hr": 4,
     "offset_mi": 240,
     "offset_se": 14400,
@@ -1843,8 +1843,8 @@
       "Asia/Vientiane",
       "Indian/Christmas"
     ],
-    "latitude": "13.750",
-    "longitude": "100.517",
+    "latitude": 13.75,
+    "longitude": 100.51666666666667,
     "offset_hr": 7,
     "offset_mi": 420,
     "offset_se": 25200,
@@ -1854,8 +1854,8 @@
     "tzgp": [
       "Asia/Barnaul"
     ],
-    "latitude": "53.367",
-    "longitude": "83.750",
+    "latitude": 53.36666666666667,
+    "longitude": 83.75,
     "offset_hr": 7,
     "offset_mi": 420,
     "offset_se": 25200,
@@ -1865,8 +1865,8 @@
     "tzgp": [
       "Asia/Beirut"
     ],
-    "latitude": "33.883",
-    "longitude": "35.500",
+    "latitude": 33.88333333333333,
+    "longitude": 35.5,
     "offset_hr": 2,
     "offset_mi": 120,
     "offset_se": 7200,
@@ -1876,8 +1876,8 @@
     "tzgp": [
       "Asia/Bishkek"
     ],
-    "latitude": "42.900",
-    "longitude": "74.600",
+    "latitude": 42.9,
+    "longitude": 74.6,
     "offset_hr": 6,
     "offset_mi": 360,
     "offset_se": 21600,
@@ -1887,8 +1887,8 @@
     "tzgp": [
       "Asia/Chita"
     ],
-    "latitude": "52.050",
-    "longitude": "113.467",
+    "latitude": 52.05,
+    "longitude": 113.46666666666667,
     "offset_hr": 9,
     "offset_mi": 540,
     "offset_se": 32400,
@@ -1898,8 +1898,8 @@
     "tzgp": [
       "Asia/Choibalsan"
     ],
-    "latitude": "48.067",
-    "longitude": "114.500",
+    "latitude": 48.06666666666667,
+    "longitude": 114.5,
     "offset_hr": 8,
     "offset_mi": 480,
     "offset_se": 28800,
@@ -1909,8 +1909,8 @@
     "tzgp": [
       "Asia/Colombo"
     ],
-    "latitude": "6.933",
-    "longitude": "79.850",
+    "latitude": 6.933333333333334,
+    "longitude": 79.85,
     "offset_hr": 5.5,
     "offset_mi": 330,
     "offset_se": 19800,
@@ -1920,8 +1920,8 @@
     "tzgp": [
       "Asia/Damascus"
     ],
-    "latitude": "33.500",
-    "longitude": "36.300",
+    "latitude": 33.5,
+    "longitude": 36.3,
     "offset_hr": 3,
     "offset_mi": 180,
     "offset_se": 10800,
@@ -1932,8 +1932,8 @@
       "Asia/Dhaka",
       "Asia/Dacca"
     ],
-    "latitude": "23.717",
-    "longitude": "90.417",
+    "latitude": 23.716666666666665,
+    "longitude": 90.41666666666667,
     "offset_hr": 6,
     "offset_mi": 360,
     "offset_se": 21600,
@@ -1943,8 +1943,8 @@
     "tzgp": [
       "Asia/Dili"
     ],
-    "latitude": "-8.550",
-    "longitude": "125.583",
+    "latitude": -8.55,
+    "longitude": 125.58333333333333,
     "offset_hr": 9,
     "offset_mi": 540,
     "offset_se": 32400,
@@ -1957,8 +1957,8 @@
       "Indian/Mahe",
       "Indian/Reunion"
     ],
-    "latitude": "25.300",
-    "longitude": "55.300",
+    "latitude": 25.3,
+    "longitude": 55.3,
     "offset_hr": 4,
     "offset_mi": 240,
     "offset_se": 14400,
@@ -1968,8 +1968,8 @@
     "tzgp": [
       "Asia/Dushanbe"
     ],
-    "latitude": "38.583",
-    "longitude": "68.800",
+    "latitude": 38.583333333333336,
+    "longitude": 68.8,
     "offset_hr": 5,
     "offset_mi": 300,
     "offset_se": 18000,
@@ -1979,8 +1979,8 @@
     "tzgp": [
       "Asia/Famagusta"
     ],
-    "latitude": "35.117",
-    "longitude": "33.950",
+    "latitude": 35.11666666666667,
+    "longitude": 33.95,
     "offset_hr": 2,
     "offset_mi": 120,
     "offset_se": 7200,
@@ -1990,8 +1990,8 @@
     "tzgp": [
       "Asia/Gaza"
     ],
-    "latitude": "31.500",
-    "longitude": "34.467",
+    "latitude": 31.5,
+    "longitude": 34.46666666666667,
     "offset_hr": 2,
     "offset_mi": 120,
     "offset_se": 7200,
@@ -2001,8 +2001,8 @@
     "tzgp": [
       "Asia/Hebron"
     ],
-    "latitude": "31.533",
-    "longitude": "35.095",
+    "latitude": 31.533333333333335,
+    "longitude": 35.095,
     "offset_hr": 2,
     "offset_mi": 120,
     "offset_se": 7200,
@@ -2013,8 +2013,8 @@
       "Asia/Ho_Chi_Minh",
       "Asia/Saigon"
     ],
-    "latitude": "10.750",
-    "longitude": "106.667",
+    "latitude": 10.75,
+    "longitude": 106.66666666666667,
     "offset_hr": 7,
     "offset_mi": 420,
     "offset_se": 25200,
@@ -2025,8 +2025,8 @@
       "Asia/Hong_Kong",
       "Hongkong"
     ],
-    "latitude": "22.283",
-    "longitude": "114.150",
+    "latitude": 22.283333333333335,
+    "longitude": 114.15,
     "offset_hr": 8,
     "offset_mi": 480,
     "offset_se": 28800,
@@ -2036,8 +2036,8 @@
     "tzgp": [
       "Asia/Hovd"
     ],
-    "latitude": "48.017",
-    "longitude": "91.650",
+    "latitude": 48.016666666666666,
+    "longitude": 91.65,
     "offset_hr": 7,
     "offset_mi": 420,
     "offset_se": 25200,
@@ -2047,8 +2047,8 @@
     "tzgp": [
       "Asia/Irkutsk"
     ],
-    "latitude": "52.267",
-    "longitude": "104.333",
+    "latitude": 52.266666666666666,
+    "longitude": 104.33333333333333,
     "offset_hr": 8,
     "offset_mi": 480,
     "offset_se": 28800,
@@ -2058,8 +2058,8 @@
     "tzgp": [
       "Asia/Jakarta"
     ],
-    "latitude": "-6.167",
-    "longitude": "106.800",
+    "latitude": -6.166666666666667,
+    "longitude": 106.8,
     "offset_hr": 7,
     "offset_mi": 420,
     "offset_se": 25200,
@@ -2069,8 +2069,8 @@
     "tzgp": [
       "Asia/Jayapura"
     ],
-    "latitude": "-2.533",
-    "longitude": "140.700",
+    "latitude": -2.533333333333333,
+    "longitude": 140.7,
     "offset_hr": 9,
     "offset_mi": 540,
     "offset_se": 32400,
@@ -2082,8 +2082,8 @@
       "Asia/Tel_Aviv",
       "Israel"
     ],
-    "latitude": "31.781",
-    "longitude": "35.224",
+    "latitude": 31.780555555555555,
+    "longitude": 35.22388888888889,
     "offset_hr": 2,
     "offset_mi": 120,
     "offset_se": 7200,
@@ -2093,8 +2093,8 @@
     "tzgp": [
       "Asia/Kabul"
     ],
-    "latitude": "34.517",
-    "longitude": "69.200",
+    "latitude": 34.516666666666666,
+    "longitude": 69.2,
     "offset_hr": 4.5,
     "offset_mi": 270,
     "offset_se": 16200,
@@ -2104,8 +2104,8 @@
     "tzgp": [
       "Asia/Kamchatka"
     ],
-    "latitude": "53.017",
-    "longitude": "158.650",
+    "latitude": 53.016666666666666,
+    "longitude": 158.65,
     "offset_hr": 12,
     "offset_mi": 720,
     "offset_se": 43200,
@@ -2115,8 +2115,8 @@
     "tzgp": [
       "Asia/Karachi"
     ],
-    "latitude": "24.867",
-    "longitude": "67.050",
+    "latitude": 24.866666666666667,
+    "longitude": 67.05,
     "offset_hr": 5,
     "offset_mi": 300,
     "offset_se": 18000,
@@ -2127,8 +2127,8 @@
       "Asia/Kathmandu",
       "Asia/Katmandu"
     ],
-    "latitude": "27.717",
-    "longitude": "85.317",
+    "latitude": 27.716666666666665,
+    "longitude": 85.31666666666666,
     "offset_hr": 5.75,
     "offset_mi": 345,
     "offset_se": 20700,
@@ -2138,8 +2138,8 @@
     "tzgp": [
       "Asia/Khandyga"
     ],
-    "latitude": "62.656",
-    "longitude": "135.554",
+    "latitude": 62.65638888888889,
+    "longitude": 135.55388888888888,
     "offset_hr": 9,
     "offset_mi": 540,
     "offset_se": 32400,
@@ -2150,8 +2150,8 @@
       "Asia/Kolkata",
       "Asia/Calcutta"
     ],
-    "latitude": "22.533",
-    "longitude": "88.367",
+    "latitude": 22.533333333333335,
+    "longitude": 88.36666666666666,
     "offset_hr": 5.5,
     "offset_mi": 330,
     "offset_se": 19800,
@@ -2161,8 +2161,8 @@
     "tzgp": [
       "Asia/Krasnoyarsk"
     ],
-    "latitude": "56.017",
-    "longitude": "92.833",
+    "latitude": 56.016666666666666,
+    "longitude": 92.83333333333333,
     "offset_hr": 7,
     "offset_mi": 420,
     "offset_se": 25200,
@@ -2173,8 +2173,8 @@
       "Asia/Kuching",
       "Asia/Brunei"
     ],
-    "latitude": "1.550",
-    "longitude": "110.333",
+    "latitude": 1.55,
+    "longitude": 110.33333333333333,
     "offset_hr": 8,
     "offset_mi": 480,
     "offset_se": 28800,
@@ -2185,8 +2185,8 @@
       "Asia/Macau",
       "Asia/Macao"
     ],
-    "latitude": "22.197",
-    "longitude": "113.542",
+    "latitude": 22.197222222222223,
+    "longitude": 113.54166666666667,
     "offset_hr": 8,
     "offset_mi": 480,
     "offset_se": 28800,
@@ -2196,8 +2196,8 @@
     "tzgp": [
       "Asia/Magadan"
     ],
-    "latitude": "59.567",
-    "longitude": "150.800",
+    "latitude": 59.56666666666667,
+    "longitude": 150.8,
     "offset_hr": 11,
     "offset_mi": 660,
     "offset_se": 39600,
@@ -2208,8 +2208,8 @@
       "Asia/Makassar",
       "Asia/Ujung_Pandang"
     ],
-    "latitude": "-5.117",
-    "longitude": "119.400",
+    "latitude": -5.116666666666666,
+    "longitude": 119.4,
     "offset_hr": 8,
     "offset_mi": 480,
     "offset_se": 28800,
@@ -2219,8 +2219,8 @@
     "tzgp": [
       "Asia/Manila"
     ],
-    "latitude": "14.583",
-    "longitude": "121.000",
+    "latitude": 14.583333333333334,
+    "longitude": 121,
     "offset_hr": 8,
     "offset_mi": 480,
     "offset_se": 28800,
@@ -2231,8 +2231,8 @@
       "Asia/Nicosia",
       "Europe/Nicosia"
     ],
-    "latitude": "35.167",
-    "longitude": "33.367",
+    "latitude": 35.166666666666664,
+    "longitude": 33.36666666666667,
     "offset_hr": 2,
     "offset_mi": 120,
     "offset_se": 7200,
@@ -2242,8 +2242,8 @@
     "tzgp": [
       "Asia/Novokuznetsk"
     ],
-    "latitude": "53.750",
-    "longitude": "87.117",
+    "latitude": 53.75,
+    "longitude": 87.11666666666666,
     "offset_hr": 7,
     "offset_mi": 420,
     "offset_se": 25200,
@@ -2253,8 +2253,8 @@
     "tzgp": [
       "Asia/Novosibirsk"
     ],
-    "latitude": "55.033",
-    "longitude": "82.917",
+    "latitude": 55.03333333333333,
+    "longitude": 82.91666666666667,
     "offset_hr": 7,
     "offset_mi": 420,
     "offset_se": 25200,
@@ -2264,8 +2264,8 @@
     "tzgp": [
       "Asia/Omsk"
     ],
-    "latitude": "55.000",
-    "longitude": "73.400",
+    "latitude": 55,
+    "longitude": 73.4,
     "offset_hr": 6,
     "offset_mi": 360,
     "offset_se": 21600,
@@ -2275,8 +2275,8 @@
     "tzgp": [
       "Asia/Oral"
     ],
-    "latitude": "51.217",
-    "longitude": "51.350",
+    "latitude": 51.21666666666667,
+    "longitude": 51.35,
     "offset_hr": 5,
     "offset_mi": 300,
     "offset_se": 18000,
@@ -2286,8 +2286,8 @@
     "tzgp": [
       "Asia/Pontianak"
     ],
-    "latitude": "-0.033",
-    "longitude": "109.333",
+    "latitude": -0.03333333333333333,
+    "longitude": 109.33333333333333,
     "offset_hr": 7,
     "offset_mi": 420,
     "offset_se": 25200,
@@ -2297,8 +2297,8 @@
     "tzgp": [
       "Asia/Pyongyang"
     ],
-    "latitude": "39.017",
-    "longitude": "125.750",
+    "latitude": 39.016666666666666,
+    "longitude": 125.75,
     "offset_hr": 9,
     "offset_mi": 540,
     "offset_se": 32400,
@@ -2309,8 +2309,8 @@
       "Asia/Qatar",
       "Asia/Bahrain"
     ],
-    "latitude": "25.283",
-    "longitude": "51.533",
+    "latitude": 25.283333333333335,
+    "longitude": 51.53333333333333,
     "offset_hr": 3,
     "offset_mi": 180,
     "offset_se": 10800,
@@ -2320,8 +2320,8 @@
     "tzgp": [
       "Asia/Qostanay"
     ],
-    "latitude": "53.200",
-    "longitude": "63.617",
+    "latitude": 53.2,
+    "longitude": 63.61666666666667,
     "offset_hr": 5,
     "offset_mi": 300,
     "offset_se": 18000,
@@ -2331,8 +2331,8 @@
     "tzgp": [
       "Asia/Qyzylorda"
     ],
-    "latitude": "44.800",
-    "longitude": "65.467",
+    "latitude": 44.8,
+    "longitude": 65.46666666666667,
     "offset_hr": 5,
     "offset_mi": 300,
     "offset_se": 18000,
@@ -2345,8 +2345,8 @@
       "Asia/Aden",
       "Asia/Kuwait"
     ],
-    "latitude": "24.633",
-    "longitude": "46.717",
+    "latitude": 24.633333333333333,
+    "longitude": 46.71666666666667,
     "offset_hr": 3,
     "offset_mi": 180,
     "offset_se": 10800,
@@ -2356,8 +2356,8 @@
     "tzgp": [
       "Asia/Sakhalin"
     ],
-    "latitude": "46.967",
-    "longitude": "142.700",
+    "latitude": 46.96666666666667,
+    "longitude": 142.7,
     "offset_hr": 11,
     "offset_mi": 660,
     "offset_se": 39600,
@@ -2367,8 +2367,8 @@
     "tzgp": [
       "Asia/Samarkand"
     ],
-    "latitude": "39.667",
-    "longitude": "66.800",
+    "latitude": 39.666666666666664,
+    "longitude": 66.8,
     "offset_hr": 5,
     "offset_mi": 300,
     "offset_se": 18000,
@@ -2379,8 +2379,8 @@
       "Asia/Seoul",
       "ROK"
     ],
-    "latitude": "37.550",
-    "longitude": "126.967",
+    "latitude": 37.55,
+    "longitude": 126.96666666666667,
     "offset_hr": 9,
     "offset_mi": 540,
     "offset_se": 32400,
@@ -2394,8 +2394,8 @@
       "Asia/Harbin",
       "PRC"
     ],
-    "latitude": "31.233",
-    "longitude": "121.467",
+    "latitude": 31.233333333333334,
+    "longitude": 121.46666666666667,
     "offset_hr": 8,
     "offset_mi": 480,
     "offset_se": 28800,
@@ -2407,8 +2407,8 @@
       "Asia/Kuala_Lumpur",
       "Singapore"
     ],
-    "latitude": "1.283",
-    "longitude": "103.850",
+    "latitude": 1.2833333333333334,
+    "longitude": 103.85,
     "offset_hr": 8,
     "offset_mi": 480,
     "offset_se": 28800,
@@ -2418,8 +2418,8 @@
     "tzgp": [
       "Asia/Srednekolymsk"
     ],
-    "latitude": "67.467",
-    "longitude": "153.717",
+    "latitude": 67.46666666666667,
+    "longitude": 153.71666666666667,
     "offset_hr": 11,
     "offset_mi": 660,
     "offset_se": 39600,
@@ -2430,8 +2430,8 @@
       "Asia/Taipei",
       "ROC"
     ],
-    "latitude": "25.050",
-    "longitude": "121.500",
+    "latitude": 25.05,
+    "longitude": 121.5,
     "offset_hr": 8,
     "offset_mi": 480,
     "offset_se": 28800,
@@ -2441,8 +2441,8 @@
     "tzgp": [
       "Asia/Tashkent"
     ],
-    "latitude": "41.333",
-    "longitude": "69.300",
+    "latitude": 41.333333333333336,
+    "longitude": 69.3,
     "offset_hr": 5,
     "offset_mi": 300,
     "offset_se": 18000,
@@ -2452,8 +2452,8 @@
     "tzgp": [
       "Asia/Tbilisi"
     ],
-    "latitude": "41.717",
-    "longitude": "44.817",
+    "latitude": 41.71666666666667,
+    "longitude": 44.81666666666667,
     "offset_hr": 4,
     "offset_mi": 240,
     "offset_se": 14400,
@@ -2464,8 +2464,8 @@
       "Asia/Tehran",
       "Iran"
     ],
-    "latitude": "35.667",
-    "longitude": "51.433",
+    "latitude": 35.666666666666664,
+    "longitude": 51.43333333333333,
     "offset_hr": 3.5,
     "offset_mi": 210,
     "offset_se": 12600,
@@ -2476,8 +2476,8 @@
       "Asia/Thimphu",
       "Asia/Thimbu"
     ],
-    "latitude": "27.467",
-    "longitude": "89.650",
+    "latitude": 27.466666666666665,
+    "longitude": 89.65,
     "offset_hr": 6,
     "offset_mi": 360,
     "offset_se": 21600,
@@ -2488,8 +2488,8 @@
       "Asia/Tokyo",
       "Japan"
     ],
-    "latitude": "35.654",
-    "longitude": "139.745",
+    "latitude": 35.654444444444444,
+    "longitude": 139.7447222222222,
     "offset_hr": 9,
     "offset_mi": 540,
     "offset_se": 32400,
@@ -2499,8 +2499,8 @@
     "tzgp": [
       "Asia/Tomsk"
     ],
-    "latitude": "56.500",
-    "longitude": "84.967",
+    "latitude": 56.5,
+    "longitude": 84.96666666666667,
     "offset_hr": 7,
     "offset_mi": 420,
     "offset_se": 25200,
@@ -2511,8 +2511,8 @@
       "Asia/Ulaanbaatar",
       "Asia/Ulan_Bator"
     ],
-    "latitude": "47.917",
-    "longitude": "106.883",
+    "latitude": 47.916666666666664,
+    "longitude": 106.88333333333334,
     "offset_hr": 8,
     "offset_mi": 480,
     "offset_se": 28800,
@@ -2523,8 +2523,8 @@
       "Asia/Urumqi",
       "Asia/Kashgar"
     ],
-    "latitude": "43.800",
-    "longitude": "87.583",
+    "latitude": 43.8,
+    "longitude": 87.58333333333333,
     "offset_hr": 6,
     "offset_mi": 360,
     "offset_se": 21600,
@@ -2534,8 +2534,8 @@
     "tzgp": [
       "Asia/Ust-Nera"
     ],
-    "latitude": "64.560",
-    "longitude": "143.227",
+    "latitude": 64.56027777777778,
+    "longitude": 143.22666666666666,
     "offset_hr": 10,
     "offset_mi": 600,
     "offset_se": 36000,
@@ -2545,8 +2545,8 @@
     "tzgp": [
       "Asia/Vladivostok"
     ],
-    "latitude": "43.167",
-    "longitude": "131.933",
+    "latitude": 43.166666666666664,
+    "longitude": 131.93333333333334,
     "offset_hr": 10,
     "offset_mi": 600,
     "offset_se": 36000,
@@ -2556,8 +2556,8 @@
     "tzgp": [
       "Asia/Yakutsk"
     ],
-    "latitude": "62.000",
-    "longitude": "129.667",
+    "latitude": 62,
+    "longitude": 129.66666666666666,
     "offset_hr": 9,
     "offset_mi": 540,
     "offset_se": 32400,
@@ -2569,8 +2569,8 @@
       "Asia/Rangoon",
       "Indian/Cocos"
     ],
-    "latitude": "16.783",
-    "longitude": "96.167",
+    "latitude": 16.783333333333335,
+    "longitude": 96.16666666666667,
     "offset_hr": 6.5,
     "offset_mi": 390,
     "offset_se": 23400,
@@ -2580,8 +2580,8 @@
     "tzgp": [
       "Asia/Yekaterinburg"
     ],
-    "latitude": "56.850",
-    "longitude": "60.600",
+    "latitude": 56.85,
+    "longitude": 60.6,
     "offset_hr": 5,
     "offset_mi": 300,
     "offset_se": 18000,
@@ -2591,8 +2591,8 @@
     "tzgp": [
       "Asia/Yerevan"
     ],
-    "latitude": "40.183",
-    "longitude": "44.500",
+    "latitude": 40.18333333333333,
+    "longitude": 44.5,
     "offset_hr": 4,
     "offset_mi": 240,
     "offset_se": 14400,
@@ -2602,8 +2602,8 @@
     "tzgp": [
       "Atlantic/Azores"
     ],
-    "latitude": "37.733",
-    "longitude": "-25.667",
+    "latitude": 37.733333333333334,
+    "longitude": -25.666666666666668,
     "offset_hr": -1,
     "offset_mi": -60,
     "offset_se": -3600,
@@ -2613,8 +2613,8 @@
     "tzgp": [
       "Atlantic/Bermuda"
     ],
-    "latitude": "32.283",
-    "longitude": "-64.767",
+    "latitude": 32.28333333333333,
+    "longitude": -64.76666666666667,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -2624,8 +2624,8 @@
     "tzgp": [
       "Atlantic/Canary"
     ],
-    "latitude": "28.100",
-    "longitude": "-15.400",
+    "latitude": 28.1,
+    "longitude": -15.4,
     "offset_hr": 0,
     "offset_mi": 0,
     "offset_se": 0,
@@ -2635,8 +2635,8 @@
     "tzgp": [
       "Atlantic/Cape_Verde"
     ],
-    "latitude": "14.917",
-    "longitude": "-23.517",
+    "latitude": 14.916666666666666,
+    "longitude": -23.516666666666666,
     "offset_hr": -1,
     "offset_mi": -60,
     "offset_se": -3600,
@@ -2647,8 +2647,8 @@
       "Atlantic/Faroe",
       "Atlantic/Faeroe"
     ],
-    "latitude": "62.017",
-    "longitude": "-6.767",
+    "latitude": 62.016666666666666,
+    "longitude": -6.766666666666667,
     "offset_hr": 0,
     "offset_mi": 0,
     "offset_se": 0,
@@ -2658,8 +2658,8 @@
     "tzgp": [
       "Atlantic/Madeira"
     ],
-    "latitude": "32.633",
-    "longitude": "-16.900",
+    "latitude": 32.63333333333333,
+    "longitude": -16.9,
     "offset_hr": 0,
     "offset_mi": 0,
     "offset_se": 0,
@@ -2669,8 +2669,8 @@
     "tzgp": [
       "Atlantic/South_Georgia"
     ],
-    "latitude": "-54.267",
-    "longitude": "-36.533",
+    "latitude": -54.266666666666666,
+    "longitude": -36.53333333333333,
     "offset_hr": -2,
     "offset_mi": -120,
     "offset_se": -7200,
@@ -2680,8 +2680,8 @@
     "tzgp": [
       "Atlantic/Stanley"
     ],
-    "latitude": "-51.700",
-    "longitude": "-57.850",
+    "latitude": -51.7,
+    "longitude": -57.85,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -2692,8 +2692,8 @@
       "Australia/Adelaide",
       "Australia/South"
     ],
-    "latitude": "-34.917",
-    "longitude": "138.583",
+    "latitude": -34.916666666666664,
+    "longitude": 138.58333333333334,
     "offset_hr": 10.5,
     "offset_mi": 630,
     "offset_se": 37800,
@@ -2704,8 +2704,8 @@
       "Australia/Brisbane",
       "Australia/Queensland"
     ],
-    "latitude": "-27.467",
-    "longitude": "153.033",
+    "latitude": -27.466666666666665,
+    "longitude": 153.03333333333333,
     "offset_hr": 10,
     "offset_mi": 600,
     "offset_se": 36000,
@@ -2716,8 +2716,8 @@
       "Australia/Broken_Hill",
       "Australia/Yancowinna"
     ],
-    "latitude": "-31.950",
-    "longitude": "141.450",
+    "latitude": -31.95,
+    "longitude": 141.45,
     "offset_hr": 10.5,
     "offset_mi": 630,
     "offset_se": 37800,
@@ -2728,8 +2728,8 @@
       "Australia/Darwin",
       "Australia/North"
     ],
-    "latitude": "-12.467",
-    "longitude": "130.833",
+    "latitude": -12.466666666666667,
+    "longitude": 130.83333333333334,
     "offset_hr": 9.5,
     "offset_mi": 570,
     "offset_se": 34200,
@@ -2739,8 +2739,8 @@
     "tzgp": [
       "Australia/Eucla"
     ],
-    "latitude": "-31.717",
-    "longitude": "128.867",
+    "latitude": -31.716666666666665,
+    "longitude": 128.86666666666667,
     "offset_hr": 8.75,
     "offset_mi": 525,
     "offset_se": 31500,
@@ -2752,8 +2752,8 @@
       "Australia/Currie",
       "Australia/Tasmania"
     ],
-    "latitude": "-42.883",
-    "longitude": "147.317",
+    "latitude": -42.88333333333333,
+    "longitude": 147.31666666666666,
     "offset_hr": 11,
     "offset_mi": 660,
     "offset_se": 39600,
@@ -2763,8 +2763,8 @@
     "tzgp": [
       "Australia/Lindeman"
     ],
-    "latitude": "-20.267",
-    "longitude": "149.000",
+    "latitude": -20.266666666666666,
+    "longitude": 149,
     "offset_hr": 10,
     "offset_mi": 600,
     "offset_se": 36000,
@@ -2775,8 +2775,8 @@
       "Australia/Lord_Howe",
       "Australia/LHI"
     ],
-    "latitude": "-31.550",
-    "longitude": "159.083",
+    "latitude": -31.55,
+    "longitude": 159.08333333333334,
     "offset_hr": 11,
     "offset_mi": 660,
     "offset_se": 39600,
@@ -2787,8 +2787,8 @@
       "Australia/Melbourne",
       "Australia/Victoria"
     ],
-    "latitude": "-37.817",
-    "longitude": "144.967",
+    "latitude": -37.81666666666667,
+    "longitude": 144.96666666666667,
     "offset_hr": 11,
     "offset_mi": 660,
     "offset_se": 39600,
@@ -2799,8 +2799,8 @@
       "Australia/Perth",
       "Australia/West"
     ],
-    "latitude": "-31.950",
-    "longitude": "115.850",
+    "latitude": -31.95,
+    "longitude": 115.85,
     "offset_hr": 8,
     "offset_mi": 480,
     "offset_se": 28800,
@@ -2813,8 +2813,8 @@
       "Australia/Canberra",
       "Australia/NSW"
     ],
-    "latitude": "-33.867",
-    "longitude": "151.217",
+    "latitude": -33.86666666666667,
+    "longitude": 151.21666666666667,
     "offset_hr": 11,
     "offset_mi": 660,
     "offset_se": 39600,
@@ -2824,8 +2824,8 @@
     "tzgp": [
       "CET"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": 1,
     "offset_mi": 60,
     "offset_se": 3600,
@@ -2835,8 +2835,8 @@
     "tzgp": [
       "CST6CDT"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": -5,
     "offset_mi": -300,
     "offset_se": -18000,
@@ -2846,8 +2846,8 @@
     "tzgp": [
       "EET"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": 2,
     "offset_mi": 120,
     "offset_se": 7200,
@@ -2857,8 +2857,8 @@
     "tzgp": [
       "EST"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": -5,
     "offset_mi": -300,
     "offset_se": -18000,
@@ -2868,8 +2868,8 @@
     "tzgp": [
       "EST5EDT"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": -4,
     "offset_mi": -240,
     "offset_se": -14400,
@@ -2888,8 +2888,8 @@
       "GMT0",
       "Greenwich"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": 0,
     "offset_mi": 0,
     "offset_se": 0,
@@ -2899,8 +2899,8 @@
     "tzgp": [
       "Etc/GMT-1"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": 1,
     "offset_mi": 60,
     "offset_se": 3600,
@@ -2910,8 +2910,8 @@
     "tzgp": [
       "Etc/GMT-10"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": 10,
     "offset_mi": 600,
     "offset_se": 36000,
@@ -2921,8 +2921,8 @@
     "tzgp": [
       "Etc/GMT-11"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": 11,
     "offset_mi": 660,
     "offset_se": 39600,
@@ -2932,8 +2932,8 @@
     "tzgp": [
       "Etc/GMT-12"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": 12,
     "offset_mi": 720,
     "offset_se": 43200,
@@ -2943,8 +2943,8 @@
     "tzgp": [
       "Etc/GMT-13"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": 13,
     "offset_mi": 780,
     "offset_se": 46800,
@@ -2954,8 +2954,8 @@
     "tzgp": [
       "Etc/GMT-14"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": 14,
     "offset_mi": 840,
     "offset_se": 50400,
@@ -2965,8 +2965,8 @@
     "tzgp": [
       "Etc/GMT-2"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": 2,
     "offset_mi": 120,
     "offset_se": 7200,
@@ -2976,8 +2976,8 @@
     "tzgp": [
       "Etc/GMT-3"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": 3,
     "offset_mi": 180,
     "offset_se": 10800,
@@ -2987,8 +2987,8 @@
     "tzgp": [
       "Etc/GMT-4"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": 4,
     "offset_mi": 240,
     "offset_se": 14400,
@@ -2998,8 +2998,8 @@
     "tzgp": [
       "Etc/GMT-5"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": 5,
     "offset_mi": 300,
     "offset_se": 18000,
@@ -3009,8 +3009,8 @@
     "tzgp": [
       "Etc/GMT-6"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": 6,
     "offset_mi": 360,
     "offset_se": 21600,
@@ -3020,8 +3020,8 @@
     "tzgp": [
       "Etc/GMT-7"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": 7,
     "offset_mi": 420,
     "offset_se": 25200,
@@ -3031,8 +3031,8 @@
     "tzgp": [
       "Etc/GMT-8"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": 8,
     "offset_mi": 480,
     "offset_se": 28800,
@@ -3042,8 +3042,8 @@
     "tzgp": [
       "Etc/GMT-9"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": 9,
     "offset_mi": 540,
     "offset_se": 32400,
@@ -3053,8 +3053,8 @@
     "tzgp": [
       "Etc/GMT+1"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": -1,
     "offset_mi": -60,
     "offset_se": -3600,
@@ -3064,8 +3064,8 @@
     "tzgp": [
       "Etc/GMT+10"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": -10,
     "offset_mi": -600,
     "offset_se": -36000,
@@ -3075,8 +3075,8 @@
     "tzgp": [
       "Etc/GMT+11"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": -11,
     "offset_mi": -660,
     "offset_se": -39600,
@@ -3086,8 +3086,8 @@
     "tzgp": [
       "Etc/GMT+12"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": -12,
     "offset_mi": -720,
     "offset_se": -43200,
@@ -3097,8 +3097,8 @@
     "tzgp": [
       "Etc/GMT+2"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": -2,
     "offset_mi": -120,
     "offset_se": -7200,
@@ -3108,8 +3108,8 @@
     "tzgp": [
       "Etc/GMT+3"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": -3,
     "offset_mi": -180,
     "offset_se": -10800,
@@ -3119,8 +3119,8 @@
     "tzgp": [
       "Etc/GMT+4"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": -4,
     "offset_mi": -240,
     "offset_se": -14400,
@@ -3130,8 +3130,8 @@
     "tzgp": [
       "Etc/GMT+5"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": -5,
     "offset_mi": -300,
     "offset_se": -18000,
@@ -3141,8 +3141,8 @@
     "tzgp": [
       "Etc/GMT+6"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": -6,
     "offset_mi": -360,
     "offset_se": -21600,
@@ -3152,8 +3152,8 @@
     "tzgp": [
       "Etc/GMT+7"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": -7,
     "offset_mi": -420,
     "offset_se": -25200,
@@ -3163,8 +3163,8 @@
     "tzgp": [
       "Etc/GMT+8"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": -8,
     "offset_mi": -480,
     "offset_se": -28800,
@@ -3174,8 +3174,8 @@
     "tzgp": [
       "Etc/GMT+9"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": -9,
     "offset_mi": -540,
     "offset_se": -32400,
@@ -3192,8 +3192,8 @@
       "Universal",
       "Zulu"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": 0,
     "offset_mi": 0,
     "offset_se": 0,
@@ -3203,8 +3203,8 @@
     "tzgp": [
       "Europe/Andorra"
     ],
-    "latitude": "42.500",
-    "longitude": "1.517",
+    "latitude": 42.5,
+    "longitude": 1.5166666666666666,
     "offset_hr": 1,
     "offset_mi": 60,
     "offset_se": 3600,
@@ -3214,8 +3214,8 @@
     "tzgp": [
       "Europe/Astrakhan"
     ],
-    "latitude": "46.350",
-    "longitude": "48.050",
+    "latitude": 46.35,
+    "longitude": 48.05,
     "offset_hr": 4,
     "offset_mi": 240,
     "offset_se": 14400,
@@ -3225,8 +3225,8 @@
     "tzgp": [
       "Europe/Athens"
     ],
-    "latitude": "37.967",
-    "longitude": "23.717",
+    "latitude": 37.96666666666667,
+    "longitude": 23.716666666666665,
     "offset_hr": 2,
     "offset_mi": 120,
     "offset_se": 7200,
@@ -3241,8 +3241,8 @@
       "Europe/Skopje",
       "Europe/Zagreb"
     ],
-    "latitude": "44.833",
-    "longitude": "20.500",
+    "latitude": 44.833333333333336,
+    "longitude": 20.5,
     "offset_hr": 1,
     "offset_mi": 60,
     "offset_se": 3600,
@@ -3257,8 +3257,8 @@
       "Europe/Oslo",
       "Europe/Stockholm"
     ],
-    "latitude": "52.500",
-    "longitude": "13.367",
+    "latitude": 52.5,
+    "longitude": 13.366666666666667,
     "offset_hr": 1,
     "offset_mi": 60,
     "offset_se": 3600,
@@ -3270,8 +3270,8 @@
       "Europe/Amsterdam",
       "Europe/Luxembourg"
     ],
-    "latitude": "50.833",
-    "longitude": "4.333",
+    "latitude": 50.833333333333336,
+    "longitude": 4.333333333333333,
     "offset_hr": 1,
     "offset_mi": 60,
     "offset_se": 3600,
@@ -3281,8 +3281,8 @@
     "tzgp": [
       "Europe/Bucharest"
     ],
-    "latitude": "44.433",
-    "longitude": "26.100",
+    "latitude": 44.43333333333333,
+    "longitude": 26.1,
     "offset_hr": 2,
     "offset_mi": 120,
     "offset_se": 7200,
@@ -3292,8 +3292,8 @@
     "tzgp": [
       "Europe/Budapest"
     ],
-    "latitude": "47.500",
-    "longitude": "19.083",
+    "latitude": 47.5,
+    "longitude": 19.083333333333332,
     "offset_hr": 1,
     "offset_mi": 60,
     "offset_se": 3600,
@@ -3304,8 +3304,8 @@
       "Europe/Chisinau",
       "Europe/Tiraspol"
     ],
-    "latitude": "47.000",
-    "longitude": "28.833",
+    "latitude": 47,
+    "longitude": 28.833333333333332,
     "offset_hr": 2,
     "offset_mi": 120,
     "offset_se": 7200,
@@ -3316,8 +3316,8 @@
       "Europe/Dublin",
       "Eire"
     ],
-    "latitude": "53.333",
-    "longitude": "-6.250",
+    "latitude": 53.333333333333336,
+    "longitude": -6.25,
     "offset_hr": 0,
     "offset_mi": 0,
     "offset_se": 0,
@@ -3327,8 +3327,8 @@
     "tzgp": [
       "Europe/Gibraltar"
     ],
-    "latitude": "36.133",
-    "longitude": "-5.350",
+    "latitude": 36.13333333333333,
+    "longitude": -5.35,
     "offset_hr": 1,
     "offset_mi": 60,
     "offset_se": 3600,
@@ -3339,8 +3339,8 @@
       "Europe/Helsinki",
       "Europe/Mariehamn"
     ],
-    "latitude": "60.167",
-    "longitude": "24.967",
+    "latitude": 60.166666666666664,
+    "longitude": 24.966666666666665,
     "offset_hr": 2,
     "offset_mi": 120,
     "offset_se": 7200,
@@ -3352,8 +3352,8 @@
       "Asia/Istanbul",
       "Turkey"
     ],
-    "latitude": "41.017",
-    "longitude": "28.967",
+    "latitude": 41.016666666666666,
+    "longitude": 28.966666666666665,
     "offset_hr": 3,
     "offset_mi": 180,
     "offset_se": 10800,
@@ -3363,8 +3363,8 @@
     "tzgp": [
       "Europe/Kaliningrad"
     ],
-    "latitude": "54.717",
-    "longitude": "20.500",
+    "latitude": 54.71666666666667,
+    "longitude": 20.5,
     "offset_hr": 2,
     "offset_mi": 120,
     "offset_se": 7200,
@@ -3374,8 +3374,8 @@
     "tzgp": [
       "Europe/Kirov"
     ],
-    "latitude": "58.600",
-    "longitude": "49.650",
+    "latitude": 58.6,
+    "longitude": 49.65,
     "offset_hr": 3,
     "offset_mi": 180,
     "offset_se": 10800,
@@ -3388,8 +3388,8 @@
       "Europe/Uzhgorod",
       "Europe/Zaporozhye"
     ],
-    "latitude": "50.433",
-    "longitude": "30.517",
+    "latitude": 50.43333333333333,
+    "longitude": 30.516666666666666,
     "offset_hr": 2,
     "offset_mi": 120,
     "offset_se": 7200,
@@ -3400,8 +3400,8 @@
       "Europe/Lisbon",
       "Portugal"
     ],
-    "latitude": "38.717",
-    "longitude": "-9.133",
+    "latitude": 38.71666666666667,
+    "longitude": -9.133333333333333,
     "offset_hr": 0,
     "offset_mi": 0,
     "offset_se": 0,
@@ -3417,8 +3417,8 @@
       "GB",
       "GB-Eire"
     ],
-    "latitude": "51.508",
-    "longitude": "-0.125",
+    "latitude": 51.50833333333333,
+    "longitude": -0.12527777777777777,
     "offset_hr": 0,
     "offset_mi": 0,
     "offset_se": 0,
@@ -3428,8 +3428,8 @@
     "tzgp": [
       "Europe/Madrid"
     ],
-    "latitude": "40.400",
-    "longitude": "-3.683",
+    "latitude": 40.4,
+    "longitude": -3.683333333333333,
     "offset_hr": 1,
     "offset_mi": 60,
     "offset_se": 3600,
@@ -3439,8 +3439,8 @@
     "tzgp": [
       "Europe/Malta"
     ],
-    "latitude": "35.900",
-    "longitude": "14.517",
+    "latitude": 35.9,
+    "longitude": 14.516666666666667,
     "offset_hr": 1,
     "offset_mi": 60,
     "offset_se": 3600,
@@ -3450,8 +3450,8 @@
     "tzgp": [
       "Europe/Minsk"
     ],
-    "latitude": "53.900",
-    "longitude": "27.567",
+    "latitude": 53.9,
+    "longitude": 27.566666666666666,
     "offset_hr": 3,
     "offset_mi": 180,
     "offset_se": 10800,
@@ -3462,8 +3462,8 @@
       "Europe/Moscow",
       "W-SU"
     ],
-    "latitude": "55.756",
-    "longitude": "37.618",
+    "latitude": 55.755833333333335,
+    "longitude": 37.617777777777775,
     "offset_hr": 3,
     "offset_mi": 180,
     "offset_se": 10800,
@@ -3474,8 +3474,8 @@
       "Europe/Paris",
       "Europe/Monaco"
     ],
-    "latitude": "48.867",
-    "longitude": "2.333",
+    "latitude": 48.86666666666667,
+    "longitude": 2.3333333333333335,
     "offset_hr": 1,
     "offset_mi": 60,
     "offset_se": 3600,
@@ -3486,8 +3486,8 @@
       "Europe/Prague",
       "Europe/Bratislava"
     ],
-    "latitude": "50.083",
-    "longitude": "14.433",
+    "latitude": 50.083333333333336,
+    "longitude": 14.433333333333334,
     "offset_hr": 1,
     "offset_mi": 60,
     "offset_se": 3600,
@@ -3497,8 +3497,8 @@
     "tzgp": [
       "Europe/Riga"
     ],
-    "latitude": "56.950",
-    "longitude": "24.100",
+    "latitude": 56.95,
+    "longitude": 24.1,
     "offset_hr": 2,
     "offset_mi": 120,
     "offset_se": 7200,
@@ -3510,8 +3510,8 @@
       "Europe/San_Marino",
       "Europe/Vatican"
     ],
-    "latitude": "41.900",
-    "longitude": "12.483",
+    "latitude": 41.9,
+    "longitude": 12.483333333333333,
     "offset_hr": 1,
     "offset_mi": 60,
     "offset_se": 3600,
@@ -3521,8 +3521,8 @@
     "tzgp": [
       "Europe/Samara"
     ],
-    "latitude": "53.200",
-    "longitude": "50.150",
+    "latitude": 53.2,
+    "longitude": 50.15,
     "offset_hr": 4,
     "offset_mi": 240,
     "offset_se": 14400,
@@ -3532,8 +3532,8 @@
     "tzgp": [
       "Europe/Saratov"
     ],
-    "latitude": "51.567",
-    "longitude": "46.033",
+    "latitude": 51.56666666666667,
+    "longitude": 46.03333333333333,
     "offset_hr": 4,
     "offset_mi": 240,
     "offset_se": 14400,
@@ -3543,8 +3543,8 @@
     "tzgp": [
       "Europe/Simferopol"
     ],
-    "latitude": "44.950",
-    "longitude": "34.100",
+    "latitude": 44.95,
+    "longitude": 34.1,
     "offset_hr": 3,
     "offset_mi": 180,
     "offset_se": 10800,
@@ -3554,8 +3554,8 @@
     "tzgp": [
       "Europe/Sofia"
     ],
-    "latitude": "42.683",
-    "longitude": "23.317",
+    "latitude": 42.68333333333333,
+    "longitude": 23.316666666666666,
     "offset_hr": 2,
     "offset_mi": 120,
     "offset_se": 7200,
@@ -3565,8 +3565,8 @@
     "tzgp": [
       "Europe/Tallinn"
     ],
-    "latitude": "59.417",
-    "longitude": "24.750",
+    "latitude": 59.416666666666664,
+    "longitude": 24.75,
     "offset_hr": 2,
     "offset_mi": 120,
     "offset_se": 7200,
@@ -3576,8 +3576,8 @@
     "tzgp": [
       "Europe/Tirane"
     ],
-    "latitude": "41.333",
-    "longitude": "19.833",
+    "latitude": 41.333333333333336,
+    "longitude": 19.833333333333332,
     "offset_hr": 1,
     "offset_mi": 60,
     "offset_se": 3600,
@@ -3587,8 +3587,8 @@
     "tzgp": [
       "Europe/Ulyanovsk"
     ],
-    "latitude": "54.333",
-    "longitude": "48.400",
+    "latitude": 54.333333333333336,
+    "longitude": 48.4,
     "offset_hr": 4,
     "offset_mi": 240,
     "offset_se": 14400,
@@ -3598,8 +3598,8 @@
     "tzgp": [
       "Europe/Vienna"
     ],
-    "latitude": "48.217",
-    "longitude": "16.333",
+    "latitude": 48.21666666666667,
+    "longitude": 16.333333333333332,
     "offset_hr": 1,
     "offset_mi": 60,
     "offset_se": 3600,
@@ -3609,8 +3609,8 @@
     "tzgp": [
       "Europe/Vilnius"
     ],
-    "latitude": "54.683",
-    "longitude": "25.317",
+    "latitude": 54.68333333333333,
+    "longitude": 25.316666666666666,
     "offset_hr": 2,
     "offset_mi": 120,
     "offset_se": 7200,
@@ -3620,8 +3620,8 @@
     "tzgp": [
       "Europe/Volgograd"
     ],
-    "latitude": "48.733",
-    "longitude": "44.417",
+    "latitude": 48.733333333333334,
+    "longitude": 44.416666666666664,
     "offset_hr": 3,
     "offset_mi": 180,
     "offset_se": 10800,
@@ -3632,8 +3632,8 @@
       "Europe/Warsaw",
       "Poland"
     ],
-    "latitude": "52.250",
-    "longitude": "21.000",
+    "latitude": 52.25,
+    "longitude": 21,
     "offset_hr": 1,
     "offset_mi": 60,
     "offset_se": 3600,
@@ -3645,8 +3645,8 @@
       "Europe/Busingen",
       "Europe/Vaduz"
     ],
-    "latitude": "47.383",
-    "longitude": "8.533",
+    "latitude": 47.38333333333333,
+    "longitude": 8.533333333333333,
     "offset_hr": 1,
     "offset_mi": 60,
     "offset_se": 3600,
@@ -3656,8 +3656,8 @@
     "tzgp": [
       "HST"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": -10,
     "offset_mi": -600,
     "offset_se": -36000,
@@ -3667,8 +3667,8 @@
     "tzgp": [
       "Indian/Chagos"
     ],
-    "latitude": "-7.333",
-    "longitude": "72.417",
+    "latitude": -7.333333333333333,
+    "longitude": 72.41666666666667,
     "offset_hr": 6,
     "offset_mi": 360,
     "offset_se": 21600,
@@ -3679,8 +3679,8 @@
       "Indian/Maldives",
       "Indian/Kerguelen"
     ],
-    "latitude": "4.167",
-    "longitude": "73.500",
+    "latitude": 4.166666666666667,
+    "longitude": 73.5,
     "offset_hr": 5,
     "offset_mi": 300,
     "offset_se": 18000,
@@ -3690,8 +3690,8 @@
     "tzgp": [
       "Indian/Mauritius"
     ],
-    "latitude": "-20.167",
-    "longitude": "57.500",
+    "latitude": -20.166666666666668,
+    "longitude": 57.5,
     "offset_hr": 4,
     "offset_mi": 240,
     "offset_se": 14400,
@@ -3701,8 +3701,8 @@
     "tzgp": [
       "MET"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": 1,
     "offset_mi": 60,
     "offset_se": 3600,
@@ -3712,8 +3712,8 @@
     "tzgp": [
       "MST"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": -7,
     "offset_mi": -420,
     "offset_se": -25200,
@@ -3723,8 +3723,8 @@
     "tzgp": [
       "MST7MDT"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": -6,
     "offset_mi": -360,
     "offset_se": -21600,
@@ -3734,8 +3734,8 @@
     "tzgp": [
       "Pacific/Apia"
     ],
-    "latitude": "-13.833",
-    "longitude": "-171.733",
+    "latitude": -13.833333333333334,
+    "longitude": -171.73333333333332,
     "offset_hr": 13,
     "offset_mi": 780,
     "offset_se": 46800,
@@ -3748,8 +3748,8 @@
       "Antarctica/South_Pole",
       "NZ"
     ],
-    "latitude": "-36.867",
-    "longitude": "174.767",
+    "latitude": -36.86666666666667,
+    "longitude": 174.76666666666668,
     "offset_hr": 13,
     "offset_mi": 780,
     "offset_se": 46800,
@@ -3759,8 +3759,8 @@
     "tzgp": [
       "Pacific/Bougainville"
     ],
-    "latitude": "-6.217",
-    "longitude": "155.567",
+    "latitude": -6.216666666666667,
+    "longitude": 155.56666666666666,
     "offset_hr": 11,
     "offset_mi": 660,
     "offset_se": 39600,
@@ -3771,8 +3771,8 @@
       "Pacific/Chatham",
       "NZ-CHAT"
     ],
-    "latitude": "-43.950",
-    "longitude": "-176.550",
+    "latitude": -43.95,
+    "longitude": -176.55,
     "offset_hr": 13.75,
     "offset_mi": 825,
     "offset_se": 49500,
@@ -3783,8 +3783,8 @@
       "Pacific/Easter",
       "Chile/EasterIsland"
     ],
-    "latitude": "-27.150",
-    "longitude": "-109.433",
+    "latitude": -27.15,
+    "longitude": -109.43333333333334,
     "offset_hr": -5,
     "offset_mi": -300,
     "offset_se": -18000,
@@ -3794,8 +3794,8 @@
     "tzgp": [
       "Pacific/Efate"
     ],
-    "latitude": "-17.667",
-    "longitude": "168.417",
+    "latitude": -17.666666666666668,
+    "longitude": 168.41666666666666,
     "offset_hr": 11,
     "offset_mi": 660,
     "offset_se": 39600,
@@ -3805,8 +3805,8 @@
     "tzgp": [
       "Pacific/Fakaofo"
     ],
-    "latitude": "-9.367",
-    "longitude": "-171.233",
+    "latitude": -9.366666666666667,
+    "longitude": -171.23333333333332,
     "offset_hr": 13,
     "offset_mi": 780,
     "offset_se": 46800,
@@ -3816,8 +3816,8 @@
     "tzgp": [
       "Pacific/Fiji"
     ],
-    "latitude": "-18.133",
-    "longitude": "178.417",
+    "latitude": -18.133333333333333,
+    "longitude": 178.41666666666666,
     "offset_hr": 12,
     "offset_mi": 720,
     "offset_se": 43200,
@@ -3827,8 +3827,8 @@
     "tzgp": [
       "Pacific/Galapagos"
     ],
-    "latitude": "-0.900",
-    "longitude": "-89.600",
+    "latitude": -0.9,
+    "longitude": -89.6,
     "offset_hr": -6,
     "offset_mi": -360,
     "offset_se": -21600,
@@ -3838,8 +3838,8 @@
     "tzgp": [
       "Pacific/Gambier"
     ],
-    "latitude": "-23.133",
-    "longitude": "-134.950",
+    "latitude": -23.133333333333333,
+    "longitude": -134.95,
     "offset_hr": -9,
     "offset_mi": -540,
     "offset_se": -32400,
@@ -3851,8 +3851,8 @@
       "Pacific/Pohnpei",
       "Pacific/Ponape"
     ],
-    "latitude": "-9.533",
-    "longitude": "160.200",
+    "latitude": -9.533333333333333,
+    "longitude": 160.2,
     "offset_hr": 11,
     "offset_mi": 660,
     "offset_se": 39600,
@@ -3863,8 +3863,8 @@
       "Pacific/Guam",
       "Pacific/Saipan"
     ],
-    "latitude": "13.467",
-    "longitude": "144.750",
+    "latitude": 13.466666666666667,
+    "longitude": 144.75,
     "offset_hr": 10,
     "offset_mi": 600,
     "offset_se": 36000,
@@ -3876,8 +3876,8 @@
       "Pacific/Johnston",
       "US/Hawaii"
     ],
-    "latitude": "21.307",
-    "longitude": "-157.858",
+    "latitude": 21.306944444444444,
+    "longitude": -157.85833333333332,
     "offset_hr": -10,
     "offset_mi": -600,
     "offset_se": -36000,
@@ -3888,8 +3888,8 @@
       "Pacific/Kanton",
       "Pacific/Enderbury"
     ],
-    "latitude": "-2.783",
-    "longitude": "-171.717",
+    "latitude": -2.783333333333333,
+    "longitude": -171.71666666666667,
     "offset_hr": 13,
     "offset_mi": 780,
     "offset_se": 46800,
@@ -3899,8 +3899,8 @@
     "tzgp": [
       "Pacific/Kiritimati"
     ],
-    "latitude": "1.867",
-    "longitude": "-157.333",
+    "latitude": 1.8666666666666667,
+    "longitude": -157.33333333333334,
     "offset_hr": 14,
     "offset_mi": 840,
     "offset_se": 50400,
@@ -3910,8 +3910,8 @@
     "tzgp": [
       "Pacific/Kosrae"
     ],
-    "latitude": "5.317",
-    "longitude": "162.983",
+    "latitude": 5.316666666666666,
+    "longitude": 162.98333333333332,
     "offset_hr": 11,
     "offset_mi": 660,
     "offset_se": 39600,
@@ -3922,8 +3922,8 @@
       "Pacific/Kwajalein",
       "Kwajalein"
     ],
-    "latitude": "9.083",
-    "longitude": "167.333",
+    "latitude": 9.083333333333334,
+    "longitude": 167.33333333333334,
     "offset_hr": 12,
     "offset_mi": 720,
     "offset_se": 43200,
@@ -3933,8 +3933,8 @@
     "tzgp": [
       "Pacific/Marquesas"
     ],
-    "latitude": "-9.000",
-    "longitude": "-139.500",
+    "latitude": -9,
+    "longitude": -139.5,
     "offset_hr": -8.5,
     "offset_mi": -510,
     "offset_se": -30600,
@@ -3944,8 +3944,8 @@
     "tzgp": [
       "Pacific/Nauru"
     ],
-    "latitude": "-0.517",
-    "longitude": "166.917",
+    "latitude": -0.5166666666666667,
+    "longitude": 166.91666666666666,
     "offset_hr": 12,
     "offset_mi": 720,
     "offset_se": 43200,
@@ -3955,8 +3955,8 @@
     "tzgp": [
       "Pacific/Niue"
     ],
-    "latitude": "-19.017",
-    "longitude": "-169.917",
+    "latitude": -19.016666666666666,
+    "longitude": -169.91666666666666,
     "offset_hr": -11,
     "offset_mi": -660,
     "offset_se": -39600,
@@ -3966,8 +3966,8 @@
     "tzgp": [
       "Pacific/Norfolk"
     ],
-    "latitude": "-29.050",
-    "longitude": "167.967",
+    "latitude": -29.05,
+    "longitude": 167.96666666666667,
     "offset_hr": 12,
     "offset_mi": 720,
     "offset_se": 43200,
@@ -3977,8 +3977,8 @@
     "tzgp": [
       "Pacific/Noumea"
     ],
-    "latitude": "-22.267",
-    "longitude": "166.450",
+    "latitude": -22.266666666666666,
+    "longitude": 166.45,
     "offset_hr": 11,
     "offset_mi": 660,
     "offset_se": 39600,
@@ -3991,8 +3991,8 @@
       "Pacific/Samoa",
       "US/Samoa"
     ],
-    "latitude": "-14.267",
-    "longitude": "-170.700",
+    "latitude": -14.266666666666667,
+    "longitude": -170.7,
     "offset_hr": -11,
     "offset_mi": -660,
     "offset_se": -39600,
@@ -4002,8 +4002,8 @@
     "tzgp": [
       "Pacific/Palau"
     ],
-    "latitude": "7.333",
-    "longitude": "134.483",
+    "latitude": 7.333333333333333,
+    "longitude": 134.48333333333332,
     "offset_hr": 9,
     "offset_mi": 540,
     "offset_se": 32400,
@@ -4013,8 +4013,8 @@
     "tzgp": [
       "Pacific/Pitcairn"
     ],
-    "latitude": "-25.067",
-    "longitude": "-130.083",
+    "latitude": -25.066666666666666,
+    "longitude": -130.08333333333334,
     "offset_hr": -8,
     "offset_mi": -480,
     "offset_se": -28800,
@@ -4028,8 +4028,8 @@
       "Pacific/Truk",
       "Pacific/Yap"
     ],
-    "latitude": "-9.500",
-    "longitude": "147.167",
+    "latitude": -9.5,
+    "longitude": 147.16666666666666,
     "offset_hr": 10,
     "offset_mi": 600,
     "offset_se": 36000,
@@ -4039,8 +4039,8 @@
     "tzgp": [
       "Pacific/Rarotonga"
     ],
-    "latitude": "-21.233",
-    "longitude": "-159.767",
+    "latitude": -21.233333333333334,
+    "longitude": -159.76666666666668,
     "offset_hr": -10,
     "offset_mi": -600,
     "offset_se": -36000,
@@ -4050,8 +4050,8 @@
     "tzgp": [
       "Pacific/Tahiti"
     ],
-    "latitude": "-17.533",
-    "longitude": "-149.567",
+    "latitude": -17.533333333333335,
+    "longitude": -149.56666666666666,
     "offset_hr": -10,
     "offset_mi": -600,
     "offset_se": -36000,
@@ -4065,8 +4065,8 @@
       "Pacific/Wake",
       "Pacific/Wallis"
     ],
-    "latitude": "1.417",
-    "longitude": "173.000",
+    "latitude": 1.4166666666666667,
+    "longitude": 173,
     "offset_hr": 12,
     "offset_mi": 720,
     "offset_se": 43200,
@@ -4076,8 +4076,8 @@
     "tzgp": [
       "Pacific/Tongatapu"
     ],
-    "latitude": "-21.133",
-    "longitude": "-175.200",
+    "latitude": -21.133333333333333,
+    "longitude": -175.2,
     "offset_hr": 13,
     "offset_mi": 780,
     "offset_se": 46800,
@@ -4087,8 +4087,8 @@
     "tzgp": [
       "PST8PDT"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": -7,
     "offset_mi": -420,
     "offset_se": -25200,
@@ -4098,8 +4098,8 @@
     "tzgp": [
       "WET"
     ],
-    "latitude": "0.000",
-    "longitude": "0.000",
+    "latitude": 0,
+    "longitude": 0,
     "offset_hr": 0,
     "offset_mi": 0,
     "offset_se": 0,

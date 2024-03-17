@@ -6,9 +6,10 @@ body {
   color: rgb(58, 49, 49);
   font-weight: bold;
   line-height: 27px;
+  font-size: large;
 }
-h2 {
-  text-align: center;
+h2, h3 {
+  margin-left: 45px;
   font-weight: bold;
 }
 code {
@@ -22,7 +23,8 @@ hr {
   color: darkolivegreen;
 }
 
-a{
+a {
   font-size: large;
   text-decoration: none;
 }
+

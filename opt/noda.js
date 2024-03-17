@@ -9,6 +9,7 @@ async function noda() {
     .then(async (data) => {
       data.zones.forEach((i) => {
         var a = [i.id, ...i.aliases];
+        t.push(a);
         var a = i.currentOffset.split(" ")[0];
         var c = parseInt(a.split(":")[0]) * 60;
         var d = a.split(":")[1];
@@ -36,8 +37,8 @@ async function noda() {
         var y = x.flatMap((i) => i);
         var htt = {
           tzgp: x,
-          latitude: lt.toFixed(3),
-          longitude: lg.toFixed(3),
+          latitude: lt,
+          longitude: lg,
           offset_hr: hr,
           offset_mi: mi,
           offset_se: se,
@@ -45,7 +46,6 @@ async function noda() {
         };
 
         abb.push(htt);
-        t.push(a);
       });
 
       await writeJson(path.join(process.cwd(), "data/noda.json"), data);

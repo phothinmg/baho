@@ -5,7 +5,6 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node ./dist/api/index.js",
     "build": "node ./opt/index.js"
   },
   "keywords": [],

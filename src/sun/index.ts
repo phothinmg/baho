@@ -15,24 +15,6 @@
  * @returns { (number | null)[]} - The local time of sunrise and sunset in 24-hour format.Returns an array of length 2 with the sunrise and sunset times as floats on 24-hour time.
  *  e.g. 6.5 is 6:30am, 23.2 is 11:12pm, 0.3 is 12:18am .Returns an array with [null, -1] if the sun never rises, and [-1, null] if the sun never sets.
  *
- * * ### LICENSING ###
- *
- * This code contains information derived from Wikipedia content licensed under
- *   the Creative Commons Attribution-ShareAlike License. As such, this code
- *   is distributed under the GPLv3 license:
- *
- * This program is free software: you can redistribute it and/or modify
- *   it under the terms of the GNU General Public License as published by
- *   the Free Software Foundation, either version 3 of the License, or
- *   (at your option) any later version.
- *
- *   This program is distributed in the hope that it will be useful,
- *   but WITHOUT ANY WARRANTY; without even the implied warranty of
- *   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *   GNU General Public License for more details.
- *
- *   You should have received a copy of the GNU General Public License
- *   along with this program.  If not, see <https://www.gnu.org/licenses/>.
  *
  */
 
