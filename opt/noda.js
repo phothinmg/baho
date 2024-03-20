@@ -34,7 +34,6 @@ async function noda() {
           lg = i.location.longitude;
         }
         var x = [i.id, ...i.aliases];
-        var y = x.flatMap((i) => i);
         var htt = {
           tzgp: x,
           latitude: lt,

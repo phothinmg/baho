@@ -87,36 +87,36 @@ export function suntimes(
 
 // ==================================================================================
 
-import { riseOrSet } from "../util/riseorset.ts";
+// import { riseOrSet } from "../util/riseorset.ts";
 
-/**
- * Calculates the time of sunrise for a given latitude, longitude, and date.
- * @param latitude The latitude of the location.
- * @param longitude The longitude of the location.
- * @param date The date for which to calculate the sunrise time. If not provided, the current date is used.
- * @returns The time of sunrise for the given latitude, longitude, and date as a Date object.
- */
-export function sunrise(
-  latitude: number,
-  longitude: number,
-  date = new Date()
-): Date {
-  const zenithAngle = 90.8333;
-  return riseOrSet(latitude, longitude, true, zenithAngle, date);
-}
+// /**
+//  * Calculates the time of sunrise for a given latitude, longitude, and date.
+//  * @param latitude The latitude of the location.
+//  * @param longitude The longitude of the location.
+//  * @param date The date for which to calculate the sunrise time. If not provided, the current date is used.
+//  * @returns The time of sunrise for the given latitude, longitude, and date as a Date object.
+//  */
+// export function sunrise(
+//   latitude: number,
+//   longitude: number,
+//   date = new Date()
+// ): Date {
+//   const zenithAngle = 90.8333;
+//   return riseOrSet(latitude, longitude, true, zenithAngle, date);
+// }
 
-/**
- * Calculates the time of sunset for a given latitude, longitude, and date.
- * @param latitude The latitude of the location.
- * @param longitude The longitude of the location.
- * @param date The date for which to calculate the sunset time. If not provided, the current date is used.
- * @returns The time of sunset for the given latitude, longitude, and date as a Date object.
- */
-export function sunset(
-  latitude: number,
-  longitude: number,
-  date = new Date()
-): Date {
-  const zenithAngle = 90.8333;
-  return riseOrSet(latitude, longitude, false, zenithAngle, date);
-}
+// /**
+//  * Calculates the time of sunset for a given latitude, longitude, and date.
+//  * @param latitude The latitude of the location.
+//  * @param longitude The longitude of the location.
+//  * @param date The date for which to calculate the sunset time. If not provided, the current date is used.
+//  * @returns The time of sunset for the given latitude, longitude, and date as a Date object.
+//  */
+// export function sunset(
+//   latitude: number,
+//   longitude: number,
+//   date = new Date()
+// ): Date {
+//   const zenithAngle = 90.8333;
+//   return riseOrSet(latitude, longitude, false, zenithAngle, date);
+// }

@@ -86,6 +86,7 @@ jspm_packages/
 
 a.js
 b.js
+c.js
 .npmignore
 dist
 notes.txt

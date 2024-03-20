@@ -15,6 +15,7 @@
     "ofms",
     "ofse",
     "riseorset",
+    "Stemp",
     "suntimes",
     "tdif",
     "Tofind",
@@ -22,7 +23,9 @@
     "tsup",
     "tzgp",
     "tzname",
+    "tzoffset",
     "tzrouter",
+    "utctime",
     "wdlist"
   ],
   "cSpell.ignorePaths": [

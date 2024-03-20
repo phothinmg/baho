@@ -1,2 +1,1 @@
-
-export * from "./sun/index.ts";
+export * from "./timezones/index.ts";
