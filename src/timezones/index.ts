@@ -1,13 +1,13 @@
-import { getDaytime } from "./daytime.ts";
-import { getAllZonesData, getZoneData } from "./get-tz-data.ts";
+import { daytime } from "./daytime.ts";
+import { allZonesData, zoneData } from "./get-tz-data.ts";
 import getTimeZoneNames from "./get-tz-name.ts";
-import { getZoneCurrentTime, currentTimeInCity } from "./cal-tz-time.ts";
+import { zoneCurrentTime, currentTimeInCity } from "./cal-tz-time.ts";
 
 export {
-  getDaytime,
+  daytime,
   getTimeZoneNames,
-  getAllZonesData,
-  getZoneData,
-  getZoneCurrentTime,
+  allZonesData,
+  zoneData,
+  zoneCurrentTime,
   currentTimeInCity,
 };

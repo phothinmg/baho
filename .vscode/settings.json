@@ -41,5 +41,6 @@
     "tsconfig.json",
     "docs/text",
     "opt/**/*",
-  ]
+  ],
+  "asciidoc.antora.enableAntoraSupport": false
 }

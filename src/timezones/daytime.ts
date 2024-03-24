@@ -11,7 +11,7 @@ import { convertDecimalTime, timeDiff } from "../util/destime.ts";
  *          - sunset: The formatted sunset time in HH:MM:SS AM/PM format. If sunset time is not available, it will be "N/A".
  *          - daytime: The formatted duration between sunrise and sunset in HH:MM:SS format. If sunrise or sunset time is not available, it will be "N/A".
  */
-export function getDaytime(timezone: string): {
+export function daytime(timezone: string): {
   sunrise: string;
   sunset: string;
   daytime: string;

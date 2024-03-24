@@ -6,7 +6,7 @@ import { utc, utcTimeStemp } from "../util/uct.ts";
  * @param timezone - The timezone for which the current local time needs to be retrieved.
  * @returns The current local time as a Date object.
  */
-export const getZoneCurrentTime = (timezone: string): Date => {
+export const zoneCurrentTime = (timezone: string): Date => {
   // Get the current UTC timestamp
   const utcTimestamp = utcTimeStemp();
 

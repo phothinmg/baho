@@ -1,0 +1,158 @@
+ const head = document.querySelector("head");
+  const style = document.createElement("style");
+  style.innerHTML = `
+  @import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap");
+
+#baho-calendar {
+  margin: auto;
+  border-radius: 7px;
+  width: fit-content;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: rgb(17, 13, 13);
+  color: azure;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
+    rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+#baho-form {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  padding: 7px;
+  width: fit-content;
+  gap: 10px;
+}
+#baho-form > select {
+  max-width: fit-content;
+  text-align: center;
+  padding: 7px;
+  border: none;
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.baho-input,
+.baho-select {
+  max-width: 90px;
+  border: none;
+  text-align: center;
+  padding: 5px;
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: bold;
+  background-color: rgb(17, 13, 13);
+  color: azure;
+}
+
+small.date {
+  background-color: rgb(17, 13, 13);
+  color: azure;
+  margin-top: 10px;
+  font-weight: bold;
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  margin-right: 7px;
+}
+
+small.clock {
+  background-color: rgb(17, 13, 13);
+  color: limegreen;
+  margin-top: 10px;
+  font-weight: bold;
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.dt {
+  background-color: rgb(17, 13, 13);
+  color: azure;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 7px;
+  width: fit-content;
+  gap: 10px;
+  font-weight: bold;
+  font-family: monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.baho-cal {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  padding: 7px;
+  width: auto;
+  gap: 10px;
+  font-weight: bold;
+}
+.baho-day {
+  text-align: center;
+  padding: 10px;
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  border: 1px solid goldenrod;
+}
+.baho-sunday {
+  color: rgb(231, 65, 65);
+  text-align: center;
+  padding: 10px;
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  border: 1px solid goldenrod;
+}
+.baho-active {
+  color: limegreen;
+  text-align: center;
+  padding: 10px;
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  border: 1px solid goldenrod;
+}
+`;
+  head.appendChild(style);
+⚫ 🌕
+
+
+<details class="mm-mf">
+      <summary>
+        <span class="summary-title">အခြားအချက်များ</span>
+        <div class="summary-chevron-up">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" 
+          viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" 
+          stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down">
+          <polyline points="6 9 12 15 18 9"></polyline>
+        </svg>
+        </div>
+      </summary>
+      <div class="summary-content">
+         <ol>
+            <li>${ssy}</li>
+            <li>နဂါးခေါင်းလှည့် :  ${ngl}</li>
+            <li>ဥပုသ် : ${sabbh}</li>
+          </ol>
+      </div>
+      <div class="summary-chevron-down">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" 
+        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" 
+        class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg>
+</details>
+
+ ${ed}
+      
+      <div class="mm-mf">
+        <span>${mmm}</span>
+        <span>${mmp}</span>
+        <span>${mmd}</span>
+      </div>
+      <div class="mm-mf">
+        <span class="yyr">${yyrz}</span>
+        <span class="yyr">${ptd}</span>
+      </div>
+      <div class="mm-mf">
+        ${hld1.map((i) => `<span class="hld">${x.T(i, lang)}</span>`)}
+      </div>

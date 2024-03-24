@@ -1,0 +1,156 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&family=Sigmar+One&family=Train+One&display=swap");
+@import url("https://cdn.jsdelivr.net/gh/phothinmg/burmese-fonts@main/dist/028/index.css");
+body {
+  margin: 0;
+  background-color: beige;
+}
+
+#baho-calendar {
+  margin: 0;
+  width: auto;
+  color: rgb(9, 22, 2);
+}
+
+#baho-form {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  padding: 7px;
+  margin: auto;
+  width: auto;
+  gap: 20px;
+}
+#baho-form > select {
+  max-width: fit-content;
+  text-align: center;
+  padding: 7px;
+  border: none;
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.baho-input,
+.baho-select {
+  max-width: 90px;
+  border: none;
+  text-align: center;
+  padding: 5px;
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: bold;
+  background-color: beige;
+}
+.baho-input {
+  border-bottom: 0.5px solid;
+}
+small.date {
+  margin-top: 10px;
+  font-weight: bold;
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.baho-cal {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+}
+
+.baho-wkd {
+  font-family: "Orbitron", sans-serif;
+  font-style: normal;
+  gap: 7px;
+  border-top: 0.5px solid grey;
+  border-bottom: 0.5px solid grey;
+  padding: 10px;
+  text-align: center;
+}
+.baho-wkd-sd {
+  color: red;
+}
+
+.baho-day {
+  gap: 7px;
+  padding: 20px;
+}
+.engdate {
+  font-family: "Orbitron", sans-serif;
+  font-weight: bolder;
+  font-size: large;
+  margin-bottom: 5px;
+}
+
+.sund {
+  color: red;
+}
+.active {
+  color: green;
+}
+.sbh {
+  color: rgb(173, 90, 7);
+}
+.yyr {
+  color: rgb(9, 177, 9);
+}
+.hld {
+  color: rgb(223, 75, 75);
+}
+.mm-mf {
+  font-family: burmese-028 !important;
+  font-size: small;
+  color: rgb(87, 71, 30);
+}
+/* ------------------------ */
+details {
+  font-size: 1rem;
+  /* margin: 7em auto; */
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
+    0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  width: 100%;
+  background: #ffffff;
+  border-radius: 8px;
+  position: relative;
+  width: auto;
+  min-height: 160px;
+}
+details .summary-title {
+  user-select: none;
+}
+details:hover {
+  cursor: pointer;
+}
+details .summary-content {
+  border-top: 1px solid #e2e8f0;
+  cursor: default;
+  padding: 1em;
+  font-weight: 300;
+  line-height: 1.5;
+}
+details summary {
+  list-style: none;
+  padding: 1em;
+}
+details summary:focus {
+  outline: none;
+}
+details summary:hover .summary-chevron-up svg {
+  opacity: 1;
+}
+details .summary-chevron-up svg {
+  opacity: 0.5;
+}
+details .summary-chevron-up,
+details .summary-chevron-down {
+  pointer-events: none;
+  position: absolute;
+  top: 0.75em;
+  right: 1em;
+  background: #ffffff;
+}
+details .summary-chevron-up svg,
+details .summary-chevron-down svg {
+  display: block;
+}
+details summary::-webkit-details-marker {
+  display: none;
+}

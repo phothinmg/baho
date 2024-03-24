@@ -1,5 +1,5 @@
 import nodadata from "../../data/noda.json";
-export function getZoneData(timezone: string) {
+export function zoneData(timezone: string) {
   const zones = nodadata.zones;
   let obj;
   zones.forEach((item) => {
@@ -16,6 +16,6 @@ export function getZoneData(timezone: string) {
  *
  * @returns An array of zone objects containing information about different time zones.
  */
-export function getAllZonesData() {
+export function allZonesData() {
   return nodadata.zones;
 }

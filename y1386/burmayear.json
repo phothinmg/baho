@@ -1,0 +1,93 @@
+{
+  "tagu": {
+    "id": 1,
+    "burmese_name": "တန်ခူး",
+    "regular_year": 29,
+    "small_leap": 29,
+    "big_leap": 29
+  },
+  "kason": {
+    "id": 2,
+    "burmese_name": "ကဆုန်",
+    "regular_year": 30,
+    "small_leap": 30,
+    "big_leap": 30
+  },
+  "nayon": {
+    "id": 3,
+    "burmese_name": "နယုန်",
+    "regular_year": 29,
+    "small_leap": 29,
+    "big_leap": 29
+  },
+  "waso": {
+    "id": 4,
+    "burmese_name": "ဝါဆို",
+    "regular_year": 30,
+    "small_leap": 30,
+    "big_leap": 30
+  },
+  "2nd_waso": {
+    "id": "",
+    "burmese_name": "ဒုတိယဝါဆို",
+    "regular_year": 0,
+    "small_leap": 30,
+    "big_leap": 30
+  },
+  "wagaung": {
+    "id": 5,
+    "burmese_name": "ဝါခေါင်",
+    "regular_year": 29,
+    "small_leap": 29,
+    "big_leap": 29
+  },
+  "tawthalin": {
+    "id": 6,
+    "burmese_name": "တော်သလင်း",
+    "regular_year": 30,
+    "small_leap": 30,
+    "big_leap": 30
+  },
+  "thadingyut": {
+    "id": 7,
+    "burmese_name": "သီတင်းကျွတ်",
+    "regular_year": 29,
+    "small_leap": 29,
+    "big_leap": 29
+  },
+  "tazaungmon": {
+    "id": 8,
+    "burmese_name": "တန်ဆောင်မုန်း",
+    "regular_year": 30,
+    "small_leap": 30,
+    "big_leap": 30
+  },
+  "nadaw": {
+    "id": 9,
+    "burmese_name": "နတ်တော်",
+    "regular_year": 29,
+    "small_leap": 29,
+    "big_leap": 29
+  },
+  "pyatho": {
+    "id": 10,
+    "burmese_name": "ပြာသို",
+    "regular_year": 30,
+    "small_leap": 30,
+    "big_leap": 30
+  },
+  "tabodwe": {
+    "id": 11,
+    "burmese_name": "တပို့တွဲ",
+    "regular_year": 29,
+    "small_leap": 29,
+    "big_leap": 29
+  },
+  "tabaung": {
+    "id": 10,
+    "burmese_name": "တပေါင်း",
+    "regular_year": 30,
+    "small_leap": 30,
+    "big_leap": 30
+  }
+}

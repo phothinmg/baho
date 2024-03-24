@@ -1,0 +1,131 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Train+One&display=swap");
+
+:root,
+::backdrop {
+  --bg: #212121;
+  --text: #dedae2;
+  --accent: #ffb300;
+  --code: #f06292;
+  --active: lime;
+}
+@media (prefers-color-scheme: dark) {
+  :root,
+  ::backdrop {
+    color-scheme: dark;
+    --bg: #212121;
+    --text: #dcdcdc;
+    --accent: #ffb300;
+    --code: #f06292;
+    --active: lime;
+  }
+
+  img,
+  video {
+    opacity: 0.8;
+  }
+}
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+body {
+  color: var(--text);
+  background-color: var(--bg);
+  font-size: 1.15rem;
+  line-height: 1.5;
+  display: grid;
+  grid-template-columns: 1fr min(45rem, 90%) 1fr;
+  margin: 0;
+  font-family: burmese-umoe !important;
+}
+body > * {
+  grid-column: 2;
+}
+
+main {
+  margin-top: 20px;
+}
+
+h1, h2 {
+  font-family: "Train One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+form {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  margin-bottom: 10px;
+}
+
+form > input,
+select {
+  max-width: 160px;
+  text-align: center;
+  font-size: medium;
+  max-height: min-content;
+  padding: 7px;
+  border: none;
+  background-color: var(--bg);
+  border-bottom: 0.5px solid var(--text);
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+}
+input[type="number"]::-webkit-inner-spin-button {
+  opacity: 1;
+}
+form > small {
+  margin-top: 10px;
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+}
+#clock {
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  color: var(--active);
+}
+
+.cal {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  padding: 20px;
+  border-radius: 10px;
+  gap: 20px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.day {
+  border: 1px solid var(--accent);
+  text-align: center;
+  border-radius: 7px;
+  padding: 10px;
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+}
+.sunday {
+  color: var(--code);
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+}
+.active {
+  color: whitesmoke;
+  background-color: green;
+  font-weight: bolder;
+  font-size: larger;
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+}
